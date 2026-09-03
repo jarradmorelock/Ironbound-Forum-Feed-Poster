@@ -1,77 +1,96 @@
 # Ironbound Forum Feed Poster
 
-A small Python automation that fetches a league feed, turns it into a Discord-friendly digest, and creates a post in an existing Discord Forum channel through a webhook.
+An image-first NFL player-news collector for the Ironbound Fantasy Football Discord Forum. It reads public fantasy-football news feeds, maps each story to Forum tags, avoids likely duplicates, and creates one image-backed Forum thread per story so Discord Gallery view has a thumbnail.
 
-This repository is intentionally separate from the transaction-ledger project. The first version is provider-neutral and expects a simple JSON feed, so a Sleeper- or league-specific adapter can be added once the exact source payload is settled.
+This repository is separate from the transaction-ledger project and does not collect league transactions or roster activity.
 
-## What it does
+## Initial news sources
 
-1. Fetches JSON from `LEAGUE_FEED_URL`.
-2. Formats the newest feed items as Discord Markdown.
-3. Creates one Forum post by sending `content` and `thread_name` to the existing webhook.
-4. Skips posting when the feed contains no items.
+The default configuration uses two public player-news RSS feeds:
 
-The GitHub Actions workflow is manual by default and starts in dry-run mode. This prevents accidental or duplicate Forum posts while the feed source and posting schedule are being tested.
+- [Draft Sharks Shark Bites](https://www.draftsharks.com/rss/shark-bites)
+- [RotoWire NFL player news](https://www.rotowire.com/rss/news.php?sport=NFL)
 
-## Repository layout
+Draft Sharks includes player-specific fantasy context and an image in its feed. RotoWire provides a second player-news source, allowing the duplicate detector to suppress two outlets reporting the same underlying event.
 
-```text
-.
-├── .github/workflows/post-forum-feed.yml
-├── forum_feed_poster/
-│   ├── __init__.py
-│   ├── __main__.py
-│   └── main.py
-├── tests/test_main.py
-├── .env.example
-├── .gitignore
-├── README.md
-└── requirements.txt
+Direct X/Twitter collection is not enabled. X API access requires a developer account, credentials, and paid usage credits. It can be added later as an optional source. In practice, the fantasy RSS feeds frequently attribute breaking reports to reporters such as Adam Schefter while adding fantasy context.
+
+## How a run works
+
+1. Fetch every configured RSS/Atom feed.
+2. Normalize and combine recent stories.
+3. Reject stories already seen by canonical URL, normalized title, or fuzzy title/summary similarity.
+4. Classify each story into the Forum's existing tag taxonomy.
+5. Use the feed image or the article's Open Graph image; generate an Ironbound headline card when neither is available.
+6. Upload the image as a real Discord attachment and create one Forum thread per story.
+7. Save successfully posted story fingerprints in the GitHub Actions cache for seven days by default.
+
+Only the newest three eligible stories are posted per run by default. Every post receives either its source image or a generated PNG headline card, preserving the intended Gallery layout.
+
+## Current tag mapping
+
+The built-in classifier targets the tags already present in the Forum:
+
+- `Breaking`
+- `Injury`
+- `Practice Report`
+- `NFL Moves`
+- `Depth Chart`
+- `Waiver Watch`
+- `Fantasy Analysis`
+- `General News`
+
+A story can receive `Breaking` plus one primary category. Discord requires tag IDs—not tag names—when a webhook creates the post.
+
+### Obtain the Forum tag IDs
+
+The existing bot can read the IDs without changing the channel. Enable Discord Developer Mode, copy the Forum channel ID, and run:
+
+```bash
+export DISCORD_BOT_TOKEN='your bot token'
+export DISCORD_FORUM_CHANNEL_ID='your Forum channel ID'
+python -m forum_feed_poster.list_tags
 ```
 
-## Feed format
-
-The feed endpoint may return a JSON list directly or an object containing an `items`, `events`, or `feed` list.
+Do not paste the bot token into GitHub issues, Discord, or this repository. The helper prints JSON shaped like:
 
 ```json
 {
-  "items": [
-    {
-      "title": "Trade completed",
-      "summary": "Team A sent Player X to Team B.",
-      "url": "https://example.com/league/event/123",
-      "timestamp": "2026-09-03T14:30:00Z"
-    }
-  ]
+  "Breaking": "123456789012345678",
+  "Injury": "234567890123456789",
+  "Practice Report": "345678901234567890"
 }
 ```
 
-The formatter also accepts common alternatives such as `name`, `type`, `description`, `message`, `details`, and `link`. Unknown fields are ignored.
+Copy the complete output into the GitHub Actions repository variable `DISCORD_TAG_IDS_JSON`. Emoji are optional in the JSON keys; the matcher ignores them.
+
+The existing tags are sufficient for the first release. If real usage exposes gaps, `Contract` and `Suspension / Discipline` are the most useful candidates for additional Forum tags.
 
 ## Configuration
 
-The application reads configuration from environment variables. Nothing sensitive is committed.
+Add `DISCORD_WEBHOOK_URL` as a GitHub Actions **secret**. Everything else below is non-sensitive and can be stored as an Actions **variable**. Live mode requires the tag-ID mapping so the automation cannot accidentally create untagged posts.
 
-| Variable | Required | Purpose |
+| Variable | Default | Purpose |
 | --- | --- | --- |
-| `DISCORD_WEBHOOK_URL` | Live posts only | Existing Discord Forum webhook URL |
-| `LEAGUE_ID` | Yes | League identifier used in the post and feed URL |
-| `LEAGUE_FEED_URL` | Yes | JSON endpoint; may contain a `{league_id}` placeholder |
-| `FEED_API_TOKEN` | No | Bearer token for a protected feed endpoint |
-| `FORUM_POST_TITLE` | No | Thread title; defaults to `League Feed — YYYY-MM-DD` |
-| `MAX_FEED_ITEMS` | No | Maximum items per post; defaults to `10` |
-| `DRY_RUN` | No | Prints the Discord payload instead of sending it |
+| `DISCORD_TAG_IDS_JSON` | `{}` | Maps Forum tag names to Discord tag IDs |
+| `NEWS_FEEDS_JSON` | Built-in sources | Optional JSON list of `{ "name", "url" }` feeds |
+| `MAX_POSTS_PER_RUN` | `3` | Live-post safety cap, from 1–10 |
+| `MAX_STORY_AGE_HOURS` | `36` | Ignores old feed entries |
+| `DEDUPE_WINDOW_HOURS` | `168` | Keeps seven days of story history |
+| `DEDUPE_SIMILARITY` | `0.62` | Fuzzy duplicate threshold |
+| `DRY_RUN` | `true` | Prints candidate payloads without posting or saving history |
 
-For GitHub Actions, create these repository secrets:
+Example custom source configuration:
 
-- `DISCORD_WEBHOOK_URL`
-- `LEAGUE_ID`
-- `LEAGUE_FEED_URL`
-- `FEED_API_TOKEN` only if the source requires it
+```json
+[
+  {"name": "Draft Sharks", "url": "https://www.draftsharks.com/rss/shark-bites"},
+  {"name": "RotoWire", "url": "https://www.rotowire.com/rss/news.php?sport=NFL"},
+  {"name": "ESPN NFL", "url": "https://www.espn.com/espn/rss/nfl/news"}
+]
+```
 
-Optional non-sensitive repository variables are `FORUM_POST_TITLE` and `MAX_FEED_ITEMS`.
-
-## Run locally
+## Local dry run
 
 ```bash
 python -m venv .venv
@@ -82,19 +101,14 @@ set -a; source .env; set +a
 python -m forum_feed_poster
 ```
 
-Keep `DRY_RUN=true` until the fetched data and formatted payload look correct.
+The dry-run output includes the suggested tags, source image URL, downloaded image size, and exact Discord payload. It never calls the webhook or changes duplicate history.
 
-## Run with GitHub Actions
+## GitHub Actions rollout
 
-Open **Actions → Post Discord Forum feed → Run workflow**. Leave **Dry run** enabled for the first run. When the output looks right, run it again with dry run disabled.
+1. Add the webhook secret and tag-ID variable under **Settings → Secrets and variables → Actions**.
+2. Open **Actions → Post Discord Forum feed → Run workflow**.
+3. Leave **Dry run** enabled and review the candidate stories.
+4. Run again with dry run disabled to create the first Gallery posts.
+5. After verifying the posts, uncomment the 30-minute `schedule` trigger in the workflow.
 
-After the desired cadence is known, add a `schedule` trigger to `.github/workflows/post-forum-feed.yml`. The workflow is deliberately unscheduled at this stage because each live run creates a new Forum thread.
-
-## Current scope
-
-- One feed request per run
-- One Forum thread per non-empty run
-- Basic Discord Markdown formatting
-- No database, state store, or duplicate detection yet
-
-Those pieces can be added when the exact feed provider and posting behavior are confirmed.
+The workflow carries `.state/seen.json` between runs using the GitHub Actions cache. This is intentionally lightweight: it substantially reduces repeats, including near-identical reports from different outlets, but cannot guarantee perfect semantic deduplication.

@@ -8,6 +8,9 @@ on:
         required: true
         default: true
         type: boolean
+  # Enable after the live workflow has been verified:
+  # schedule:
+  #   - cron: "*/30 * * * *"
 
 permissions:
   contents: read
@@ -22,11 +25,13 @@ jobs:
     timeout-minutes: 5
     env:
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-      LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
-      LEAGUE_FEED_URL: ${{ secrets.LEAGUE_FEED_URL }}
-      FEED_API_TOKEN: ${{ secrets.FEED_API_TOKEN }}
-      FORUM_POST_TITLE: ${{ vars.FORUM_POST_TITLE }}
-      MAX_FEED_ITEMS: ${{ vars.MAX_FEED_ITEMS }}
+      DISCORD_TAG_IDS_JSON: ${{ vars.DISCORD_TAG_IDS_JSON }}
+      NEWS_FEEDS_JSON: ${{ vars.NEWS_FEEDS_JSON }}
+      MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN }}
+      MAX_STORY_AGE_HOURS: ${{ vars.MAX_STORY_AGE_HOURS }}
+      DEDUPE_WINDOW_HOURS: ${{ vars.DEDUPE_WINDOW_HOURS }}
+      DEDUPE_SIMILARITY: ${{ vars.DEDUPE_SIMILARITY }}
+      DEDUPE_STATE_PATH: .state/seen.json
       DRY_RUN: ${{ inputs.dry_run }}
 
     steps:
@@ -45,5 +50,13 @@ jobs:
       - name: Run tests
         run: python -m unittest discover -s tests
 
-      - name: Build and post feed
+      - name: Restore duplicate-detection history
+        uses: actions/cache@v4
+        with:
+          path: .state
+          key: forum-news-history-${{ github.run_id }}
+          restore-keys: |
+            forum-news-history-
+
+      - name: Collect and post player news
         run: python -m forum_feed_poster
