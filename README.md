@@ -39,6 +39,8 @@ The built-in classifier targets the tags already present in the Forum:
 - `Waiver Watch`
 - `Fantasy Analysis`
 - `General News`
+- `Contract`
+- `Legal Trouble`
 
 A story can receive `Breaking` plus one primary category. Discord requires tag IDs—not tag names—when a webhook creates the post.
 
@@ -64,7 +66,7 @@ Do not paste the bot token into GitHub issues, Discord, or this repository. The 
 
 Copy the complete output into the GitHub Actions repository variable `DISCORD_TAG_IDS_JSON`. Emoji are optional in the JSON keys; the matcher ignores them.
 
-The existing tags are sufficient for the first release. If real usage exposes gaps, `Contract` and `Suspension / Discipline` are the most useful candidates for additional Forum tags.
+`Contract` covers new signings, extensions, restructures, franchise tags, and holdouts. `Legal Trouble` covers suspensions, discipline, arrests, charges, investigations, and similar off-field events. `NFL Moves` remains focused on trades, releases, waivers, activations, and other roster movement.
 
 ## Configuration
 

@@ -72,6 +72,26 @@ class ClassificationTests(unittest.TestCase):
 
         self.assertEqual(tags, ["Practice Report"])
 
+    def test_contract_signing_uses_contract_tag(self) -> None:
+        tags = classify_story(
+            story(
+                title="Michael Wilson signs three-year extension",
+                summary="Wilson agreed to a new contract with Arizona.",
+            )
+        )
+
+        self.assertEqual(tags, ["Breaking", "Contract"])
+
+    def test_suspension_uses_legal_trouble_tag(self) -> None:
+        tags = classify_story(
+            story(
+                title="League suspends player for four games",
+                summary="The suspension followed a disciplinary review.",
+            )
+        )
+
+        self.assertEqual(tags, ["Breaking", "Legal Trouble"])
+
 
 class DedupeTests(unittest.TestCase):
     def test_removes_tracking_parameters_from_urls(self) -> None:
