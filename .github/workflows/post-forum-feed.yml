@@ -1,0 +1,49 @@
+name: Post Discord Forum feed
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Print the Discord payload without creating a Forum post
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ironbound-forum-feed-poster
+  cancel-in-progress: false
+
+jobs:
+  post-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      LEAGUE_ID: ${{ secrets.LEAGUE_ID }}
+      LEAGUE_FEED_URL: ${{ secrets.LEAGUE_FEED_URL }}
+      FEED_API_TOKEN: ${{ secrets.FEED_API_TOKEN }}
+      FORUM_POST_TITLE: ${{ vars.FORUM_POST_TITLE }}
+      MAX_FEED_ITEMS: ${{ vars.MAX_FEED_ITEMS }}
+      DRY_RUN: ${{ inputs.dry_run }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m unittest discover -s tests
+
+      - name: Build and post feed
+        run: python -m forum_feed_poster
