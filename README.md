@@ -42,7 +42,10 @@ The built-in classifier targets the tags already present in the Forum:
 - `Contract`
 - `Legal Trouble`
 
-A story can receive `Breaking` plus one primary category. Discord requires tag IDs—not tag names—when a webhook creates the post.
+A story can receive every relevant category, up to Discord's five-tag-per-post limit. For
+example, a player-role article can receive both `Depth Chart` and `Fantasy Analysis`, while
+an availability update can receive both `Practice Report` and `Injury`. Discord requires
+tag IDs—not tag names—when a webhook creates the post.
 
 ### Obtain the Forum tag IDs
 

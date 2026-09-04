@@ -65,12 +65,25 @@ class ClassificationTests(unittest.TestCase):
 
         self.assertEqual(ids, ["111", "222"])
 
-    def test_practice_report_wins_over_general_injury_language(self) -> None:
+    def test_practice_report_and_injury_can_both_apply(self) -> None:
         tags = classify_story(
             story(title="Zay Flowers returns to practice Thursday after injury")
         )
 
-        self.assertEqual(tags, ["Practice Report"])
+        self.assertEqual(tags, ["Practice Report", "Injury"])
+
+    def test_backfield_analysis_can_also_use_depth_chart_tag(self) -> None:
+        tags = classify_story(
+            story(
+                title="Beat Writer Confirms That You Shouldn't Bother Drafting RJ Harvey",
+                summary=(
+                    "The Broncos' backfield outlook has Harvey occupying the same role "
+                    "even if Dobbins goes down again. This is fantasy commentary."
+                ),
+            )
+        )
+
+        self.assertEqual(tags, ["Depth Chart", "Fantasy Analysis"])
 
     def test_contract_signing_uses_contract_tag(self) -> None:
         tags = classify_story(

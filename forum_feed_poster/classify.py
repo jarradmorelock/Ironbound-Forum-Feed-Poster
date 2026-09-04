@@ -90,12 +90,23 @@ TAG_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
         (
             "depth chart",
             "named starter",
+            "starter role",
             "starting job",
+            "starting role",
             "first-team",
             "backup",
             "backup role",
             "demoted",
             "moves ahead of",
+            "backfield outlook",
+            "backfield role",
+            "lead back",
+            "lead-back",
+            "workhorse",
+            "committee",
+            "timeshare",
+            "pecking order",
+            "same role",
         ),
     ),
     (
@@ -158,11 +169,10 @@ def classify_story(story: NewsStory) -> list[str]:
     for tag_name, terms in TAG_RULES:
         if _contains_term(text, terms):
             tags.append(tag_name)
-            break
 
     if len(tags) == (1 if tags and tags[0] == "Breaking" else 0):
         tags.append("General News")
-    return tags
+    return tags[:5]
 
 
 def tag_ids_for_names(tag_names: Sequence[str], configured: Mapping[str, str]) -> list[str]:
