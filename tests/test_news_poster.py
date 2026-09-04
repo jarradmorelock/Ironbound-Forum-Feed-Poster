@@ -8,6 +8,7 @@ from forum_feed_poster.classify import classify_story, tag_ids_for_names
 from forum_feed_poster.config import Settings
 from forum_feed_poster.dedupe import DedupeStore, canonicalize_url
 from forum_feed_poster.discord import ImageAttachment, build_payload, generate_story_card
+from forum_feed_poster.list_tags import _team_emoji_ids
 from forum_feed_poster.models import NewsSource, NewsStory
 from forum_feed_poster.sources import parse_feed
 
@@ -189,6 +190,20 @@ class SettingsTests(unittest.TestCase):
     def test_live_mode_requires_forum_tag_ids(self) -> None:
         with self.assertRaisesRegex(ValueError, "DISCORD_TAG_IDS_JSON"):
             Settings.from_environment()
+
+
+class DiscordMetadataTests(unittest.TestCase):
+    def test_maps_existing_team_emoji_names_to_abbreviations(self) -> None:
+        mapping = _team_emoji_ids(
+            [
+                {"id": "111", "name": "broncos", "available": True},
+                {"id": "222", "name": "49rs", "available": True},
+                {"id": "333", "name": "forge", "available": True},
+                {"id": "444", "name": "bears", "available": False},
+            ]
+        )
+
+        self.assertEqual(mapping, {"DEN": "111", "SF": "222"})
 
 
 if __name__ == "__main__":
