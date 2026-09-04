@@ -82,13 +82,34 @@ class SeenStory:
     seen_at: str
 
 
+@dataclass
+class ActiveThread:
+    player_key: str
+    player_name: str
+    thread_id: str
+    headline: str
+    opened_at: str
+    updated_at: str
+    tag_names: list[str]
+    source_urls: list[str]
+
+
 class DedupeStore:
     def __init__(self, path: Path, window_hours: int, similarity: float) -> None:
         self.path = path
         self.window = timedelta(hours=window_hours)
         self.similarity = similarity
-        self.records = self._load()
+        self.records, self.active_threads = self._load()
         self.prune()
+
+    def is_exact_duplicate(self, story: NewsStory) -> bool:
+        canonical = canonicalize_url(story.url)
+        normalized_title = normalize_text(story.title)
+        return any(
+            (canonical and canonical == record.canonical_url)
+            or (normalized_title and normalized_title == record.normalized_title)
+            for record in self.records
+        )
 
     def is_duplicate(self, story: NewsStory) -> bool:
         canonical = canonicalize_url(story.url)
@@ -130,6 +151,39 @@ class DedupeStore:
             )
         )
 
+    def find_active_thread(
+        self,
+        player_key: str,
+        merge_window_minutes: int,
+        now: datetime | None = None,
+    ) -> ActiveThread | None:
+        current_time = now or datetime.now(timezone.utc)
+        cutoff = current_time - timedelta(minutes=merge_window_minutes)
+        candidates: list[ActiveThread] = []
+        for thread in self.active_threads:
+            if thread.player_key != player_key:
+                continue
+            opened_at = _parse_timestamp(thread.opened_at)
+            if opened_at and opened_at >= cutoff:
+                candidates.append(thread)
+        return max(candidates, key=lambda thread: thread.opened_at, default=None)
+
+    def remember_thread(self, thread: ActiveThread) -> None:
+        self.active_threads = [
+            existing
+            for existing in self.active_threads
+            if not (
+                existing.player_key == thread.player_key
+                or existing.thread_id == thread.thread_id
+            )
+        ]
+        self.active_threads.append(thread)
+
+    def remove_thread(self, thread_id: str) -> None:
+        self.active_threads = [
+            thread for thread in self.active_threads if thread.thread_id != thread_id
+        ]
+
     def prune(self, now: datetime | None = None) -> None:
         cutoff = (now or datetime.now(timezone.utc)) - self.window
         retained: list[SeenStory] = []
@@ -143,13 +197,25 @@ class DedupeStore:
             if seen_at >= cutoff:
                 retained.append(record)
         self.records = retained
+        retained_threads: list[ActiveThread] = []
+        for thread in self.active_threads:
+            opened_at = _parse_timestamp(thread.opened_at)
+            if opened_at and opened_at >= cutoff:
+                retained_threads.append(thread)
+        self.active_threads = retained_threads
 
     def save(self) -> None:
         self.path.parent.mkdir(parents=True, exist_ok=True)
         temporary_path = self.path.with_suffix(self.path.suffix + ".tmp")
         temporary_path.write_text(
             json.dumps(
-                {"version": 1, "stories": [asdict(record) for record in self.records]},
+                {
+                    "version": 2,
+                    "stories": [asdict(record) for record in self.records],
+                    "active_threads": [
+                        asdict(thread) for thread in self.active_threads
+                    ],
+                },
                 indent=2,
                 sort_keys=True,
             )
@@ -158,14 +224,17 @@ class DedupeStore:
         )
         temporary_path.replace(self.path)
 
-    def _load(self) -> list[SeenStory]:
+    def _load(self) -> tuple[list[SeenStory], list[ActiveThread]]:
         if not self.path.exists():
-            return []
+            return [], []
         try:
             data = json.loads(self.path.read_text(encoding="utf-8"))
-            return [SeenStory(**item) for item in data.get("stories", [])]
+            return (
+                [SeenStory(**item) for item in data.get("stories", [])],
+                [ActiveThread(**item) for item in data.get("active_threads", [])],
+            )
         except (OSError, TypeError, ValueError, json.JSONDecodeError):
-            return []
+            return [], []
 
 
 def canonicalize_url(url: str) -> str:
@@ -197,3 +266,13 @@ def _overlap_coefficient(left: set[str], right: set[str]) -> float:
     if not left or not right:
         return 0.0
     return len(left & right) / min(len(left), len(right))
+
+
+def _parse_timestamp(value: str) -> datetime | None:
+    try:
+        parsed = datetime.fromisoformat(value)
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)

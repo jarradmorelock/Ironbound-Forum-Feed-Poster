@@ -8,6 +8,11 @@ on:
         required: true
         default: true
         type: boolean
+      force_repost:
+        description: Ignore saved duplicate history for this one manual run
+        required: true
+        default: false
+        type: boolean
   # Enable after the live workflow has been verified:
   # schedule:
   #   - cron: "*/30 * * * *"
@@ -25,21 +30,27 @@ jobs:
     timeout-minutes: 5
     env:
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
       DISCORD_TAG_IDS_JSON: ${{ vars.DISCORD_TAG_IDS_JSON }}
+      DISCORD_TEAM_EMOJI_IDS_JSON: ${{ vars.DISCORD_TEAM_EMOJI_IDS_JSON }}
       NEWS_FEEDS_JSON: ${{ vars.NEWS_FEEDS_JSON }}
       MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN }}
       MAX_STORY_AGE_HOURS: ${{ vars.MAX_STORY_AGE_HOURS }}
       DEDUPE_WINDOW_HOURS: ${{ vars.DEDUPE_WINDOW_HOURS }}
       DEDUPE_SIMILARITY: ${{ vars.DEDUPE_SIMILARITY }}
       DEDUPE_STATE_PATH: .state/seen.json
+      THREAD_MERGE_WINDOW_MINUTES: ${{ vars.THREAD_MERGE_WINDOW_MINUTES }}
+      PLAYER_DATA_PATH: .state/nfl_players.csv
+      PLAYER_DATA_MAX_AGE_HOURS: ${{ vars.PLAYER_DATA_MAX_AGE_HOURS }}
       DRY_RUN: ${{ inputs.dry_run }}
+      FORCE_REPOST: ${{ inputs.force_repost }}
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -51,7 +62,7 @@ jobs:
         run: python -m unittest discover -s tests
 
       - name: Restore duplicate-detection history
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: .state
           key: forum-news-history-${{ github.run_id }}

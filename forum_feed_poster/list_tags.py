@@ -7,41 +7,7 @@ import os
 
 import requests
 
-
-TEAM_EMOJI_NAMES = {
-    "ARI": "cardinals",
-    "ATL": "falcons",
-    "BAL": "ravens",
-    "BUF": "bills",
-    "CAR": "panthers",
-    "CHI": "bears",
-    "CIN": "bengals",
-    "CLE": "browns",
-    "DAL": "cowboys",
-    "DEN": "broncos",
-    "DET": "lions",
-    "GB": "packers",
-    "HOU": "texans",
-    "IND": "colts",
-    "JAX": "jaguars",
-    "KC": "chiefs",
-    "LV": "raiders",
-    "LAC": "chargers",
-    "LAR": "rams",
-    "MIA": "dolphins",
-    "MIN": "vikings",
-    "NE": "patriots",
-    "NO": "saints",
-    "NYG": "giants",
-    "NYJ": "jets",
-    "PHI": "eagles",
-    "PIT": "steelers",
-    "SEA": "seahawks",
-    "SF": "49rs",
-    "TB": "buccaneers",
-    "TEN": "titans",
-    "WAS": "commanders",
-}
+from .teams import TEAM_EMOJI_NAMES
 
 
 def main() -> int:

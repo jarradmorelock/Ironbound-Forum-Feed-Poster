@@ -1,6 +1,6 @@
 # Ironbound Forum Feed Poster
 
-An image-first NFL player-news collector for the Ironbound Fantasy Football Discord Forum. It reads public fantasy-football news feeds, maps each story to Forum tags, avoids likely duplicates, and creates one image-backed Forum thread per story so Discord Gallery view has a thumbnail.
+An image-first NFL player-news collector for the Ironbound Fantasy Football Discord Forum. It reads public fantasy-football news feeds, identifies the player and team, writes a concise player-first headline, maps every relevant Forum tag, avoids likely duplicates, and creates an image-backed Forum thread so Discord Gallery view has a useful thumbnail.
 
 This repository is separate from the transaction-ledger project and does not collect league transactions or roster activity.
 
@@ -19,13 +19,17 @@ Direct X/Twitter collection is not enabled. X API access requires a developer ac
 
 1. Fetch every configured RSS/Atom feed.
 2. Normalize and combine recent stories.
-3. Reject stories already seen by canonical URL, normalized title, or fuzzy title/summary similarity.
-4. Classify each story into the Forum's existing tag taxonomy.
-5. Use the feed image or the article's Open Graph image; generate an Ironbound headline card when neither is available.
-6. Upload the image as a real Discord attachment and create one Forum thread per story.
-7. Save successfully posted story fingerprints in the GitHub Actions cache for seven days by default.
+3. Match player names against [NFLverse's public player directory](https://github.com/nflverse/nflverse-data/releases/tag/players) to find the current team and headshot.
+4. Reject exact repeats and likely duplicate reports from different sources.
+5. If another source reports new information about the same player within 60 minutes, add it to the existing Forum thread instead of cluttering the Gallery with a second post.
+6. Classify each story into every relevant Forum tag, up to Discord's five-tag limit.
+7. Create a player-first headline and a branded Gallery card using the player headshot and the server's existing team emoji when available.
+8. Suppress Discord's automatic link embed so the intentional Gallery image does not appear twice.
+9. Save story fingerprints and active-player thread IDs in the GitHub Actions cache.
 
-Only the newest three eligible stories are posted per run by default. Every post receives either its source image or a generated PNG headline card, preserving the intended Gallery layout.
+Only the newest three eligible stories are handled per run by default. An eligible story may create a new Gallery post or become a follow-up inside an active player thread. The 60-minute merge window starts when the first Forum post is created and does not keep extending forever.
+
+The webhook creates posts and adds follow-ups. A bot token is used only to rename and re-tag an existing Forum thread after a follow-up arrives; the bot does not need to remain online or connect to Discord's Gateway. Without that token, the follow-up is still posted, but the original headline remains unchanged.
 
 ## Current tag mapping
 
@@ -41,6 +45,14 @@ The built-in classifier targets the tags already present in the Forum:
 - `General News`
 - `Contract`
 - `Legal Trouble`
+- `Game Status`
+- `Rumor`
+- `Coaching / Scheme`
+- `Rookie / Prospect`
+- `Retirement`
+- `Start/Sit`
+- `Weather`
+- `Dynasty`
 
 A story can receive every relevant category, up to Discord's five-tag-per-post limit. For
 example, a player-role article can receive both `Depth Chart` and `Fantasy Analysis`, while
@@ -76,7 +88,7 @@ server emojis. Emoji are optional in the Forum-tag JSON keys; the matcher ignore
 
 ## Configuration
 
-Add `DISCORD_WEBHOOK_URL` as a GitHub Actions **secret**. Everything else below is non-sensitive and can be stored as an Actions **variable**. Live mode requires the tag-ID mapping so the automation cannot accidentally create untagged posts.
+Add `DISCORD_WEBHOOK_URL` and `DISCORD_BOT_TOKEN` as GitHub Actions **secrets**. The webhook posts the content. The bot token allows the automation to rename an existing same-player thread and update its tags; give that bot **View Channel** and **Manage Threads** permission in the Forum channel. Everything else below is non-sensitive and can be stored as an Actions **variable**. Live mode requires the tag-ID mapping so the automation cannot accidentally create untagged posts.
 
 | Variable | Default | Purpose |
 | --- | --- | --- |
@@ -87,7 +99,10 @@ Add `DISCORD_WEBHOOK_URL` as a GitHub Actions **secret**. Everything else below 
 | `MAX_STORY_AGE_HOURS` | `36` | Ignores old feed entries |
 | `DEDUPE_WINDOW_HOURS` | `168` | Keeps seven days of story history |
 | `DEDUPE_SIMILARITY` | `0.62` | Fuzzy duplicate threshold |
+| `THREAD_MERGE_WINDOW_MINUTES` | `60` | Same-player stories found inside this window share one Forum thread |
+| `PLAYER_DATA_MAX_AGE_HOURS` | `24` | How often the cached NFL player/team/headshot directory refreshes |
 | `DRY_RUN` | `true` | Prints candidate payloads without posting or saving history |
+| `FORCE_REPOST` | `false` | Manual-run escape hatch for a deleted test post; bypasses saved duplicate history once |
 
 Example custom source configuration:
 
@@ -114,10 +129,10 @@ The dry-run output includes the suggested tags, source image URL, downloaded ima
 
 ## GitHub Actions rollout
 
-1. Add the webhook secret and tag-ID variable under **Settings → Secrets and variables → Actions**.
+1. Add both Discord secrets and the tag/team-emoji variables under **Settings → Secrets and variables → Actions**.
 2. Open **Actions → Post Discord Forum feed → Run workflow**.
-3. Leave **Dry run** enabled and review the candidate stories.
-4. Run again with dry run disabled to create the first Gallery posts.
+3. Leave **Dry run** enabled and **Force repost** disabled, then review the candidate stories.
+4. Run again with dry run disabled to create the first Gallery posts. Use **Force repost** only when a previously posted test thread was manually deleted and its story remains in cached history.
 5. After verifying the posts, uncomment the 30-minute `schedule` trigger in the workflow.
 
 The workflow carries `.state/seen.json` between runs using the GitHub Actions cache. This is intentionally lightweight: it substantially reduces repeats, including near-identical reports from different outlets, but cannot guarantee perfect semantic deduplication.

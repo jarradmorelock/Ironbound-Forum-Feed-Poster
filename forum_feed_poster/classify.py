@@ -74,6 +74,21 @@ TAG_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
         ),
     ),
     (
+        "Game Status",
+        (
+            "ruled out",
+            "questionable",
+            "doubtful",
+            "game-time decision",
+            "game time decision",
+            "active for",
+            "inactive for",
+            "will play",
+            "won't play",
+            "will not play",
+        ),
+    ),
+    (
         "NFL Moves",
         (
             "released",
@@ -110,6 +125,42 @@ TAG_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
         ),
     ),
     (
+        "Coaching / Scheme",
+        (
+            "head coach",
+            "offensive coordinator",
+            "defensive coordinator",
+            "play caller",
+            "play-caller",
+            "new offense",
+            "new scheme",
+            "scheme change",
+            "coaching change",
+            "coaching staff",
+        ),
+    ),
+    (
+        "Rookie / Prospect",
+        (
+            "rookie",
+            "prospect",
+            "nfl draft",
+            "draft pick",
+            "combine",
+            "pro day",
+            "senior bowl",
+        ),
+    ),
+    (
+        "Retirement",
+        (
+            "retirement",
+            "retires",
+            "retired from",
+            "hangs up his cleats",
+        ),
+    ),
+    (
         "Waiver Watch",
         (
             "waiver wire",
@@ -139,6 +190,51 @@ TAG_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
             "upside",
             "idp",
             "commentary",
+        ),
+    ),
+    (
+        "Start/Sit",
+        (
+            "start/sit",
+            "start or sit",
+            "start him",
+            "sit him",
+            "must start",
+            "bench this week",
+        ),
+    ),
+    (
+        "Dynasty",
+        (
+            "dynasty",
+            "taxi squad",
+            "devy",
+            "long-term value",
+            "future value",
+        ),
+    ),
+    (
+        "Weather",
+        (
+            "weather",
+            "wind advisory",
+            "high winds",
+            "heavy rain",
+            "snow forecast",
+            "thunderstorm",
+            "game temperature",
+        ),
+    ),
+    (
+        "Rumor",
+        (
+            "rumor",
+            "rumoured",
+            "rumored",
+            "reportedly interested",
+            "could be traded",
+            "trade candidate",
+            "expected to pursue",
         ),
     ),
 )

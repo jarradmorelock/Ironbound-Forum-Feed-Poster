@@ -1,16 +1,25 @@
+import json
 import tempfile
 import unittest
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from unittest.mock import patch
 
 from forum_feed_poster.classify import classify_story, tag_ids_for_names
 from forum_feed_poster.config import Settings
-from forum_feed_poster.dedupe import DedupeStore, canonicalize_url
-from forum_feed_poster.discord import ImageAttachment, build_payload, generate_story_card
+from forum_feed_poster.dedupe import ActiveThread, DedupeStore, canonicalize_url
+from forum_feed_poster.discord import (
+    SUPPRESS_EMBEDS,
+    ImageAttachment,
+    build_payload,
+    generate_story_card,
+    team_emoji_markup,
+)
 from forum_feed_poster.list_tags import _team_emoji_ids
 from forum_feed_poster.models import NewsSource, NewsStory
+from forum_feed_poster.presentation import PlayerDirectory, present_story
 from forum_feed_poster.sources import parse_feed
+from forum_feed_poster.teams import TEAMS_BY_ABBREVIATION
 
 
 def story(**overrides):
@@ -106,6 +115,25 @@ class ClassificationTests(unittest.TestCase):
 
         self.assertEqual(tags, ["Breaking", "Legal Trouble"])
 
+    def test_expanded_tags_can_overlap(self) -> None:
+        tags = classify_story(
+            story(
+                title="Dynasty start/sit: Rookie remains questionable in new scheme",
+                summary="The rookie is a game-time decision with long-term value.",
+            )
+        )
+
+        self.assertEqual(
+            tags,
+            [
+                "Game Status",
+                "Coaching / Scheme",
+                "Rookie / Prospect",
+                "Fantasy Analysis",
+                "Start/Sit",
+            ],
+        )
+
 
 class DedupeTests(unittest.TestCase):
     def test_removes_tracking_parameters_from_urls(self) -> None:
@@ -153,6 +181,57 @@ class DedupeTests(unittest.TestCase):
 
             self.assertTrue(store.is_duplicate(duplicate))
 
+    def test_finds_same_player_thread_only_inside_merge_window(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_directory:
+            now = datetime(2026, 9, 4, 18, 0, tzinfo=timezone.utc)
+            store = DedupeStore(Path(temp_directory) / "seen.json", 168, 0.62)
+            store.remember_thread(
+                ActiveThread(
+                    player_key="00-0040730",
+                    player_name="RJ Harvey",
+                    thread_id="123",
+                    headline="[DEN] RJ Harvey update",
+                    opened_at=(now - timedelta(minutes=59)).isoformat(),
+                    updated_at=now.isoformat(),
+                    tag_names=["Depth Chart"],
+                    source_urls=["https://example.com/one"],
+                )
+            )
+
+            self.assertIsNotNone(
+                store.find_active_thread("00-0040730", 60, now=now)
+            )
+            self.assertIsNone(
+                store.find_active_thread(
+                    "00-0040730", 60, now=now + timedelta(minutes=2)
+                )
+            )
+
+    def test_saves_thread_state_without_breaking_old_story_history(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_directory:
+            path = Path(temp_directory) / "seen.json"
+            path.write_text(
+                json.dumps({"version": 1, "stories": []}), encoding="utf-8"
+            )
+            store = DedupeStore(path, 168, 0.62)
+            store.remember_thread(
+                ActiveThread(
+                    player_key="player",
+                    player_name="Player",
+                    thread_id="thread",
+                    headline="Headline",
+                    opened_at=datetime.now(timezone.utc).isoformat(),
+                    updated_at=datetime.now(timezone.utc).isoformat(),
+                    tag_names=["General News"],
+                    source_urls=[],
+                )
+            )
+            store.save()
+
+            saved = json.loads(path.read_text(encoding="utf-8"))
+            self.assertEqual(saved["version"], 2)
+            self.assertEqual(saved["active_threads"][0]["thread_id"], "thread")
+
 
 class DiscordTests(unittest.TestCase):
     def test_builds_image_backed_forum_payload_with_tags(self) -> None:
@@ -163,6 +242,7 @@ class DiscordTests(unittest.TestCase):
         self.assertEqual(payload["applied_tags"], ["111", "222"])
         self.assertEqual(payload["attachments"][0]["filename"], "swift.jpg")
         self.assertEqual(payload["allowed_mentions"], {"parse": []})
+        self.assertEqual(payload["flags"], SUPPRESS_EMBEDS)
         self.assertIn("Read the full story", payload["content"])
 
     def test_generates_png_fallback_for_gallery_mode(self) -> None:
@@ -171,6 +251,39 @@ class DiscordTests(unittest.TestCase):
         self.assertEqual(attachment.content_type, "image/png")
         self.assertTrue(attachment.data.startswith(b"\x89PNG\r\n\x1a\n"))
         self.assertGreater(len(attachment.data), 1_000)
+
+    def test_formats_existing_team_emoji_for_message_body(self) -> None:
+        emoji = team_emoji_markup(
+            TEAMS_BY_ABBREVIATION["DEN"], {"DEN": "1540346172743618610"}
+        )
+
+        self.assertEqual(emoji, "<:broncos:1540346172743618610>")
+
+
+class PresentationTests(unittest.TestCase):
+    def test_creates_requested_player_first_rj_harvey_headline(self) -> None:
+        players_csv = """gsis_id,display_name,common_first_name,first_name,last_name,football_name,headshot,last_season,latest_team
+00-0040730,RJ Harvey,RJ,Robert,Harvey,RJ,https://images.example/rj.png,2026,DEN
+00-0038120,J.K. Dobbins,J.K.,J'Kaylin,Dobbins,J.K.,https://images.example/jk.png,2026,DEN
+00-0099999,Drew Stevens,Drew,Drew,Stevens,Drew,https://images.example/drew.png,2026,NE
+"""
+        directory = PlayerDirectory.from_csv(players_csv, current_year=2026)
+        presentation = present_story(
+            story(
+                title="Beat Writer Confirms That You Shouldn't Bother Drafting RJ Harvey",
+                summary=(
+                    "Zac Stevens broke down the Broncos' backfield outlook and said "
+                    "Harvey has the same role even if Dobbins goes down again."
+                ),
+            ),
+            directory,
+        )
+
+        self.assertEqual(
+            presentation.thread_title,
+            "[DEN] RJ Harvey Unlikely to Become Workhorse if Dobbins Misses Time",
+        )
+        self.assertEqual(presentation.player.display_name, "RJ Harvey")
 
 
 class SettingsTests(unittest.TestCase):

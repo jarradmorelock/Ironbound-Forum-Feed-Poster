@@ -25,20 +25,27 @@ DEFAULT_NEWS_SOURCES = (
 @dataclass(frozen=True)
 class Settings:
     discord_webhook_url: str | None
+    discord_bot_token: str | None
     news_sources: tuple[NewsSource, ...]
     discord_tag_ids: dict[str, str]
+    discord_team_emoji_ids: dict[str, str]
     max_posts_per_run: int
     max_story_age_hours: int
     dedupe_window_hours: int
     dedupe_similarity: float
     dedupe_state_path: Path
+    thread_merge_window_minutes: int
+    player_data_path: Path
+    player_data_max_age_hours: int
     request_timeout_seconds: int
     dry_run: bool
+    force_repost: bool
 
     @classmethod
     def from_environment(cls) -> "Settings":
         dry_run = _as_bool(os.getenv("DRY_RUN", "true"))
-        webhook_url = os.getenv("DISCORD_WEBHOOK_URL") or None
+        webhook_url = (os.getenv("DISCORD_WEBHOOK_URL") or "").strip() or None
+        bot_token = (os.getenv("DISCORD_BOT_TOKEN") or "").strip() or None
         if not dry_run and not webhook_url:
             raise ValueError("DISCORD_WEBHOOK_URL is required when DRY_RUN is false")
         tag_ids = _parse_string_map(
@@ -49,17 +56,32 @@ class Settings:
 
         return cls(
             discord_webhook_url=webhook_url,
+            discord_bot_token=bot_token,
             news_sources=_parse_sources(os.getenv("NEWS_FEEDS_JSON")),
             discord_tag_ids=tag_ids,
+            discord_team_emoji_ids=_parse_string_map(
+                os.getenv("DISCORD_TEAM_EMOJI_IDS_JSON"),
+                "DISCORD_TEAM_EMOJI_IDS_JSON",
+            ),
             max_posts_per_run=_bounded_int("MAX_POSTS_PER_RUN", 3, 1, 10),
             max_story_age_hours=_bounded_int("MAX_STORY_AGE_HOURS", 36, 1, 168),
             dedupe_window_hours=_bounded_int("DEDUPE_WINDOW_HOURS", 168, 1, 720),
             dedupe_similarity=_bounded_float("DEDUPE_SIMILARITY", 0.62, 0.4, 1.0),
             dedupe_state_path=Path(os.getenv("DEDUPE_STATE_PATH") or ".state/seen.json"),
+            thread_merge_window_minutes=_bounded_int(
+                "THREAD_MERGE_WINDOW_MINUTES", 60, 5, 360
+            ),
+            player_data_path=Path(
+                os.getenv("PLAYER_DATA_PATH") or ".state/nfl_players.csv"
+            ),
+            player_data_max_age_hours=_bounded_int(
+                "PLAYER_DATA_MAX_AGE_HOURS", 24, 1, 168
+            ),
             request_timeout_seconds=_bounded_int(
                 "REQUEST_TIMEOUT_SECONDS", 20, 5, 60
             ),
             dry_run=dry_run,
+            force_repost=_as_bool(os.getenv("FORCE_REPOST", "false")),
         )
 
 
