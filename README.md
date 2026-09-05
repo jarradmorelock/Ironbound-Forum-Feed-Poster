@@ -21,7 +21,7 @@ Direct X/Twitter collection is not enabled. X API access requires a developer ac
 2. Normalize and combine recent stories.
 3. Match player names against [NFLverse's public player directory](https://github.com/nflverse/nflverse-data/releases/tag/players) to find the current team and headshot.
 4. Reject exact repeats and likely duplicate reports from different sources.
-5. If another source reports new information about the same player within 60 minutes, add it to the existing Forum thread instead of cluttering the Gallery with a second post.
+5. If another source reports materially new information about the same player within 60 minutes, add it to the existing Forum thread; suppress cross-source retellings of the same facts.
 6. Classify each story into every relevant Forum tag, up to Discord's five-tag limit.
 7. Create a player-first headline and a branded Gallery card using the player headshot and the server's existing team emoji when available.
 8. Suppress Discord's automatic link embed so the intentional Gallery image does not appear twice.

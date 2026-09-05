@@ -69,6 +69,19 @@ TOKEN_ALIASES = {
     "trades": "trade",
     "waived": "waive",
 }
+DECISIVE_STATUS_TOKENS = {
+    "active",
+    "inactive",
+    "questionable",
+    "doubtful",
+    "out",
+    "limited",
+    "full",
+    "cleared",
+    "return",
+    "returned",
+    "sidelined",
+}
 
 
 @dataclass
@@ -135,6 +148,53 @@ class DedupeStore:
             if title_shared >= 3 and title_overlap >= self.similarity:
                 return True
             if content_shared >= 5 and content_overlap >= self.similarity:
+                return True
+        return False
+
+    def is_duplicate_follow_up(
+        self, story: NewsStory, active_thread: ActiveThread
+    ) -> bool:
+        """Detect a cross-source repeat inside an existing player thread.
+
+        Same-player reports often use very different headlines, so compare them
+        against only the stories already attached to that thread with a slightly
+        more permissive threshold. A clearly changed availability status is
+        treated as a real update.
+        """
+        thread_urls = {
+            canonicalize_url(url) for url in active_thread.source_urls if url
+        }
+        normalized_title = normalize_text(story.title)
+        title_tokens = tokenize(story.title)
+        content_tokens = tokenize(f"{story.title} {story.summary[:600]}")
+        relaxed_similarity = max(0.42, self.similarity - 0.20)
+
+        for record in self.records:
+            if record.canonical_url not in thread_urls:
+                continue
+            if _has_decisive_status_change(content_tokens, set(record.content_tokens)):
+                continue
+
+            record_title_tokens = set(record.title_tokens)
+            record_content_tokens = set(record.content_tokens)
+            if (
+                SequenceMatcher(
+                    None, normalized_title, record.normalized_title
+                ).ratio()
+                >= 0.78
+            ):
+                return True
+            if (
+                len(title_tokens & record_title_tokens) >= 3
+                and _overlap_coefficient(title_tokens, record_title_tokens)
+                >= relaxed_similarity
+            ):
+                return True
+            if (
+                len(content_tokens & record_content_tokens) >= 8
+                and _overlap_coefficient(content_tokens, record_content_tokens)
+                >= relaxed_similarity
+            ):
                 return True
         return False
 
@@ -267,6 +327,12 @@ def _overlap_coefficient(left: set[str], right: set[str]) -> float:
     if not left or not right:
         return 0.0
     return len(left & right) / min(len(left), len(right))
+
+
+def _has_decisive_status_change(current: set[str], previous: set[str]) -> bool:
+    current_status = current & DECISIVE_STATUS_TOKENS
+    previous_status = previous & DECISIVE_STATUS_TOKENS
+    return bool(current_status and previous_status and current_status != previous_status)
 
 
 def _parse_timestamp(value: str) -> datetime | None:

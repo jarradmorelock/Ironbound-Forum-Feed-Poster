@@ -203,6 +203,72 @@ class DedupeTests(unittest.TestCase):
 
             self.assertTrue(store.is_duplicate(duplicate))
 
+    def test_suppresses_same_player_follow_up_with_the_same_court_update(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_directory:
+            store = DedupeStore(Path(temp_directory) / "seen.json", 168, 0.62)
+            original = story(
+                source="Draft Sharks",
+                title="Does Josh Jacobs' Earlier Court Date Boost His Fantasy Value?",
+                summary=(
+                    "Packers RB Josh Jacobs' initial court hearing was moved from "
+                    "November 17 to September 10, according to FOX 11. His attorneys "
+                    "are expected to appear on his behalf."
+                ),
+                url="https://draftsharks.example/jacobs-court-date",
+            )
+            store.remember(original)
+            active_thread = ActiveThread(
+                player_key="00-0035700",
+                player_name="Josh Jacobs",
+                thread_id="thread",
+                headline="[GB] Josh Jacobs court update",
+                opened_at=datetime.now(timezone.utc).isoformat(),
+                updated_at=datetime.now(timezone.utc).isoformat(),
+                tag_names=["Legal Trouble"],
+                source_urls=[original.url],
+            )
+            repeated_report = story(
+                source="RotoWire",
+                title="Josh Jacobs: Court date moved up",
+                summary=(
+                    "Jacobs' next court date was moved from Nov. 17 to Sept. 10, "
+                    "Michael Gross of FOX 11 reports. Jacobs will be represented "
+                    "by his attorney and will not personally appear at the hearing."
+                ),
+                url="https://rotowire.example/jacobs-court-date",
+            )
+
+            self.assertTrue(
+                store.is_duplicate_follow_up(repeated_report, active_thread)
+            )
+
+    def test_allows_same_player_follow_up_with_changed_game_status(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_directory:
+            store = DedupeStore(Path(temp_directory) / "seen.json", 168, 0.62)
+            original = story(
+                title="Josh Jacobs questionable for Week 1",
+                summary="Josh Jacobs is questionable and remains sidelined.",
+                url="https://example.com/jacobs-questionable",
+            )
+            store.remember(original)
+            active_thread = ActiveThread(
+                player_key="00-0035700",
+                player_name="Josh Jacobs",
+                thread_id="thread",
+                headline="[GB] Josh Jacobs questionable for Week 1",
+                opened_at=datetime.now(timezone.utc).isoformat(),
+                updated_at=datetime.now(timezone.utc).isoformat(),
+                tag_names=["Game Status"],
+                source_urls=[original.url],
+            )
+            real_update = story(
+                title="Josh Jacobs cleared and active for Week 1",
+                summary="Josh Jacobs has been cleared and will be active for Week 1.",
+                url="https://another.example.com/jacobs-active",
+            )
+
+            self.assertFalse(store.is_duplicate_follow_up(real_update, active_thread))
+
     def test_finds_same_player_thread_only_inside_merge_window(self) -> None:
         with tempfile.TemporaryDirectory() as temp_directory:
             now = datetime(2026, 9, 4, 18, 0, tzinfo=timezone.utc)

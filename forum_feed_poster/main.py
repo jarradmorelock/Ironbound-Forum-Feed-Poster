@@ -95,6 +95,13 @@ def main() -> int:
             if not settings.force_repost and store.is_exact_duplicate(story):
                 print(f"Skipped duplicate: {story.title}")
                 continue
+            if (
+                not settings.force_repost
+                and active_thread is not None
+                and store.is_duplicate_follow_up(story, active_thread)
+            ):
+                print(f"Skipped likely duplicate follow-up: {story.title}")
+                continue
             if not settings.force_repost and active_thread is None and store.is_duplicate(story):
                 print(f"Skipped likely duplicate: {story.title}")
                 continue
