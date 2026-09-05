@@ -9,7 +9,7 @@ from typing import Sequence
 
 import requests
 
-from .classify import classify_story, tag_ids_for_names
+from .classify import TAG_CLASSIFIER_VERSION, classify_story, tag_ids_for_names
 from .config import Settings
 from .dedupe import ActiveThread, DedupeStore, canonicalize_url
 from .discord import (
@@ -105,9 +105,17 @@ def main() -> int:
 
             story = replace(story, image_url=image_url)
             current_tags = classify_story(story)
+            previous_tags = active_thread.tag_names if active_thread else ()
+            if (
+                active_thread
+                and active_thread.classifier_version < TAG_CLASSIFIER_VERSION
+            ):
+                previous_tags = [
+                    tag for tag in previous_tags if tag != "Fantasy Analysis"
+                ]
             tag_names = _merge_tags(
                 current_tags,
-                active_thread.tag_names if active_thread else (),
+                previous_tags,
             )
             tag_ids = tag_ids_for_names(tag_names, settings.discord_tag_ids)
             emoji = team_emoji_markup(
@@ -192,6 +200,7 @@ def main() -> int:
                             updated_at=now.isoformat(),
                             tag_names=tag_names,
                             source_urls=[canonicalize_url(story.url)],
+                            classifier_version=TAG_CLASSIFIER_VERSION,
                         )
                         store.remember_thread(active_thread)
                     print(
@@ -203,6 +212,7 @@ def main() -> int:
                     active_thread.updated_at = now.isoformat()
                     active_thread.tag_names = tag_names
                     active_thread.source_urls.append(canonicalize_url(story.url))
+                    active_thread.classifier_version = TAG_CLASSIFIER_VERSION
                     store.remember_thread(active_thread)
                     print(
                         f"Added follow-up to {active_thread.player_name}: "
@@ -241,6 +251,7 @@ def main() -> int:
                         updated_at=now.isoformat(),
                         tag_names=tag_names,
                         source_urls=[canonicalize_url(story.url)],
+                        classifier_version=TAG_CLASSIFIER_VERSION,
                     )
                 )
 

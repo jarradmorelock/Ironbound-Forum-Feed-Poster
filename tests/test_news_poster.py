@@ -57,6 +57,17 @@ class SourceTests(unittest.TestCase):
 
 
 class ClassificationTests(unittest.TestCase):
+    def test_generic_commentary_category_is_not_fantasy_analysis(self) -> None:
+        tags = classify_story(
+            story(
+                title="McVay's Travel Update Confirms Puka Nacua for Week 1",
+                summary="The injured receiver will play in the opener.",
+                categories=("Commentary",),
+            )
+        )
+
+        self.assertEqual(tags, ["Injury", "Game Status"])
+
     def test_applies_breaking_and_injury_tags(self) -> None:
         tags = classify_story(
             story(
@@ -94,6 +105,17 @@ class ClassificationTests(unittest.TestCase):
         )
 
         self.assertEqual(tags, ["Depth Chart", "Fantasy Analysis"])
+
+    def test_cramping_is_an_injury_not_generic_commentary(self) -> None:
+        tags = classify_story(
+            story(
+                title="Exhale! Just Cramping For D'Andre Swift",
+                summary="Swift left practice because of cramping.",
+                categories=("Commentary",),
+            )
+        )
+
+        self.assertEqual(tags, ["Injury"])
 
     def test_contract_signing_uses_contract_tag(self) -> None:
         tags = classify_story(

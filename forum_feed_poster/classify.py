@@ -8,6 +8,8 @@ from collections.abc import Mapping, Sequence
 
 from .models import NewsStory
 
+TAG_CLASSIFIER_VERSION = 2
+
 TAG_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
     (
         "Practice Report",
@@ -36,6 +38,8 @@ TAG_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
             "knee",
             "shoulder",
             "illness",
+            "cramp",
+            "cramping",
             "injured reserve",
             "season-ending",
             "surgery",
@@ -57,6 +61,7 @@ TAG_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
             "dui",
             "lawsuit",
             "under investigation",
+            "court date",
         ),
     ),
     (
@@ -86,12 +91,14 @@ TAG_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
             "will play",
             "won't play",
             "will not play",
+            "in question",
         ),
     ),
     (
         "NFL Moves",
         (
             "released",
+            "waive",
             "waived",
             "claimed",
             "traded",
@@ -177,19 +184,23 @@ TAG_RULES: tuple[tuple[str, tuple[str, ...]], ...] = (
         (
             "fantasy impact",
             "fantasy outlook",
+            "fantasy value",
+            "fantasy managers",
             "start/sit",
             "start or sit",
+            "drafting",
+            "draft value",
+            "draft target",
+            "draft fade",
+            "draft risk",
             "ranking",
             "projection",
             "target share",
             "snap share",
-            "touches",
-            "usage",
             "breakout",
             "sleeper",
             "upside",
             "idp",
-            "commentary",
         ),
     ),
     (

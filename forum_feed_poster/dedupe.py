@@ -92,6 +92,7 @@ class ActiveThread:
     updated_at: str
     tag_names: list[str]
     source_urls: list[str]
+    classifier_version: int = 1
 
 
 class DedupeStore:
