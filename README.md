@@ -96,7 +96,7 @@ Add `DISCORD_WEBHOOK_URL` and `DISCORD_BOT_TOKEN` as GitHub Actions **secrets**.
 | `DISCORD_TEAM_EMOJI_IDS_JSON` | `{}` | Maps NFL team abbreviations to existing server emoji IDs |
 | `NEWS_FEEDS_JSON` | Built-in sources | Optional JSON list of `{ "name", "url" }` feeds |
 | `MAX_POSTS_PER_RUN` | `3` | Live-post safety cap, from 1–10 |
-| `MAX_STORY_AGE_HOURS` | `36` | Ignores old feed entries |
+| `MAX_STORY_AGE_HOURS` | `24` | Ignores feed entries published more than 24 hours ago |
 | `DEDUPE_WINDOW_HOURS` | `168` | Keeps seven days of story history |
 | `DEDUPE_SIMILARITY` | `0.62` | Fuzzy duplicate threshold |
 | `THREAD_MERGE_WINDOW_MINUTES` | `60` | Same-player stories found inside this window share one Forum thread |
