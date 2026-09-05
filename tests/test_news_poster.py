@@ -261,6 +261,27 @@ class DiscordTests(unittest.TestCase):
 
 
 class PresentationTests(unittest.TestCase):
+    def test_rewrites_travel_update_as_fact_first_availability_headline(self) -> None:
+        players_csv = """gsis_id,display_name,common_first_name,first_name,last_name,football_name,headshot,last_season,latest_team
+00-0039075,Puka Nacua,Puka,Makea,Nacua,Puka,https://images.example/puka.png,2026,LA
+"""
+        directory = PlayerDirectory.from_csv(players_csv, current_year=2026)
+        presentation = present_story(
+            story(
+                title="McVay's Travel Update Further Confirms Puka Nacua for Week 1",
+                summary=(
+                    "The Rams plan to have the entire team in Australia. The travel "
+                    "update is further confirmation that the star WR will play."
+                ),
+            ),
+            directory,
+        )
+
+        self.assertEqual(
+            presentation.thread_title,
+            "[LAR] Puka Nacua Expected to Play Week 1 in Australia",
+        )
+
     def test_creates_requested_player_first_rj_harvey_headline(self) -> None:
         players_csv = """gsis_id,display_name,common_first_name,first_name,last_name,football_name,headshot,last_season,latest_team
 00-0040730,RJ Harvey,RJ,Robert,Harvey,RJ,https://images.example/rj.png,2026,DEN

@@ -20,6 +20,7 @@ from .teams import NflTeam, TEAMS_BY_ABBREVIATION, find_team_in_text
 NFLVERSE_PLAYERS_URL = (
     "https://github.com/nflverse/nflverse-data/releases/download/players/players.csv"
 )
+NFLVERSE_TEAM_ALIASES = {"JAC": "JAX", "LA": "LAR", "WSH": "WAS"}
 
 
 @dataclass(frozen=True)
@@ -75,6 +76,7 @@ class PlayerDirectory:
                 continue
 
             team = str(row.get("latest_team") or "").strip().upper() or None
+            team = NFLVERSE_TEAM_ALIASES.get(team or "", team)
             if team not in TEAMS_BY_ABBREVIATION:
                 team = None
             first_name = str(
@@ -181,7 +183,7 @@ def present_story(story: NewsStory, directory: PlayerDirectory) -> StoryPresenta
     if team is None:
         team = find_team_in_text(f"{story.title} {story.summary}")
 
-    headline = editorial_headline(story, player, players[1:])
+    headline = editorial_headline(story, player, players[1:], team)
     prefix = f"[{team.abbreviation}] " if team else ""
     thread_title = textwrap.shorten(
         f"{prefix}{headline}", width=100, placeholder="…"
@@ -199,6 +201,7 @@ def editorial_headline(
     story: NewsStory,
     player: PlayerProfile | None,
     related_players: tuple[PlayerProfile, ...] = (),
+    team: NflTeam | None = None,
 ) -> str:
     title = " ".join(story.title.split()).strip()
     title = re.sub(
@@ -244,6 +247,10 @@ def editorial_headline(
     if negative_draft_advice:
         return f"{player.display_name} Carries Significant Fantasy Draft Risk"
 
+    availability_headline = _availability_headline(story, player, team)
+    if availability_headline:
+        return availability_headline
+
     normalized_title = _normalize(title)
     primary_alias = next(
         (alias for alias in player.aliases if re.search(rf"\b{re.escape(alias)}\b", normalized_title)),
@@ -252,6 +259,55 @@ def editorial_headline(
     if primary_alias and not normalized_title.startswith(primary_alias):
         title = f"{player.display_name}: {title}"
     return textwrap.shorten(title, width=92, placeholder="…")
+
+
+def _availability_headline(
+    story: NewsStory, player: PlayerProfile, team: NflTeam | None
+) -> str | None:
+    title = story.title.lower().replace("’", "'")
+    summary = story.summary.lower().replace("’", "'")
+    text = f"{title} {summary}"
+    week_match = re.search(r"\bweek\s+([0-9]{1,2})\b", text)
+    week_suffix = f" Week {week_match.group(1)}" if week_match else ""
+
+    if any(
+        phrase in text
+        for phrase in (
+            "ruled out",
+            "will not play",
+            "won't play",
+            "inactive for",
+        )
+    ):
+        return f"{player.display_name} Ruled Out{' for' if week_suffix else ''}{week_suffix}"
+
+    for status, label in (("doubtful", "Doubtful"), ("questionable", "Questionable")):
+        if status in text:
+            return f"{player.display_name} {label}{' for' if week_suffix else ''}{week_suffix}"
+
+    expected_to_play = any(
+        phrase in text
+        for phrase in (
+            "will play",
+            "expected to play",
+            "set to play",
+            "on track to play",
+            "cleared to play",
+        )
+    ) or bool(re.search(r"\bconfirms?\b.{0,60}\bfor week\b", title))
+    if not expected_to_play:
+        return None
+
+    travel_context = any(term in text for term in ("travel", "trip", "in australia"))
+    if "australia" in text:
+        return f"{player.display_name} Expected to Play{week_suffix} in Australia"
+    if travel_context and team:
+        nickname = team.name.rsplit(" ", 1)[-1]
+        return (
+            f"{player.display_name} Expected to Play{week_suffix} "
+            f"After Joining {nickname} Trip"
+        )
+    return f"{player.display_name} Expected to Play{week_suffix}"
 
 
 def _player_aliases(
