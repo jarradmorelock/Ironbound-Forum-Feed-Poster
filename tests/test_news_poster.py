@@ -269,7 +269,7 @@ class DedupeTests(unittest.TestCase):
 
             self.assertFalse(store.is_duplicate_follow_up(real_update, active_thread))
 
-    def test_finds_same_player_thread_only_inside_merge_window(self) -> None:
+    def test_finds_same_player_thread_only_inside_twelve_hour_window(self) -> None:
         with tempfile.TemporaryDirectory() as temp_directory:
             now = datetime(2026, 9, 4, 18, 0, tzinfo=timezone.utc)
             store = DedupeStore(Path(temp_directory) / "seen.json", 168, 0.62)
@@ -279,7 +279,7 @@ class DedupeTests(unittest.TestCase):
                     player_name="RJ Harvey",
                     thread_id="123",
                     headline="[DEN] RJ Harvey update",
-                    opened_at=(now - timedelta(minutes=59)).isoformat(),
+                    opened_at=(now - timedelta(hours=11, minutes=59)).isoformat(),
                     updated_at=now.isoformat(),
                     tag_names=["Depth Chart"],
                     source_urls=["https://example.com/one"],
@@ -287,11 +287,11 @@ class DedupeTests(unittest.TestCase):
             )
 
             self.assertIsNotNone(
-                store.find_active_thread("00-0040730", 60, now=now)
+                store.find_active_thread("00-0040730", 720, now=now)
             )
             self.assertIsNone(
                 store.find_active_thread(
-                    "00-0040730", 60, now=now + timedelta(minutes=2)
+                    "00-0040730", 720, now=now + timedelta(minutes=2)
                 )
             )
 
@@ -394,6 +394,47 @@ class PresentationTests(unittest.TestCase):
         )
         self.assertEqual(presentation.player.display_name, "RJ Harvey")
 
+    def test_attributes_teammate_absence_to_lead_back_opportunity(self) -> None:
+        players_csv = """gsis_id,display_name,common_first_name,first_name,last_name,football_name,headshot,last_season,latest_team
+00-0036875,Rhamondre Stevenson,Rhamondre,Rhamondre,Stevenson,Rhamondre,https://images.example/stevenson.png,2026,NE
+00-0041100,TreVeyon Henderson,TreVeyon,TreVeyon,Henderson,TreVeyon,https://images.example/henderson.png,2026,NE
+"""
+        directory = PlayerDirectory.from_csv(players_csv, current_year=2026)
+        presentation = present_story(
+            story(
+                title="Rhamondre Stevenson: Expected to see bulk of backfield work",
+                summary=(
+                    "Stevenson is expected to see the bulk of the snaps and touches "
+                    "after teammate TreVeyon Henderson was ruled out for the season "
+                    "opener."
+                ),
+            ),
+            directory,
+        )
+
+        self.assertEqual(
+            presentation.thread_title,
+            "[NE] Rhamondre Stevenson Set for Bell-Cow Role With Henderson Out",
+        )
+
+    def test_does_not_assign_teammate_status_to_primary_player(self) -> None:
+        players_csv = """gsis_id,display_name,common_first_name,first_name,last_name,football_name,headshot,last_season,latest_team
+00-0036875,Rhamondre Stevenson,Rhamondre,Rhamondre,Stevenson,Rhamondre,https://images.example/stevenson.png,2026,NE
+00-0041100,TreVeyon Henderson,TreVeyon,TreVeyon,Henderson,TreVeyon,https://images.example/henderson.png,2026,NE
+"""
+        directory = PlayerDirectory.from_csv(players_csv, current_year=2026)
+        presentation = present_story(
+            story(
+                title="Rhamondre Stevenson role update",
+                summary=(
+                    "TreVeyon Henderson was ruled out. Stevenson could see more work."
+                ),
+            ),
+            directory,
+        )
+
+        self.assertNotIn("Stevenson Ruled Out", presentation.thread_title)
+
 
 class SettingsTests(unittest.TestCase):
     @patch.dict("os.environ", {"DRY_RUN": "true"}, clear=True)
@@ -404,6 +445,7 @@ class SettingsTests(unittest.TestCase):
         self.assertGreaterEqual(len(settings.news_sources), 2)
         self.assertIsNone(settings.discord_webhook_url)
         self.assertEqual(settings.max_story_age_hours, 24)
+        self.assertEqual(settings.thread_merge_window_minutes, 720)
 
     @patch.dict(
         "os.environ",

@@ -21,6 +21,12 @@ NFLVERSE_PLAYERS_URL = (
     "https://github.com/nflverse/nflverse-data/releases/download/players/players.csv"
 )
 NFLVERSE_TEAM_ALIASES = {"JAC": "JAX", "LA": "LAR", "WSH": "WAS"}
+OUT_PHRASES = (
+    "ruled out",
+    "will not play",
+    "won't play",
+    "inactive for",
+)
 
 
 @dataclass(frozen=True)
@@ -247,7 +253,13 @@ def editorial_headline(
     if negative_draft_advice:
         return f"{player.display_name} Carries Significant Fantasy Draft Risk"
 
-    availability_headline = _availability_headline(story, player, team)
+    expanded_role_headline = _expanded_role_headline(story, player, related_players)
+    if expanded_role_headline:
+        return expanded_role_headline
+
+    availability_headline = _availability_headline(
+        story, player, related_players, team
+    )
     if availability_headline:
         return availability_headline
 
@@ -261,8 +273,61 @@ def editorial_headline(
     return textwrap.shorten(title, width=92, placeholder="…")
 
 
+def _expanded_role_headline(
+    story: NewsStory,
+    player: PlayerProfile,
+    related_players: tuple[PlayerProfile, ...],
+) -> str | None:
+    if not related_players:
+        return None
+
+    text = f"{story.title} {story.summary}"
+    workload_phrases = (
+        "bulk of the snaps",
+        "bulk of snaps",
+        "bulk of the touches",
+        "bulk of touches",
+        "bell cow",
+        "bell-cow",
+        "lead back",
+        "lead role",
+        "featured role",
+        "feature back",
+        "workhorse",
+    )
+    if not _phrase_applies_to_player(
+        text, workload_phrases, player, related_players
+    ):
+        return None
+
+    all_players = (player, *related_players)
+    unavailable_teammate = next(
+        (
+            candidate
+            for candidate in related_players
+            if _phrase_applies_to_player(
+                text,
+                OUT_PHRASES,
+                candidate,
+                tuple(other for other in all_players if other.key != candidate.key),
+            )
+        ),
+        None,
+    )
+    if unavailable_teammate is None:
+        return None
+
+    return (
+        f"{player.display_name} Set for Bell-Cow Role With "
+        f"{unavailable_teammate.last_name} Out"
+    )
+
+
 def _availability_headline(
-    story: NewsStory, player: PlayerProfile, team: NflTeam | None
+    story: NewsStory,
+    player: PlayerProfile,
+    related_players: tuple[PlayerProfile, ...],
+    team: NflTeam | None,
 ) -> str | None:
     title = story.title.lower().replace("’", "'")
     summary = story.summary.lower().replace("’", "'")
@@ -270,31 +335,30 @@ def _availability_headline(
     week_match = re.search(r"\bweek\s+([0-9]{1,2})\b", text)
     week_suffix = f" Week {week_match.group(1)}" if week_match else ""
 
-    if any(
-        phrase in text
-        for phrase in (
-            "ruled out",
-            "will not play",
-            "won't play",
-            "inactive for",
-        )
-    ):
+    if _phrase_applies_to_player(text, OUT_PHRASES, player, related_players):
         return f"{player.display_name} Ruled Out{' for' if week_suffix else ''}{week_suffix}"
 
     for status, label in (("doubtful", "Doubtful"), ("questionable", "Questionable")):
-        if status in text:
+        if _phrase_applies_to_player(
+            text, (status,), player, related_players
+        ):
             return f"{player.display_name} {label}{' for' if week_suffix else ''}{week_suffix}"
 
-    expected_to_play = any(
-        phrase in text
-        for phrase in (
+    expected_to_play = _phrase_applies_to_player(
+        text,
+        (
             "will play",
             "expected to play",
             "set to play",
             "on track to play",
             "cleared to play",
-        )
-    ) or bool(re.search(r"\bconfirms?\b.{0,60}\bfor week\b", title))
+        ),
+        player,
+        related_players,
+    ) or (
+        bool(re.search(r"\bconfirms?\b.{0,60}\bfor week\b", title))
+        and _mentions_player(title, player)
+    )
     if not expected_to_play:
         return None
 
@@ -308,6 +372,67 @@ def _availability_headline(
             f"After Joining {nickname} Trip"
         )
     return f"{player.display_name} Expected to Play{week_suffix}"
+
+
+def _phrase_applies_to_player(
+    text: str,
+    phrases: tuple[str, ...],
+    player: PlayerProfile,
+    other_players: tuple[PlayerProfile, ...],
+) -> bool:
+    """Return whether a phrase is nearest to the named player, not a teammate."""
+    profiles = (player, *other_players)
+    for sentence in re.split(r"(?<=[.!?;])\s+", text):
+        normalized_sentence = _normalize(sentence)
+        mentions: list[tuple[int, int, str]] = []
+        for profile in profiles:
+            terms = {*profile.aliases, _normalize(profile.last_name)}
+            for term in terms:
+                if not term:
+                    continue
+                for match in re.finditer(
+                    rf"\b{re.escape(term)}\b", normalized_sentence
+                ):
+                    mentions.append((match.start(), match.end(), profile.key))
+
+        if not mentions:
+            continue
+
+        for phrase in phrases:
+            normalized_phrase = _normalize(phrase)
+            for phrase_match in re.finditer(
+                rf"\b{re.escape(normalized_phrase)}\b", normalized_sentence
+            ):
+                nearest = min(
+                    mentions,
+                    key=lambda mention: _span_distance(
+                        mention[0],
+                        mention[1],
+                        phrase_match.start(),
+                        phrase_match.end(),
+                    ),
+                )
+                if nearest[2] == player.key:
+                    return True
+    return False
+
+
+def _span_distance(
+    first_start: int, first_end: int, second_start: int, second_end: int
+) -> int:
+    if first_end <= second_start:
+        return second_start - first_end
+    if second_end <= first_start:
+        return first_start - second_end
+    return 0
+
+
+def _mentions_player(text: str, player: PlayerProfile) -> bool:
+    normalized_text = _normalize(text)
+    return any(
+        re.search(rf"\b{re.escape(alias)}\b", normalized_text)
+        for alias in player.aliases
+    )
 
 
 def _player_aliases(

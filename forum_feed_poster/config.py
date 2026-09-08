@@ -69,7 +69,7 @@ class Settings:
             dedupe_similarity=_bounded_float("DEDUPE_SIMILARITY", 0.62, 0.4, 1.0),
             dedupe_state_path=Path(os.getenv("DEDUPE_STATE_PATH") or ".state/seen.json"),
             thread_merge_window_minutes=_bounded_int(
-                "THREAD_MERGE_WINDOW_MINUTES", 60, 5, 360
+                "THREAD_MERGE_WINDOW_MINUTES", 720, 5, 1_440
             ),
             player_data_path=Path(
                 os.getenv("PLAYER_DATA_PATH") or ".state/nfl_players.csv"

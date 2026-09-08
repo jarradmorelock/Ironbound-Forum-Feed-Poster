@@ -21,13 +21,13 @@ Direct X/Twitter collection is not enabled. X API access requires a developer ac
 2. Normalize and combine recent stories.
 3. Match player names against [NFLverse's public player directory](https://github.com/nflverse/nflverse-data/releases/tag/players) to find the current team and headshot.
 4. Reject exact repeats and likely duplicate reports from different sources.
-5. If another source reports materially new information about the same player within 60 minutes, add it to the existing Forum thread; suppress cross-source retellings of the same facts.
+5. If another source reports materially new information about the same player within 12 hours, add it to the existing Forum thread; suppress cross-source retellings of the same facts.
 6. Classify each story into every relevant Forum tag, up to Discord's five-tag limit.
 7. Create a player-first headline and a branded Gallery card using the player headshot and the server's existing team emoji when available.
 8. Suppress Discord's automatic link embed so the intentional Gallery image does not appear twice.
 9. Save story fingerprints and active-player thread IDs in the GitHub Actions cache.
 
-Only the newest three eligible stories are handled per run by default. An eligible story may create a new Gallery post or become a follow-up inside an active player thread. The 60-minute merge window starts when the first Forum post is created and does not keep extending forever.
+Only the newest three eligible stories are handled per run by default. An eligible story may create a new Gallery post or become a follow-up inside an active player thread. The 12-hour merge window starts when the first Forum post is created and does not keep extending forever.
 
 The webhook creates posts and adds follow-ups. A bot token is used only to rename and re-tag an existing Forum thread after a follow-up arrives; the bot does not need to remain online or connect to Discord's Gateway. Without that token, the follow-up is still posted, but the original headline remains unchanged.
 
@@ -99,7 +99,7 @@ Add `DISCORD_WEBHOOK_URL` and `DISCORD_BOT_TOKEN` as GitHub Actions **secrets**.
 | `MAX_STORY_AGE_HOURS` | `24` | Ignores feed entries published more than 24 hours ago |
 | `DEDUPE_WINDOW_HOURS` | `168` | Keeps seven days of story history |
 | `DEDUPE_SIMILARITY` | `0.62` | Fuzzy duplicate threshold |
-| `THREAD_MERGE_WINDOW_MINUTES` | `60` | Same-player stories found inside this window share one Forum thread |
+| `THREAD_MERGE_WINDOW_MINUTES` | `720` | Same-player stories found inside this window share one Forum thread |
 | `PLAYER_DATA_MAX_AGE_HOURS` | `24` | How often the cached NFL player/team/headshot directory refreshes |
 | `DRY_RUN` | `true` | Prints candidate payloads without posting or saving history |
 | `FORCE_REPOST` | `false` | Manual-run escape hatch for a deleted test post; bypasses saved duplicate history once |
