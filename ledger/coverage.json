@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "durable_since": "2026-09-28T04:07:46+00:00",
+  "meaning": "Accepted-story ledger is complete only for live Forum Feed Poster runs at or after this deployment time. Earlier Discord news history is not represented durably.",
+  "producer_commit": "2192a7dc5a9a312dc915439af4d94e17d42e0083"
+}
