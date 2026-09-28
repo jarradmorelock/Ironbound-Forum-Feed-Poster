@@ -37,6 +37,7 @@ class Settings:
     thread_merge_window_minutes: int
     player_data_path: Path
     player_data_max_age_hours: int
+    news_ledger_batch_path: Path
     request_timeout_seconds: int
     dry_run: bool
     force_repost: bool
@@ -76,6 +77,9 @@ class Settings:
             ),
             player_data_max_age_hours=_bounded_int(
                 "PLAYER_DATA_MAX_AGE_HOURS", 24, 1, 168
+            ),
+            news_ledger_batch_path=Path(
+                os.getenv("NEWS_LEDGER_BATCH_PATH") or ".out/news-ledger-batch.json"
             ),
             request_timeout_seconds=_bounded_int(
                 "REQUEST_TIMEOUT_SECONDS", 20, 5, 60

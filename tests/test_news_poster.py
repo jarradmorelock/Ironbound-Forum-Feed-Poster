@@ -15,6 +15,7 @@ from forum_feed_poster.discord import (
     generate_story_card,
     team_emoji_markup,
 )
+from forum_feed_poster.ledger import build_news_event, write_news_batch
 from forum_feed_poster.list_tags import _team_emoji_ids
 from forum_feed_poster.models import NewsSource, NewsStory
 from forum_feed_poster.presentation import PlayerDirectory, present_story
@@ -455,6 +456,54 @@ class SettingsTests(unittest.TestCase):
     def test_live_mode_requires_forum_tag_ids(self) -> None:
         with self.assertRaisesRegex(ValueError, "DISCORD_TAG_IDS_JSON"):
             Settings.from_environment()
+
+
+class NewsLedgerTests(unittest.TestCase):
+    def test_builds_compact_source_attributed_event(self) -> None:
+        players_csv = """gsis_id,display_name,common_first_name,first_name,last_name,football_name,headshot,last_season,latest_team
+00-0036875,Rhamondre Stevenson,Rhamondre,Rhamondre,Stevenson,Rhamondre,https://images.example/stevenson.png,2026,NE
+"""
+        directory = PlayerDirectory.from_csv(players_csv, current_year=2026)
+        source_story = story(
+            title="Rhamondre Stevenson named lead back",
+            summary="The coaching staff expects Stevenson to handle the lead role.",
+            url="https://example.com/stevenson-role?utm_source=test",
+        )
+        presentation = present_story(source_story, directory)
+
+        event = build_news_event(
+            source_story,
+            presentation,
+            ["Depth Chart", "Fantasy Analysis"],
+            action="create",
+            thread_id="12345",
+            accepted_at=datetime(2026, 9, 3, 16, 0, tzinfo=timezone.utc),
+        )
+
+        self.assertTrue(event["event_id"].startswith("news:"))
+        self.assertEqual(event["player"]["nflverse_id"], "00-0036875")
+        self.assertEqual(event["player"]["nfl_team"], "NE")
+        self.assertEqual(event["editorial"]["tags"], ["Depth Chart", "Fantasy Analysis"])
+        self.assertEqual(
+            event["source"]["canonical_url"],
+            "https://example.com/stevenson-role",
+        )
+        self.assertEqual(event["discord"]["thread_id"], "12345")
+        self.assertEqual(event["evidence"]["feed_summary"], source_story.summary)
+        self.assertNotIn("article_text", event["evidence"])
+
+    def test_writes_live_batch_and_removes_empty_stale_batch(self) -> None:
+        with tempfile.TemporaryDirectory() as temp_directory:
+            path = Path(temp_directory) / "batch.json"
+            event = {"event_id": "news:test"}
+
+            written = write_news_batch(path, [event])
+            self.assertEqual(written, path)
+            payload = json.loads(path.read_text(encoding="utf-8"))
+            self.assertEqual(payload["events"], [event])
+
+            self.assertIsNone(write_news_batch(path, []))
+            self.assertFalse(path.exists())
 
 
 class DiscordMetadataTests(unittest.TestCase):

@@ -25,6 +25,7 @@ from .discord import (
     team_emoji_cdn_url,
     team_emoji_markup,
 )
+from .ledger import build_news_event, write_news_batch
 from .models import NewsStory
 from .presentation import (
     PlayerDirectory,
@@ -76,6 +77,12 @@ def main() -> int:
             print(f"Warning: player directory unavailable; using article metadata: {exc}")
             players = PlayerDirectory.empty()
         posted = 0
+        accepted_news_events: list[dict] = []
+        # Never allow a stale batch from a previous local/live run to be reused.
+        try:
+            settings.news_ledger_batch_path.unlink()
+        except FileNotFoundError:
+            pass
 
         for story in collect_stories(settings, session):
             if posted >= settings.max_posts_per_run:
@@ -129,6 +136,7 @@ def main() -> int:
                 presentation.team, settings.discord_team_emoji_ids
             )
             action = "update" if active_thread else "create"
+            accepted_thread_id = active_thread.thread_id if active_thread else None
             payload = (
                 build_update_payload(story, attachment, presentation, emoji)
                 if active_thread
@@ -197,6 +205,7 @@ def main() -> int:
                         session,
                         settings.request_timeout_seconds,
                     )
+                    accepted_thread_id = message.channel_id
                     if presentation.player_key and presentation.player:
                         active_thread = ActiveThread(
                             player_key=presentation.player_key,
@@ -215,6 +224,7 @@ def main() -> int:
                         f"[{', '.join(tag_names)}]"
                     )
                 else:
+                    accepted_thread_id = active_thread.thread_id
                     active_thread.headline = presentation.thread_title
                     active_thread.updated_at = now.isoformat()
                     active_thread.tag_names = tag_names
@@ -265,7 +275,27 @@ def main() -> int:
             store.remember(story)
             if not settings.dry_run:
                 store.save()
+                accepted_news_events.append(
+                    build_news_event(
+                        story,
+                        presentation,
+                        tag_names,
+                        action=action,
+                        thread_id=accepted_thread_id,
+                    )
+                )
             posted += 1
+
+        if not settings.dry_run:
+            batch_path = write_news_batch(
+                settings.news_ledger_batch_path,
+                accepted_news_events,
+            )
+            if batch_path:
+                print(
+                    f"Wrote {len(accepted_news_events)} accepted news event(s) "
+                    f"for durable editorial handoff: {batch_path}"
+                )
 
         if posted == 0:
             print("No new stories were eligible for posting.")
