@@ -204,6 +204,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038597": {
+      "event_ids": [
+        "news:972e2bb1ade13ada0e79bcb5"
+      ],
+      "name": "Chase Brown",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0038597",
+      "primary_event_ids": [
+        "news:972e2bb1ade13ada0e79bcb5"
+      ],
+      "related_event_ids": []
+    },
     "00-0038621": {
       "event_ids": [
         "news:f578056da7a35ecc5c91839e"
@@ -241,6 +253,18 @@
         "news:a625e5185189728f129dadb7"
       ],
       "related_event_ids": []
+    },
+    "00-0039814": {
+      "event_ids": [
+        "news:972e2bb1ade13ada0e79bcb5"
+      ],
+      "name": "Erick All",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0039814",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:972e2bb1ade13ada0e79bcb5"
+      ]
     },
     "00-0039915": {
       "event_ids": [
