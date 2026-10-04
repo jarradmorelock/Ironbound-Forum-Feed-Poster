@@ -12,6 +12,30 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0031408": {
+      "event_ids": [
+        "news:f84b9d09908cda13b523c2a7"
+      ],
+      "name": "Mike Evans",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0031408",
+      "primary_event_ids": [
+        "news:f84b9d09908cda13b523c2a7"
+      ],
+      "related_event_ids": []
+    },
+    "00-0033288": {
+      "event_ids": [
+        "news:f84b9d09908cda13b523c2a7"
+      ],
+      "name": "George Kittle",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0033288",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f84b9d09908cda13b523c2a7"
+      ]
+    },
     "00-0033555": {
       "event_ids": [
         "news:f578056da7a35ecc5c91839e"
@@ -83,6 +107,18 @@
         "news:91d97dde6f4365c2e62aa2cc"
       ],
       "related_event_ids": []
+    },
+    "00-0040087": {
+      "event_ids": [
+        "news:f84b9d09908cda13b523c2a7"
+      ],
+      "name": "Brandon George",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0040087",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f84b9d09908cda13b523c2a7"
+      ]
     },
     "00-0040131": {
       "event_ids": [
