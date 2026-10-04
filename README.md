@@ -27,7 +27,7 @@ Direct X/Twitter collection is not enabled. X API access requires a developer ac
 8. Suppress Discord's automatic link embed so the intentional Gallery image does not appear twice.
 9. Save story fingerprints and active-player thread IDs in the GitHub Actions cache.
 
-Only the newest three eligible stories are handled per run by default. An eligible story may create a new Gallery post or become a follow-up inside an active player thread. The 12-hour merge window starts when the first Forum post is created and does not keep extending forever.
+Only the newest five eligible stories are handled per run by default. The scheduled workflow checks for new stories every 15 minutes. An eligible story may create a new Gallery post or become a follow-up inside an active player thread. The 12-hour merge window starts when the first Forum post is created and does not keep extending forever.
 
 The webhook creates posts and adds follow-ups. A bot token is used only to rename and re-tag an existing Forum thread after a follow-up arrives; the bot does not need to remain online or connect to Discord's Gateway. Without that token, the follow-up is still posted, but the original headline remains unchanged.
 
@@ -95,7 +95,7 @@ Add `DISCORD_WEBHOOK_URL` and `DISCORD_BOT_TOKEN` as GitHub Actions **secrets**.
 | `DISCORD_TAG_IDS_JSON` | `{}` | Maps Forum tag names to Discord tag IDs |
 | `DISCORD_TEAM_EMOJI_IDS_JSON` | `{}` | Maps NFL team abbreviations to existing server emoji IDs |
 | `NEWS_FEEDS_JSON` | Built-in sources | Optional JSON list of `{ "name", "url" }` feeds |
-| `MAX_POSTS_PER_RUN` | `3` | Live-post safety cap, from 1–10 |
+| `MAX_POSTS_PER_RUN` | `5` | Live-post safety cap, from 1–10 |
 | `MAX_STORY_AGE_HOURS` | `24` | Ignores feed entries published more than 24 hours ago |
 | `DEDUPE_WINDOW_HOURS` | `168` | Keeps seven days of story history |
 | `DEDUPE_SIMILARITY` | `0.62` | Fuzzy duplicate threshold |
@@ -133,6 +133,6 @@ The dry-run output includes the suggested tags, source image URL, downloaded ima
 2. Open **Actions → Post Discord Forum feed → Run workflow**.
 3. Leave **Dry run** enabled and **Force repost** disabled, then review the candidate stories.
 4. Run again with dry run disabled to create the first Gallery posts. Use **Force repost** only when a previously posted test thread was manually deleted and its story remains in cached history.
-5. After verifying the posts, uncomment the 30-minute `schedule` trigger in the workflow.
+5. The scheduled workflow checks every 15 minutes and handles up to five eligible stories per run by default. Keep the first scheduled run under observation after enabling live mode.
 
 The workflow carries `.state/seen.json` between runs using the GitHub Actions cache. This is intentionally lightweight: it substantially reduces repeats, including near-identical reports from different outlets, but cannot guarantee perfect semantic deduplication.

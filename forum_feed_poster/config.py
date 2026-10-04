@@ -63,7 +63,7 @@ class Settings:
                 os.getenv("DISCORD_TEAM_EMOJI_IDS_JSON"),
                 "DISCORD_TEAM_EMOJI_IDS_JSON",
             ),
-            max_posts_per_run=_bounded_int("MAX_POSTS_PER_RUN", 3, 1, 10),
+            max_posts_per_run=_bounded_int("MAX_POSTS_PER_RUN", 5, 1, 10),
             max_story_age_hours=_bounded_int("MAX_STORY_AGE_HOURS", 24, 1, 168),
             dedupe_window_hours=_bounded_int("DEDUPE_WINDOW_HOURS", 168, 1, 720),
             dedupe_similarity=_bounded_float("DEDUPE_SIMILARITY", 0.62, 0.4, 1.0),

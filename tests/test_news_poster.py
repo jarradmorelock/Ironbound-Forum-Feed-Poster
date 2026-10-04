@@ -445,6 +445,7 @@ class SettingsTests(unittest.TestCase):
         self.assertGreaterEqual(len(settings.news_sources), 2)
         self.assertIsNone(settings.discord_webhook_url)
         self.assertEqual(settings.max_story_age_hours, 24)
+        self.assertEqual(settings.max_posts_per_run, 5)
         self.assertEqual(settings.thread_merge_window_minutes, 720)
 
     @patch.dict(

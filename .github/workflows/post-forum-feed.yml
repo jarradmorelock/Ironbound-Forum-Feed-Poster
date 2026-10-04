@@ -13,9 +13,8 @@ on:
         required: true
         default: false
         type: boolean
-  # Enable after the live workflow has been verified:
-  # schedule:
-  #   - cron: "*/30 * * * *"
+  schedule:
+    - cron: "*/15 * * * *"
 
 permissions:
   contents: read
@@ -34,7 +33,7 @@ jobs:
       DISCORD_TAG_IDS_JSON: ${{ vars.DISCORD_TAG_IDS_JSON }}
       DISCORD_TEAM_EMOJI_IDS_JSON: ${{ vars.DISCORD_TEAM_EMOJI_IDS_JSON }}
       NEWS_FEEDS_JSON: ${{ vars.NEWS_FEEDS_JSON }}
-      MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN }}
+      MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN || '5' }}
       MAX_STORY_AGE_HOURS: ${{ vars.MAX_STORY_AGE_HOURS }}
       DEDUPE_WINDOW_HOURS: ${{ vars.DEDUPE_WINDOW_HOURS }}
       DEDUPE_SIMILARITY: ${{ vars.DEDUPE_SIMILARITY }}
