@@ -234,6 +234,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038104": {
+      "event_ids": [
+        "news:c30cd21be2f7f8281b577687"
+      ],
+      "name": "Tyquan Thornton",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0038104",
+      "primary_event_ids": [
+        "news:c30cd21be2f7f8281b577687"
+      ],
+      "related_event_ids": []
+    },
     "00-0038117": {
       "event_ids": [
         "news:77a7f3be3a4ffd5cbcdb00cc",
@@ -312,7 +324,8 @@
     "00-0039067": {
       "event_ids": [
         "news:56d06d1267908d3849343c6a",
-        "news:a625e5185189728f129dadb7"
+        "news:a625e5185189728f129dadb7",
+        "news:c30cd21be2f7f8281b577687"
       ],
       "name": "Rashee Rice",
       "nfl_team": "KC",
@@ -321,7 +334,9 @@
         "news:56d06d1267908d3849343c6a",
         "news:a625e5185189728f129dadb7"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:c30cd21be2f7f8281b577687"
+      ]
     },
     "00-0039163": {
       "event_ids": [
