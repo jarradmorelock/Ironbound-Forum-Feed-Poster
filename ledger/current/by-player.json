@@ -470,6 +470,7 @@
     },
     "00-0041438": {
       "event_ids": [
+        "news:01549e8af838842f0dfe8f67",
         "news:77a7f3be3a4ffd5cbcdb00cc",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
@@ -477,6 +478,7 @@
       "nfl_team": "TEN",
       "nflverse_id": "00-0041438",
       "primary_event_ids": [
+        "news:01549e8af838842f0dfe8f67",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "related_event_ids": [
