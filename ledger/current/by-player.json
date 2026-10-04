@@ -36,6 +36,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0031610": {
+      "event_ids": [
+        "news:303c972e64ef85754c49f9df"
+      ],
+      "name": "Darren Waller",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0031610",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:303c972e64ef85754c49f9df"
+      ]
+    },
     "00-0032764": {
       "event_ids": [
         "news:f91cd6e6bad4863f7506a249"
@@ -309,6 +321,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0038840": {
+      "event_ids": [
+        "news:303c972e64ef85754c49f9df"
+      ],
+      "name": "Brycen Tremayne",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0038840",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:303c972e64ef85754c49f9df"
+      ]
+    },
     "00-0039032": {
       "event_ids": [
         "news:2895c73454026dda022593e1"
@@ -347,6 +371,18 @@
       "nflverse_id": "00-0039163",
       "primary_event_ids": [
         "news:d39b9f3acfb6843815b8190b"
+      ],
+      "related_event_ids": []
+    },
+    "00-0039491": {
+      "event_ids": [
+        "news:303c972e64ef85754c49f9df"
+      ],
+      "name": "Jalen Coker",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0039491",
+      "primary_event_ids": [
+        "news:303c972e64ef85754c49f9df"
       ],
       "related_event_ids": []
     },
@@ -412,6 +448,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:f84b9d09908cda13b523c2a7"
+      ]
+    },
+    "00-0040124": {
+      "event_ids": [
+        "news:303c972e64ef85754c49f9df"
+      ],
+      "name": "Tetairoa McMillan",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0040124",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:303c972e64ef85754c49f9df"
       ]
     },
     "00-0040131": {
