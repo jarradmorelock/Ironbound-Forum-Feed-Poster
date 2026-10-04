@@ -254,6 +254,18 @@
         "news:d573fd29419a4595a79fe5b4"
       ]
     },
+    "00-0040719": {
+      "event_ids": [
+        "news:8f05113c5b0bc31d1cd9f229"
+      ],
+      "name": "Bhayshul Tuten",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0040719",
+      "primary_event_ids": [
+        "news:8f05113c5b0bc31d1cd9f229"
+      ],
+      "related_event_ids": []
+    },
     "00-0041117": {
       "event_ids": [
         "news:15c12b09c0c206a73220046d"
