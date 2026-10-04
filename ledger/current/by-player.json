@@ -1,0 +1,29 @@
+{
+  "players": {
+    "00-0034796": {
+      "event_ids": [
+        "news:5e17cc438064c7b969adb2c0"
+      ],
+      "name": "Lamar Jackson",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0034796",
+      "primary_event_ids": [
+        "news:5e17cc438064c7b969adb2c0"
+      ],
+      "related_event_ids": []
+    },
+    "00-0036152": {
+      "event_ids": [
+        "news:5e17cc438064c7b969adb2c0"
+      ],
+      "name": "Lamar Jackson",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0036152",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:5e17cc438064c7b969adb2c0"
+      ]
+    }
+  },
+  "schema_version": 2
+}
