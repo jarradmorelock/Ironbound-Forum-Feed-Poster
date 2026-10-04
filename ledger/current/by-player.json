@@ -209,12 +209,15 @@
     },
     "00-0038117": {
       "event_ids": [
+        "news:77a7f3be3a4ffd5cbcdb00cc",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "name": "Wan'Dale Robinson",
       "nfl_team": "TEN",
       "nflverse_id": "00-0038117",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:77a7f3be3a4ffd5cbcdb00cc"
+      ],
       "related_event_ids": [
         "news:ffd5d01a9aa25669f6b14fea"
       ]
@@ -455,6 +458,7 @@
     },
     "00-0041438": {
       "event_ids": [
+        "news:77a7f3be3a4ffd5cbcdb00cc",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "name": "Carnell Tate",
@@ -463,7 +467,9 @@
       "primary_event_ids": [
         "news:ffd5d01a9aa25669f6b14fea"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:77a7f3be3a4ffd5cbcdb00cc"
+      ]
     }
   },
   "schema_version": 2
