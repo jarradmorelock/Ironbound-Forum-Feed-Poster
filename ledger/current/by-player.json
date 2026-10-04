@@ -168,6 +168,18 @@
         "news:9c547095459f998d356ab8be"
       ]
     },
+    "00-0037248": {
+      "event_ids": [
+        "news:af43c5cdccc82ba0bb4c4407"
+      ],
+      "name": "James Cook",
+      "nfl_team": "BUF",
+      "nflverse_id": "00-0037248",
+      "primary_event_ids": [
+        "news:af43c5cdccc82ba0bb4c4407"
+      ],
+      "related_event_ids": []
+    },
     "00-0037816": {
       "event_ids": [
         "news:f578056da7a35ecc5c91839e"
