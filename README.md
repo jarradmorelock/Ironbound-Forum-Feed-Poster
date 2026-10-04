@@ -40,7 +40,17 @@ Editorial Desk does **not** scrape Discord and does **not** recollect these feed
 
 Every live story that successfully creates a Forum thread or is successfully
 added as a meaningful follow-up is written to the dedicated `news-data`
-branch at `ledger/events.jsonl`. Dry runs never write to the ledger.
+branch's bounded weekly inbox:
+
+```text
+ledger/current/manifest.json
+ledger/current/events.jsonl
+ledger/current/by-player.json
+```
+
+Dry runs never write to the ledger. `by-player.json` indexes both the primary
+player and every related player, so Editorial Desk can retrieve all stories for
+a player without scanning an ever-growing file.
 
 Each event keeps only the evidence needed for later editorial work:
 
@@ -51,13 +61,20 @@ Each event keeps only the evidence needed for later editorial work:
 - whether the Discord action created a thread or updated one; and
 - the Discord thread ID when available.
 
-Full article text is deliberately not archived. The ledger is an append-only
-editorial handoff, not an article mirror.
+Full article text is deliberately not archived. The active ledger is a weekly
+editorial handoff, not an article mirror. After Editorial Desk successfully
+persists a Tuesday packet, it may write `ledger/receipts/latest.json` naming the
+exact week, event count, and event digest. The next poster run then moves that
+week into `ledger/archive/` and starts a clean `ledger/current/` inbox. Without
+an exact receipt, the inbox is retained for retry.
 
 The live workflow uploads its accepted-story batch as a 30-day recovery
 artifact and then appends unseen event IDs to `news-data`. This gives
 Editorial Desk a durable source even though the duplicate-detection cache
-remains intentionally lightweight.
+remains intentionally lightweight. Automatic Tuesday acknowledgement requires
+the Editorial Desk repository to have a `NEWS_DATA_PUSH_TOKEN` secret with write
+access to this repository; without it, the receipt remains an artifact and the
+inbox is safely retained.
 
 ## Current tag mapping
 

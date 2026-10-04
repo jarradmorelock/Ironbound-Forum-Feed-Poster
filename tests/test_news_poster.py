@@ -15,7 +15,13 @@ from forum_feed_poster.discord import (
     generate_story_card,
     team_emoji_markup,
 )
-from forum_feed_poster.ledger import build_news_event, write_news_batch
+from forum_feed_poster.ledger import (
+    build_news_event,
+    build_player_index,
+    build_weekly_manifest,
+    receipt_matches,
+    write_news_batch,
+)
 from forum_feed_poster.list_tags import _team_emoji_ids
 from forum_feed_poster.models import NewsSource, NewsStory
 from forum_feed_poster.presentation import PlayerDirectory, present_story
@@ -505,6 +511,37 @@ class NewsLedgerTests(unittest.TestCase):
 
             self.assertIsNone(write_news_batch(path, []))
             self.assertFalse(path.exists())
+
+    def test_weekly_manifest_indexes_primary_and_related_players(self) -> None:
+        events = [
+            {
+                "event_id": "news:1",
+                "player": {"nflverse_id": "p1", "name": "Primary", "nfl_team": "NE"},
+                "related_players": [
+                    {"nflverse_id": "p2", "name": "Related", "nfl_team": "NE"}
+                ],
+            }
+        ]
+
+        index = build_player_index(events)
+        self.assertEqual(index["players"]["p1"]["primary_event_ids"], ["news:1"])
+        self.assertEqual(index["players"]["p2"]["related_event_ids"], ["news:1"])
+
+        manifest = build_weekly_manifest(
+            events,
+            week_key="2026-W40",
+            window_start="2026-09-29T00:00:00-04:00",
+            window_end="2026-10-06T00:00:00-04:00",
+        )
+        self.assertEqual(manifest["event_count"], 1)
+        self.assertEqual(manifest["player_count"], 2)
+        receipt = {
+            "week_key": "2026-W40",
+            "event_count": 1,
+            "events_sha256": manifest["events_sha256"],
+        }
+        self.assertTrue(receipt_matches(manifest, receipt))
+        self.assertFalse(receipt_matches({**manifest, "event_count": 2}, receipt))
 
 
 class DiscordMetadataTests(unittest.TestCase):

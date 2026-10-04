@@ -13,7 +13,95 @@ from .models import NewsStory
 from .presentation import StoryPresentation
 
 
-LEDGER_SCHEMA_VERSION = 1
+LEDGER_SCHEMA_VERSION = 2
+
+
+def _player_refs(event: dict[str, Any]) -> list[tuple[str, str, dict[str, Any]]]:
+    refs: list[tuple[str, str, dict[str, Any]]] = []
+    primary = event.get("player")
+    if isinstance(primary, dict) and primary.get("nflverse_id"):
+        refs.append((str(primary["nflverse_id"]), "primary", primary))
+    for related in event.get("related_players") or []:
+        if isinstance(related, dict) and related.get("nflverse_id"):
+            refs.append((str(related["nflverse_id"]), "related", related))
+    return refs
+
+
+def build_player_index(events: Iterable[dict[str, Any]]) -> dict[str, Any]:
+    """Build a compact lookup for every primary and related player in a batch."""
+    players: dict[str, dict[str, Any]] = {}
+    for event in events:
+        event_id = str(event.get("event_id") or "")
+        if not event_id:
+            continue
+        for player_id, role, player in _player_refs(event):
+            row = players.setdefault(
+                player_id,
+                {
+                    "nflverse_id": player_id,
+                    "name": player.get("name"),
+                    "nfl_team": player.get("nfl_team"),
+                    "event_ids": [],
+                    "primary_event_ids": [],
+                    "related_event_ids": [],
+                },
+            )
+            if event_id not in row["event_ids"]:
+                row["event_ids"].append(event_id)
+            target = "primary_event_ids" if role == "primary" else "related_event_ids"
+            if event_id not in row[target]:
+                row[target].append(event_id)
+    for row in players.values():
+        for key in ("event_ids", "primary_event_ids", "related_event_ids"):
+            row[key] = sorted(row[key])
+    return {
+        "schema_version": LEDGER_SCHEMA_VERSION,
+        "players": {key: players[key] for key in sorted(players)},
+    }
+
+
+def _events_digest(events: Iterable[dict[str, Any]]) -> str:
+    material = "".join(
+        json.dumps(event, sort_keys=True, ensure_ascii=False, separators=(",", ":"))
+        + "\n"
+        for event in events
+    )
+    return hashlib.sha256(material.encode("utf-8")).hexdigest()
+
+
+def build_weekly_manifest(
+    events: Iterable[dict[str, Any]],
+    *,
+    week_key: str,
+    window_start: str,
+    window_end: str,
+    generated_at: datetime | None = None,
+) -> dict[str, Any]:
+    rows = list(events)
+    return {
+        "schema_version": LEDGER_SCHEMA_VERSION,
+        "ledger_type": "weekly_news_inbox",
+        "week_key": str(week_key),
+        "window_start": str(window_start),
+        "window_end": str(window_end),
+        "generated_at": (generated_at or datetime.now(timezone.utc)).astimezone(timezone.utc).isoformat(),
+        "event_count": len(rows),
+        "player_count": len(build_player_index(rows).get("players") or {}),
+        "events_sha256": _events_digest(rows),
+    }
+
+
+def receipt_matches(manifest: dict[str, Any], receipt: dict[str, Any]) -> bool:
+    """Return true only for a receipt acknowledging this exact inbox revision."""
+    manifest_count = manifest.get("event_count")
+    receipt_count = receipt.get("event_count")
+    return (
+        str(receipt.get("week_key") or "") == str(manifest.get("week_key") or "")
+        and str(receipt.get("events_sha256") or "") == str(manifest.get("events_sha256") or "")
+        and receipt_count is not None
+        and manifest_count is not None
+        and int(receipt_count) == int(manifest_count)
+    )
 
 
 def build_news_event(

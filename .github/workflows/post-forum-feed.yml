@@ -98,46 +98,121 @@ jobs:
           import json
           from pathlib import Path
 
+          import shutil
+          import sys
+          from datetime import datetime, timedelta, timezone
+          from zoneinfo import ZoneInfo
+
+          sys.path.insert(0, str(Path.cwd()))
+          from forum_feed_poster.ledger import build_player_index, build_weekly_manifest, receipt_matches
+
           batch = json.loads(Path(".out/news-ledger-batch.json").read_text(encoding="utf-8"))
           events = list(batch.get("events") or [])
-          ledger = Path("/tmp/ironbound-news-data/ledger/events.jsonl")
-          ledger.parent.mkdir(parents=True, exist_ok=True)
+          ledger_root = Path("/tmp/ironbound-news-data/ledger")
+          current = ledger_root / "current"
+          current.mkdir(parents=True, exist_ok=True)
+          ledger = current / "events.jsonl"
+          legacy_ledger = ledger_root / "events.jsonl"
+          migrated_legacy = False
 
-          existing_lines = ledger.read_text(encoding="utf-8").splitlines() if ledger.exists() else []
-          existing_ids = set()
-          for line in existing_lines:
-              if not line.strip():
-                  continue
+          existing = []
+          if ledger.exists():
+              for line in ledger.read_text(encoding="utf-8").splitlines():
+                  if line.strip():
+                      try:
+                          row = json.loads(line)
+                      except json.JSONDecodeError:
+                          continue
+                      if isinstance(row, dict):
+                          existing.append(row)
+          elif legacy_ledger.exists():
+              migrated_legacy = True
+              for line in legacy_ledger.read_text(encoding="utf-8").splitlines():
+                  if line.strip():
+                      try:
+                          row = json.loads(line)
+                      except json.JSONDecodeError:
+                          continue
+                      if isinstance(row, dict):
+                          existing.append(row)
+
+          if migrated_legacy:
+              # Do not turn the historical all-time file into the new active
+              # weekly inbox. Preserve it as an archive and start the bounded
+              # contract with stories accepted from this run onward.
+              migration_archive = ledger_root / "archive" / "legacy-migration" / "events.jsonl"
+              migration_archive.parent.mkdir(parents=True, exist_ok=True)
+              shutil.move(str(legacy_ledger), str(migration_archive))
+              existing = []
+              print("Moved legacy all-time ledger to archive/legacy-migration; starting a bounded inbox.")
+
+          # A Tuesday Editorial Desk receipt is the only thing allowed to close
+          # the active inbox. New stories collected in this run remain in the
+          # newly opened week after rotation.
+          old_manifest_path = current / "manifest.json"
+          receipt_path = ledger_root / "receipts" / "latest.json"
+          if old_manifest_path.exists() and receipt_path.exists():
               try:
-                  row = json.loads(line)
-              except json.JSONDecodeError:
-                  continue
-              if row.get("event_id"):
-                  existing_ids.add(str(row["event_id"]))
+                  old_manifest = json.loads(old_manifest_path.read_text(encoding="utf-8"))
+                  receipt = json.loads(receipt_path.read_text(encoding="utf-8"))
+              except (OSError, json.JSONDecodeError):
+                  old_manifest = receipt = {}
+              if old_manifest and receipt_matches(old_manifest, receipt):
+                  archive = ledger_root / "archive" / str(old_manifest["week_key"])
+                  archive.parent.mkdir(parents=True, exist_ok=True)
+                  if archive.exists():
+                      shutil.rmtree(archive)
+                  shutil.move(str(current), str(archive))
+                  current.mkdir(parents=True, exist_ok=True)
+                  existing = []
+                  receipt_path.unlink(missing_ok=True)
+                  print(f"Rotated acknowledged inbox {old_manifest['week_key']}.")
 
-          additions = [
-              event for event in events
-              if str(event.get("event_id") or "") not in existing_ids
-          ]
-          if additions:
-              with ledger.open("a", encoding="utf-8") as handle:
-                  for event in additions:
-                      handle.write(
-                          json.dumps(
-                              event,
-                              sort_keys=True,
-                              ensure_ascii=False,
-                              separators=(",", ":"),
-                          )
-                          + "\n"
-                      )
-          print(f"Accepted batch: {len(events)} event(s); appended: {len(additions)}.")
+          existing_ids = {str(row.get("event_id")) for row in existing if row.get("event_id")}
+          additions = [event for event in events if str(event.get("event_id") or "") not in existing_ids]
+          combined = existing + additions
+
+          now = datetime.now(ZoneInfo("America/New_York"))
+          prior_manifest = None
+          if old_manifest_path.exists():
+              try:
+                  prior_manifest = json.loads(old_manifest_path.read_text(encoding="utf-8"))
+              except (OSError, json.JSONDecodeError):
+                  prior_manifest = None
+          if prior_manifest and prior_manifest.get("week_key"):
+              week_key = str(prior_manifest["week_key"])
+              window_start = datetime.fromisoformat(str(prior_manifest["window_start"]))
+              window_end = datetime.fromisoformat(str(prior_manifest["window_end"]))
+          else:
+              days_since_tuesday = (now.weekday() - 1) % 7
+              window_start = (now - timedelta(days=days_since_tuesday)).replace(hour=0, minute=0, second=0, microsecond=0)
+              window_end = window_start + timedelta(days=7)
+              week_key = window_start.date().isoformat()
+          manifest = build_weekly_manifest(
+              combined,
+              week_key=week_key,
+              window_start=window_start.isoformat(),
+              window_end=window_end.isoformat(),
+          )
+          ledger.write_text(
+              "".join(json.dumps(row, sort_keys=True, ensure_ascii=False, separators=(",", ":")) + "\n" for row in combined),
+              encoding="utf-8",
+          )
+          (current / "by-player.json").write_text(
+              json.dumps(build_player_index(combined), indent=2, sort_keys=True, ensure_ascii=False) + "\n",
+              encoding="utf-8",
+          )
+          (current / "manifest.json").write_text(
+              json.dumps(manifest, indent=2, sort_keys=True, ensure_ascii=False) + "\n",
+              encoding="utf-8",
+          )
+          print(f"Accepted batch: {len(events)} event(s); appended: {len(additions)}; active inbox: {len(combined)}.")
           PY
 
           cd /tmp/ironbound-news-data
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ledger/events.jsonl
+          git add -A ledger
           if git diff --cached --quiet; then
             echo "Durable news ledger already contains this batch."
             exit 0
