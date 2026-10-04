@@ -120,6 +120,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0036442": {
+      "event_ids": [
+        "news:d4e998a309ac3345d219e197"
+      ],
+      "name": "Joe Burrow",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0036442",
+      "primary_event_ids": [
+        "news:d4e998a309ac3345d219e197"
+      ],
+      "related_event_ids": []
+    },
     "00-0036992": {
       "event_ids": [
         "news:9c547095459f998d356ab8be"
