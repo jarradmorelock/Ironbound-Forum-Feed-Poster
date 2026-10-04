@@ -204,6 +204,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038124": {
+      "event_ids": [
+        "news:3c6d60cedebd49a719058e2a"
+      ],
+      "name": "Christian Watson",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0038124",
+      "primary_event_ids": [
+        "news:3c6d60cedebd49a719058e2a"
+      ],
+      "related_event_ids": []
+    },
     "00-0038597": {
       "event_ids": [
         "news:972e2bb1ade13ada0e79bcb5"
@@ -268,6 +280,7 @@
     },
     "00-0039814": {
       "event_ids": [
+        "news:3c6d60cedebd49a719058e2a",
         "news:972e2bb1ade13ada0e79bcb5"
       ],
       "name": "Erick All",
@@ -275,6 +288,7 @@
       "nflverse_id": "00-0039814",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:3c6d60cedebd49a719058e2a",
         "news:972e2bb1ade13ada0e79bcb5"
       ]
     },
