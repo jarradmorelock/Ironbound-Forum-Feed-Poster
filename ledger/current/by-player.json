@@ -24,6 +24,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0031503": {
+      "event_ids": [
+        "news:d573fd29419a4595a79fe5b4"
+      ],
+      "name": "Jameis Winston",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0031503",
+      "primary_event_ids": [
+        "news:d573fd29419a4595a79fe5b4"
+      ],
+      "related_event_ids": []
+    },
     "00-0033288": {
       "event_ids": [
         "news:f84b9d09908cda13b523c2a7"
@@ -215,6 +227,18 @@
         "news:587451581e3ecd268e2830a8"
       ],
       "related_event_ids": []
+    },
+    "00-0040691": {
+      "event_ids": [
+        "news:d573fd29419a4595a79fe5b4"
+      ],
+      "name": "Jaxson Dart",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0040691",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:d573fd29419a4595a79fe5b4"
+      ]
     },
     "00-0041117": {
       "event_ids": [
