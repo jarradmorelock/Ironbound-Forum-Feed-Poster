@@ -319,6 +319,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039919": {
+      "event_ids": [
+        "news:a9a9542226692374de40a098"
+      ],
+      "name": "Rome Odunze",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0039919",
+      "primary_event_ids": [
+        "news:a9a9542226692374de40a098"
+      ],
+      "related_event_ids": []
+    },
     "00-0040087": {
       "event_ids": [
         "news:f84b9d09908cda13b523c2a7"
