@@ -168,6 +168,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0040236": {
+      "event_ids": [
+        "news:587451581e3ecd268e2830a8"
+      ],
+      "name": "Kyle Monangai",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0040236",
+      "primary_event_ids": [
+        "news:587451581e3ecd268e2830a8"
+      ],
+      "related_event_ids": []
+    },
     "00-0041117": {
       "event_ids": [
         "news:15c12b09c0c206a73220046d"
