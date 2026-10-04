@@ -1,0 +1,11 @@
+{
+  "consumed_at": "2026-10-04T19:51:19.640655+00:00",
+  "event_count": 7,
+  "events_sha256": "49d4cabdff8c0f69ac8cffe267f7aebe7324f71326511dbc2ada510adef1b7c6",
+  "issue_key": "ironbound_weekly-2026-week-3",
+  "packet_sha256": "69e29780993fc5ecb60e299fb10c541fba1ff0a1637fa8f8e518b33ff8482877",
+  "policy": "Rotate the active news inbox only after this exact revision is persisted in the publication packet.",
+  "schema_version": 1,
+  "source_revision": "f9eb06674b7a96b1d649d2765ef4e19a137ca6aa",
+  "week_key": "2026-09-29"
+}
