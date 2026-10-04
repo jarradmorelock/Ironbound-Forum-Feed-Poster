@@ -1,5 +1,29 @@
 {
   "players": {
+    "00-0031040": {
+      "event_ids": [
+        "news:f578056da7a35ecc5c91839e"
+      ],
+      "name": "Khalil Mack",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0031040",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f578056da7a35ecc5c91839e"
+      ]
+    },
+    "00-0033555": {
+      "event_ids": [
+        "news:f578056da7a35ecc5c91839e"
+      ],
+      "name": "Mack Hollins",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0033555",
+      "primary_event_ids": [
+        "news:f578056da7a35ecc5c91839e"
+      ],
+      "related_event_ids": []
+    },
     "00-0034796": {
       "event_ids": [
         "news:5e17cc438064c7b969adb2c0"
@@ -24,6 +48,30 @@
         "news:5e17cc438064c7b969adb2c0"
       ]
     },
+    "00-0037816": {
+      "event_ids": [
+        "news:f578056da7a35ecc5c91839e"
+      ],
+      "name": "Romeo Doubs",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0037816",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f578056da7a35ecc5c91839e"
+      ]
+    },
+    "00-0038621": {
+      "event_ids": [
+        "news:f578056da7a35ecc5c91839e"
+      ],
+      "name": "DeMario Douglas",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0038621",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f578056da7a35ecc5c91839e"
+      ]
+    },
     "00-0039915": {
       "event_ids": [
         "news:91d97dde6f4365c2e62aa2cc"
@@ -35,6 +83,18 @@
         "news:91d97dde6f4365c2e62aa2cc"
       ],
       "related_event_ids": []
+    },
+    "00-0040131": {
+      "event_ids": [
+        "news:f578056da7a35ecc5c91839e"
+      ],
+      "name": "Kyle Williams",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0040131",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f578056da7a35ecc5c91839e"
+      ]
     }
   },
   "schema_version": 2
