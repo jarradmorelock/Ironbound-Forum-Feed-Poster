@@ -17,7 +17,7 @@ on:
     - cron: "*/15 * * * *"
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: ironbound-forum-feed-poster
@@ -43,6 +43,7 @@ jobs:
       PLAYER_DATA_MAX_AGE_HOURS: ${{ vars.PLAYER_DATA_MAX_AGE_HOURS }}
       DRY_RUN: ${{ inputs.dry_run }}
       FORCE_REPOST: ${{ inputs.force_repost }}
+      NEWS_LEDGER_BATCH_PATH: .out/news-ledger-batch.json
 
     steps:
       - name: Check out repository
@@ -70,3 +71,76 @@ jobs:
 
       - name: Collect and post player news
         run: python -m forum_feed_poster
+
+      - name: Preserve accepted-story handoff artifact
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: accepted-news-ledger-${{ github.run_number }}
+          if-no-files-found: ignore
+          path: .out/news-ledger-batch.json
+          retention-days: 30
+
+      - name: Append accepted stories to durable news ledger
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ "${DRY_RUN,,}" = "true" ] || [ ! -f .out/news-ledger-batch.json ]; then
+            echo "No live accepted-story batch to persist."
+            exit 0
+          fi
+
+          git fetch origin news-data
+          rm -rf /tmp/ironbound-news-data
+          git worktree add --detach /tmp/ironbound-news-data origin/news-data
+
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          batch = json.loads(Path(".out/news-ledger-batch.json").read_text(encoding="utf-8"))
+          events = list(batch.get("events") or [])
+          ledger = Path("/tmp/ironbound-news-data/ledger/events.jsonl")
+          ledger.parent.mkdir(parents=True, exist_ok=True)
+
+          existing_lines = ledger.read_text(encoding="utf-8").splitlines() if ledger.exists() else []
+          existing_ids = set()
+          for line in existing_lines:
+              if not line.strip():
+                  continue
+              try:
+                  row = json.loads(line)
+              except json.JSONDecodeError:
+                  continue
+              if row.get("event_id"):
+                  existing_ids.add(str(row["event_id"]))
+
+          additions = [
+              event for event in events
+              if str(event.get("event_id") or "") not in existing_ids
+          ]
+          if additions:
+              with ledger.open("a", encoding="utf-8") as handle:
+                  for event in additions:
+                      handle.write(
+                          json.dumps(
+                              event,
+                              sort_keys=True,
+                              ensure_ascii=False,
+                              separators=(",", ":"),
+                          )
+                          + "\n"
+                      )
+          print(f"Accepted batch: {len(events)} event(s); appended: {len(additions)}.")
+          PY
+
+          cd /tmp/ironbound-news-data
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ledger/events.jsonl
+          if git diff --cached --quiet; then
+            echo "Durable news ledger already contains this batch."
+            exit 0
+          fi
+          git commit -m "news: append accepted Discord stories"
+          git push origin HEAD:news-data

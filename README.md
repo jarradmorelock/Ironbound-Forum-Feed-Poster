@@ -26,10 +26,38 @@ Direct X/Twitter collection is not enabled. X API access requires a developer ac
 7. Create a player-first headline and a branded Gallery card using the player headshot and the server's existing team emoji when available.
 8. Suppress Discord's automatic link embed so the intentional Gallery image does not appear twice.
 9. Save story fingerprints and active-player thread IDs in the GitHub Actions cache.
+10. For every story that is actually accepted into Discord, emit a compact source-attributed editorial event and append it to the durable `news-data` branch.
 
 Only the newest five eligible stories are handled per run by default. The scheduled workflow checks for new stories every 15 minutes. An eligible story may create a new Gallery post or become a follow-up inside an active player thread. The 12-hour merge window starts when the first Forum post is created and does not keep extending forever.
 
 The webhook creates posts and adds follow-ups. A bot token is used only to rename and re-tag an existing Forum thread after a follow-up arrives; the bot does not need to remain online or connect to Discord's Gateway. Without that token, the follow-up is still posted, but the original headline remains unchanged.
+
+## Durable editorial news ledger
+
+The Discord poster remains the authority for player-news collection, player/team
+resolution, classification, duplicate suppression, and same-player follow-ups.
+Editorial Desk does **not** scrape Discord and does **not** recollect these feeds.
+
+Every live story that successfully creates a Forum thread or is successfully
+added as a meaningful follow-up is written to the dedicated `news-data`
+branch at `ledger/events.jsonl`. Dry runs never write to the ledger.
+
+Each event keeps only the evidence needed for later editorial work:
+
+- source name, source URL, canonical URL, publication time;
+- original feed title and feed-provided summary;
+- normalized/player-first headline and Forum tags;
+- resolved NFLverse player ID, player name, NFL team, and related players;
+- whether the Discord action created a thread or updated one; and
+- the Discord thread ID when available.
+
+Full article text is deliberately not archived. The ledger is an append-only
+editorial handoff, not an article mirror.
+
+The live workflow uploads its accepted-story batch as a 30-day recovery
+artifact and then appends unseen event IDs to `news-data`. This gives
+Editorial Desk a durable source even though the duplicate-detection cache
+remains intentionally lightweight.
 
 ## Current tag mapping
 
@@ -101,6 +129,7 @@ Add `DISCORD_WEBHOOK_URL` and `DISCORD_BOT_TOKEN` as GitHub Actions **secrets**.
 | `DEDUPE_SIMILARITY` | `0.62` | Fuzzy duplicate threshold |
 | `THREAD_MERGE_WINDOW_MINUTES` | `720` | Same-player stories found inside this window share one Forum thread |
 | `PLAYER_DATA_MAX_AGE_HOURS` | `24` | How often the cached NFL player/team/headshot directory refreshes |
+| `NEWS_LEDGER_BATCH_PATH` | `.out/news-ledger-batch.json` | Temporary accepted-story batch consumed by the GitHub workflow before durable `news-data` persistence |
 | `DRY_RUN` | `true` | Prints candidate payloads without posting or saving history |
 | `FORCE_REPOST` | `false` | Manual-run escape hatch for a deleted test post; bypasses saved duplicate history once |
 
