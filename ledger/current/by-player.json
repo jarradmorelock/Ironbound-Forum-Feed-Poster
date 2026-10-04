@@ -84,6 +84,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0035261": {
+      "event_ids": [
+        "news:2895c73454026dda022593e1"
+      ],
+      "name": "Tony Pollard",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0035261",
+      "primary_event_ids": [
+        "news:2895c73454026dda022593e1"
+      ],
+      "related_event_ids": []
+    },
     "00-0035710": {
       "event_ids": [
         "news:ac0f5b783e106fa472ccb883"
@@ -180,6 +192,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0039032": {
+      "event_ids": [
+        "news:2895c73454026dda022593e1"
+      ],
+      "name": "Tyjae Spears",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0039032",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:2895c73454026dda022593e1"
+      ]
+    },
     "00-0039067": {
       "event_ids": [
         "news:56d06d1267908d3849343c6a",
@@ -265,6 +289,18 @@
         "news:8f05113c5b0bc31d1cd9f229"
       ],
       "related_event_ids": []
+    },
+    "00-0040886": {
+      "event_ids": [
+        "news:2895c73454026dda022593e1"
+      ],
+      "name": "Nicholas Singleton",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0040886",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:2895c73454026dda022593e1"
+      ]
     },
     "00-0041117": {
       "event_ids": [
