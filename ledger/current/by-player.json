@@ -243,6 +243,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038606": {
+      "event_ids": [
+        "news:a91be86b465333c628438998"
+      ],
+      "name": "Parker Washington",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0038606",
+      "primary_event_ids": [
+        "news:a91be86b465333c628438998"
+      ],
+      "related_event_ids": []
+    },
     "00-0038621": {
       "event_ids": [
         "news:f578056da7a35ecc5c91839e"
