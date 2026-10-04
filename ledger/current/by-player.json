@@ -48,6 +48,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0034790": {
+      "event_ids": [
+        "news:9c547095459f998d356ab8be"
+      ],
+      "name": "Derwin James",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0034790",
+      "primary_event_ids": [
+        "news:9c547095459f998d356ab8be"
+      ],
+      "related_event_ids": []
+    },
     "00-0034796": {
       "event_ids": [
         "news:5e17cc438064c7b969adb2c0"
@@ -82,6 +94,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:5e17cc438064c7b969adb2c0"
+      ]
+    },
+    "00-0036992": {
+      "event_ids": [
+        "news:9c547095459f998d356ab8be"
+      ],
+      "name": "Elijah Molden",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0036992",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9c547095459f998d356ab8be"
       ]
     },
     "00-0037816": {
