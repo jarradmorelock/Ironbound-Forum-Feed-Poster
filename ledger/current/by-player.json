@@ -143,6 +143,18 @@
       "related_event_ids": [
         "news:f578056da7a35ecc5c91839e"
       ]
+    },
+    "00-0041117": {
+      "event_ids": [
+        "news:15c12b09c0c206a73220046d"
+      ],
+      "name": "Athan Kaliakmanis",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0041117",
+      "primary_event_ids": [
+        "news:15c12b09c0c206a73220046d"
+      ],
+      "related_event_ids": []
     }
   },
   "schema_version": 2
