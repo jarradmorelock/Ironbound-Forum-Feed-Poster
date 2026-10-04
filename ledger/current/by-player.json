@@ -492,6 +492,18 @@
         "news:2895c73454026dda022593e1"
       ]
     },
+    "00-0041027": {
+      "event_ids": [
+        "news:617c7c7be6a2cdc9cf999866"
+      ],
+      "name": "Jeremiyah Love",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0041027",
+      "primary_event_ids": [
+        "news:617c7c7be6a2cdc9cf999866"
+      ],
+      "related_event_ids": []
+    },
     "00-0041117": {
       "event_ids": [
         "news:15c12b09c0c206a73220046d"
