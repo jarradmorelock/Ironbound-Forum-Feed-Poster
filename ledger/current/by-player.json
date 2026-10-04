@@ -156,6 +156,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0039067": {
+      "event_ids": [
+        "news:a625e5185189728f129dadb7"
+      ],
+      "name": "Rashee Rice",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0039067",
+      "primary_event_ids": [
+        "news:a625e5185189728f129dadb7"
+      ],
+      "related_event_ids": []
+    },
     "00-0039915": {
       "event_ids": [
         "news:91d97dde6f4365c2e62aa2cc"
