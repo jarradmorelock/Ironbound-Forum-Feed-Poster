@@ -23,6 +23,18 @@
       "related_event_ids": [
         "news:5e17cc438064c7b969adb2c0"
       ]
+    },
+    "00-0039915": {
+      "event_ids": [
+        "news:91d97dde6f4365c2e62aa2cc"
+      ],
+      "name": "Ladd McConkey",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0039915",
+      "primary_event_ids": [
+        "news:91d97dde6f4365c2e62aa2cc"
+      ],
+      "related_event_ids": []
     }
   },
   "schema_version": 2
