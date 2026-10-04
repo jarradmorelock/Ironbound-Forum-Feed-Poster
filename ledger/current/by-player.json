@@ -123,6 +123,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0035993": {
+      "event_ids": [
+        "news:5ed096c865c22a8a68e0eba6"
+      ],
+      "name": "Tyler Huntley",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0035993",
+      "primary_event_ids": [
+        "news:5ed096c865c22a8a68e0eba6"
+      ],
+      "related_event_ids": []
+    },
     "00-0036152": {
       "event_ids": [
         "news:5e17cc438064c7b969adb2c0"
