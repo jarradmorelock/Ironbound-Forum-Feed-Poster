@@ -254,6 +254,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039794": {
+      "event_ids": [
+        "news:e9db674a6ef7f0fc4f29c50b"
+      ],
+      "name": "Braelon Allen",
+      "nfl_team": "NYJ",
+      "nflverse_id": "00-0039794",
+      "primary_event_ids": [
+        "news:e9db674a6ef7f0fc4f29c50b"
+      ],
+      "related_event_ids": []
+    },
     "00-0039814": {
       "event_ids": [
         "news:972e2bb1ade13ada0e79bcb5"
