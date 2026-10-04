@@ -36,6 +36,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0032764": {
+      "event_ids": [
+        "news:f91cd6e6bad4863f7506a249"
+      ],
+      "name": "Derrick Henry",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0032764",
+      "primary_event_ids": [
+        "news:f91cd6e6bad4863f7506a249"
+      ],
+      "related_event_ids": []
+    },
     "00-0033288": {
       "event_ids": [
         "news:f84b9d09908cda13b523c2a7"
