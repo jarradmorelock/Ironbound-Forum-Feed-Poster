@@ -120,6 +120,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0037840": {
+      "event_ids": [
+        "news:71bd295d4325a0c9822c7c73"
+      ],
+      "name": "Kyren Williams",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0037840",
+      "primary_event_ids": [
+        "news:71bd295d4325a0c9822c7c73"
+      ],
+      "related_event_ids": []
+    },
     "00-0038621": {
       "event_ids": [
         "news:f578056da7a35ecc5c91839e"
