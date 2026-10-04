@@ -86,7 +86,8 @@
     },
     "00-0035261": {
       "event_ids": [
-        "news:2895c73454026dda022593e1"
+        "news:2895c73454026dda022593e1",
+        "news:ffd5d01a9aa25669f6b14fea"
       ],
       "name": "Tony Pollard",
       "nfl_team": "TEN",
@@ -94,7 +95,9 @@
       "primary_event_ids": [
         "news:2895c73454026dda022593e1"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:ffd5d01a9aa25669f6b14fea"
+      ]
     },
     "00-0035710": {
       "event_ids": [
@@ -203,6 +206,18 @@
         "news:71bd295d4325a0c9822c7c73"
       ],
       "related_event_ids": []
+    },
+    "00-0038117": {
+      "event_ids": [
+        "news:ffd5d01a9aa25669f6b14fea"
+      ],
+      "name": "Wan'Dale Robinson",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0038117",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ffd5d01a9aa25669f6b14fea"
+      ]
     },
     "00-0038124": {
       "event_ids": [
@@ -397,6 +412,18 @@
       "nflverse_id": "00-0041117",
       "primary_event_ids": [
         "news:15c12b09c0c206a73220046d"
+      ],
+      "related_event_ids": []
+    },
+    "00-0041438": {
+      "event_ids": [
+        "news:ffd5d01a9aa25669f6b14fea"
+      ],
+      "name": "Carnell Tate",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0041438",
+      "primary_event_ids": [
+        "news:ffd5d01a9aa25669f6b14fea"
       ],
       "related_event_ids": []
     }
