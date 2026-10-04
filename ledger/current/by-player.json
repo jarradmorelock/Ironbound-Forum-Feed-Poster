@@ -96,6 +96,18 @@
         "news:5e17cc438064c7b969adb2c0"
       ]
     },
+    "00-0036410": {
+      "event_ids": [
+        "news:f306a9f02b328bcdd5ec92f5"
+      ],
+      "name": "Tee Higgins",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0036410",
+      "primary_event_ids": [
+        "news:f306a9f02b328bcdd5ec92f5"
+      ],
+      "related_event_ids": []
+    },
     "00-0036992": {
       "event_ids": [
         "news:9c547095459f998d356ab8be"
