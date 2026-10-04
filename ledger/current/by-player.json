@@ -209,12 +209,15 @@
     },
     "00-0037816": {
       "event_ids": [
+        "news:cb00091216738b65f37f4268",
         "news:f578056da7a35ecc5c91839e"
       ],
       "name": "Romeo Doubs",
       "nfl_team": "NE",
       "nflverse_id": "00-0037816",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:cb00091216738b65f37f4268"
+      ],
       "related_event_ids": [
         "news:f578056da7a35ecc5c91839e"
       ]
