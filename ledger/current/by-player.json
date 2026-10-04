@@ -396,6 +396,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040676": {
+      "event_ids": [
+        "news:59aaae2da7c278f0258036aa"
+      ],
+      "name": "Cam Ward",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0040676",
+      "primary_event_ids": [
+        "news:59aaae2da7c278f0258036aa"
+      ],
+      "related_event_ids": []
+    },
     "00-0040691": {
       "event_ids": [
         "news:d573fd29419a4595a79fe5b4"
