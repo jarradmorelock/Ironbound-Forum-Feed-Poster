@@ -281,6 +281,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039163": {
+      "event_ids": [
+        "news:d39b9f3acfb6843815b8190b"
+      ],
+      "name": "C.J. Stroud",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0039163",
+      "primary_event_ids": [
+        "news:d39b9f3acfb6843815b8190b"
+      ],
+      "related_event_ids": []
+    },
     "00-0039794": {
       "event_ids": [
         "news:e9db674a6ef7f0fc4f29c50b"
