@@ -219,6 +219,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0037744": {
+      "event_ids": [
+        "news:dd9f111d60978f25ece66441"
+      ],
+      "name": "Trey McBride",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0037744",
+      "primary_event_ids": [
+        "news:dd9f111d60978f25ece66441"
+      ],
+      "related_event_ids": []
+    },
     "00-0037816": {
       "event_ids": [
         "news:cb00091216738b65f37f4268",
