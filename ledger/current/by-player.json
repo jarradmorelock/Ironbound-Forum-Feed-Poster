@@ -343,6 +343,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0036875": {
+      "event_ids": [
+        "news:13706ce1d35499b7e2a3d22c"
+      ],
+      "name": "Rhamondre Stevenson",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0036875",
+      "primary_event_ids": [
+        "news:13706ce1d35499b7e2a3d22c"
+      ],
+      "related_event_ids": []
+    },
     "00-0036963": {
       "event_ids": [
         "news:093ff451a1968e81d9e43e03"
