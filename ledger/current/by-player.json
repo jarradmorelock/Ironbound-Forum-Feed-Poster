@@ -1019,6 +1019,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038996": {
+      "event_ids": [
+        "news:3bbca9a1b36ea92945f1d796"
+      ],
+      "name": "Tucker Kraft",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0038996",
+      "primary_event_ids": [
+        "news:3bbca9a1b36ea92945f1d796"
+      ],
+      "related_event_ids": []
+    },
     "00-0039032": {
       "event_ids": [
         "news:2895c73454026dda022593e1"
@@ -1137,6 +1149,7 @@
     "00-0039234": {
       "event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
+        "news:3bbca9a1b36ea92945f1d796",
         "news:8a04d508618a5eb5e4a0227d"
       ],
       "name": "T.J. Tampa",
@@ -1145,6 +1158,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
+        "news:3bbca9a1b36ea92945f1d796",
         "news:8a04d508618a5eb5e4a0227d"
       ]
     },
