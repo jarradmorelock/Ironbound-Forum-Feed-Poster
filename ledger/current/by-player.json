@@ -326,14 +326,16 @@
     },
     "00-0034844": {
       "event_ids": [
-        "news:11a993edce3943ec0de56eca"
+        "news:11a993edce3943ec0de56eca",
+        "news:215a662b508f4ea648a92711"
       ],
       "name": "Saquon Barkley",
       "nfl_team": "PHI",
       "nflverse_id": "00-0034844",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:11a993edce3943ec0de56eca"
+        "news:11a993edce3943ec0de56eca",
+        "news:215a662b508f4ea648a92711"
       ]
     },
     "00-0034869": {
@@ -936,13 +938,15 @@
     },
     "00-0038555": {
       "event_ids": [
-        "news:11a993edce3943ec0de56eca"
+        "news:11a993edce3943ec0de56eca",
+        "news:215a662b508f4ea648a92711"
       ],
       "name": "Tank Bigsby",
       "nfl_team": "PHI",
       "nflverse_id": "00-0038555",
       "primary_event_ids": [
-        "news:11a993edce3943ec0de56eca"
+        "news:11a993edce3943ec0de56eca",
+        "news:215a662b508f4ea648a92711"
       ],
       "related_event_ids": []
     },
@@ -957,6 +961,18 @@
         "news:a0a2fbf046e1657bf21ec8d6"
       ],
       "related_event_ids": []
+    },
+    "00-0038590": {
+      "event_ids": [
+        "news:215a662b508f4ea648a92711"
+      ],
+      "name": "Justin Shorter",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0038590",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:215a662b508f4ea648a92711"
+      ]
     },
     "00-0038597": {
       "event_ids": [
@@ -1273,6 +1289,7 @@
     },
     "00-0039366": {
       "event_ids": [
+        "news:215a662b508f4ea648a92711",
         "news:536395cc5c2f30b9af7087fd",
         "news:f3f56ad52d065880a1c5bae4"
       ],
@@ -1281,6 +1298,7 @@
       "nflverse_id": "00-0039366",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:215a662b508f4ea648a92711",
         "news:536395cc5c2f30b9af7087fd",
         "news:f3f56ad52d065880a1c5bae4"
       ]
