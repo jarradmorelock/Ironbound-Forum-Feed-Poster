@@ -147,6 +147,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0035229": {
+      "event_ids": [
+        "news:5fcab1f09857dba344b398e9"
+      ],
+      "name": "T.J. Hockenson",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0035229",
+      "primary_event_ids": [
+        "news:5fcab1f09857dba344b398e9"
+      ],
+      "related_event_ids": []
+    },
     "00-0035261": {
       "event_ids": [
         "news:2895c73454026dda022593e1",
@@ -589,6 +601,7 @@
       "event_ids": [
         "news:0ef9d36257970a0cb09eabb8",
         "news:3c6d60cedebd49a719058e2a",
+        "news:5fcab1f09857dba344b398e9",
         "news:972e2bb1ade13ada0e79bcb5"
       ],
       "name": "Erick All",
@@ -598,6 +611,7 @@
       "related_event_ids": [
         "news:0ef9d36257970a0cb09eabb8",
         "news:3c6d60cedebd49a719058e2a",
+        "news:5fcab1f09857dba344b398e9",
         "news:972e2bb1ade13ada0e79bcb5"
       ]
     },
