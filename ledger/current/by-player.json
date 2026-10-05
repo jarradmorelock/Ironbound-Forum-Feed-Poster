@@ -14,6 +14,7 @@
     },
     "00-0030140": {
       "event_ids": [
+        "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a0a2fbf046e1657bf21ec8d6",
         "news:e5ed47203eac93b2660f95bb"
@@ -23,6 +24,7 @@
       "nflverse_id": "00-0030140",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a0a2fbf046e1657bf21ec8d6",
         "news:e5ed47203eac93b2660f95bb"
@@ -290,6 +292,18 @@
       "nflverse_id": "00-0035710",
       "primary_event_ids": [
         "news:ac0f5b783e106fa472ccb883"
+      ],
+      "related_event_ids": []
+    },
+    "00-0035719": {
+      "event_ids": [
+        "news:8f5df405e98573eb45f51499"
+      ],
+      "name": "Deebo Samuel Sr.",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0035719",
+      "primary_event_ids": [
+        "news:8f5df405e98573eb45f51499"
       ],
       "related_event_ids": []
     },
