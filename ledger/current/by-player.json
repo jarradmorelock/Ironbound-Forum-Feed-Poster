@@ -969,6 +969,7 @@
     "00-0038797": {
       "event_ids": [
         "news:50299468aa0ba0c31e5e489c",
+        "news:80007ef73885136616e6356f",
         "news:81649ea69ee16a01a008368c",
         "news:d7b4005ee2803b39b1aead49"
       ],
@@ -980,7 +981,8 @@
         "news:d7b4005ee2803b39b1aead49"
       ],
       "related_event_ids": [
-        "news:50299468aa0ba0c31e5e489c"
+        "news:50299468aa0ba0c31e5e489c",
+        "news:80007ef73885136616e6356f"
       ]
     },
     "00-0038840": {
@@ -1155,6 +1157,18 @@
       "nflverse_id": "00-0039163",
       "primary_event_ids": [
         "news:d39b9f3acfb6843815b8190b"
+      ],
+      "related_event_ids": []
+    },
+    "00-0039165": {
+      "event_ids": [
+        "news:80007ef73885136616e6356f"
+      ],
+      "name": "Zach Charbonnet",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0039165",
+      "primary_event_ids": [
+        "news:80007ef73885136616e6356f"
       ],
       "related_event_ids": []
     },
@@ -1840,6 +1854,7 @@
     },
     "00-0041512": {
       "event_ids": [
+        "news:80007ef73885136616e6356f",
         "news:d7b4005ee2803b39b1aead49"
       ],
       "name": "Jadarian Price",
@@ -1847,6 +1862,7 @@
       "nflverse_id": "00-0041512",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:80007ef73885136616e6356f",
         "news:d7b4005ee2803b39b1aead49"
       ]
     }
