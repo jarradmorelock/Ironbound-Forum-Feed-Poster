@@ -427,12 +427,14 @@
     },
     "00-0036355": {
       "event_ids": [
+        "news:70bf5e9aab77f85357ce7fac",
         "news:c5d6f2c7a19e60c1480eee6c"
       ],
       "name": "Justin Herbert",
       "nfl_team": "LAC",
       "nflverse_id": "00-0036355",
       "primary_event_ids": [
+        "news:70bf5e9aab77f85357ce7fac",
         "news:c5d6f2c7a19e60c1480eee6c"
       ],
       "related_event_ids": []
@@ -1316,6 +1318,18 @@
         "news:ea7d53dcc4ae950825ecd20d"
       ],
       "related_event_ids": []
+    },
+    "00-0040319": {
+      "event_ids": [
+        "news:70bf5e9aab77f85357ce7fac"
+      ],
+      "name": "Robert McDaniel",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0040319",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:70bf5e9aab77f85357ce7fac"
+      ]
     },
     "00-0040583": {
       "event_ids": [
