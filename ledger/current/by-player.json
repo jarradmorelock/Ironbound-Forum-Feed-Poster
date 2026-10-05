@@ -918,6 +918,18 @@
         "news:f84b9d09908cda13b523c2a7"
       ]
     },
+    "00-0040122": {
+      "event_ids": [
+        "news:946c5dd0a5f544c7301257da"
+      ],
+      "name": "Ashton Jeanty",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0040122",
+      "primary_event_ids": [
+        "news:946c5dd0a5f544c7301257da"
+      ],
+      "related_event_ids": []
+    },
     "00-0040124": {
       "event_ids": [
         "news:0f16c06df9048477faf4e0ab",
