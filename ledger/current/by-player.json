@@ -236,6 +236,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0036550": {
+      "event_ids": [
+        "news:f6f94f013d7caa9ca63f4a0a"
+      ],
+      "name": "Rashod Bateman",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0036550",
+      "primary_event_ids": [
+        "news:f6f94f013d7caa9ca63f4a0a"
+      ],
+      "related_event_ids": []
+    },
     "00-0036971": {
       "event_ids": [
         "news:5b3f3588f0ca8f0a33627ddf"
