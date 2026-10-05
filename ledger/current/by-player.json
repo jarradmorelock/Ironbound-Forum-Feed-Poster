@@ -1074,6 +1074,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039234": {
+      "event_ids": [
+        "news:8a04d508618a5eb5e4a0227d"
+      ],
+      "name": "T.J. Tampa",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0039234",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:8a04d508618a5eb5e4a0227d"
+      ]
+    },
     "00-0039299": {
       "event_ids": [
         "news:d7b4005ee2803b39b1aead49"
@@ -1348,6 +1360,18 @@
       "nflverse_id": "00-0040134",
       "primary_event_ids": [
         "news:3801fdb89a26fc166dacffe7"
+      ],
+      "related_event_ids": []
+    },
+    "00-0040142": {
+      "event_ids": [
+        "news:8a04d508618a5eb5e4a0227d"
+      ],
+      "name": "Kaleb Johnson",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0040142",
+      "primary_event_ids": [
+        "news:8a04d508618a5eb5e4a0227d"
       ],
       "related_event_ids": []
     },
