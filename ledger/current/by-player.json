@@ -1900,14 +1900,16 @@
     "00-0041027": {
       "event_ids": [
         "news:20aad95aa5e1b84b1026d26b",
-        "news:617c7c7be6a2cdc9cf999866"
+        "news:617c7c7be6a2cdc9cf999866",
+        "news:b1e0c3b7ff5eedc3218d9d31"
       ],
       "name": "Jeremiyah Love",
       "nfl_team": "ARI",
       "nflverse_id": "00-0041027",
       "primary_event_ids": [
         "news:20aad95aa5e1b84b1026d26b",
-        "news:617c7c7be6a2cdc9cf999866"
+        "news:617c7c7be6a2cdc9cf999866",
+        "news:b1e0c3b7ff5eedc3218d9d31"
       ],
       "related_event_ids": []
     },
