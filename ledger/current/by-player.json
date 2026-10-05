@@ -122,12 +122,14 @@
     },
     "00-0033106": {
       "event_ids": [
+        "news:9883748e3ce3861a3ef0dbbf",
         "news:c5ce82445d71e610f1a1294b"
       ],
       "name": "Jared Goff",
       "nfl_team": "DET",
       "nflverse_id": "00-0033106",
       "primary_event_ids": [
+        "news:9883748e3ce3861a3ef0dbbf",
         "news:c5ce82445d71e610f1a1294b"
       ],
       "related_event_ids": []
