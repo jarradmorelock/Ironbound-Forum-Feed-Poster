@@ -586,6 +586,18 @@
         "news:c30cd21be2f7f8281b577687"
       ]
     },
+    "00-0039139": {
+      "event_ids": [
+        "news:45093062d22ad8db8740bdc4"
+      ],
+      "name": "Jahmyr Gibbs",
+      "nfl_team": "DET",
+      "nflverse_id": "00-0039139",
+      "primary_event_ids": [
+        "news:45093062d22ad8db8740bdc4"
+      ],
+      "related_event_ids": []
+    },
     "00-0039163": {
       "event_ids": [
         "news:d39b9f3acfb6843815b8190b"
