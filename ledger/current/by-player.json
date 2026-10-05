@@ -2,14 +2,16 @@
   "players": {
     "00-0030140": {
       "event_ids": [
-        "news:8ffb3f30b97a5d72f2323fe4"
+        "news:8ffb3f30b97a5d72f2323fe4",
+        "news:a0a2fbf046e1657bf21ec8d6"
       ],
       "name": "Tress Way",
       "nfl_team": "WAS",
       "nflverse_id": "00-0030140",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:8ffb3f30b97a5d72f2323fe4"
+        "news:8ffb3f30b97a5d72f2323fe4",
+        "news:a0a2fbf046e1657bf21ec8d6"
       ]
     },
     "00-0031040": {
@@ -478,6 +480,18 @@
       "nflverse_id": "00-0038543",
       "primary_event_ids": [
         "news:4ef6ca358c7611c68ab0371a"
+      ],
+      "related_event_ids": []
+    },
+    "00-0038559": {
+      "event_ids": [
+        "news:a0a2fbf046e1657bf21ec8d6"
+      ],
+      "name": "Michael Wilson",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0038559",
+      "primary_event_ids": [
+        "news:a0a2fbf046e1657bf21ec8d6"
       ],
       "related_event_ids": []
     },
