@@ -510,6 +510,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039894": {
+      "event_ids": [
+        "news:04956dffca3b8212a2f99845"
+      ],
+      "name": "Xavier Worthy",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0039894",
+      "primary_event_ids": [
+        "news:04956dffca3b8212a2f99845"
+      ],
+      "related_event_ids": []
+    },
     "00-0039901": {
       "event_ids": [
         "news:1b58034b8390ffe863c3dff4"
