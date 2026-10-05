@@ -484,6 +484,18 @@
         "news:972e2bb1ade13ada0e79bcb5"
       ]
     },
+    "00-0039850": {
+      "event_ids": [
+        "news:9b25331eccb390f51679a697"
+      ],
+      "name": "Edgerrin Cooper",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0039850",
+      "primary_event_ids": [
+        "news:9b25331eccb390f51679a697"
+      ],
+      "related_event_ids": []
+    },
     "00-0039901": {
       "event_ids": [
         "news:1b58034b8390ffe863c3dff4"
