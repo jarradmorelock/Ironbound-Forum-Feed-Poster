@@ -245,6 +245,18 @@
         "news:ffd5d01a9aa25669f6b14fea"
       ]
     },
+    "00-0035689": {
+      "event_ids": [
+        "news:ab6df1f6093f58a6e20885b0"
+      ],
+      "name": "Dawson Knox",
+      "nfl_team": "BUF",
+      "nflverse_id": "00-0035689",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ab6df1f6093f58a6e20885b0"
+      ]
+    },
     "00-0035710": {
       "event_ids": [
         "news:ac0f5b783e106fa472ccb883"
@@ -621,6 +633,18 @@
       "related_event_ids": [
         "news:303c972e64ef85754c49f9df"
       ]
+    },
+    "00-0038933": {
+      "event_ids": [
+        "news:ab6df1f6093f58a6e20885b0"
+      ],
+      "name": "Dalton Kincaid",
+      "nfl_team": "BUF",
+      "nflverse_id": "00-0038933",
+      "primary_event_ids": [
+        "news:ab6df1f6093f58a6e20885b0"
+      ],
+      "related_event_ids": []
     },
     "00-0039032": {
       "event_ids": [
