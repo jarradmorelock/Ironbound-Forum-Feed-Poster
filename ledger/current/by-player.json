@@ -804,6 +804,7 @@
     },
     "00-0038454": {
       "event_ids": [
+        "news:6694d21e8c9ec5386edb48a5",
         "news:927f4d2cdb6a1ee11ac2c476"
       ],
       "name": "Keaton Mitchell",
@@ -811,6 +812,7 @@
       "nflverse_id": "00-0038454",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:6694d21e8c9ec5386edb48a5",
         "news:927f4d2cdb6a1ee11ac2c476"
       ]
     },
@@ -1159,6 +1161,7 @@
         "news:0ef9d36257970a0cb09eabb8",
         "news:3c6d60cedebd49a719058e2a",
         "news:5fcab1f09857dba344b398e9",
+        "news:6694d21e8c9ec5386edb48a5",
         "news:972e2bb1ade13ada0e79bcb5",
         "news:e2a38d7e3da2993c4b934d6c"
       ],
@@ -1170,6 +1173,7 @@
         "news:0ef9d36257970a0cb09eabb8",
         "news:3c6d60cedebd49a719058e2a",
         "news:5fcab1f09857dba344b398e9",
+        "news:6694d21e8c9ec5386edb48a5",
         "news:972e2bb1ade13ada0e79bcb5",
         "news:e2a38d7e3da2993c4b934d6c"
       ]
@@ -1311,6 +1315,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040189": {
+      "event_ids": [
+        "news:6694d21e8c9ec5386edb48a5"
+      ],
+      "name": "Oronde Gadsden II",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0040189",
+      "primary_event_ids": [
+        "news:6694d21e8c9ec5386edb48a5"
+      ],
+      "related_event_ids": []
+    },
     "00-0040198": {
       "event_ids": [
         "news:2df5b2859053d798cc9459ee"
@@ -1434,6 +1450,18 @@
         "news:8f05113c5b0bc31d1cd9f229"
       ],
       "related_event_ids": []
+    },
+    "00-0040727": {
+      "event_ids": [
+        "news:6694d21e8c9ec5386edb48a5"
+      ],
+      "name": "Tre Harris",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0040727",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:6694d21e8c9ec5386edb48a5"
+      ]
     },
     "00-0040730": {
       "event_ids": [
