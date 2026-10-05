@@ -1043,6 +1043,18 @@
         "news:2895c73454026dda022593e1"
       ]
     },
+    "00-0039040": {
+      "event_ids": [
+        "news:b8d08f51261a0161c5e464e7"
+      ],
+      "name": "De'Von Achane",
+      "nfl_team": "MIA",
+      "nflverse_id": "00-0039040",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:b8d08f51261a0161c5e464e7"
+      ]
+    },
     "00-0039064": {
       "event_ids": [
         "news:eaaa5489714a1283c5ce341c"
@@ -1527,13 +1539,15 @@
     },
     "00-0040198": {
       "event_ids": [
-        "news:2df5b2859053d798cc9459ee"
+        "news:2df5b2859053d798cc9459ee",
+        "news:b8d08f51261a0161c5e464e7"
       ],
       "name": "Ollie Gordon II",
       "nfl_team": "MIA",
       "nflverse_id": "00-0040198",
       "primary_event_ids": [
-        "news:2df5b2859053d798cc9459ee"
+        "news:2df5b2859053d798cc9459ee",
+        "news:b8d08f51261a0161c5e464e7"
       ],
       "related_event_ids": []
     },
