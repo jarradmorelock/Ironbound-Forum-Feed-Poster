@@ -60,6 +60,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0033010": {
+      "event_ids": [
+        "news:5b3f3588f0ca8f0a33627ddf"
+      ],
+      "name": "Sheldon Day",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0033010",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:5b3f3588f0ca8f0a33627ddf"
+      ]
+    },
     "00-0033280": {
       "event_ids": [
         "news:0c2757704a3c3070f7fe9fb0"
@@ -223,6 +235,18 @@
         "news:d4e998a309ac3345d219e197"
       ],
       "related_event_ids": []
+    },
+    "00-0036971": {
+      "event_ids": [
+        "news:5b3f3588f0ca8f0a33627ddf"
+      ],
+      "name": "Trevor Lawrence",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0036971",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:5b3f3588f0ca8f0a33627ddf"
+      ]
     },
     "00-0036992": {
       "event_ids": [
@@ -388,12 +412,14 @@
     },
     "00-0038606": {
       "event_ids": [
+        "news:5b3f3588f0ca8f0a33627ddf",
         "news:a91be86b465333c628438998"
       ],
       "name": "Parker Washington",
       "nfl_team": "JAX",
       "nflverse_id": "00-0038606",
       "primary_event_ids": [
+        "news:5b3f3588f0ca8f0a33627ddf",
         "news:a91be86b465333c628438998"
       ],
       "related_event_ids": []
