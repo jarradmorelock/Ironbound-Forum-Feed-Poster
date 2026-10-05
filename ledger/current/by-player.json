@@ -328,6 +328,18 @@
         "news:11a993edce3943ec0de56eca"
       ]
     },
+    "00-0034869": {
+      "event_ids": [
+        "news:50299468aa0ba0c31e5e489c"
+      ],
+      "name": "Sam Darnold",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0034869",
+      "primary_event_ids": [
+        "news:50299468aa0ba0c31e5e489c"
+      ],
+      "related_event_ids": []
+    },
     "00-0035228": {
       "event_ids": [
         "news:3ae66500bfbb93be743e5245"
@@ -431,6 +443,7 @@
     },
     "00-0036355": {
       "event_ids": [
+        "news:50299468aa0ba0c31e5e489c",
         "news:70bf5e9aab77f85357ce7fac",
         "news:c5d6f2c7a19e60c1480eee6c"
       ],
@@ -441,7 +454,9 @@
         "news:70bf5e9aab77f85357ce7fac",
         "news:c5d6f2c7a19e60c1480eee6c"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:50299468aa0ba0c31e5e489c"
+      ]
     },
     "00-0036358": {
       "event_ids": [
@@ -923,6 +938,7 @@
     },
     "00-0038797": {
       "event_ids": [
+        "news:50299468aa0ba0c31e5e489c",
         "news:81649ea69ee16a01a008368c",
         "news:d7b4005ee2803b39b1aead49"
       ],
@@ -933,7 +949,9 @@
         "news:81649ea69ee16a01a008368c",
         "news:d7b4005ee2803b39b1aead49"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:50299468aa0ba0c31e5e489c"
+      ]
     },
     "00-0038840": {
       "event_ids": [
@@ -1084,6 +1102,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:8a04d508618a5eb5e4a0227d"
+      ]
+    },
+    "00-0039267": {
+      "event_ids": [
+        "news:50299468aa0ba0c31e5e489c"
+      ],
+      "name": "Andre' Sam",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0039267",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:50299468aa0ba0c31e5e489c"
       ]
     },
     "00-0039299": {
@@ -1463,6 +1493,18 @@
       "related_event_ids": [
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b"
+      ]
+    },
+    "00-0040648": {
+      "event_ids": [
+        "news:50299468aa0ba0c31e5e489c"
+      ],
+      "name": "Tory Horton",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0040648",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:50299468aa0ba0c31e5e489c"
       ]
     },
     "00-0040666": {
