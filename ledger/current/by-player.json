@@ -148,6 +148,7 @@
         "news:08bc4fa7692c9a7c714915b7",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:a56559875d9edfa1cb8342ef",
+        "news:e12892a87f9c84cf5b6fcbf6",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ],
       "name": "Sheldon Day",
@@ -159,6 +160,7 @@
         "news:08bc4fa7692c9a7c714915b7",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:a56559875d9edfa1cb8342ef",
+        "news:e12892a87f9c84cf5b6fcbf6",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ]
     },
@@ -507,12 +509,14 @@
     },
     "00-0036410": {
       "event_ids": [
+        "news:e12892a87f9c84cf5b6fcbf6",
         "news:f306a9f02b328bcdd5ec92f5"
       ],
       "name": "Tee Higgins",
       "nfl_team": "CIN",
       "nflverse_id": "00-0036410",
       "primary_event_ids": [
+        "news:e12892a87f9c84cf5b6fcbf6",
         "news:f306a9f02b328bcdd5ec92f5"
       ],
       "related_event_ids": []
