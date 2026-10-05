@@ -326,6 +326,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0036963": {
+      "event_ids": [
+        "news:093ff451a1968e81d9e43e03"
+      ],
+      "name": "Amon-Ra St. Brown",
+      "nfl_team": "DET",
+      "nflverse_id": "00-0036963",
+      "primary_event_ids": [
+        "news:093ff451a1968e81d9e43e03"
+      ],
+      "related_event_ids": []
+    },
     "00-0036971": {
       "event_ids": [
         "news:5b3f3588f0ca8f0a33627ddf"
