@@ -701,7 +701,8 @@
         "news:0ef9d36257970a0cb09eabb8",
         "news:3c6d60cedebd49a719058e2a",
         "news:5fcab1f09857dba344b398e9",
-        "news:972e2bb1ade13ada0e79bcb5"
+        "news:972e2bb1ade13ada0e79bcb5",
+        "news:e2a38d7e3da2993c4b934d6c"
       ],
       "name": "Erick All",
       "nfl_team": "CIN",
@@ -711,7 +712,8 @@
         "news:0ef9d36257970a0cb09eabb8",
         "news:3c6d60cedebd49a719058e2a",
         "news:5fcab1f09857dba344b398e9",
-        "news:972e2bb1ade13ada0e79bcb5"
+        "news:972e2bb1ade13ada0e79bcb5",
+        "news:e2a38d7e3da2993c4b934d6c"
       ]
     },
     "00-0039850": {
@@ -915,13 +917,15 @@
     },
     "00-0040730": {
       "event_ids": [
-        "news:0ef9d36257970a0cb09eabb8"
+        "news:0ef9d36257970a0cb09eabb8",
+        "news:e2a38d7e3da2993c4b934d6c"
       ],
       "name": "RJ Harvey",
       "nfl_team": "DEN",
       "nflverse_id": "00-0040730",
       "primary_event_ids": [
-        "news:0ef9d36257970a0cb09eabb8"
+        "news:0ef9d36257970a0cb09eabb8",
+        "news:e2a38d7e3da2993c4b934d6c"
       ],
       "related_event_ids": []
     },
