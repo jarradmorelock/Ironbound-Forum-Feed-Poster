@@ -36,6 +36,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0030061": {
+      "event_ids": [
+        "news:7dd859216b3bba49d57c92ab"
+      ],
+      "name": "Zach Ertz",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0030061",
+      "primary_event_ids": [
+        "news:7dd859216b3bba49d57c92ab"
+      ],
+      "related_event_ids": []
+    },
     "00-0030140": {
       "event_ids": [
         "news:2bacdaaf8e1cbc9208f782d2",
@@ -237,14 +249,16 @@
     },
     "00-0034351": {
       "event_ids": [
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:7dd859216b3bba49d57c92ab"
       ],
       "name": "Dallas Goedert",
       "nfl_team": "PHI",
       "nflverse_id": "00-0034351",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:7dd859216b3bba49d57c92ab"
       ]
     },
     "00-0034753": {
@@ -438,7 +452,8 @@
     "00-0036389": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:7dd859216b3bba49d57c92ab"
       ],
       "name": "Jalen Hurts",
       "nfl_team": "PHI",
@@ -447,7 +462,8 @@
         "news:536395cc5c2f30b9af7087fd"
       ],
       "related_event_ids": [
-        "news:00c503483783fa1ebca89065"
+        "news:00c503483783fa1ebca89065",
+        "news:7dd859216b3bba49d57c92ab"
       ]
     },
     "00-0036410": {
@@ -464,14 +480,16 @@
     },
     "00-0036425": {
       "event_ids": [
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:7dd859216b3bba49d57c92ab"
       ],
       "name": "DeeJay Dallas",
       "nfl_team": "MIN",
       "nflverse_id": "00-0036425",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:7dd859216b3bba49d57c92ab"
       ]
     },
     "00-0036442": {
@@ -540,7 +558,8 @@
     "00-0036912": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:7dd859216b3bba49d57c92ab"
       ],
       "name": "DeVonta Smith",
       "nfl_team": "PHI",
@@ -548,7 +567,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:7dd859216b3bba49d57c92ab"
       ]
     },
     "00-0036963": {
@@ -771,6 +791,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065"
+      ]
+    },
+    "00-0038482": {
+      "event_ids": [
+        "news:7dd859216b3bba49d57c92ab"
+      ],
+      "name": "Mekhi Garner",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0038482",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:7dd859216b3bba49d57c92ab"
       ]
     },
     "00-0038543": {
@@ -1419,7 +1451,8 @@
     "00-0041153": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:7dd859216b3bba49d57c92ab"
       ],
       "name": "Devonta Smith",
       "nfl_team": "CAR",
@@ -1427,7 +1460,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:7dd859216b3bba49d57c92ab"
       ]
     },
     "00-0041438": {
