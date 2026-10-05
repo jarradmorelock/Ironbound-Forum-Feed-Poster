@@ -798,6 +798,18 @@
         "news:00c503483783fa1ebca89065"
       ]
     },
+    "00-0038454": {
+      "event_ids": [
+        "news:927f4d2cdb6a1ee11ac2c476"
+      ],
+      "name": "Keaton Mitchell",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0038454",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:927f4d2cdb6a1ee11ac2c476"
+      ]
+    },
     "00-0038482": {
       "event_ids": [
         "news:7dd859216b3bba49d57c92ab"
@@ -1078,6 +1090,18 @@
         "news:f3f56ad52d065880a1c5bae4"
       ]
     },
+    "00-0039391": {
+      "event_ids": [
+        "news:927f4d2cdb6a1ee11ac2c476"
+      ],
+      "name": "Kimani Vidal",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0039391",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:927f4d2cdb6a1ee11ac2c476"
+      ]
+    },
     "00-0039491": {
       "event_ids": [
         "news:303c972e64ef85754c49f9df"
@@ -1321,14 +1345,16 @@
     },
     "00-0040319": {
       "event_ids": [
-        "news:70bf5e9aab77f85357ce7fac"
+        "news:70bf5e9aab77f85357ce7fac",
+        "news:927f4d2cdb6a1ee11ac2c476"
       ],
       "name": "Robert McDaniel",
       "nfl_team": "WAS",
       "nflverse_id": "00-0040319",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:70bf5e9aab77f85357ce7fac"
+        "news:70bf5e9aab77f85357ce7fac",
+        "news:927f4d2cdb6a1ee11ac2c476"
       ]
     },
     "00-0040583": {
@@ -1344,6 +1370,18 @@
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b"
       ]
+    },
+    "00-0040666": {
+      "event_ids": [
+        "news:927f4d2cdb6a1ee11ac2c476"
+      ],
+      "name": "Omarion Hampton",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0040666",
+      "primary_event_ids": [
+        "news:927f4d2cdb6a1ee11ac2c476"
+      ],
+      "related_event_ids": []
     },
     "00-0040676": {
       "event_ids": [
