@@ -108,6 +108,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0034753": {
+      "event_ids": [
+        "news:13bcbf61be9a95e9d03e5ae2"
+      ],
+      "name": "Mark Andrews",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0034753",
+      "primary_event_ids": [
+        "news:13bcbf61be9a95e9d03e5ae2"
+      ],
+      "related_event_ids": []
+    },
     "00-0034790": {
       "event_ids": [
         "news:9c547095459f998d356ab8be"
