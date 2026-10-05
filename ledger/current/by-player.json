@@ -50,18 +50,21 @@
     },
     "00-0032764": {
       "event_ids": [
+        "news:08bc4fa7692c9a7c714915b7",
         "news:f91cd6e6bad4863f7506a249"
       ],
       "name": "Derrick Henry",
       "nfl_team": "BAL",
       "nflverse_id": "00-0032764",
       "primary_event_ids": [
+        "news:08bc4fa7692c9a7c714915b7",
         "news:f91cd6e6bad4863f7506a249"
       ],
       "related_event_ids": []
     },
     "00-0033010": {
       "event_ids": [
+        "news:08bc4fa7692c9a7c714915b7",
         "news:5b3f3588f0ca8f0a33627ddf"
       ],
       "name": "Sheldon Day",
@@ -69,6 +72,7 @@
       "nflverse_id": "00-0033010",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:08bc4fa7692c9a7c714915b7",
         "news:5b3f3588f0ca8f0a33627ddf"
       ]
     },
