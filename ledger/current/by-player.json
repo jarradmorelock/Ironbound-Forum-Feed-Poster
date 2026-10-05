@@ -782,7 +782,8 @@
     },
     "00-0038134": {
       "event_ids": [
-        "news:8a57f4e49574e754bcdced58"
+        "news:8a57f4e49574e754bcdced58",
+        "news:d7b4005ee2803b39b1aead49"
       ],
       "name": "Kenneth Walker III",
       "nfl_team": "KC",
@@ -790,7 +791,9 @@
       "primary_event_ids": [
         "news:8a57f4e49574e754bcdced58"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:d7b4005ee2803b39b1aead49"
+      ]
     },
     "00-0038393": {
       "event_ids": [
@@ -920,13 +923,15 @@
     },
     "00-0038797": {
       "event_ids": [
-        "news:81649ea69ee16a01a008368c"
+        "news:81649ea69ee16a01a008368c",
+        "news:d7b4005ee2803b39b1aead49"
       ],
       "name": "Emanuel Wilson",
       "nfl_team": "SEA",
       "nflverse_id": "00-0038797",
       "primary_event_ids": [
-        "news:81649ea69ee16a01a008368c"
+        "news:81649ea69ee16a01a008368c",
+        "news:d7b4005ee2803b39b1aead49"
       ],
       "related_event_ids": []
     },
@@ -1068,6 +1073,18 @@
         "news:d39b9f3acfb6843815b8190b"
       ],
       "related_event_ids": []
+    },
+    "00-0039299": {
+      "event_ids": [
+        "news:d7b4005ee2803b39b1aead49"
+      ],
+      "name": "George Holani",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0039299",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:d7b4005ee2803b39b1aead49"
+      ]
     },
     "00-0039337": {
       "event_ids": [
@@ -1271,6 +1288,7 @@
     },
     "00-0040087": {
       "event_ids": [
+        "news:d7b4005ee2803b39b1aead49",
         "news:f84b9d09908cda13b523c2a7"
       ],
       "name": "Brandon George",
@@ -1278,6 +1296,7 @@
       "nflverse_id": "00-0040087",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:d7b4005ee2803b39b1aead49",
         "news:f84b9d09908cda13b523c2a7"
       ]
     },
@@ -1614,6 +1633,18 @@
       ],
       "related_event_ids": [
         "news:77a7f3be3a4ffd5cbcdb00cc"
+      ]
+    },
+    "00-0041512": {
+      "event_ids": [
+        "news:d7b4005ee2803b39b1aead49"
+      ],
+      "name": "Jadarian Price",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0041512",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:d7b4005ee2803b39b1aead49"
       ]
     }
   },
