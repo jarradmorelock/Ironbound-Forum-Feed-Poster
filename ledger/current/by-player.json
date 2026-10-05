@@ -582,6 +582,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040198": {
+      "event_ids": [
+        "news:2df5b2859053d798cc9459ee"
+      ],
+      "name": "Ollie Gordon II",
+      "nfl_team": "MIA",
+      "nflverse_id": "00-0040198",
+      "primary_event_ids": [
+        "news:2df5b2859053d798cc9459ee"
+      ],
+      "related_event_ids": []
+    },
     "00-0040236": {
       "event_ids": [
         "news:587451581e3ecd268e2830a8"
