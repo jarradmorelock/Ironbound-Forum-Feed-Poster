@@ -525,6 +525,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039337": {
+      "event_ids": [
+        "news:beb1db3ab52ce7b74839ed7b"
+      ],
+      "name": "Malik Nabers",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0039337",
+      "primary_event_ids": [
+        "news:beb1db3ab52ce7b74839ed7b"
+      ],
+      "related_event_ids": []
+    },
     "00-0039338": {
       "event_ids": [
         "news:1b349a651314e1a53f4dbe14"
@@ -710,6 +722,18 @@
         "news:587451581e3ecd268e2830a8"
       ],
       "related_event_ids": []
+    },
+    "00-0040583": {
+      "event_ids": [
+        "news:beb1db3ab52ce7b74839ed7b"
+      ],
+      "name": "Woody Marks",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0040583",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:beb1db3ab52ce7b74839ed7b"
+      ]
     },
     "00-0040676": {
       "event_ids": [
