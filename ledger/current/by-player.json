@@ -435,6 +435,7 @@
     },
     "00-0036389": {
       "event_ids": [
+        "news:00c503483783fa1ebca89065",
         "news:536395cc5c2f30b9af7087fd"
       ],
       "name": "Jalen Hurts",
@@ -443,7 +444,9 @@
       "primary_event_ids": [
         "news:536395cc5c2f30b9af7087fd"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:00c503483783fa1ebca89065"
+      ]
     },
     "00-0036410": {
       "event_ids": [
@@ -519,6 +522,7 @@
     },
     "00-0036912": {
       "event_ids": [
+        "news:00c503483783fa1ebca89065",
         "news:536395cc5c2f30b9af7087fd"
       ],
       "name": "DeVonta Smith",
@@ -526,6 +530,7 @@
       "nflverse_id": "00-0036912",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:00c503483783fa1ebca89065",
         "news:536395cc5c2f30b9af7087fd"
       ]
     },
@@ -738,6 +743,18 @@
         "news:8a57f4e49574e754bcdced58"
       ],
       "related_event_ids": []
+    },
+    "00-0038393": {
+      "event_ids": [
+        "news:00c503483783fa1ebca89065"
+      ],
+      "name": "Dontayvion Wicks",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0038393",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:00c503483783fa1ebca89065"
+      ]
     },
     "00-0038543": {
       "event_ids": [
@@ -1133,6 +1150,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040024": {
+      "event_ids": [
+        "news:00c503483783fa1ebca89065"
+      ],
+      "name": "Darius Cooper",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0040024",
+      "primary_event_ids": [
+        "news:00c503483783fa1ebca89065"
+      ],
+      "related_event_ids": []
+    },
     "00-0040087": {
       "event_ids": [
         "news:f84b9d09908cda13b523c2a7"
@@ -1320,6 +1349,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040867": {
+      "event_ids": [
+        "news:00c503483783fa1ebca89065"
+      ],
+      "name": "Makai Lemon",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0040867",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:00c503483783fa1ebca89065"
+      ]
+    },
     "00-0040886": {
       "event_ids": [
         "news:2895c73454026dda022593e1"
@@ -1358,6 +1399,7 @@
     },
     "00-0041153": {
       "event_ids": [
+        "news:00c503483783fa1ebca89065",
         "news:536395cc5c2f30b9af7087fd"
       ],
       "name": "Devonta Smith",
@@ -1365,6 +1407,7 @@
       "nflverse_id": "00-0041153",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:00c503483783fa1ebca89065",
         "news:536395cc5c2f30b9af7087fd"
       ]
     },
