@@ -1381,6 +1381,18 @@
         "news:303c972e64ef85754c49f9df"
       ]
     },
+    "00-0040129": {
+      "event_ids": [
+        "news:6f872daf39f67c56610579e9"
+      ],
+      "name": "Emeka Egbuka",
+      "nfl_team": "TB",
+      "nflverse_id": "00-0040129",
+      "primary_event_ids": [
+        "news:6f872daf39f67c56610579e9"
+      ],
+      "related_event_ids": []
+    },
     "00-0040131": {
       "event_ids": [
         "news:f578056da7a35ecc5c91839e"
