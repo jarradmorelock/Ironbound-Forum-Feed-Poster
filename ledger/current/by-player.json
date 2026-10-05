@@ -246,6 +246,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0037838": {
+      "event_ids": [
+        "news:db3e642a6c70f2809524a2c0"
+      ],
+      "name": "Isaiah Likely",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0037838",
+      "primary_event_ids": [
+        "news:db3e642a6c70f2809524a2c0"
+      ],
+      "related_event_ids": []
+    },
     "00-0037840": {
       "event_ids": [
         "news:71bd295d4325a0c9822c7c73"
