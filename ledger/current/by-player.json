@@ -110,7 +110,8 @@
     },
     "00-0034796": {
       "event_ids": [
-        "news:5e17cc438064c7b969adb2c0"
+        "news:5e17cc438064c7b969adb2c0",
+        "news:eaaa5489714a1283c5ce341c"
       ],
       "name": "Lamar Jackson",
       "nfl_team": "BAL",
@@ -118,7 +119,9 @@
       "primary_event_ids": [
         "news:5e17cc438064c7b969adb2c0"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:eaaa5489714a1283c5ce341c"
+      ]
     },
     "00-0035261": {
       "event_ids": [
@@ -161,14 +164,16 @@
     },
     "00-0036152": {
       "event_ids": [
-        "news:5e17cc438064c7b969adb2c0"
+        "news:5e17cc438064c7b969adb2c0",
+        "news:eaaa5489714a1283c5ce341c"
       ],
       "name": "Lamar Jackson",
       "nfl_team": "ATL",
       "nflverse_id": "00-0036152",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:5e17cc438064c7b969adb2c0"
+        "news:5e17cc438064c7b969adb2c0",
+        "news:eaaa5489714a1283c5ce341c"
       ]
     },
     "00-0036355": {
@@ -440,6 +445,18 @@
       "related_event_ids": [
         "news:2895c73454026dda022593e1"
       ]
+    },
+    "00-0039064": {
+      "event_ids": [
+        "news:eaaa5489714a1283c5ce341c"
+      ],
+      "name": "Zay Flowers",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0039064",
+      "primary_event_ids": [
+        "news:eaaa5489714a1283c5ce341c"
+      ],
+      "related_event_ids": []
     },
     "00-0039067": {
       "event_ids": [
