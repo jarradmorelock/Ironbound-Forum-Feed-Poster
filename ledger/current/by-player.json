@@ -160,12 +160,14 @@
     },
     "00-0033040": {
       "event_ids": [
+        "news:0b07debf593bc63fe8558dda",
         "news:9d4f8427ff153d1751033bf8"
       ],
       "name": "Tyreek Hill",
       "nfl_team": "MIA",
       "nflverse_id": "00-0033040",
       "primary_event_ids": [
+        "news:0b07debf593bc63fe8558dda",
         "news:9d4f8427ff153d1751033bf8"
       ],
       "related_event_ids": []
