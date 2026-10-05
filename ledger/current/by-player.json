@@ -381,6 +381,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0038797": {
+      "event_ids": [
+        "news:81649ea69ee16a01a008368c"
+      ],
+      "name": "Emanuel Wilson",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0038797",
+      "primary_event_ids": [
+        "news:81649ea69ee16a01a008368c"
+      ],
+      "related_event_ids": []
+    },
     "00-0038840": {
       "event_ids": [
         "news:303c972e64ef85754c49f9df"
