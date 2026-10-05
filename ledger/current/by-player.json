@@ -146,6 +146,7 @@
       "event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
         "news:08bc4fa7692c9a7c714915b7",
+        "news:463c5f9292e3b5af0a2cc870",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:a56559875d9edfa1cb8342ef",
         "news:e12892a87f9c84cf5b6fcbf6",
@@ -158,6 +159,7 @@
       "related_event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
         "news:08bc4fa7692c9a7c714915b7",
+        "news:463c5f9292e3b5af0a2cc870",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:a56559875d9edfa1cb8342ef",
         "news:e12892a87f9c84cf5b6fcbf6",
@@ -447,6 +449,18 @@
       "related_event_ids": [
         "news:5e17cc438064c7b969adb2c0",
         "news:eaaa5489714a1283c5ce341c"
+      ]
+    },
+    "00-0036275": {
+      "event_ids": [
+        "news:463c5f9292e3b5af0a2cc870"
+      ],
+      "name": "D'Andre Swift",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0036275",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:463c5f9292e3b5af0a2cc870"
       ]
     },
     "00-0036322": {
@@ -1585,12 +1599,14 @@
     },
     "00-0040236": {
       "event_ids": [
+        "news:463c5f9292e3b5af0a2cc870",
         "news:587451581e3ecd268e2830a8"
       ],
       "name": "Kyle Monangai",
       "nfl_team": "CHI",
       "nflverse_id": "00-0040236",
       "primary_event_ids": [
+        "news:463c5f9292e3b5af0a2cc870",
         "news:587451581e3ecd268e2830a8"
       ],
       "related_event_ids": []
