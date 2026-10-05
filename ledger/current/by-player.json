@@ -1233,6 +1233,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039868": {
+      "event_ids": [
+        "news:0fc715cd580046ffde8c9d55"
+      ],
+      "name": "Troy Franklin",
+      "nfl_team": "DEN",
+      "nflverse_id": "00-0039868",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:0fc715cd580046ffde8c9d55"
+      ]
+    },
     "00-0039894": {
       "event_ids": [
         "news:04956dffca3b8212a2f99845"
@@ -1353,12 +1365,14 @@
     },
     "00-0040134": {
       "event_ids": [
+        "news:0fc715cd580046ffde8c9d55",
         "news:3801fdb89a26fc166dacffe7"
       ],
       "name": "Pat Bryant",
       "nfl_team": "DEN",
       "nflverse_id": "00-0040134",
       "primary_event_ids": [
+        "news:0fc715cd580046ffde8c9d55",
         "news:3801fdb89a26fc166dacffe7"
       ],
       "related_event_ids": []
