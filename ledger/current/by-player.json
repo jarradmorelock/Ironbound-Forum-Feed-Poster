@@ -725,12 +725,15 @@
     },
     "00-0037256": {
       "event_ids": [
+        "news:7f5319f1cf7fce9817aadf26",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
       "name": "Rachaad White",
       "nfl_team": "WAS",
       "nflverse_id": "00-0037256",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:7f5319f1cf7fce9817aadf26"
+      ],
       "related_event_ids": [
         "news:ea7d53dcc4ae950825ecd20d"
       ]
