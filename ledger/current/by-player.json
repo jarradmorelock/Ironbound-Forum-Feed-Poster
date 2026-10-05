@@ -1,5 +1,17 @@
 {
   "players": {
+    "00-0026498": {
+      "event_ids": [
+        "news:23b438c84374010e1a201958"
+      ],
+      "name": "Matthew Stafford",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0026498",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:23b438c84374010e1a201958"
+      ]
+    },
     "00-0029604": {
       "event_ids": [
         "news:5a04300dd162cdb97d19a817"
@@ -43,6 +55,18 @@
       "related_event_ids": [
         "news:f578056da7a35ecc5c91839e"
       ]
+    },
+    "00-0031381": {
+      "event_ids": [
+        "news:23b438c84374010e1a201958"
+      ],
+      "name": "Davante Adams",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0031381",
+      "primary_event_ids": [
+        "news:23b438c84374010e1a201958"
+      ],
+      "related_event_ids": []
     },
     "00-0031408": {
       "event_ids": [
@@ -521,6 +545,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0037747": {
+      "event_ids": [
+        "news:23b438c84374010e1a201958"
+      ],
+      "name": "Christian Matthew",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0037747",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:23b438c84374010e1a201958"
+      ]
+    },
     "00-0037816": {
       "event_ids": [
         "news:cb00091216738b65f37f4268",
@@ -550,6 +586,7 @@
     },
     "00-0037840": {
       "event_ids": [
+        "news:23b438c84374010e1a201958",
         "news:71bd295d4325a0c9822c7c73"
       ],
       "name": "Kyren Williams",
@@ -558,7 +595,9 @@
       "primary_event_ids": [
         "news:71bd295d4325a0c9822c7c73"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:23b438c84374010e1a201958"
+      ]
     },
     "00-0038104": {
       "event_ids": [
@@ -791,6 +830,18 @@
       "related_event_ids": [
         "news:9d4f8427ff153d1751033bf8",
         "news:c30cd21be2f7f8281b577687"
+      ]
+    },
+    "00-0039075": {
+      "event_ids": [
+        "news:23b438c84374010e1a201958"
+      ],
+      "name": "Puka Nacua",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0039075",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:23b438c84374010e1a201958"
       ]
     },
     "00-0039139": {
