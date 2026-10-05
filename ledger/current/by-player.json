@@ -171,6 +171,18 @@
         "news:5e17cc438064c7b969adb2c0"
       ]
     },
+    "00-0036355": {
+      "event_ids": [
+        "news:c5d6f2c7a19e60c1480eee6c"
+      ],
+      "name": "Justin Herbert",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0036355",
+      "primary_event_ids": [
+        "news:c5d6f2c7a19e60c1480eee6c"
+      ],
+      "related_event_ids": []
+    },
     "00-0036358": {
       "event_ids": [
         "news:61365726821aa092bf0a8eb1"
