@@ -12,6 +12,18 @@
         "news:23b438c84374010e1a201958"
       ]
     },
+    "00-0028171": {
+      "event_ids": [
+        "news:11a993edce3943ec0de56eca"
+      ],
+      "name": "Lawrence Guy",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0028171",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:11a993edce3943ec0de56eca"
+      ]
+    },
     "00-0029604": {
       "event_ids": [
         "news:5a04300dd162cdb97d19a817"
@@ -270,6 +282,18 @@
       ],
       "related_event_ids": [
         "news:eaaa5489714a1283c5ce341c"
+      ]
+    },
+    "00-0034844": {
+      "event_ids": [
+        "news:11a993edce3943ec0de56eca"
+      ],
+      "name": "Saquon Barkley",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0034844",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:11a993edce3943ec0de56eca"
       ]
     },
     "00-0035228": {
@@ -679,6 +703,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038555": {
+      "event_ids": [
+        "news:11a993edce3943ec0de56eca"
+      ],
+      "name": "Tank Bigsby",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0038555",
+      "primary_event_ids": [
+        "news:11a993edce3943ec0de56eca"
+      ],
+      "related_event_ids": []
+    },
     "00-0038559": {
       "event_ids": [
         "news:a0a2fbf046e1657bf21ec8d6"
@@ -930,6 +966,18 @@
         "news:fcf1f6a2d779b4d9d581d08d"
       ],
       "related_event_ids": []
+    },
+    "00-0039746": {
+      "event_ids": [
+        "news:11a993edce3943ec0de56eca"
+      ],
+      "name": "Will Shipley",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0039746",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:11a993edce3943ec0de56eca"
+      ]
     },
     "00-0039794": {
       "event_ids": [
