@@ -233,6 +233,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0034351": {
+      "event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ],
+      "name": "Dallas Goedert",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0034351",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ]
+    },
     "00-0034753": {
       "event_ids": [
         "news:13bcbf61be9a95e9d03e5ae2"
@@ -421,6 +433,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0036389": {
+      "event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ],
+      "name": "Jalen Hurts",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0036389",
+      "primary_event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ],
+      "related_event_ids": []
+    },
     "00-0036410": {
       "event_ids": [
         "news:f306a9f02b328bcdd5ec92f5"
@@ -432,6 +456,18 @@
         "news:f306a9f02b328bcdd5ec92f5"
       ],
       "related_event_ids": []
+    },
+    "00-0036425": {
+      "event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ],
+      "name": "DeeJay Dallas",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0036425",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ]
     },
     "00-0036442": {
       "event_ids": [
@@ -480,6 +516,18 @@
         "news:13706ce1d35499b7e2a3d22c"
       ],
       "related_event_ids": []
+    },
+    "00-0036912": {
+      "event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ],
+      "name": "DeVonta Smith",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0036912",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ]
     },
     "00-0036963": {
       "event_ids": [
@@ -943,6 +991,18 @@
         "news:5a04300dd162cdb97d19a817"
       ]
     },
+    "00-0039366": {
+      "event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ],
+      "name": "Tarheeb Still",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0039366",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ]
+    },
     "00-0039491": {
       "event_ids": [
         "news:303c972e64ef85754c49f9df"
@@ -1295,6 +1355,18 @@
         "news:15c12b09c0c206a73220046d"
       ],
       "related_event_ids": []
+    },
+    "00-0041153": {
+      "event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ],
+      "name": "Devonta Smith",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0041153",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:536395cc5c2f30b9af7087fd"
+      ]
     },
     "00-0041438": {
       "event_ids": [
