@@ -624,6 +624,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039150": {
+      "event_ids": [
+        "news:fe3e864bddd6927fa3be8451"
+      ],
+      "name": "Bryce Young",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0039150",
+      "primary_event_ids": [
+        "news:fe3e864bddd6927fa3be8451"
+      ],
+      "related_event_ids": []
+    },
     "00-0039163": {
       "event_ids": [
         "news:d39b9f3acfb6843815b8190b"
