@@ -424,6 +424,18 @@
         "news:972e2bb1ade13ada0e79bcb5"
       ]
     },
+    "00-0039901": {
+      "event_ids": [
+        "news:1b58034b8390ffe863c3dff4"
+      ],
+      "name": "Keon Coleman",
+      "nfl_team": "BUF",
+      "nflverse_id": "00-0039901",
+      "primary_event_ids": [
+        "news:1b58034b8390ffe863c3dff4"
+      ],
+      "related_event_ids": []
+    },
     "00-0039915": {
       "event_ids": [
         "news:355efb2c878848d56cce0ed0",
