@@ -155,6 +155,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0033699": {
+      "event_ids": [
+        "news:ea7d53dcc4ae950825ecd20d"
+      ],
+      "name": "Austin Ekeler",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0033699",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ea7d53dcc4ae950825ecd20d"
+      ]
+    },
     "00-0034753": {
       "event_ids": [
         "news:13bcbf61be9a95e9d03e5ae2"
@@ -378,6 +390,18 @@
         "news:af43c5cdccc82ba0bb4c4407"
       ],
       "related_event_ids": []
+    },
+    "00-0037256": {
+      "event_ids": [
+        "news:ea7d53dcc4ae950825ecd20d"
+      ],
+      "name": "Rachaad White",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0037256",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ea7d53dcc4ae950825ecd20d"
+      ]
     },
     "00-0037744": {
       "event_ids": [
@@ -879,6 +903,18 @@
       "nflverse_id": "00-0040236",
       "primary_event_ids": [
         "news:587451581e3ecd268e2830a8"
+      ],
+      "related_event_ids": []
+    },
+    "00-0040242": {
+      "event_ids": [
+        "news:ea7d53dcc4ae950825ecd20d"
+      ],
+      "name": "Jacory Croskey-Merritt",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0040242",
+      "primary_event_ids": [
+        "news:ea7d53dcc4ae950825ecd20d"
       ],
       "related_event_ids": []
     },
