@@ -92,6 +92,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0031388": {
+      "event_ids": [
+        "news:24844d1da71091fc96167cc3"
+      ],
+      "name": "Aaron Donald",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0031388",
+      "primary_event_ids": [
+        "news:24844d1da71091fc96167cc3"
+      ],
+      "related_event_ids": []
+    },
     "00-0031408": {
       "event_ids": [
         "news:f84b9d09908cda13b523c2a7"
