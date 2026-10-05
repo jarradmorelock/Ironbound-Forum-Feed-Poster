@@ -434,6 +434,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039338": {
+      "event_ids": [
+        "news:1b349a651314e1a53f4dbe14"
+      ],
+      "name": "Brock Bowers",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0039338",
+      "primary_event_ids": [
+        "news:1b349a651314e1a53f4dbe14"
+      ],
+      "related_event_ids": []
+    },
     "00-0039491": {
       "event_ids": [
         "news:303c972e64ef85754c49f9df"
