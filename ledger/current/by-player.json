@@ -1061,14 +1061,16 @@
     },
     "00-0039366": {
       "event_ids": [
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:f3f56ad52d065880a1c5bae4"
       ],
       "name": "Tarheeb Still",
       "nfl_team": "LAC",
       "nflverse_id": "00-0039366",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:f3f56ad52d065880a1c5bae4"
       ]
     },
     "00-0039491": {
@@ -1433,6 +1435,18 @@
       "nflverse_id": "00-0041027",
       "primary_event_ids": [
         "news:617c7c7be6a2cdc9cf999866"
+      ],
+      "related_event_ids": []
+    },
+    "00-0041029": {
+      "event_ids": [
+        "news:f3f56ad52d065880a1c5bae4"
+      ],
+      "name": "Jordyn Tyson",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0041029",
+      "primary_event_ids": [
+        "news:f3f56ad52d065880a1c5bae4"
       ],
       "related_event_ids": []
     },
