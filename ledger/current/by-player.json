@@ -484,6 +484,7 @@
     },
     "00-0039814": {
       "event_ids": [
+        "news:0ef9d36257970a0cb09eabb8",
         "news:3c6d60cedebd49a719058e2a",
         "news:972e2bb1ade13ada0e79bcb5"
       ],
@@ -492,6 +493,7 @@
       "nflverse_id": "00-0039814",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0ef9d36257970a0cb09eabb8",
         "news:3c6d60cedebd49a719058e2a",
         "news:972e2bb1ade13ada0e79bcb5"
       ]
@@ -663,6 +665,18 @@
       "nflverse_id": "00-0040719",
       "primary_event_ids": [
         "news:8f05113c5b0bc31d1cd9f229"
+      ],
+      "related_event_ids": []
+    },
+    "00-0040730": {
+      "event_ids": [
+        "news:0ef9d36257970a0cb09eabb8"
+      ],
+      "name": "RJ Harvey",
+      "nfl_team": "DEN",
+      "nflverse_id": "00-0040730",
+      "primary_event_ids": [
+        "news:0ef9d36257970a0cb09eabb8"
       ],
       "related_event_ids": []
     },
