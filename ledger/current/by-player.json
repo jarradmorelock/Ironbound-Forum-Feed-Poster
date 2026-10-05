@@ -1,5 +1,17 @@
 {
   "players": {
+    "00-0030140": {
+      "event_ids": [
+        "news:8ffb3f30b97a5d72f2323fe4"
+      ],
+      "name": "Tress Way",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0030140",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:8ffb3f30b97a5d72f2323fe4"
+      ]
+    },
     "00-0031040": {
       "event_ids": [
         "news:f578056da7a35ecc5c91839e"
@@ -338,12 +350,14 @@
     },
     "00-0037744": {
       "event_ids": [
+        "news:8ffb3f30b97a5d72f2323fe4",
         "news:dd9f111d60978f25ece66441"
       ],
       "name": "Trey McBride",
       "nfl_team": "ARI",
       "nflverse_id": "00-0037744",
       "primary_event_ids": [
+        "news:8ffb3f30b97a5d72f2323fe4",
         "news:dd9f111d60978f25ece66441"
       ],
       "related_event_ids": []
@@ -786,6 +800,7 @@
     },
     "00-0040583": {
       "event_ids": [
+        "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b"
       ],
       "name": "Woody Marks",
@@ -793,6 +808,7 @@
       "nflverse_id": "00-0040583",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b"
       ]
     },
