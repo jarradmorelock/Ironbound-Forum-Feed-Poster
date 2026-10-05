@@ -133,7 +133,8 @@
     "00-0033010": {
       "event_ids": [
         "news:08bc4fa7692c9a7c714915b7",
-        "news:5b3f3588f0ca8f0a33627ddf"
+        "news:5b3f3588f0ca8f0a33627ddf",
+        "news:a56559875d9edfa1cb8342ef"
       ],
       "name": "Sheldon Day",
       "nfl_team": "WAS",
@@ -141,7 +142,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:08bc4fa7692c9a7c714915b7",
-        "news:5b3f3588f0ca8f0a33627ddf"
+        "news:5b3f3588f0ca8f0a33627ddf",
+        "news:a56559875d9edfa1cb8342ef"
       ]
     },
     "00-0033040": {
@@ -474,6 +476,7 @@
     },
     "00-0036442": {
       "event_ids": [
+        "news:a56559875d9edfa1cb8342ef",
         "news:d4e998a309ac3345d219e197"
       ],
       "name": "Joe Burrow",
@@ -482,7 +485,9 @@
       "primary_event_ids": [
         "news:d4e998a309ac3345d219e197"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:a56559875d9edfa1cb8342ef"
+      ]
     },
     "00-0036550": {
       "event_ids": [
@@ -519,6 +524,18 @@
         "news:13706ce1d35499b7e2a3d22c"
       ],
       "related_event_ids": []
+    },
+    "00-0036900": {
+      "event_ids": [
+        "news:a56559875d9edfa1cb8342ef"
+      ],
+      "name": "Ja'Marr Chase",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0036900",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:a56559875d9edfa1cb8342ef"
+      ]
     },
     "00-0036912": {
       "event_ids": [
@@ -794,13 +811,15 @@
     },
     "00-0038597": {
       "event_ids": [
-        "news:972e2bb1ade13ada0e79bcb5"
+        "news:972e2bb1ade13ada0e79bcb5",
+        "news:a56559875d9edfa1cb8342ef"
       ],
       "name": "Chase Brown",
       "nfl_team": "CIN",
       "nflverse_id": "00-0038597",
       "primary_event_ids": [
-        "news:972e2bb1ade13ada0e79bcb5"
+        "news:972e2bb1ade13ada0e79bcb5",
+        "news:a56559875d9edfa1cb8342ef"
       ],
       "related_event_ids": []
     },
