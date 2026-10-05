@@ -144,6 +144,7 @@
     },
     "00-0033010": {
       "event_ids": [
+        "news:0213701c3d05aa8dfc30f55a",
         "news:08bc4fa7692c9a7c714915b7",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:a56559875d9edfa1cb8342ef",
@@ -154,6 +155,7 @@
       "nflverse_id": "00-0033010",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0213701c3d05aa8dfc30f55a",
         "news:08bc4fa7692c9a7c714915b7",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:a56559875d9edfa1cb8342ef",
@@ -701,6 +703,7 @@
     },
     "00-0037747": {
       "event_ids": [
+        "news:0213701c3d05aa8dfc30f55a",
         "news:23b438c84374010e1a201958"
       ],
       "name": "Christian Matthew",
@@ -708,6 +711,7 @@
       "nflverse_id": "00-0037747",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0213701c3d05aa8dfc30f55a",
         "news:23b438c84374010e1a201958"
       ]
     },
@@ -1132,6 +1136,7 @@
     },
     "00-0039234": {
       "event_ids": [
+        "news:0213701c3d05aa8dfc30f55a",
         "news:8a04d508618a5eb5e4a0227d"
       ],
       "name": "T.J. Tampa",
@@ -1139,6 +1144,7 @@
       "nflverse_id": "00-0039234",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0213701c3d05aa8dfc30f55a",
         "news:8a04d508618a5eb5e4a0227d"
       ]
     },
@@ -1595,6 +1601,18 @@
       "related_event_ids": [
         "news:759dac8b62bec249b282836e"
       ]
+    },
+    "00-0040667": {
+      "event_ids": [
+        "news:0213701c3d05aa8dfc30f55a"
+      ],
+      "name": "Matthew Golden",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0040667",
+      "primary_event_ids": [
+        "news:0213701c3d05aa8dfc30f55a"
+      ],
+      "related_event_ids": []
     },
     "00-0040676": {
       "event_ids": [
