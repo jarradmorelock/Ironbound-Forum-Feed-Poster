@@ -321,6 +321,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038128": {
+      "event_ids": [
+        "news:f55de1284e3ffa0b30067738"
+      ],
+      "name": "Malik Willis",
+      "nfl_team": "MIA",
+      "nflverse_id": "00-0038128",
+      "primary_event_ids": [
+        "news:f55de1284e3ffa0b30067738"
+      ],
+      "related_event_ids": []
+    },
     "00-0038134": {
       "event_ids": [
         "news:8a57f4e49574e754bcdced58"
