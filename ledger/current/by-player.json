@@ -455,12 +455,14 @@
     },
     "00-0037240": {
       "event_ids": [
+        "news:7a78e640b9bba87a355ff412",
         "news:bfae92bc89f8e60134148080"
       ],
       "name": "Jameson Williams",
       "nfl_team": "DET",
       "nflverse_id": "00-0037240",
       "primary_event_ids": [
+        "news:7a78e640b9bba87a355ff412",
         "news:bfae92bc89f8e60134148080"
       ],
       "related_event_ids": []
