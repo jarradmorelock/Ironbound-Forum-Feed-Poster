@@ -146,7 +146,8 @@
       "event_ids": [
         "news:08bc4fa7692c9a7c714915b7",
         "news:5b3f3588f0ca8f0a33627ddf",
-        "news:a56559875d9edfa1cb8342ef"
+        "news:a56559875d9edfa1cb8342ef",
+        "news:e8b20af7ca1f9bd7dc0337f0"
       ],
       "name": "Sheldon Day",
       "nfl_team": "WAS",
@@ -155,7 +156,8 @@
       "related_event_ids": [
         "news:08bc4fa7692c9a7c714915b7",
         "news:5b3f3588f0ca8f0a33627ddf",
-        "news:a56559875d9edfa1cb8342ef"
+        "news:a56559875d9edfa1cb8342ef",
+        "news:e8b20af7ca1f9bd7dc0337f0"
       ]
     },
     "00-0033040": {
@@ -671,6 +673,18 @@
         "news:ea7d53dcc4ae950825ecd20d"
       ]
     },
+    "00-0037431": {
+      "event_ids": [
+        "news:e8b20af7ca1f9bd7dc0337f0"
+      ],
+      "name": "Kingsley Jonathan",
+      "nfl_team": "NYJ",
+      "nflverse_id": "00-0037431",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e8b20af7ca1f9bd7dc0337f0"
+      ]
+    },
     "00-0037744": {
       "event_ids": [
         "news:8ffb3f30b97a5d72f2323fe4",
@@ -986,6 +1000,18 @@
       "nflverse_id": "00-0038933",
       "primary_event_ids": [
         "news:ab6df1f6093f58a6e20885b0"
+      ],
+      "related_event_ids": []
+    },
+    "00-0038977": {
+      "event_ids": [
+        "news:e8b20af7ca1f9bd7dc0337f0"
+      ],
+      "name": "Tank Dell",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0038977",
+      "primary_event_ids": [
+        "news:e8b20af7ca1f9bd7dc0337f0"
       ],
       "related_event_ids": []
     },
