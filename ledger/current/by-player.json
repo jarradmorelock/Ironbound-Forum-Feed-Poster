@@ -840,6 +840,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038544": {
+      "event_ids": [
+        "news:759dac8b62bec249b282836e"
+      ],
+      "name": "Quentin Johnston",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0038544",
+      "primary_event_ids": [
+        "news:759dac8b62bec249b282836e"
+      ],
+      "related_event_ids": []
+    },
     "00-0038555": {
       "event_ids": [
         "news:11a993edce3943ec0de56eca"
@@ -1217,6 +1229,7 @@
     "00-0039915": {
       "event_ids": [
         "news:355efb2c878848d56cce0ed0",
+        "news:759dac8b62bec249b282836e",
         "news:91d97dde6f4365c2e62aa2cc"
       ],
       "name": "Ladd McConkey",
@@ -1226,7 +1239,9 @@
         "news:355efb2c878848d56cce0ed0",
         "news:91d97dde6f4365c2e62aa2cc"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:759dac8b62bec249b282836e"
+      ]
     },
     "00-0039919": {
       "event_ids": [
@@ -1393,6 +1408,7 @@
     },
     "00-0040666": {
       "event_ids": [
+        "news:759dac8b62bec249b282836e",
         "news:927f4d2cdb6a1ee11ac2c476"
       ],
       "name": "Omarion Hampton",
@@ -1401,7 +1417,9 @@
       "primary_event_ids": [
         "news:927f4d2cdb6a1ee11ac2c476"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:759dac8b62bec249b282836e"
+      ]
     },
     "00-0040676": {
       "event_ids": [
@@ -1453,14 +1471,16 @@
     },
     "00-0040727": {
       "event_ids": [
-        "news:6694d21e8c9ec5386edb48a5"
+        "news:6694d21e8c9ec5386edb48a5",
+        "news:759dac8b62bec249b282836e"
       ],
       "name": "Tre Harris",
       "nfl_team": "LAC",
       "nflverse_id": "00-0040727",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:6694d21e8c9ec5386edb48a5"
+        "news:6694d21e8c9ec5386edb48a5",
+        "news:759dac8b62bec249b282836e"
       ]
     },
     "00-0040730": {
