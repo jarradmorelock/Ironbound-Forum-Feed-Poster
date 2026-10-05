@@ -346,13 +346,15 @@
     },
     "00-0035228": {
       "event_ids": [
-        "news:3ae66500bfbb93be743e5245"
+        "news:3ae66500bfbb93be743e5245",
+        "news:93c9bdb7d3cc5250b3ef7a55"
       ],
       "name": "Kyler Murray",
       "nfl_team": "MIN",
       "nflverse_id": "00-0035228",
       "primary_event_ids": [
-        "news:3ae66500bfbb93be743e5245"
+        "news:3ae66500bfbb93be743e5245",
+        "news:93c9bdb7d3cc5250b3ef7a55"
       ],
       "related_event_ids": []
     },
@@ -443,6 +445,18 @@
       "related_event_ids": [
         "news:5e17cc438064c7b969adb2c0",
         "news:eaaa5489714a1283c5ce341c"
+      ]
+    },
+    "00-0036322": {
+      "event_ids": [
+        "news:93c9bdb7d3cc5250b3ef7a55"
+      ],
+      "name": "Justin Jefferson",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0036322",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:93c9bdb7d3cc5250b3ef7a55"
       ]
     },
     "00-0036355": {
@@ -1805,6 +1819,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:136acc9c41ce361c1da28d96"
+      ]
+    },
+    "00-0041075": {
+      "event_ids": [
+        "news:93c9bdb7d3cc5250b3ef7a55"
+      ],
+      "name": "Justin Jefferson",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0041075",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:93c9bdb7d3cc5250b3ef7a55"
       ]
     },
     "00-0041117": {
