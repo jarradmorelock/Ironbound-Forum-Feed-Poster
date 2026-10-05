@@ -135,6 +135,18 @@
         "news:eaaa5489714a1283c5ce341c"
       ]
     },
+    "00-0035228": {
+      "event_ids": [
+        "news:3ae66500bfbb93be743e5245"
+      ],
+      "name": "Kyler Murray",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0035228",
+      "primary_event_ids": [
+        "news:3ae66500bfbb93be743e5245"
+      ],
+      "related_event_ids": []
+    },
     "00-0035261": {
       "event_ids": [
         "news:2895c73454026dda022593e1",
