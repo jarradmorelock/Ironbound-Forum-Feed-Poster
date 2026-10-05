@@ -181,6 +181,18 @@
         "news:ea7d53dcc4ae950825ecd20d"
       ]
     },
+    "00-0033873": {
+      "event_ids": [
+        "news:21365f16b4e003b9ab47afca"
+      ],
+      "name": "Patrick Mahomes",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0033873",
+      "primary_event_ids": [
+        "news:21365f16b4e003b9ab47afca"
+      ],
+      "related_event_ids": []
+    },
     "00-0034753": {
       "event_ids": [
         "news:13bcbf61be9a95e9d03e5ae2"
