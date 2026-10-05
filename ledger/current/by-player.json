@@ -750,6 +750,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039065": {
+      "event_ids": [
+        "news:ea7b71e352d87e85ceb73a9b"
+      ],
+      "name": "Sam LaPorta",
+      "nfl_team": "DET",
+      "nflverse_id": "00-0039065",
+      "primary_event_ids": [
+        "news:ea7b71e352d87e85ceb73a9b"
+      ],
+      "related_event_ids": []
+    },
     "00-0039066": {
       "event_ids": [
         "news:5a04300dd162cdb97d19a817"
