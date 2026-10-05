@@ -632,6 +632,18 @@
         "news:7dd859216b3bba49d57c92ab"
       ]
     },
+    "00-0036932": {
+      "event_ids": [
+        "news:a1b1077de91a3dee0f0c9a2c"
+      ],
+      "name": "Micah Parsons",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0036932",
+      "primary_event_ids": [
+        "news:a1b1077de91a3dee0f0c9a2c"
+      ],
+      "related_event_ids": []
+    },
     "00-0036963": {
       "event_ids": [
         "news:093ff451a1968e81d9e43e03"
@@ -1653,6 +1665,18 @@
       "related_event_ids": [
         "news:70bf5e9aab77f85357ce7fac",
         "news:927f4d2cdb6a1ee11ac2c476"
+      ]
+    },
+    "00-0040408": {
+      "event_ids": [
+        "news:a1b1077de91a3dee0f0c9a2c"
+      ],
+      "name": "Ja'Markis Weston",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0040408",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:a1b1077de91a3dee0f0c9a2c"
       ]
     },
     "00-0040583": {
