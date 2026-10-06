@@ -353,12 +353,15 @@
     "00-0034844": {
       "event_ids": [
         "news:11a993edce3943ec0de56eca",
-        "news:215a662b508f4ea648a92711"
+        "news:215a662b508f4ea648a92711",
+        "news:64b0b8be152ab1fea5afb0a2"
       ],
       "name": "Saquon Barkley",
       "nfl_team": "PHI",
       "nflverse_id": "00-0034844",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:64b0b8be152ab1fea5afb0a2"
+      ],
       "related_event_ids": [
         "news:11a993edce3943ec0de56eca",
         "news:215a662b508f4ea648a92711"
@@ -427,6 +430,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:ab6df1f6093f58a6e20885b0"
+      ]
+    },
+    "00-0035704": {
+      "event_ids": [
+        "news:64b0b8be152ab1fea5afb0a2"
+      ],
+      "name": "Drew Lock",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0035704",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:64b0b8be152ab1fea5afb0a2"
       ]
     },
     "00-0035710": {
@@ -762,6 +777,18 @@
         "news:ea7d53dcc4ae950825ecd20d"
       ]
     },
+    "00-0037258": {
+      "event_ids": [
+        "news:64b0b8be152ab1fea5afb0a2"
+      ],
+      "name": "Dameon Pierce",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0037258",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:64b0b8be152ab1fea5afb0a2"
+      ]
+    },
     "00-0037431": {
       "event_ids": [
         "news:e8b20af7ca1f9bd7dc0337f0"
@@ -1004,7 +1031,8 @@
     "00-0038555": {
       "event_ids": [
         "news:11a993edce3943ec0de56eca",
-        "news:215a662b508f4ea648a92711"
+        "news:215a662b508f4ea648a92711",
+        "news:64b0b8be152ab1fea5afb0a2"
       ],
       "name": "Tank Bigsby",
       "nfl_team": "PHI",
@@ -1013,7 +1041,9 @@
         "news:11a993edce3943ec0de56eca",
         "news:215a662b508f4ea648a92711"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:64b0b8be152ab1fea5afb0a2"
+      ]
     },
     "00-0038559": {
       "event_ids": [
@@ -1418,14 +1448,16 @@
     },
     "00-0039746": {
       "event_ids": [
-        "news:11a993edce3943ec0de56eca"
+        "news:11a993edce3943ec0de56eca",
+        "news:64b0b8be152ab1fea5afb0a2"
       ],
       "name": "Will Shipley",
       "nfl_team": "PHI",
       "nflverse_id": "00-0039746",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:11a993edce3943ec0de56eca"
+        "news:11a993edce3943ec0de56eca",
+        "news:64b0b8be152ab1fea5afb0a2"
       ]
     },
     "00-0039794": {
@@ -1744,6 +1776,18 @@
       "related_event_ids": [
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b"
+      ]
+    },
+    "00-0040586": {
+      "event_ids": [
+        "news:64b0b8be152ab1fea5afb0a2"
+      ],
+      "name": "Jaydon Blue",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0040586",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:64b0b8be152ab1fea5afb0a2"
       ]
     },
     "00-0040648": {
