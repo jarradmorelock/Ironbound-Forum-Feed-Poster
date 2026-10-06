@@ -1245,6 +1245,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038951": {
+      "event_ids": [
+        "news:ec3fb719b4ca5131873e0e9e"
+      ],
+      "name": "Sean Tucker",
+      "nfl_team": "TB",
+      "nflverse_id": "00-0038951",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ec3fb719b4ca5131873e0e9e"
+      ]
+    },
     "00-0038977": {
       "event_ids": [
         "news:e8b20af7ca1f9bd7dc0337f0"
@@ -1480,6 +1492,18 @@
         "news:5a04300dd162cdb97d19a817"
       ]
     },
+    "00-0039361": {
+      "event_ids": [
+        "news:ec3fb719b4ca5131873e0e9e"
+      ],
+      "name": "Bucky Irving",
+      "nfl_team": "TB",
+      "nflverse_id": "00-0039361",
+      "primary_event_ids": [
+        "news:ec3fb719b4ca5131873e0e9e"
+      ],
+      "related_event_ids": []
+    },
     "00-0039366": {
       "event_ids": [
         "news:215a662b508f4ea648a92711",
@@ -1591,7 +1615,8 @@
         "news:8bfcc5f42e63e50c195b278e",
         "news:972e2bb1ade13ada0e79bcb5",
         "news:d54619e249e1073482a4c77b",
-        "news:e2a38d7e3da2993c4b934d6c"
+        "news:e2a38d7e3da2993c4b934d6c",
+        "news:ec3fb719b4ca5131873e0e9e"
       ],
       "name": "Erick All",
       "nfl_team": "CIN",
@@ -1605,7 +1630,8 @@
         "news:8bfcc5f42e63e50c195b278e",
         "news:972e2bb1ade13ada0e79bcb5",
         "news:d54619e249e1073482a4c77b",
-        "news:e2a38d7e3da2993c4b934d6c"
+        "news:e2a38d7e3da2993c4b934d6c",
+        "news:ec3fb719b4ca5131873e0e9e"
       ]
     },
     "00-0039850": {
