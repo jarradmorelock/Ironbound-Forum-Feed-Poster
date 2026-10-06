@@ -291,12 +291,14 @@
     },
     "00-0033897": {
       "event_ids": [
+        "news:3d48716733aa4cee120e1383",
         "news:d54619e249e1073482a4c77b"
       ],
       "name": "Joe Mixon",
       "nfl_team": "HOU",
       "nflverse_id": "00-0033897",
       "primary_event_ids": [
+        "news:3d48716733aa4cee120e1383",
         "news:d54619e249e1073482a4c77b"
       ],
       "related_event_ids": []
