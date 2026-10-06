@@ -55,6 +55,7 @@
         "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a0a2fbf046e1657bf21ec8d6",
+        "news:bdcbe7e4c4b988bdde4e3f18",
         "news:e5ed47203eac93b2660f95bb"
       ],
       "name": "Tress Way",
@@ -67,6 +68,7 @@
         "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a0a2fbf046e1657bf21ec8d6",
+        "news:bdcbe7e4c4b988bdde4e3f18",
         "news:e5ed47203eac93b2660f95bb"
       ]
     },
@@ -1053,13 +1055,15 @@
     "00-0038542": {
       "event_ids": [
         "news:6c146d141dd8e18084e6efa4",
-        "news:93a3ae5d8cafbbc51af54403"
+        "news:93a3ae5d8cafbbc51af54403",
+        "news:bdcbe7e4c4b988bdde4e3f18"
       ],
       "name": "Bijan Robinson",
       "nfl_team": "ATL",
       "nflverse_id": "00-0038542",
       "primary_event_ids": [
-        "news:93a3ae5d8cafbbc51af54403"
+        "news:93a3ae5d8cafbbc51af54403",
+        "news:bdcbe7e4c4b988bdde4e3f18"
       ],
       "related_event_ids": [
         "news:6c146d141dd8e18084e6efa4"
