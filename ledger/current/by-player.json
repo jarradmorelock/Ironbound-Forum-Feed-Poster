@@ -352,13 +352,15 @@
     "00-0034796": {
       "event_ids": [
         "news:5e17cc438064c7b969adb2c0",
+        "news:9eeec5feb6bdad2f41c9f2e0",
         "news:eaaa5489714a1283c5ce341c"
       ],
       "name": "Lamar Jackson",
       "nfl_team": "BAL",
       "nflverse_id": "00-0034796",
       "primary_event_ids": [
-        "news:5e17cc438064c7b969adb2c0"
+        "news:5e17cc438064c7b969adb2c0",
+        "news:9eeec5feb6bdad2f41c9f2e0"
       ],
       "related_event_ids": [
         "news:eaaa5489714a1283c5ce341c"
@@ -497,6 +499,7 @@
     "00-0036152": {
       "event_ids": [
         "news:5e17cc438064c7b969adb2c0",
+        "news:9eeec5feb6bdad2f41c9f2e0",
         "news:eaaa5489714a1283c5ce341c"
       ],
       "name": "Lamar Jackson",
@@ -505,6 +508,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:5e17cc438064c7b969adb2c0",
+        "news:9eeec5feb6bdad2f41c9f2e0",
         "news:eaaa5489714a1283c5ce341c"
       ]
     },
