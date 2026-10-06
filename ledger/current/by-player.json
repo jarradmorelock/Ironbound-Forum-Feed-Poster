@@ -764,12 +764,14 @@
     },
     "00-0037239": {
       "event_ids": [
+        "news:9691b7425963b33722597723",
         "news:f39c2079c1b6dcc16ceca441"
       ],
       "name": "Chris Olave",
       "nfl_team": "NO",
       "nflverse_id": "00-0037239",
       "primary_event_ids": [
+        "news:9691b7425963b33722597723",
         "news:f39c2079c1b6dcc16ceca441"
       ],
       "related_event_ids": []
