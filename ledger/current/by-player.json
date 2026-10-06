@@ -289,6 +289,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0033897": {
+      "event_ids": [
+        "news:d54619e249e1073482a4c77b"
+      ],
+      "name": "Joe Mixon",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0033897",
+      "primary_event_ids": [
+        "news:d54619e249e1073482a4c77b"
+      ],
+      "related_event_ids": []
+    },
     "00-0033906": {
       "event_ids": [
         "news:21d672797933ee5b372daed8"
@@ -1191,6 +1203,7 @@
         "news:50299468aa0ba0c31e5e489c",
         "news:80007ef73885136616e6356f",
         "news:81649ea69ee16a01a008368c",
+        "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
       ],
       "name": "Emanuel Wilson",
@@ -1202,7 +1215,8 @@
       ],
       "related_event_ids": [
         "news:50299468aa0ba0c31e5e489c",
-        "news:80007ef73885136616e6356f"
+        "news:80007ef73885136616e6356f",
+        "news:d54619e249e1073482a4c77b"
       ]
     },
     "00-0038840": {
@@ -1382,7 +1396,8 @@
     },
     "00-0039165": {
       "event_ids": [
-        "news:80007ef73885136616e6356f"
+        "news:80007ef73885136616e6356f",
+        "news:d54619e249e1073482a4c77b"
       ],
       "name": "Zach Charbonnet",
       "nfl_team": "SEA",
@@ -1390,7 +1405,9 @@
       "primary_event_ids": [
         "news:80007ef73885136616e6356f"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:d54619e249e1073482a4c77b"
+      ]
     },
     "00-0039234": {
       "event_ids": [
@@ -1422,6 +1439,7 @@
     },
     "00-0039299": {
       "event_ids": [
+        "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
       ],
       "name": "George Holani",
@@ -1429,6 +1447,7 @@
       "nflverse_id": "00-0039299",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
       ]
     },
@@ -1569,6 +1588,7 @@
         "news:6694d21e8c9ec5386edb48a5",
         "news:8bfcc5f42e63e50c195b278e",
         "news:972e2bb1ade13ada0e79bcb5",
+        "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c"
       ],
       "name": "Erick All",
@@ -1582,6 +1602,7 @@
         "news:6694d21e8c9ec5386edb48a5",
         "news:8bfcc5f42e63e50c195b278e",
         "news:972e2bb1ade13ada0e79bcb5",
+        "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c"
       ]
     },
@@ -1688,6 +1709,7 @@
     },
     "00-0040087": {
       "event_ids": [
+        "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
         "news:f84b9d09908cda13b523c2a7"
       ],
@@ -1696,6 +1718,7 @@
       "nflverse_id": "00-0040087",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
         "news:f84b9d09908cda13b523c2a7"
       ]
@@ -2147,6 +2170,7 @@
     "00-0041512": {
       "event_ids": [
         "news:80007ef73885136616e6356f",
+        "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
       ],
       "name": "Jadarian Price",
@@ -2155,6 +2179,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:80007ef73885136616e6356f",
+        "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
       ]
     },
