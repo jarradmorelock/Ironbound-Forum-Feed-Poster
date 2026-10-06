@@ -51,6 +51,7 @@
     "00-0030140": {
       "event_ids": [
         "news:2bacdaaf8e1cbc9208f782d2",
+        "news:6c146d141dd8e18084e6efa4",
         "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a0a2fbf046e1657bf21ec8d6",
@@ -62,6 +63,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:2bacdaaf8e1cbc9208f782d2",
+        "news:6c146d141dd8e18084e6efa4",
         "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a0a2fbf046e1657bf21ec8d6",
@@ -851,6 +853,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0037746": {
+      "event_ids": [
+        "news:6c146d141dd8e18084e6efa4"
+      ],
+      "name": "Brian Robinson",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0037746",
+      "primary_event_ids": [
+        "news:6c146d141dd8e18084e6efa4"
+      ],
+      "related_event_ids": []
+    },
     "00-0037747": {
       "event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
@@ -1030,6 +1044,7 @@
     },
     "00-0038542": {
       "event_ids": [
+        "news:6c146d141dd8e18084e6efa4",
         "news:93a3ae5d8cafbbc51af54403"
       ],
       "name": "Bijan Robinson",
@@ -1038,7 +1053,9 @@
       "primary_event_ids": [
         "news:93a3ae5d8cafbbc51af54403"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:6c146d141dd8e18084e6efa4"
+      ]
     },
     "00-0038543": {
       "event_ids": [
