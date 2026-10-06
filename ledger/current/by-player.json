@@ -285,6 +285,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0033906": {
+      "event_ids": [
+        "news:21d672797933ee5b372daed8"
+      ],
+      "name": "Alvin Kamara",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0033906",
+      "primary_event_ids": [
+        "news:21d672797933ee5b372daed8"
+      ],
+      "related_event_ids": []
+    },
     "00-0034351": {
       "event_ids": [
         "news:536395cc5c2f30b9af7087fd",
