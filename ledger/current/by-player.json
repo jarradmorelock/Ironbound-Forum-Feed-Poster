@@ -855,12 +855,14 @@
     },
     "00-0037746": {
       "event_ids": [
+        "news:578c3bdd73c20d4460bcf8d5",
         "news:6c146d141dd8e18084e6efa4"
       ],
       "name": "Brian Robinson",
       "nfl_team": "ATL",
       "nflverse_id": "00-0037746",
       "primary_event_ids": [
+        "news:578c3bdd73c20d4460bcf8d5",
         "news:6c146d141dd8e18084e6efa4"
       ],
       "related_event_ids": []
