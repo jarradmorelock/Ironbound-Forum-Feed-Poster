@@ -1491,6 +1491,18 @@
         "news:927f4d2cdb6a1ee11ac2c476"
       ]
     },
+    "00-0039424": {
+      "event_ids": [
+        "news:ae5a31606ec9ac1a414ca1f3"
+      ],
+      "name": "Devaughn Vele",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0039424",
+      "primary_event_ids": [
+        "news:ae5a31606ec9ac1a414ca1f3"
+      ],
+      "related_event_ids": []
+    },
     "00-0039491": {
       "event_ids": [
         "news:303c972e64ef85754c49f9df"
