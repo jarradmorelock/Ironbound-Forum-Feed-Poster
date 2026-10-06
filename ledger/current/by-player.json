@@ -748,6 +748,18 @@
         "news:9c547095459f998d356ab8be"
       ]
     },
+    "00-0037239": {
+      "event_ids": [
+        "news:f39c2079c1b6dcc16ceca441"
+      ],
+      "name": "Chris Olave",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0037239",
+      "primary_event_ids": [
+        "news:f39c2079c1b6dcc16ceca441"
+      ],
+      "related_event_ids": []
+    },
     "00-0037240": {
       "event_ids": [
         "news:7a78e640b9bba87a355ff412",
