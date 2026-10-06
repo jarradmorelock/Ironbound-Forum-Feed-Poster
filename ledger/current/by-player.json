@@ -1953,6 +1953,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040743": {
+      "event_ids": [
+        "news:dd2c83f939b8dd92986bd909"
+      ],
+      "name": "Tyler Shough",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0040743",
+      "primary_event_ids": [
+        "news:dd2c83f939b8dd92986bd909"
+      ],
+      "related_event_ids": []
+    },
     "00-0040867": {
       "event_ids": [
         "news:00c503483783fa1ebca89065"
