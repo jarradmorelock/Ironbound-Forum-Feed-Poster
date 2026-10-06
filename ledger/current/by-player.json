@@ -1004,6 +1004,18 @@
         "news:7dd859216b3bba49d57c92ab"
       ]
     },
+    "00-0038542": {
+      "event_ids": [
+        "news:93a3ae5d8cafbbc51af54403"
+      ],
+      "name": "Bijan Robinson",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0038542",
+      "primary_event_ids": [
+        "news:93a3ae5d8cafbbc51af54403"
+      ],
+      "related_event_ids": []
+    },
     "00-0038543": {
       "event_ids": [
         "news:4ef6ca358c7611c68ab0371a"
