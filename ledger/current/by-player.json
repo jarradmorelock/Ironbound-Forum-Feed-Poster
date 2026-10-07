@@ -331,6 +331,7 @@
     },
     "00-0033699": {
       "event_ids": [
+        "news:17905655664514b19ca5674e",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
       "name": "Austin Ekeler",
@@ -338,6 +339,7 @@
       "nflverse_id": "00-0033699",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:17905655664514b19ca5674e",
         "news:ea7d53dcc4ae950825ecd20d"
       ]
     },
@@ -984,6 +986,7 @@
     },
     "00-0037256": {
       "event_ids": [
+        "news:17905655664514b19ca5674e",
         "news:7f5319f1cf7fce9817aadf26",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
@@ -991,6 +994,7 @@
       "nfl_team": "WAS",
       "nflverse_id": "00-0037256",
       "primary_event_ids": [
+        "news:17905655664514b19ca5674e",
         "news:7f5319f1cf7fce9817aadf26"
       ],
       "related_event_ids": [
