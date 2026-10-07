@@ -1770,6 +1770,7 @@
       "event_ids": [
         "news:215a662b508f4ea648a92711",
         "news:536395cc5c2f30b9af7087fd",
+        "news:99525e52a7d1dd2754a23228",
         "news:f3f56ad52d065880a1c5bae4"
       ],
       "name": "Tarheeb Still",
@@ -1779,6 +1780,7 @@
       "related_event_ids": [
         "news:215a662b508f4ea648a92711",
         "news:536395cc5c2f30b9af7087fd",
+        "news:99525e52a7d1dd2754a23228",
         "news:f3f56ad52d065880a1c5bae4"
       ]
     },
@@ -1960,6 +1962,18 @@
       "nflverse_id": "00-0039901",
       "primary_event_ids": [
         "news:1b58034b8390ffe863c3dff4"
+      ],
+      "related_event_ids": []
+    },
+    "00-0039910": {
+      "event_ids": [
+        "news:99525e52a7d1dd2754a23228"
+      ],
+      "name": "Jayden Daniels",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0039910",
+      "primary_event_ids": [
+        "news:99525e52a7d1dd2754a23228"
       ],
       "related_event_ids": []
     },
