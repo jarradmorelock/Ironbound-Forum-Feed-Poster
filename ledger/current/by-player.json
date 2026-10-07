@@ -540,6 +540,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0036139": {
+      "event_ids": [
+        "news:8d718e4797ba786637f1d6b7"
+      ],
+      "name": "Rico Dowdle",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0036139",
+      "primary_event_ids": [
+        "news:8d718e4797ba786637f1d6b7"
+      ],
+      "related_event_ids": []
+    },
     "00-0036152": {
       "event_ids": [
         "news:5e17cc438064c7b969adb2c0",
@@ -808,6 +820,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:9c547095459f998d356ab8be"
+      ]
+    },
+    "00-0037203": {
+      "event_ids": [
+        "news:8d718e4797ba786637f1d6b7"
+      ],
+      "name": "LaBryan Ray",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0037203",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:8d718e4797ba786637f1d6b7"
       ]
     },
     "00-0037239": {
