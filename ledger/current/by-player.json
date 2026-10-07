@@ -1059,6 +1059,18 @@
         "news:23b438c84374010e1a201958"
       ]
     },
+    "00-0038097": {
+      "event_ids": [
+        "news:2d8616eedc8a1dab5d08dc5e"
+      ],
+      "name": "Cade York",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0038097",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:2d8616eedc8a1dab5d08dc5e"
+      ]
+    },
     "00-0038104": {
       "event_ids": [
         "news:5da9dd99eedff310e2953b55",
@@ -1105,12 +1117,14 @@
     },
     "00-0038120": {
       "event_ids": [
+        "news:2d8616eedc8a1dab5d08dc5e",
         "news:c54d21770d3503d75e4ad6e4"
       ],
       "name": "Breece Hall",
       "nfl_team": "NYJ",
       "nflverse_id": "00-0038120",
       "primary_event_ids": [
+        "news:2d8616eedc8a1dab5d08dc5e",
         "news:c54d21770d3503d75e4ad6e4"
       ],
       "related_event_ids": []
@@ -1776,6 +1790,7 @@
     },
     "00-0039794": {
       "event_ids": [
+        "news:2d8616eedc8a1dab5d08dc5e",
         "news:e9db674a6ef7f0fc4f29c50b"
       ],
       "name": "Braelon Allen",
@@ -1784,11 +1799,14 @@
       "primary_event_ids": [
         "news:e9db674a6ef7f0fc4f29c50b"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:2d8616eedc8a1dab5d08dc5e"
+      ]
     },
     "00-0039814": {
       "event_ids": [
         "news:0ef9d36257970a0cb09eabb8",
+        "news:2d8616eedc8a1dab5d08dc5e",
         "news:3c6d60cedebd49a719058e2a",
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
@@ -1804,6 +1822,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0ef9d36257970a0cb09eabb8",
+        "news:2d8616eedc8a1dab5d08dc5e",
         "news:3c6d60cedebd49a719058e2a",
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
