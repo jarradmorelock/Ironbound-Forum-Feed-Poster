@@ -689,6 +689,7 @@
     "00-0036410": {
       "event_ids": [
         "news:e12892a87f9c84cf5b6fcbf6",
+        "news:edcc6e97cc2d3e76efb28f60",
         "news:f306a9f02b328bcdd5ec92f5"
       ],
       "name": "Tee Higgins",
@@ -698,7 +699,9 @@
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:f306a9f02b328bcdd5ec92f5"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:edcc6e97cc2d3e76efb28f60"
+      ]
     },
     "00-0036425": {
       "event_ids": [
@@ -783,12 +786,15 @@
     },
     "00-0036900": {
       "event_ids": [
-        "news:a56559875d9edfa1cb8342ef"
+        "news:a56559875d9edfa1cb8342ef",
+        "news:edcc6e97cc2d3e76efb28f60"
       ],
       "name": "Ja'Marr Chase",
       "nfl_team": "CIN",
       "nflverse_id": "00-0036900",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:edcc6e97cc2d3e76efb28f60"
+      ],
       "related_event_ids": [
         "news:a56559875d9edfa1cb8342ef"
       ]
@@ -1353,6 +1359,18 @@
         "news:50299468aa0ba0c31e5e489c",
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b"
+      ]
+    },
+    "00-0038839": {
+      "event_ids": [
+        "news:edcc6e97cc2d3e76efb28f60"
+      ],
+      "name": "Mitchell Tinsley",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0038839",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:edcc6e97cc2d3e76efb28f60"
       ]
     },
     "00-0038840": {
@@ -2226,6 +2244,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040785": {
+      "event_ids": [
+        "news:edcc6e97cc2d3e76efb28f60"
+      ],
+      "name": "Dohnte Meyers",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0040785",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:edcc6e97cc2d3e76efb28f60"
+      ]
+    },
     "00-0040867": {
       "event_ids": [
         "news:00c503483783fa1ebca89065"
@@ -2293,6 +2323,18 @@
       "related_event_ids": [
         "news:136acc9c41ce361c1da28d96",
         "news:6c52af439db2df36c39101c3"
+      ]
+    },
+    "00-0041069": {
+      "event_ids": [
+        "news:edcc6e97cc2d3e76efb28f60"
+      ],
+      "name": "Colbie Young",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0041069",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:edcc6e97cc2d3e76efb28f60"
       ]
     },
     "00-0041075": {
