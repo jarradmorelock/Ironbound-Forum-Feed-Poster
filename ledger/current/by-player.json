@@ -492,6 +492,18 @@
         "news:ffd5d01a9aa25669f6b14fea"
       ]
     },
+    "00-0035676": {
+      "event_ids": [
+        "news:6c52af439db2df36c39101c3"
+      ],
+      "name": "A.J. Brown",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0035676",
+      "primary_event_ids": [
+        "news:6c52af439db2df36c39101c3"
+      ],
+      "related_event_ids": []
+    },
     "00-0035689": {
       "event_ids": [
         "news:ab6df1f6093f58a6e20885b0"
@@ -2228,14 +2240,16 @@
     },
     "00-0041037": {
       "event_ids": [
-        "news:136acc9c41ce361c1da28d96"
+        "news:136acc9c41ce361c1da28d96",
+        "news:6c52af439db2df36c39101c3"
       ],
       "name": "Denzel Boston",
       "nfl_team": "CLE",
       "nflverse_id": "00-0041037",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:136acc9c41ce361c1da28d96"
+        "news:136acc9c41ce361c1da28d96",
+        "news:6c52af439db2df36c39101c3"
       ]
     },
     "00-0041075": {
