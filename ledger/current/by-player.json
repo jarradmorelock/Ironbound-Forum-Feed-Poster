@@ -14,14 +14,16 @@
     },
     "00-0028171": {
       "event_ids": [
-        "news:11a993edce3943ec0de56eca"
+        "news:11a993edce3943ec0de56eca",
+        "news:322740cd8ad79ba067ae6dea"
       ],
       "name": "Lawrence Guy",
       "nfl_team": "CIN",
       "nflverse_id": "00-0028171",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:11a993edce3943ec0de56eca"
+        "news:11a993edce3943ec0de56eca",
+        "news:322740cd8ad79ba067ae6dea"
       ]
     },
     "00-0029604": {
@@ -608,12 +610,15 @@
     },
     "00-0036275": {
       "event_ids": [
+        "news:322740cd8ad79ba067ae6dea",
         "news:463c5f9292e3b5af0a2cc870"
       ],
       "name": "D'Andre Swift",
       "nfl_team": "CHI",
       "nflverse_id": "00-0036275",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:322740cd8ad79ba067ae6dea"
+      ],
       "related_event_ids": [
         "news:463c5f9292e3b5af0a2cc870"
       ]
@@ -1408,6 +1413,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039021": {
+      "event_ids": [
+        "news:322740cd8ad79ba067ae6dea"
+      ],
+      "name": "Roschon Johnson",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0039021",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:322740cd8ad79ba067ae6dea"
+      ]
+    },
     "00-0039032": {
       "event_ids": [
         "news:2895c73454026dda022593e1"
@@ -1989,6 +2006,7 @@
     },
     "00-0040236": {
       "event_ids": [
+        "news:322740cd8ad79ba067ae6dea",
         "news:463c5f9292e3b5af0a2cc870",
         "news:587451581e3ecd268e2830a8"
       ],
@@ -1999,7 +2017,9 @@
         "news:463c5f9292e3b5af0a2cc870",
         "news:587451581e3ecd268e2830a8"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:322740cd8ad79ba067ae6dea"
+      ]
     },
     "00-0040242": {
       "event_ids": [
