@@ -1421,6 +1421,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038994": {
+      "event_ids": [
+        "news:98796c41dadf46960a129b42"
+      ],
+      "name": "Jordan Addison",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0038994",
+      "primary_event_ids": [
+        "news:98796c41dadf46960a129b42"
+      ],
+      "related_event_ids": []
+    },
     "00-0038996": {
       "event_ids": [
         "news:3bbca9a1b36ea92945f1d796"
