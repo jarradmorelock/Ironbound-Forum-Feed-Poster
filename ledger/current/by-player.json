@@ -84,6 +84,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0031235": {
+      "event_ids": [
+        "news:af55d8f8727f260f6031e745"
+      ],
+      "name": "Odell Beckham Jr.",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0031235",
+      "primary_event_ids": [
+        "news:af55d8f8727f260f6031e745"
+      ],
+      "related_event_ids": []
+    },
     "00-0031381": {
       "event_ids": [
         "news:23b438c84374010e1a201958"
@@ -327,6 +339,18 @@
       "related_event_ids": [
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab"
+      ]
+    },
+    "00-0034383": {
+      "event_ids": [
+        "news:af55d8f8727f260f6031e745"
+      ],
+      "name": "Dalton Schultz",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0034383",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:af55d8f8727f260f6031e745"
       ]
     },
     "00-0034753": {
