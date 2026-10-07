@@ -484,13 +484,15 @@
     "00-0035261": {
       "event_ids": [
         "news:2895c73454026dda022593e1",
+        "news:7f135c7a5a85681728cd6f95",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "name": "Tony Pollard",
       "nfl_team": "TEN",
       "nflverse_id": "00-0035261",
       "primary_event_ids": [
-        "news:2895c73454026dda022593e1"
+        "news:2895c73454026dda022593e1",
+        "news:7f135c7a5a85681728cd6f95"
       ],
       "related_event_ids": [
         "news:ffd5d01a9aa25669f6b14fea"
