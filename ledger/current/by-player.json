@@ -72,6 +72,18 @@
         "news:e5ed47203eac93b2660f95bb"
       ]
     },
+    "00-0030561": {
+      "event_ids": [
+        "news:d886d94ff65be4289afae51a"
+      ],
+      "name": "Lane Johnson",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0030561",
+      "primary_event_ids": [
+        "news:d886d94ff65be4289afae51a"
+      ],
+      "related_event_ids": []
+    },
     "00-0031040": {
       "event_ids": [
         "news:f578056da7a35ecc5c91839e"
@@ -1018,6 +1030,18 @@
       ],
       "related_event_ids": [
         "news:9d4f8427ff153d1751033bf8"
+      ]
+    },
+    "00-0038112": {
+      "event_ids": [
+        "news:d886d94ff65be4289afae51a"
+      ],
+      "name": "Cam Jurgens",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0038112",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:d886d94ff65be4289afae51a"
       ]
     },
     "00-0038117": {
