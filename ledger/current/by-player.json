@@ -291,6 +291,18 @@
         "news:f84b9d09908cda13b523c2a7"
       ]
     },
+    "00-0033505": {
+      "event_ids": [
+        "news:3981e3d5a400199aa4d7aaa9"
+      ],
+      "name": "Cameron Tom",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0033505",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:3981e3d5a400199aa4d7aaa9"
+      ]
+    },
     "00-0033555": {
       "event_ids": [
         "news:136acc9c41ce361c1da28d96",
@@ -641,6 +653,7 @@
     },
     "00-0036322": {
       "event_ids": [
+        "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
         "news:93c9bdb7d3cc5250b3ef7a55"
       ],
@@ -648,6 +661,7 @@
       "nfl_team": "MIN",
       "nflverse_id": "00-0036322",
       "primary_event_ids": [
+        "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3"
       ],
       "related_event_ids": [
@@ -2408,6 +2422,7 @@
     },
     "00-0041075": {
       "event_ids": [
+        "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
         "news:93c9bdb7d3cc5250b3ef7a55"
       ],
@@ -2416,6 +2431,7 @@
       "nflverse_id": "00-0041075",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
         "news:93c9bdb7d3cc5250b3ef7a55"
       ]
