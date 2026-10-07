@@ -385,6 +385,7 @@
     },
     "00-0034351": {
       "event_ids": [
+        "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab",
         "news:ba38911b0ee4c1d0ac4a7cd7"
@@ -393,6 +394,7 @@
       "nfl_team": "PHI",
       "nflverse_id": "00-0034351",
       "primary_event_ids": [
+        "news:3cee59ea0f35ec0b4ae11eab",
         "news:ba38911b0ee4c1d0ac4a7cd7"
       ],
       "related_event_ids": [
@@ -470,6 +472,7 @@
         "news:11a993edce3943ec0de56eca",
         "news:169a17bb9a2fb0774de2f48d",
         "news:215a662b508f4ea648a92711",
+        "news:3cee59ea0f35ec0b4ae11eab",
         "news:4ba225c96ce08e9cbdef9b34",
         "news:64b0b8be152ab1fea5afb0a2"
       ],
@@ -483,7 +486,8 @@
       "related_event_ids": [
         "news:11a993edce3943ec0de56eca",
         "news:169a17bb9a2fb0774de2f48d",
-        "news:215a662b508f4ea648a92711"
+        "news:215a662b508f4ea648a92711",
+        "news:3cee59ea0f35ec0b4ae11eab"
       ]
     },
     "00-0034869": {
@@ -762,6 +766,7 @@
     },
     "00-0036425": {
       "event_ids": [
+        "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab"
       ],
@@ -770,6 +775,7 @@
       "nflverse_id": "00-0036425",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab"
       ]
@@ -859,6 +865,7 @@
     "00-0036912": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab"
@@ -871,6 +878,7 @@
       ],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab"
       ]
@@ -2520,6 +2528,7 @@
     "00-0041153": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab"
@@ -2530,6 +2539,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab"
