@@ -1838,6 +1838,18 @@
         "news:0fc715cd580046ffde8c9d55"
       ]
     },
+    "00-0039890": {
+      "event_ids": [
+        "news:dd5dc956172bc996276f66c8"
+      ],
+      "name": "Adonai Mitchell",
+      "nfl_team": "NYJ",
+      "nflverse_id": "00-0039890",
+      "primary_event_ids": [
+        "news:dd5dc956172bc996276f66c8"
+      ],
+      "related_event_ids": []
+    },
     "00-0039894": {
       "event_ids": [
         "news:04956dffca3b8212a2f99845"
