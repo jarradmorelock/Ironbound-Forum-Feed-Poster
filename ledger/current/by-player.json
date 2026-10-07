@@ -594,6 +594,18 @@
         "news:eaaa5489714a1283c5ce341c"
       ]
     },
+    "00-0036252": {
+      "event_ids": [
+        "news:bf0d0a971c77d60d2ee2f0c4"
+      ],
+      "name": "Michael Pittman",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0036252",
+      "primary_event_ids": [
+        "news:bf0d0a971c77d60d2ee2f0c4"
+      ],
+      "related_event_ids": []
+    },
     "00-0036275": {
       "event_ids": [
         "news:463c5f9292e3b5af0a2cc870"
