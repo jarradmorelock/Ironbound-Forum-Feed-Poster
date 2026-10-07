@@ -74,6 +74,18 @@
         "news:e5ed47203eac93b2660f95bb"
       ]
     },
+    "00-0030279": {
+      "event_ids": [
+        "news:822540010d4645b8183f283c"
+      ],
+      "name": "Keenan Allen",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0030279",
+      "primary_event_ids": [
+        "news:822540010d4645b8183f283c"
+      ],
+      "related_event_ids": []
+    },
     "00-0030561": {
       "event_ids": [
         "news:d886d94ff65be4289afae51a"
@@ -2492,6 +2504,18 @@
         "news:cb54c29e7a6316b028ee327e"
       ],
       "related_event_ids": []
+    },
+    "00-0041534": {
+      "event_ids": [
+        "news:822540010d4645b8183f283c"
+      ],
+      "name": "Tim Keenan III",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0041534",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:822540010d4645b8183f283c"
+      ]
     }
   },
   "schema_version": 2
