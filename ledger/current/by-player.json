@@ -1035,6 +1035,18 @@
         "news:ffd5d01a9aa25669f6b14fea"
       ]
     },
+    "00-0038120": {
+      "event_ids": [
+        "news:c54d21770d3503d75e4ad6e4"
+      ],
+      "name": "Breece Hall",
+      "nfl_team": "NYJ",
+      "nflverse_id": "00-0038120",
+      "primary_event_ids": [
+        "news:c54d21770d3503d75e4ad6e4"
+      ],
+      "related_event_ids": []
+    },
     "00-0038124": {
       "event_ids": [
         "news:3c6d60cedebd49a719058e2a"
