@@ -1594,12 +1594,14 @@
     },
     "00-0039337": {
       "event_ids": [
+        "news:0a357e79942a2a6029cbdd2c",
         "news:beb1db3ab52ce7b74839ed7b"
       ],
       "name": "Malik Nabers",
       "nfl_team": "NYG",
       "nflverse_id": "00-0039337",
       "primary_event_ids": [
+        "news:0a357e79942a2a6029cbdd2c",
         "news:beb1db3ab52ce7b74839ed7b"
       ],
       "related_event_ids": []
