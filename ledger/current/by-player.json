@@ -425,12 +425,14 @@
         "news:11a993edce3943ec0de56eca",
         "news:169a17bb9a2fb0774de2f48d",
         "news:215a662b508f4ea648a92711",
+        "news:4ba225c96ce08e9cbdef9b34",
         "news:64b0b8be152ab1fea5afb0a2"
       ],
       "name": "Saquon Barkley",
       "nfl_team": "PHI",
       "nflverse_id": "00-0034844",
       "primary_event_ids": [
+        "news:4ba225c96ce08e9cbdef9b34",
         "news:64b0b8be152ab1fea5afb0a2"
       ],
       "related_event_ids": [
