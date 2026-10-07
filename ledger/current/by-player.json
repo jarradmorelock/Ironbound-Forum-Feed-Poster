@@ -333,13 +333,15 @@
     },
     "00-0033906": {
       "event_ids": [
-        "news:21d672797933ee5b372daed8"
+        "news:21d672797933ee5b372daed8",
+        "news:c4668ca57a6792521ae67419"
       ],
       "name": "Alvin Kamara",
       "nfl_team": "NO",
       "nflverse_id": "00-0033906",
       "primary_event_ids": [
-        "news:21d672797933ee5b372daed8"
+        "news:21d672797933ee5b372daed8",
+        "news:c4668ca57a6792521ae67419"
       ],
       "related_event_ids": []
     },
@@ -1258,6 +1260,18 @@
         "news:759dac8b62bec249b282836e"
       ],
       "related_event_ids": []
+    },
+    "00-0038551": {
+      "event_ids": [
+        "news:c4668ca57a6792521ae67419"
+      ],
+      "name": "Kendre Miller",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0038551",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:c4668ca57a6792521ae67419"
+      ]
     },
     "00-0038552": {
       "event_ids": [
@@ -2420,6 +2434,18 @@
         "news:00c503483783fa1ebca89065",
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab"
+      ]
+    },
+    "00-0041326": {
+      "event_ids": [
+        "news:c4668ca57a6792521ae67419"
+      ],
+      "name": "CJ Donaldson",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0041326",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:c4668ca57a6792521ae67419"
       ]
     },
     "00-0041438": {
