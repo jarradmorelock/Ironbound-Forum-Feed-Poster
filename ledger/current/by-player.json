@@ -158,6 +158,7 @@
     },
     "00-0032052": {
       "event_ids": [
+        "news:169a17bb9a2fb0774de2f48d",
         "news:5901efaf2aa39c4da015df1b"
       ],
       "name": "Dante Fowler Jr.",
@@ -165,6 +166,7 @@
       "nflverse_id": "00-0032052",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:169a17bb9a2fb0774de2f48d",
         "news:5901efaf2aa39c4da015df1b"
       ]
     },
@@ -409,6 +411,7 @@
     "00-0034844": {
       "event_ids": [
         "news:11a993edce3943ec0de56eca",
+        "news:169a17bb9a2fb0774de2f48d",
         "news:215a662b508f4ea648a92711",
         "news:64b0b8be152ab1fea5afb0a2"
       ],
@@ -420,6 +423,7 @@
       ],
       "related_event_ids": [
         "news:11a993edce3943ec0de56eca",
+        "news:169a17bb9a2fb0774de2f48d",
         "news:215a662b508f4ea648a92711"
       ]
     },
@@ -863,12 +867,15 @@
     },
     "00-0037258": {
       "event_ids": [
+        "news:169a17bb9a2fb0774de2f48d",
         "news:64b0b8be152ab1fea5afb0a2"
       ],
       "name": "Dameon Pierce",
       "nfl_team": "PHI",
       "nflverse_id": "00-0037258",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:169a17bb9a2fb0774de2f48d"
+      ],
       "related_event_ids": [
         "news:64b0b8be152ab1fea5afb0a2"
       ]
@@ -944,6 +951,7 @@
     },
     "00-0037838": {
       "event_ids": [
+        "news:169a17bb9a2fb0774de2f48d",
         "news:db3e642a6c70f2809524a2c0"
       ],
       "name": "Isaiah Likely",
@@ -952,7 +960,9 @@
       "primary_event_ids": [
         "news:db3e642a6c70f2809524a2c0"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:169a17bb9a2fb0774de2f48d"
+      ]
     },
     "00-0037840": {
       "event_ids": [
@@ -1146,6 +1156,7 @@
     "00-0038555": {
       "event_ids": [
         "news:11a993edce3943ec0de56eca",
+        "news:169a17bb9a2fb0774de2f48d",
         "news:215a662b508f4ea648a92711",
         "news:64b0b8be152ab1fea5afb0a2"
       ],
@@ -1157,6 +1168,7 @@
         "news:215a662b508f4ea648a92711"
       ],
       "related_event_ids": [
+        "news:169a17bb9a2fb0774de2f48d",
         "news:64b0b8be152ab1fea5afb0a2"
       ]
     },
@@ -1607,6 +1619,7 @@
     "00-0039746": {
       "event_ids": [
         "news:11a993edce3943ec0de56eca",
+        "news:169a17bb9a2fb0774de2f48d",
         "news:64b0b8be152ab1fea5afb0a2"
       ],
       "name": "Will Shipley",
@@ -1615,6 +1628,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:11a993edce3943ec0de56eca",
+        "news:169a17bb9a2fb0774de2f48d",
         "news:64b0b8be152ab1fea5afb0a2"
       ]
     },
