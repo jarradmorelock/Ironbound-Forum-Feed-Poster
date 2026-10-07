@@ -170,6 +170,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0031588": {
+      "event_ids": [
+        "news:197bd25b2e08e22adf5d2f2b"
+      ],
+      "name": "Stefon Diggs",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0031588",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:197bd25b2e08e22adf5d2f2b"
+      ]
+    },
     "00-0031610": {
       "event_ids": [
         "news:303c972e64ef85754c49f9df"
@@ -523,6 +535,18 @@
       "related_event_ids": [
         "news:ffd5d01a9aa25669f6b14fea"
       ]
+    },
+    "00-0035659": {
+      "event_ids": [
+        "news:197bd25b2e08e22adf5d2f2b"
+      ],
+      "name": "Terry McLaurin",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0035659",
+      "primary_event_ids": [
+        "news:197bd25b2e08e22adf5d2f2b"
+      ],
+      "related_event_ids": []
     },
     "00-0035676": {
       "event_ids": [
@@ -2408,6 +2432,18 @@
       "related_event_ids": [
         "news:136acc9c41ce361c1da28d96",
         "news:6c52af439db2df36c39101c3"
+      ]
+    },
+    "00-0041040": {
+      "event_ids": [
+        "news:197bd25b2e08e22adf5d2f2b"
+      ],
+      "name": "Antonio Williams",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0041040",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:197bd25b2e08e22adf5d2f2b"
       ]
     },
     "00-0041069": {
