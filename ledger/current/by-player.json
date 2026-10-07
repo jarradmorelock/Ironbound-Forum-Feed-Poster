@@ -606,12 +606,15 @@
     },
     "00-0036322": {
       "event_ids": [
+        "news:48db2a78679616083a10bce3",
         "news:93c9bdb7d3cc5250b3ef7a55"
       ],
       "name": "Justin Jefferson",
       "nfl_team": "MIN",
       "nflverse_id": "00-0036322",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:48db2a78679616083a10bce3"
+      ],
       "related_event_ids": [
         "news:93c9bdb7d3cc5250b3ef7a55"
       ]
@@ -2254,6 +2257,7 @@
     },
     "00-0041075": {
       "event_ids": [
+        "news:48db2a78679616083a10bce3",
         "news:93c9bdb7d3cc5250b3ef7a55"
       ],
       "name": "Justin Jefferson",
@@ -2261,6 +2265,7 @@
       "nflverse_id": "00-0041075",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:48db2a78679616083a10bce3",
         "news:93c9bdb7d3cc5250b3ef7a55"
       ]
     },
