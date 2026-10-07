@@ -386,12 +386,15 @@
     "00-0034351": {
       "event_ids": [
         "news:536395cc5c2f30b9af7087fd",
-        "news:7dd859216b3bba49d57c92ab"
+        "news:7dd859216b3bba49d57c92ab",
+        "news:ba38911b0ee4c1d0ac4a7cd7"
       ],
       "name": "Dallas Goedert",
       "nfl_team": "PHI",
       "nflverse_id": "00-0034351",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:ba38911b0ee4c1d0ac4a7cd7"
+      ],
       "related_event_ids": [
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab"
