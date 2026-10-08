@@ -350,6 +350,7 @@
     },
     "00-0033699": {
       "event_ids": [
+        "news:15436cfd15b2f098cbf4e1e3",
         "news:17905655664514b19ca5674e",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
@@ -358,6 +359,7 @@
       "nflverse_id": "00-0033699",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:15436cfd15b2f098cbf4e1e3",
         "news:17905655664514b19ca5674e",
         "news:ea7d53dcc4ae950825ecd20d"
       ]
@@ -1053,6 +1055,7 @@
     },
     "00-0037256": {
       "event_ids": [
+        "news:15436cfd15b2f098cbf4e1e3",
         "news:17905655664514b19ca5674e",
         "news:7f5319f1cf7fce9817aadf26",
         "news:ea7d53dcc4ae950825ecd20d"
@@ -1065,6 +1068,7 @@
         "news:7f5319f1cf7fce9817aadf26"
       ],
       "related_event_ids": [
+        "news:15436cfd15b2f098cbf4e1e3",
         "news:ea7d53dcc4ae950825ecd20d"
       ]
     },
@@ -2295,6 +2299,7 @@
     },
     "00-0040242": {
       "event_ids": [
+        "news:15436cfd15b2f098cbf4e1e3",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
       "name": "Jacory Croskey-Merritt",
@@ -2303,7 +2308,9 @@
       "primary_event_ids": [
         "news:ea7d53dcc4ae950825ecd20d"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:15436cfd15b2f098cbf4e1e3"
+      ]
     },
     "00-0040319": {
       "event_ids": [
@@ -2620,6 +2627,18 @@
         "news:48db2a78679616083a10bce3",
         "news:93c9bdb7d3cc5250b3ef7a55"
       ]
+    },
+    "00-0041096": {
+      "event_ids": [
+        "news:15436cfd15b2f098cbf4e1e3"
+      ],
+      "name": "Kaytron Allen",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0041096",
+      "primary_event_ids": [
+        "news:15436cfd15b2f098cbf4e1e3"
+      ],
+      "related_event_ids": []
     },
     "00-0041117": {
       "event_ids": [
