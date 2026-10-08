@@ -38,6 +38,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0029822": {
+      "event_ids": [
+        "news:fe5411b39259748b1ff193c9"
+      ],
+      "name": "Brandon McManus",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0029822",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fe5411b39259748b1ff193c9"
+      ]
+    },
     "00-0030061": {
       "event_ids": [
         "news:7dd859216b3bba49d57c92ab"
@@ -907,13 +919,15 @@
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
-        "news:7dd859216b3bba49d57c92ab"
+        "news:7dd859216b3bba49d57c92ab",
+        "news:fe5411b39259748b1ff193c9"
       ],
       "name": "DeVonta Smith",
       "nfl_team": "PHI",
       "nflverse_id": "00-0036912",
       "primary_event_ids": [
-        "news:75c729e2909b2695469c436d"
+        "news:75c729e2909b2695469c436d",
+        "news:fe5411b39259748b1ff193c9"
       ],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
@@ -2613,7 +2627,8 @@
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
-        "news:7dd859216b3bba49d57c92ab"
+        "news:7dd859216b3bba49d57c92ab",
+        "news:fe5411b39259748b1ff193c9"
       ],
       "name": "Devonta Smith",
       "nfl_team": "CAR",
@@ -2624,7 +2639,8 @@
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
-        "news:7dd859216b3bba49d57c92ab"
+        "news:7dd859216b3bba49d57c92ab",
+        "news:fe5411b39259748b1ff193c9"
       ]
     },
     "00-0041326": {
