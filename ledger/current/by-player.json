@@ -148,12 +148,14 @@
     },
     "00-0031408": {
       "event_ids": [
+        "news:54c672d52b0ea565aa5ce8f3",
         "news:f84b9d09908cda13b523c2a7"
       ],
       "name": "Mike Evans",
       "nfl_team": "SF",
       "nflverse_id": "00-0031408",
       "primary_event_ids": [
+        "news:54c672d52b0ea565aa5ce8f3",
         "news:f84b9d09908cda13b523c2a7"
       ],
       "related_event_ids": []
