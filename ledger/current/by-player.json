@@ -26,6 +26,18 @@
         "news:322740cd8ad79ba067ae6dea"
       ]
     },
+    "00-0029562": {
+      "event_ids": [
+        "news:c50f1bac7b008b7223c89a18"
+      ],
+      "name": "Lavonte David",
+      "nfl_team": "TB",
+      "nflverse_id": "00-0029562",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:c50f1bac7b008b7223c89a18"
+      ]
+    },
     "00-0029604": {
       "event_ids": [
         "news:5a04300dd162cdb97d19a817"
@@ -2039,6 +2051,18 @@
       "related_event_ids": [
         "news:0fc715cd580046ffde8c9d55"
       ]
+    },
+    "00-0039874": {
+      "event_ids": [
+        "news:c50f1bac7b008b7223c89a18"
+      ],
+      "name": "Jaylen Wright",
+      "nfl_team": "MIA",
+      "nflverse_id": "00-0039874",
+      "primary_event_ids": [
+        "news:c50f1bac7b008b7223c89a18"
+      ],
+      "related_event_ids": []
     },
     "00-0039890": {
       "event_ids": [
