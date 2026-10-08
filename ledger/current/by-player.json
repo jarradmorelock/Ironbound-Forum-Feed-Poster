@@ -456,14 +456,16 @@
       "event_ids": [
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
-        "news:eaaa5489714a1283c5ce341c"
+        "news:eaaa5489714a1283c5ce341c",
+        "news:ecedde8756b5e29e431e3615"
       ],
       "name": "Lamar Jackson",
       "nfl_team": "BAL",
       "nflverse_id": "00-0034796",
       "primary_event_ids": [
         "news:5e17cc438064c7b969adb2c0",
-        "news:9eeec5feb6bdad2f41c9f2e0"
+        "news:9eeec5feb6bdad2f41c9f2e0",
+        "news:ecedde8756b5e29e431e3615"
       ],
       "related_event_ids": [
         "news:eaaa5489714a1283c5ce341c"
@@ -647,7 +649,8 @@
       "event_ids": [
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
-        "news:eaaa5489714a1283c5ce341c"
+        "news:eaaa5489714a1283c5ce341c",
+        "news:ecedde8756b5e29e431e3615"
       ],
       "name": "Lamar Jackson",
       "nfl_team": "ATL",
@@ -656,7 +659,8 @@
       "related_event_ids": [
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
-        "news:eaaa5489714a1283c5ce341c"
+        "news:eaaa5489714a1283c5ce341c",
+        "news:ecedde8756b5e29e431e3615"
       ]
     },
     "00-0036252": {
@@ -1789,6 +1793,7 @@
         "news:215a662b508f4ea648a92711",
         "news:536395cc5c2f30b9af7087fd",
         "news:99525e52a7d1dd2754a23228",
+        "news:ecedde8756b5e29e431e3615",
         "news:f3f56ad52d065880a1c5bae4"
       ],
       "name": "Tarheeb Still",
@@ -1799,6 +1804,7 @@
         "news:215a662b508f4ea648a92711",
         "news:536395cc5c2f30b9af7087fd",
         "news:99525e52a7d1dd2754a23228",
+        "news:ecedde8756b5e29e431e3615",
         "news:f3f56ad52d065880a1c5bae4"
       ]
     },
