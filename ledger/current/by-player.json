@@ -1503,6 +1503,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0038705": {
+      "event_ids": [
+        "news:153502aa6a30e3a9dc93b8a5"
+      ],
+      "name": "Emari Demercado",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0038705",
+      "primary_event_ids": [
+        "news:153502aa6a30e3a9dc93b8a5"
+      ],
+      "related_event_ids": []
+    },
     "00-0038797": {
       "event_ids": [
         "news:50299468aa0ba0c31e5e489c",
