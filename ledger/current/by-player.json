@@ -174,12 +174,15 @@
     },
     "00-0031588": {
       "event_ids": [
-        "news:197bd25b2e08e22adf5d2f2b"
+        "news:197bd25b2e08e22adf5d2f2b",
+        "news:a61f4cd6af556475f634c077"
       ],
       "name": "Stefon Diggs",
       "nfl_team": "WAS",
       "nflverse_id": "00-0031588",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:a61f4cd6af556475f634c077"
+      ],
       "related_event_ids": [
         "news:197bd25b2e08e22adf5d2f2b"
       ]
