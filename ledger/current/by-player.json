@@ -2024,12 +2024,15 @@
     },
     "00-0039918": {
       "event_ids": [
-        "news:058bb5fae341293acc150b06"
+        "news:058bb5fae341293acc150b06",
+        "news:64a08678d16b6d2040e65081"
       ],
       "name": "Caleb Williams",
       "nfl_team": "CHI",
       "nflverse_id": "00-0039918",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:64a08678d16b6d2040e65081"
+      ],
       "related_event_ids": [
         "news:058bb5fae341293acc150b06"
       ]
