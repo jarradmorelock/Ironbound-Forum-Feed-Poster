@@ -226,7 +226,8 @@
     "00-0032052": {
       "event_ids": [
         "news:169a17bb9a2fb0774de2f48d",
-        "news:5901efaf2aa39c4da015df1b"
+        "news:5901efaf2aa39c4da015df1b",
+        "news:d8b6331c93cfd902c116075b"
       ],
       "name": "Dante Fowler Jr.",
       "nfl_team": "SEA",
@@ -234,7 +235,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:169a17bb9a2fb0774de2f48d",
-        "news:5901efaf2aa39c4da015df1b"
+        "news:5901efaf2aa39c4da015df1b",
+        "news:d8b6331c93cfd902c116075b"
       ]
     },
     "00-0032764": {
@@ -1883,6 +1885,7 @@
         "news:215a662b508f4ea648a92711",
         "news:536395cc5c2f30b9af7087fd",
         "news:99525e52a7d1dd2754a23228",
+        "news:d8b6331c93cfd902c116075b",
         "news:ecedde8756b5e29e431e3615",
         "news:f3f56ad52d065880a1c5bae4"
       ],
@@ -1894,6 +1897,7 @@
         "news:215a662b508f4ea648a92711",
         "news:536395cc5c2f30b9af7087fd",
         "news:99525e52a7d1dd2754a23228",
+        "news:d8b6331c93cfd902c116075b",
         "news:ecedde8756b5e29e431e3615",
         "news:f3f56ad52d065880a1c5bae4"
       ]
@@ -2313,14 +2317,16 @@
       "event_ids": [
         "news:322740cd8ad79ba067ae6dea",
         "news:463c5f9292e3b5af0a2cc870",
-        "news:587451581e3ecd268e2830a8"
+        "news:587451581e3ecd268e2830a8",
+        "news:d8b6331c93cfd902c116075b"
       ],
       "name": "Kyle Monangai",
       "nfl_team": "CHI",
       "nflverse_id": "00-0040236",
       "primary_event_ids": [
         "news:463c5f9292e3b5af0a2cc870",
-        "news:587451581e3ecd268e2830a8"
+        "news:587451581e3ecd268e2830a8",
+        "news:d8b6331c93cfd902c116075b"
       ],
       "related_event_ids": [
         "news:322740cd8ad79ba067ae6dea"
