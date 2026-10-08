@@ -551,6 +551,18 @@
         "news:ffd5d01a9aa25669f6b14fea"
       ]
     },
+    "00-0035640": {
+      "event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ],
+      "name": "DK Metcalf",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0035640",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ]
+    },
     "00-0035659": {
       "event_ids": [
         "news:197bd25b2e08e22adf5d2f2b"
@@ -667,13 +679,15 @@
     },
     "00-0036252": {
       "event_ids": [
-        "news:bf0d0a971c77d60d2ee2f0c4"
+        "news:bf0d0a971c77d60d2ee2f0c4",
+        "news:e528f25814b3c5542b10d122"
       ],
       "name": "Michael Pittman",
       "nfl_team": "PIT",
       "nflverse_id": "00-0036252",
       "primary_event_ids": [
-        "news:bf0d0a971c77d60d2ee2f0c4"
+        "news:bf0d0a971c77d60d2ee2f0c4",
+        "news:e528f25814b3c5542b10d122"
       ],
       "related_event_ids": []
     },
@@ -854,6 +868,18 @@
         "news:a2ad869648121b95d813699b"
       ],
       "related_event_ids": []
+    },
+    "00-0036894": {
+      "event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ],
+      "name": "Pat Freiermuth",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0036894",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ]
     },
     "00-0036900": {
       "event_ids": [
@@ -1382,6 +1408,18 @@
         "news:64b0b8be152ab1fea5afb0a2"
       ]
     },
+    "00-0038558": {
+      "event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ],
+      "name": "Darnell Washington",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0038558",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ]
+    },
     "00-0038559": {
       "event_ids": [
         "news:a0a2fbf046e1657bf21ec8d6"
@@ -1870,6 +1908,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039739": {
+      "event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ],
+      "name": "Roman Wilson",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0039739",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ]
+    },
     "00-0039746": {
       "event_ids": [
         "news:11a993edce3943ec0de56eca",
@@ -2048,6 +2098,18 @@
         "news:a9a9542226692374de40a098"
       ],
       "related_event_ids": []
+    },
+    "00-0039923": {
+      "event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ],
+      "name": "J.J. McCarthy",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0039923",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ]
     },
     "00-0040024": {
       "event_ids": [
@@ -2587,6 +2649,18 @@
       ],
       "related_event_ids": [
         "news:77a7f3be3a4ffd5cbcdb00cc"
+      ]
+    },
+    "00-0041489": {
+      "event_ids": [
+        "news:e528f25814b3c5542b10d122"
+      ],
+      "name": "Germie Bernard",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0041489",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e528f25814b3c5542b10d122"
       ]
     },
     "00-0041512": {
