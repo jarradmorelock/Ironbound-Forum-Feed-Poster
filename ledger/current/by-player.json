@@ -1310,12 +1310,15 @@
     "00-0038393": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
-        "news:75c729e2909b2695469c436d"
+        "news:75c729e2909b2695469c436d",
+        "news:8e4f11b0abbff97f7d999bfb"
       ],
       "name": "Dontayvion Wicks",
       "nfl_team": "PHI",
       "nflverse_id": "00-0038393",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:8e4f11b0abbff97f7d999bfb"
+      ],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d"
