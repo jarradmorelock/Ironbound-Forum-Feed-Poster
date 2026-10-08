@@ -1795,6 +1795,18 @@
         "news:d54619e249e1073482a4c77b"
       ]
     },
+    "00-0039167": {
+      "event_ids": [
+        "news:1b4c81758c0d95b41edf1a50"
+      ],
+      "name": "Joey Porter Jr.",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0039167",
+      "primary_event_ids": [
+        "news:1b4c81758c0d95b41edf1a50"
+      ],
+      "related_event_ids": []
+    },
     "00-0039234": {
       "event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
