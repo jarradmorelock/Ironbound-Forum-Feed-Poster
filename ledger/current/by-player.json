@@ -231,6 +231,7 @@
         "news:a56559875d9edfa1cb8342ef",
         "news:cb54c29e7a6316b028ee327e",
         "news:e12892a87f9c84cf5b6fcbf6",
+        "news:e54c2dbb508b79240a754253",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ],
       "name": "Sheldon Day",
@@ -245,6 +246,7 @@
         "news:a56559875d9edfa1cb8342ef",
         "news:cb54c29e7a6316b028ee327e",
         "news:e12892a87f9c84cf5b6fcbf6",
+        "news:e54c2dbb508b79240a754253",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ]
     },
@@ -2432,7 +2434,8 @@
       "event_ids": [
         "news:20aad95aa5e1b84b1026d26b",
         "news:617c7c7be6a2cdc9cf999866",
-        "news:b1e0c3b7ff5eedc3218d9d31"
+        "news:b1e0c3b7ff5eedc3218d9d31",
+        "news:e54c2dbb508b79240a754253"
       ],
       "name": "Jeremiyah Love",
       "nfl_team": "ARI",
@@ -2440,7 +2443,8 @@
       "primary_event_ids": [
         "news:20aad95aa5e1b84b1026d26b",
         "news:617c7c7be6a2cdc9cf999866",
-        "news:b1e0c3b7ff5eedc3218d9d31"
+        "news:b1e0c3b7ff5eedc3218d9d31",
+        "news:e54c2dbb508b79240a754253"
       ],
       "related_event_ids": []
     },
