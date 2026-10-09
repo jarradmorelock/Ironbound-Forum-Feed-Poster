@@ -102,12 +102,14 @@
     },
     "00-0030279": {
       "event_ids": [
+        "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c"
       ],
       "name": "Keenan Allen",
       "nfl_team": "IND",
       "nflverse_id": "00-0030279",
       "primary_event_ids": [
+        "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c"
       ],
       "related_event_ids": []
@@ -254,6 +256,18 @@
         "news:f91cd6e6bad4863f7506a249"
       ],
       "related_event_ids": []
+    },
+    "00-0032951": {
+      "event_ids": [
+        "news:7e8d80e70af763822ed0e972"
+      ],
+      "name": "Laquon Treadwell",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0032951",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:7e8d80e70af763822ed0e972"
+      ]
     },
     "00-0033010": {
       "event_ids": [
@@ -605,6 +619,18 @@
         "news:50299468aa0ba0c31e5e489c"
       ],
       "related_event_ids": []
+    },
+    "00-0035021": {
+      "event_ids": [
+        "news:7e8d80e70af763822ed0e972"
+      ],
+      "name": "Ashton Dulin",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0035021",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:7e8d80e70af763822ed0e972"
+      ]
     },
     "00-0035228": {
       "event_ids": [
@@ -1795,6 +1821,18 @@
         "news:3bbca9a1b36ea92945f1d796"
       ],
       "related_event_ids": []
+    },
+    "00-0038997": {
+      "event_ids": [
+        "news:7e8d80e70af763822ed0e972"
+      ],
+      "name": "Josh Downs",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0038997",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:7e8d80e70af763822ed0e972"
+      ]
     },
     "00-0039021": {
       "event_ids": [
@@ -3022,6 +3060,7 @@
     },
     "00-0041534": {
       "event_ids": [
+        "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c"
       ],
       "name": "Tim Keenan III",
@@ -3029,6 +3068,7 @@
       "nflverse_id": "00-0041534",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c"
       ]
     }
