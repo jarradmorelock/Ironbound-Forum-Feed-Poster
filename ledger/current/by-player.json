@@ -948,6 +948,7 @@
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
+        "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
       ],
       "name": "DeVonta Smith",
@@ -961,7 +962,8 @@
         "news:00c503483783fa1ebca89065",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
-        "news:7dd859216b3bba49d57c92ab"
+        "news:7dd859216b3bba49d57c92ab",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
     "00-0036932": {
@@ -1015,6 +1017,18 @@
         "news:5b3f3588f0ca8f0a33627ddf"
       ]
     },
+    "00-0036980": {
+      "event_ids": [
+        "news:fac0c1ec37a88fbbd9c5500c"
+      ],
+      "name": "Elijah Moore",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0036980",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fac0c1ec37a88fbbd9c5500c"
+      ]
+    },
     "00-0036992": {
       "event_ids": [
         "news:9c547095459f998d356ab8be"
@@ -1025,6 +1039,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:9c547095459f998d356ab8be"
+      ]
+    },
+    "00-0037132": {
+      "event_ids": [
+        "news:fac0c1ec37a88fbbd9c5500c"
+      ],
+      "name": "Britain Covey",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0037132",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
     "00-0037203": {
@@ -1185,7 +1211,8 @@
     "00-0037838": {
       "event_ids": [
         "news:169a17bb9a2fb0774de2f48d",
-        "news:db3e642a6c70f2809524a2c0"
+        "news:db3e642a6c70f2809524a2c0",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Isaiah Likely",
       "nfl_team": "NYG",
@@ -1194,7 +1221,8 @@
         "news:db3e642a6c70f2809524a2c0"
       ],
       "related_event_ids": [
-        "news:169a17bb9a2fb0774de2f48d"
+        "news:169a17bb9a2fb0774de2f48d",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
     "00-0037840": {
@@ -1325,13 +1353,15 @@
       "event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
-        "news:8e4f11b0abbff97f7d999bfb"
+        "news:8e4f11b0abbff97f7d999bfb",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Dontayvion Wicks",
       "nfl_team": "PHI",
       "nflverse_id": "00-0038393",
       "primary_event_ids": [
-        "news:8e4f11b0abbff97f7d999bfb"
+        "news:8e4f11b0abbff97f7d999bfb",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
@@ -1928,14 +1958,16 @@
     },
     "00-0039386": {
       "event_ids": [
-        "news:058bb5fae341293acc150b06"
+        "news:058bb5fae341293acc150b06",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Bub Means",
       "nfl_team": "CLE",
       "nflverse_id": "00-0039386",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:058bb5fae341293acc150b06"
+        "news:058bb5fae341293acc150b06",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
     "00-0039391": {
@@ -2204,7 +2236,8 @@
     "00-0040024": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
-        "news:75c729e2909b2695469c436d"
+        "news:75c729e2909b2695469c436d",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Darius Cooper",
       "nfl_team": "PHI",
@@ -2213,7 +2246,8 @@
         "news:00c503483783fa1ebca89065"
       ],
       "related_event_ids": [
-        "news:75c729e2909b2695469c436d"
+        "news:75c729e2909b2695469c436d",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
     "00-0040087": {
@@ -2577,7 +2611,8 @@
     "00-0040867": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
-        "news:75c729e2909b2695469c436d"
+        "news:75c729e2909b2695469c436d",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Makai Lemon",
       "nfl_team": "PHI",
@@ -2585,7 +2620,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
-        "news:75c729e2909b2695469c436d"
+        "news:75c729e2909b2695469c436d",
+        "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
     "00-0040886": {
@@ -2718,6 +2754,7 @@
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
+        "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
       ],
       "name": "Devonta Smith",
@@ -2730,6 +2767,7 @@
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
+        "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
       ]
     },
