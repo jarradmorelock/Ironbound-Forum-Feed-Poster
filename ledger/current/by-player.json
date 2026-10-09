@@ -2370,6 +2370,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039880": {
+      "event_ids": [
+        "news:74dcee00f3673cba97c69310"
+      ],
+      "name": "Malik Washington",
+      "nfl_team": "MIA",
+      "nflverse_id": "00-0039880",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:74dcee00f3673cba97c69310"
+      ]
+    },
     "00-0039890": {
       "event_ids": [
         "news:6dd134d3c33d117fa38113b0",
@@ -3132,15 +3144,29 @@
     },
     "00-0041523": {
       "event_ids": [
+        "news:74dcee00f3673cba97c69310",
         "news:cb54c29e7a6316b028ee327e"
       ],
       "name": "Caleb Douglas",
       "nfl_team": "MIA",
       "nflverse_id": "00-0041523",
       "primary_event_ids": [
+        "news:74dcee00f3673cba97c69310",
         "news:cb54c29e7a6316b028ee327e"
       ],
       "related_event_ids": []
+    },
+    "00-0041525": {
+      "event_ids": [
+        "news:74dcee00f3673cba97c69310"
+      ],
+      "name": "Chris Bell",
+      "nfl_team": "MIA",
+      "nflverse_id": "00-0041525",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:74dcee00f3673cba97c69310"
+      ]
     },
     "00-0041534": {
       "event_ids": [
