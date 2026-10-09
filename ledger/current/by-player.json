@@ -1041,6 +1041,7 @@
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
       ],
@@ -1049,6 +1050,7 @@
       "nflverse_id": "00-0036912",
       "primary_event_ids": [
         "news:75c729e2909b2695469c436d",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:fe5411b39259748b1ff193c9"
       ],
       "related_event_ids": [
@@ -1501,6 +1503,7 @@
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
         "news:8e4f11b0abbff97f7d999bfb",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Dontayvion Wicks",
@@ -1512,7 +1515,8 @@
       ],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
-        "news:75c729e2909b2695469c436d"
+        "news:75c729e2909b2695469c436d",
+        "news:e8b9c46b6f7c20665052ca43"
       ]
     },
     "00-0038416": {
@@ -2283,6 +2287,7 @@
         "news:972e2bb1ade13ada0e79bcb5",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:ec3fb719b4ca5131873e0e9e",
         "news:f08fe2bb9baba85b1f0f3d19",
         "news:f388f79969ad54328f06b040"
@@ -2303,6 +2308,7 @@
         "news:972e2bb1ade13ada0e79bcb5",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:ec3fb719b4ca5131873e0e9e",
         "news:f08fe2bb9baba85b1f0f3d19",
         "news:f388f79969ad54328f06b040"
@@ -2458,6 +2464,7 @@
       "event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Darius Cooper",
@@ -2468,6 +2475,7 @@
       ],
       "related_event_ids": [
         "news:75c729e2909b2695469c436d",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
@@ -2843,6 +2851,7 @@
       "event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Makai Lemon",
@@ -2852,6 +2861,7 @@
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
@@ -3001,6 +3011,7 @@
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
       ],
@@ -3014,6 +3025,7 @@
         "news:536395cc5c2f30b9af7087fd",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
+        "news:e8b9c46b6f7c20665052ca43",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
       ]
