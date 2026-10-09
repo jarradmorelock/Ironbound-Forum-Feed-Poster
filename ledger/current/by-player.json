@@ -504,6 +504,18 @@
         "news:eaaa5489714a1283c5ce341c"
       ]
     },
+    "00-0034827": {
+      "event_ids": [
+        "news:2d8e3d8a33e5b2eecc579683"
+      ],
+      "name": "DJ Moore",
+      "nfl_team": "BUF",
+      "nflverse_id": "00-0034827",
+      "primary_event_ids": [
+        "news:2d8e3d8a33e5b2eecc579683"
+      ],
+      "related_event_ids": []
+    },
     "00-0034844": {
       "event_ids": [
         "news:11a993edce3943ec0de56eca",
