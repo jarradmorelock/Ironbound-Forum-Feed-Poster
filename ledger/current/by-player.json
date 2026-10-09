@@ -1109,6 +1109,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0037247": {
+      "event_ids": [
+        "news:2dc04c262336640932eaff96"
+      ],
+      "name": "George Pickens",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0037247",
+      "primary_event_ids": [
+        "news:2dc04c262336640932eaff96"
+      ],
+      "related_event_ids": []
+    },
     "00-0037248": {
       "event_ids": [
         "news:af43c5cdccc82ba0bb4c4407"
