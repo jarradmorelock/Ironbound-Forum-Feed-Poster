@@ -809,6 +809,18 @@
         "news:ecedde8756b5e29e431e3615"
       ]
     },
+    "00-0036244": {
+      "event_ids": [
+        "news:5fcf42085be1bbf2be83dbd4"
+      ],
+      "name": "Colby Parkinson",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0036244",
+      "primary_event_ids": [
+        "news:5fcf42085be1bbf2be83dbd4"
+      ],
+      "related_event_ids": []
+    },
     "00-0036252": {
       "event_ids": [
         "news:bf0d0a971c77d60d2ee2f0c4",
@@ -2678,6 +2690,18 @@
       ],
       "related_event_ids": [
         "news:15436cfd15b2f098cbf4e1e3"
+      ]
+    },
+    "00-0040245": {
+      "event_ids": [
+        "news:5fcf42085be1bbf2be83dbd4"
+      ],
+      "name": "Connor Colby",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0040245",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:5fcf42085be1bbf2be83dbd4"
       ]
     },
     "00-0040319": {
