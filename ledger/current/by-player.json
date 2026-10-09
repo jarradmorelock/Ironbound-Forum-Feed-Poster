@@ -2393,6 +2393,7 @@
     "00-0040122": {
       "event_ids": [
         "news:946c5dd0a5f544c7301257da",
+        "news:a6e41c1e1883a0d0c0bf7337",
         "news:b0f90e35fbe646faf767a479"
       ],
       "name": "Ashton Jeanty",
@@ -2400,6 +2401,7 @@
       "nflverse_id": "00-0040122",
       "primary_event_ids": [
         "news:946c5dd0a5f544c7301257da",
+        "news:a6e41c1e1883a0d0c0bf7337",
         "news:b0f90e35fbe646faf767a479"
       ],
       "related_event_ids": []
@@ -2749,6 +2751,18 @@
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
         "news:fac0c1ec37a88fbbd9c5500c"
+      ]
+    },
+    "00-0040878": {
+      "event_ids": [
+        "news:a6e41c1e1883a0d0c0bf7337"
+      ],
+      "name": "Mike Washington Jr.",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0040878",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:a6e41c1e1883a0d0c0bf7337"
       ]
     },
     "00-0040886": {
