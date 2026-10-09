@@ -889,6 +889,7 @@
     "00-0036425": {
       "event_ids": [
         "news:3cee59ea0f35ec0b4ae11eab",
+        "news:475c5bba8f8720011bb146ac",
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab"
       ],
@@ -898,6 +899,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:3cee59ea0f35ec0b4ae11eab",
+        "news:475c5bba8f8720011bb146ac",
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab"
       ]
@@ -2010,6 +2012,7 @@
     "00-0039361": {
       "event_ids": [
         "news:2124b32b66def3d15356b258",
+        "news:475c5bba8f8720011bb146ac",
         "news:ec3fb719b4ca5131873e0e9e"
       ],
       "name": "Bucky Irving",
@@ -2017,6 +2020,7 @@
       "nflverse_id": "00-0039361",
       "primary_event_ids": [
         "news:2124b32b66def3d15356b258",
+        "news:475c5bba8f8720011bb146ac",
         "news:ec3fb719b4ca5131873e0e9e"
       ],
       "related_event_ids": []
@@ -2080,6 +2084,18 @@
         "news:ae5a31606ec9ac1a414ca1f3"
       ],
       "related_event_ids": []
+    },
+    "00-0039465": {
+      "event_ids": [
+        "news:475c5bba8f8720011bb146ac"
+      ],
+      "name": "Reddy Steward",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0039465",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:475c5bba8f8720011bb146ac"
+      ]
     },
     "00-0039491": {
       "event_ids": [
