@@ -78,6 +78,7 @@
       "event_ids": [
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:6c146d141dd8e18084e6efa4",
+        "news:8ccddc3d55a86dca7e96e461",
         "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a0a2fbf046e1657bf21ec8d6",
@@ -91,6 +92,7 @@
       "related_event_ids": [
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:6c146d141dd8e18084e6efa4",
+        "news:8ccddc3d55a86dca7e96e461",
         "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a0a2fbf046e1657bf21ec8d6",
@@ -297,6 +299,7 @@
     },
     "00-0033077": {
       "event_ids": [
+        "news:8ccddc3d55a86dca7e96e461",
         "news:f1ab35c6d9a82781c04f561a"
       ],
       "name": "Dak Prescott",
@@ -305,7 +308,9 @@
       "primary_event_ids": [
         "news:f1ab35c6d9a82781c04f561a"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:8ccddc3d55a86dca7e96e461"
+      ]
     },
     "00-0033106": {
       "event_ids": [
@@ -823,13 +828,15 @@
     },
     "00-0036358": {
       "event_ids": [
-        "news:61365726821aa092bf0a8eb1"
+        "news:61365726821aa092bf0a8eb1",
+        "news:8ccddc3d55a86dca7e96e461"
       ],
       "name": "CeeDee Lamb",
       "nfl_team": "DAL",
       "nflverse_id": "00-0036358",
       "primary_event_ids": [
-        "news:61365726821aa092bf0a8eb1"
+        "news:61365726821aa092bf0a8eb1",
+        "news:8ccddc3d55a86dca7e96e461"
       ],
       "related_event_ids": []
     },
