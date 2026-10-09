@@ -2083,6 +2083,7 @@
     "00-0039337": {
       "event_ids": [
         "news:0a357e79942a2a6029cbdd2c",
+        "news:53246160a60085bc643d5475",
         "news:58b14ce1a255b696f7a608b1",
         "news:93f861fdb12b32ee0cdd0345",
         "news:beb1db3ab52ce7b74839ed7b"
@@ -2092,6 +2093,7 @@
       "nflverse_id": "00-0039337",
       "primary_event_ids": [
         "news:0a357e79942a2a6029cbdd2c",
+        "news:53246160a60085bc643d5475",
         "news:58b14ce1a255b696f7a608b1",
         "news:93f861fdb12b32ee0cdd0345",
         "news:beb1db3ab52ce7b74839ed7b"
