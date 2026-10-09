@@ -1463,7 +1463,8 @@
     },
     "00-0038416": {
       "event_ids": [
-        "news:058bb5fae341293acc150b06"
+        "news:058bb5fae341293acc150b06",
+        "news:8d56f938536ea89fcdd3df69"
       ],
       "name": "Tyson Bagent",
       "nfl_team": "CHI",
@@ -1471,7 +1472,9 @@
       "primary_event_ids": [
         "news:058bb5fae341293acc150b06"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:8d56f938536ea89fcdd3df69"
+      ]
     },
     "00-0038454": {
       "event_ids": [
@@ -2319,13 +2322,15 @@
     "00-0039918": {
       "event_ids": [
         "news:058bb5fae341293acc150b06",
-        "news:64a08678d16b6d2040e65081"
+        "news:64a08678d16b6d2040e65081",
+        "news:8d56f938536ea89fcdd3df69"
       ],
       "name": "Caleb Williams",
       "nfl_team": "CHI",
       "nflverse_id": "00-0039918",
       "primary_event_ids": [
-        "news:64a08678d16b6d2040e65081"
+        "news:64a08678d16b6d2040e65081",
+        "news:8d56f938536ea89fcdd3df69"
       ],
       "related_event_ids": [
         "news:058bb5fae341293acc150b06"
@@ -2798,6 +2803,7 @@
     "00-0041029": {
       "event_ids": [
         "news:058bb5fae341293acc150b06",
+        "news:8d56f938536ea89fcdd3df69",
         "news:f3f56ad52d065880a1c5bae4"
       ],
       "name": "Jordyn Tyson",
@@ -2807,7 +2813,8 @@
         "news:f3f56ad52d065880a1c5bae4"
       ],
       "related_event_ids": [
-        "news:058bb5fae341293acc150b06"
+        "news:058bb5fae341293acc150b06",
+        "news:8d56f938536ea89fcdd3df69"
       ]
     },
     "00-0041037": {
