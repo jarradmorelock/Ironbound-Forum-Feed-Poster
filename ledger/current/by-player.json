@@ -2406,12 +2406,14 @@
     },
     "00-0039910": {
       "event_ids": [
+        "news:39dcd4c01fbb2f74da489855",
         "news:99525e52a7d1dd2754a23228"
       ],
       "name": "Jayden Daniels",
       "nfl_team": "WAS",
       "nflverse_id": "00-0039910",
       "primary_event_ids": [
+        "news:39dcd4c01fbb2f74da489855",
         "news:99525e52a7d1dd2754a23228"
       ],
       "related_event_ids": []
