@@ -1156,12 +1156,14 @@
     },
     "00-0037247": {
       "event_ids": [
+        "news:2ac512e98d9f0971aabef215",
         "news:2dc04c262336640932eaff96"
       ],
       "name": "George Pickens",
       "nfl_team": "DAL",
       "nflverse_id": "00-0037247",
       "primary_event_ids": [
+        "news:2ac512e98d9f0971aabef215",
         "news:2dc04c262336640932eaff96"
       ],
       "related_event_ids": []
@@ -2359,6 +2361,7 @@
     },
     "00-0040087": {
       "event_ids": [
+        "news:2ac512e98d9f0971aabef215",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
         "news:f84b9d09908cda13b523c2a7"
@@ -2368,6 +2371,7 @@
       "nflverse_id": "00-0040087",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:2ac512e98d9f0971aabef215",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
         "news:f84b9d09908cda13b523c2a7"
