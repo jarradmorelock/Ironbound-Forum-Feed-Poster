@@ -1911,14 +1911,16 @@
     "00-0039064": {
       "event_ids": [
         "news:250427755c25b79de29d963c",
-        "news:eaaa5489714a1283c5ce341c"
+        "news:eaaa5489714a1283c5ce341c",
+        "news:ef7155a057964409e9f42d33"
       ],
       "name": "Zay Flowers",
       "nfl_team": "BAL",
       "nflverse_id": "00-0039064",
       "primary_event_ids": [
         "news:250427755c25b79de29d963c",
-        "news:eaaa5489714a1283c5ce341c"
+        "news:eaaa5489714a1283c5ce341c",
+        "news:ef7155a057964409e9f42d33"
       ],
       "related_event_ids": []
     },
