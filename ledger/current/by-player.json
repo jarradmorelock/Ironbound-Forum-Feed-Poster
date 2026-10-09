@@ -1387,6 +1387,18 @@
         "news:2d8616eedc8a1dab5d08dc5e"
       ]
     },
+    "00-0038098": {
+      "event_ids": [
+        "news:52348d293ed1eaf305235013"
+      ],
+      "name": "Pierre Strong",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0038098",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:52348d293ed1eaf305235013"
+      ]
+    },
     "00-0038104": {
       "event_ids": [
         "news:5da9dd99eedff310e2953b55",
@@ -1703,6 +1715,18 @@
       "related_event_ids": [
         "news:f578056da7a35ecc5c91839e"
       ]
+    },
+    "00-0038685": {
+      "event_ids": [
+        "news:52348d293ed1eaf305235013"
+      ],
+      "name": "Chris Brooks",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0038685",
+      "primary_event_ids": [
+        "news:52348d293ed1eaf305235013"
+      ],
+      "related_event_ids": []
     },
     "00-0038705": {
       "event_ids": [
@@ -2096,6 +2120,7 @@
     "00-0039366": {
       "event_ids": [
         "news:215a662b508f4ea648a92711",
+        "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
         "news:99525e52a7d1dd2754a23228",
         "news:d8b6331c93cfd902c116075b",
@@ -2108,6 +2133,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:215a662b508f4ea648a92711",
+        "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
         "news:99525e52a7d1dd2754a23228",
         "news:d8b6331c93cfd902c116075b",
@@ -2230,6 +2256,18 @@
       ],
       "related_event_ids": [
         "news:2d8616eedc8a1dab5d08dc5e"
+      ]
+    },
+    "00-0039811": {
+      "event_ids": [
+        "news:52348d293ed1eaf305235013"
+      ],
+      "name": "MarShawn Lloyd",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0039811",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:52348d293ed1eaf305235013"
       ]
     },
     "00-0039814": {
@@ -2522,6 +2560,7 @@
     },
     "00-0040142": {
       "event_ids": [
+        "news:52348d293ed1eaf305235013",
         "news:8a04d508618a5eb5e4a0227d"
       ],
       "name": "Kaleb Johnson",
@@ -2530,7 +2569,9 @@
       "primary_event_ids": [
         "news:8a04d508618a5eb5e4a0227d"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:52348d293ed1eaf305235013"
+      ]
     },
     "00-0040189": {
       "event_ids": [
