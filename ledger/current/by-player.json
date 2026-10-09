@@ -420,6 +420,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0034344": {
+      "event_ids": [
+        "news:f94576bc4657166bd7e37087"
+      ],
+      "name": "Marcus Davenport",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0034344",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f94576bc4657166bd7e37087"
+      ]
+    },
     "00-0034351": {
       "event_ids": [
         "news:3cee59ea0f35ec0b4ae11eab",
@@ -2791,6 +2803,7 @@
       "event_ids": [
         "news:01549e8af838842f0dfe8f67",
         "news:77a7f3be3a4ffd5cbcdb00cc",
+        "news:f94576bc4657166bd7e37087",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "name": "Carnell Tate",
@@ -2798,6 +2811,7 @@
       "nflverse_id": "00-0041438",
       "primary_event_ids": [
         "news:01549e8af838842f0dfe8f67",
+        "news:f94576bc4657166bd7e37087",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "related_event_ids": [
