@@ -747,13 +747,15 @@
     },
     "00-0036139": {
       "event_ids": [
-        "news:8d718e4797ba786637f1d6b7"
+        "news:8d718e4797ba786637f1d6b7",
+        "news:93fb5beeec4e95fa53e4a2e3"
       ],
       "name": "Rico Dowdle",
       "nfl_team": "PIT",
       "nflverse_id": "00-0036139",
       "primary_event_ids": [
-        "news:8d718e4797ba786637f1d6b7"
+        "news:8d718e4797ba786637f1d6b7",
+        "news:93fb5beeec4e95fa53e4a2e3"
       ],
       "related_event_ids": []
     },
@@ -1126,6 +1128,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:8d718e4797ba786637f1d6b7"
+      ]
+    },
+    "00-0037228": {
+      "event_ids": [
+        "news:93fb5beeec4e95fa53e4a2e3"
+      ],
+      "name": "Jaylen Warren",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0037228",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:93fb5beeec4e95fa53e4a2e3"
       ]
     },
     "00-0037239": {
@@ -2187,6 +2201,7 @@
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
         "news:8bfcc5f42e63e50c195b278e",
+        "news:93fb5beeec4e95fa53e4a2e3",
         "news:972e2bb1ade13ada0e79bcb5",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
@@ -2206,6 +2221,7 @@
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
         "news:8bfcc5f42e63e50c195b278e",
+        "news:93fb5beeec4e95fa53e4a2e3",
         "news:972e2bb1ade13ada0e79bcb5",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
