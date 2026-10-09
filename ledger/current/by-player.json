@@ -1127,6 +1127,7 @@
     "00-0037239": {
       "event_ids": [
         "news:9691b7425963b33722597723",
+        "news:a1ca419fac6805745de5e9b7",
         "news:bed9f33b1832160b1f035337",
         "news:f39c2079c1b6dcc16ceca441"
       ],
@@ -1135,6 +1136,7 @@
       "nflverse_id": "00-0037239",
       "primary_event_ids": [
         "news:9691b7425963b33722597723",
+        "news:a1ca419fac6805745de5e9b7",
         "news:bed9f33b1832160b1f035337",
         "news:f39c2079c1b6dcc16ceca441"
       ],
