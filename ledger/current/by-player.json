@@ -407,14 +407,16 @@
     "00-0033906": {
       "event_ids": [
         "news:21d672797933ee5b372daed8",
-        "news:c4668ca57a6792521ae67419"
+        "news:c4668ca57a6792521ae67419",
+        "news:c6ce95017310a84c0b94abf9"
       ],
       "name": "Alvin Kamara",
       "nfl_team": "NO",
       "nflverse_id": "00-0033906",
       "primary_event_ids": [
         "news:21d672797933ee5b372daed8",
-        "news:c4668ca57a6792521ae67419"
+        "news:c4668ca57a6792521ae67419",
+        "news:c6ce95017310a84c0b94abf9"
       ],
       "related_event_ids": []
     },
