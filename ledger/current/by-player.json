@@ -1942,12 +1942,14 @@
     },
     "00-0039361": {
       "event_ids": [
+        "news:2124b32b66def3d15356b258",
         "news:ec3fb719b4ca5131873e0e9e"
       ],
       "name": "Bucky Irving",
       "nfl_team": "TB",
       "nflverse_id": "00-0039361",
       "primary_event_ids": [
+        "news:2124b32b66def3d15356b258",
         "news:ec3fb719b4ca5131873e0e9e"
       ],
       "related_event_ids": []
