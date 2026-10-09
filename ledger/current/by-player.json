@@ -2358,13 +2358,15 @@
     },
     "00-0039874": {
       "event_ids": [
-        "news:c50f1bac7b008b7223c89a18"
+        "news:c50f1bac7b008b7223c89a18",
+        "news:e4565d8d56dfc35a70c7c07f"
       ],
       "name": "Jaylen Wright",
       "nfl_team": "MIA",
       "nflverse_id": "00-0039874",
       "primary_event_ids": [
-        "news:c50f1bac7b008b7223c89a18"
+        "news:c50f1bac7b008b7223c89a18",
+        "news:e4565d8d56dfc35a70c7c07f"
       ],
       "related_event_ids": []
     },
@@ -2616,7 +2618,8 @@
     "00-0040198": {
       "event_ids": [
         "news:2df5b2859053d798cc9459ee",
-        "news:b8d08f51261a0161c5e464e7"
+        "news:b8d08f51261a0161c5e464e7",
+        "news:e4565d8d56dfc35a70c7c07f"
       ],
       "name": "Ollie Gordon II",
       "nfl_team": "MIA",
@@ -2625,7 +2628,9 @@
         "news:2df5b2859053d798cc9459ee",
         "news:b8d08f51261a0161c5e464e7"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:e4565d8d56dfc35a70c7c07f"
+      ]
     },
     "00-0040236": {
       "event_ids": [
