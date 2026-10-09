@@ -395,6 +395,18 @@
         "news:ea7d53dcc4ae950825ecd20d"
       ]
     },
+    "00-0033868": {
+      "event_ids": [
+        "news:6dd134d3c33d117fa38113b0"
+      ],
+      "name": "Myles Garrett",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0033868",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:6dd134d3c33d117fa38113b0"
+      ]
+    },
     "00-0033873": {
       "event_ids": [
         "news:21365f16b4e003b9ab47afca"
@@ -1208,6 +1220,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:e8b20af7ca1f9bd7dc0337f0"
+      ]
+    },
+    "00-0037740": {
+      "event_ids": [
+        "news:6dd134d3c33d117fa38113b0"
+      ],
+      "name": "Garrett Wilson",
+      "nfl_team": "NYJ",
+      "nflverse_id": "00-0037740",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:6dd134d3c33d117fa38113b0"
       ]
     },
     "00-0037744": {
@@ -2194,12 +2218,14 @@
     },
     "00-0039890": {
       "event_ids": [
+        "news:6dd134d3c33d117fa38113b0",
         "news:dd5dc956172bc996276f66c8"
       ],
       "name": "Adonai Mitchell",
       "nfl_team": "NYJ",
       "nflverse_id": "00-0039890",
       "primary_event_ids": [
+        "news:6dd134d3c33d117fa38113b0",
         "news:dd5dc956172bc996276f66c8"
       ],
       "related_event_ids": []
