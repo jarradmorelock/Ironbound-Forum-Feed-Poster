@@ -295,6 +295,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0033077": {
+      "event_ids": [
+        "news:f1ab35c6d9a82781c04f561a"
+      ],
+      "name": "Dak Prescott",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0033077",
+      "primary_event_ids": [
+        "news:f1ab35c6d9a82781c04f561a"
+      ],
+      "related_event_ids": []
+    },
     "00-0033106": {
       "event_ids": [
         "news:9883748e3ce3861a3ef0dbbf",
