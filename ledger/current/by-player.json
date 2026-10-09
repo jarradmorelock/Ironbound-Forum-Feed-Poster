@@ -808,14 +808,16 @@
       "event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
-        "news:93c9bdb7d3cc5250b3ef7a55"
+        "news:93c9bdb7d3cc5250b3ef7a55",
+        "news:f388f79969ad54328f06b040"
       ],
       "name": "Justin Jefferson",
       "nfl_team": "MIN",
       "nflverse_id": "00-0036322",
       "primary_event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
-        "news:48db2a78679616083a10bce3"
+        "news:48db2a78679616083a10bce3",
+        "news:f388f79969ad54328f06b040"
       ],
       "related_event_ids": [
         "news:93c9bdb7d3cc5250b3ef7a55"
@@ -1750,7 +1752,8 @@
     },
     "00-0038994": {
       "event_ids": [
-        "news:98796c41dadf46960a129b42"
+        "news:98796c41dadf46960a129b42",
+        "news:f388f79969ad54328f06b040"
       ],
       "name": "Jordan Addison",
       "nfl_team": "MIN",
@@ -1758,7 +1761,9 @@
       "primary_event_ids": [
         "news:98796c41dadf46960a129b42"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:f388f79969ad54328f06b040"
+      ]
     },
     "00-0038996": {
       "event_ids": [
@@ -2180,7 +2185,8 @@
         "news:972e2bb1ade13ada0e79bcb5",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
-        "news:ec3fb719b4ca5131873e0e9e"
+        "news:ec3fb719b4ca5131873e0e9e",
+        "news:f388f79969ad54328f06b040"
       ],
       "name": "Erick All",
       "nfl_team": "CIN",
@@ -2197,7 +2203,8 @@
         "news:972e2bb1ade13ada0e79bcb5",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
-        "news:ec3fb719b4ca5131873e0e9e"
+        "news:ec3fb719b4ca5131873e0e9e",
+        "news:f388f79969ad54328f06b040"
       ]
     },
     "00-0039850": {
@@ -2824,7 +2831,8 @@
       "event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
-        "news:93c9bdb7d3cc5250b3ef7a55"
+        "news:93c9bdb7d3cc5250b3ef7a55",
+        "news:f388f79969ad54328f06b040"
       ],
       "name": "Justin Jefferson",
       "nfl_team": "CLE",
@@ -2833,7 +2841,8 @@
       "related_event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
-        "news:93c9bdb7d3cc5250b3ef7a55"
+        "news:93c9bdb7d3cc5250b3ef7a55",
+        "news:f388f79969ad54328f06b040"
       ]
     },
     "00-0041096": {
