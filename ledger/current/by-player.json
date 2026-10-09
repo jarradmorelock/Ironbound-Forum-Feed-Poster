@@ -432,6 +432,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0033921": {
+      "event_ids": [
+        "news:39e1eee96896b3df3e591175"
+      ],
+      "name": "Chris Godwin Jr.",
+      "nfl_team": "TB",
+      "nflverse_id": "00-0033921",
+      "primary_event_ids": [
+        "news:39e1eee96896b3df3e591175"
+      ],
+      "related_event_ids": []
+    },
     "00-0034344": {
       "event_ids": [
         "news:f94576bc4657166bd7e37087"
@@ -2109,6 +2121,7 @@
       "event_ids": [
         "news:0ef9d36257970a0cb09eabb8",
         "news:2d8616eedc8a1dab5d08dc5e",
+        "news:39e1eee96896b3df3e591175",
         "news:3c6d60cedebd49a719058e2a",
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
@@ -2125,6 +2138,7 @@
       "related_event_ids": [
         "news:0ef9d36257970a0cb09eabb8",
         "news:2d8616eedc8a1dab5d08dc5e",
+        "news:39e1eee96896b3df3e591175",
         "news:3c6d60cedebd49a719058e2a",
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
