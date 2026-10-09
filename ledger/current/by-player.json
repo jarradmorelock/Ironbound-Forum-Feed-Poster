@@ -451,7 +451,8 @@
       "event_ids": [
         "news:21d672797933ee5b372daed8",
         "news:c4668ca57a6792521ae67419",
-        "news:c6ce95017310a84c0b94abf9"
+        "news:c6ce95017310a84c0b94abf9",
+        "news:d9d44fae78ee4df237681836"
       ],
       "name": "Alvin Kamara",
       "nfl_team": "NO",
@@ -459,7 +460,8 @@
       "primary_event_ids": [
         "news:21d672797933ee5b372daed8",
         "news:c4668ca57a6792521ae67419",
-        "news:c6ce95017310a84c0b94abf9"
+        "news:c6ce95017310a84c0b94abf9",
+        "news:d9d44fae78ee4df237681836"
       ],
       "related_event_ids": []
     },
