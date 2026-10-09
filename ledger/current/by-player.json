@@ -962,14 +962,16 @@
     "00-0036875": {
       "event_ids": [
         "news:13706ce1d35499b7e2a3d22c",
-        "news:a2ad869648121b95d813699b"
+        "news:a2ad869648121b95d813699b",
+        "news:f08fe2bb9baba85b1f0f3d19"
       ],
       "name": "Rhamondre Stevenson",
       "nfl_team": "NE",
       "nflverse_id": "00-0036875",
       "primary_event_ids": [
         "news:13706ce1d35499b7e2a3d22c",
-        "news:a2ad869648121b95d813699b"
+        "news:a2ad869648121b95d813699b",
+        "news:f08fe2bb9baba85b1f0f3d19"
       ],
       "related_event_ids": []
     },
@@ -2186,6 +2188,7 @@
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
         "news:ec3fb719b4ca5131873e0e9e",
+        "news:f08fe2bb9baba85b1f0f3d19",
         "news:f388f79969ad54328f06b040"
       ],
       "name": "Erick All",
@@ -2204,6 +2207,7 @@
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
         "news:ec3fb719b4ca5131873e0e9e",
+        "news:f08fe2bb9baba85b1f0f3d19",
         "news:f388f79969ad54328f06b040"
       ]
     },
@@ -2694,7 +2698,8 @@
     },
     "00-0040734": {
       "event_ids": [
-        "news:1728164621d49f31f39816c9"
+        "news:1728164621d49f31f39816c9",
+        "news:f08fe2bb9baba85b1f0f3d19"
       ],
       "name": "TreVeyon Henderson",
       "nfl_team": "NE",
@@ -2702,7 +2707,9 @@
       "primary_event_ids": [
         "news:1728164621d49f31f39816c9"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:f08fe2bb9baba85b1f0f3d19"
+      ]
     },
     "00-0040743": {
       "event_ids": [
