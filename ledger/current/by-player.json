@@ -479,6 +479,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0034272": {
+      "event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ],
+      "name": "Marquez Valdes-Scantling",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0034272",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ]
+    },
     "00-0034344": {
       "event_ids": [
         "news:f94576bc4657166bd7e37087"
@@ -628,6 +640,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0034967": {
+      "event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ],
+      "name": "Rashan Gary",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0034967",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ]
+    },
     "00-0035021": {
       "event_ids": [
         "news:7e8d80e70af763822ed0e972"
@@ -681,6 +705,18 @@
       ],
       "related_event_ids": [
         "news:ffd5d01a9aa25669f6b14fea"
+      ]
+    },
+    "00-0035589": {
+      "event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ],
+      "name": "Gary Jennings",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0035589",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
     "00-0035640": {
@@ -1615,7 +1651,8 @@
     },
     "00-0038544": {
       "event_ids": [
-        "news:759dac8b62bec249b282836e"
+        "news:759dac8b62bec249b282836e",
+        "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Quentin Johnston",
       "nfl_team": "LAC",
@@ -1623,7 +1660,9 @@
       "primary_event_ids": [
         "news:759dac8b62bec249b282836e"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ]
     },
     "00-0038551": {
       "event_ids": [
@@ -1691,6 +1730,18 @@
         "news:a0a2fbf046e1657bf21ec8d6"
       ],
       "related_event_ids": []
+    },
+    "00-0038573": {
+      "event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ],
+      "name": "Derius Davis",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0038573",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ]
     },
     "00-0038590": {
       "event_ids": [
@@ -2331,7 +2382,8 @@
         "news:e8b9c46b6f7c20665052ca43",
         "news:ec3fb719b4ca5131873e0e9e",
         "news:f08fe2bb9baba85b1f0f3d19",
-        "news:f388f79969ad54328f06b040"
+        "news:f388f79969ad54328f06b040",
+        "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Erick All",
       "nfl_team": "CIN",
@@ -2356,7 +2408,8 @@
         "news:e8b9c46b6f7c20665052ca43",
         "news:ec3fb719b4ca5131873e0e9e",
         "news:f08fe2bb9baba85b1f0f3d19",
-        "news:f388f79969ad54328f06b040"
+        "news:f388f79969ad54328f06b040",
+        "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
     "00-0039850": {
@@ -2466,7 +2519,8 @@
         "news:355efb2c878848d56cce0ed0",
         "news:759dac8b62bec249b282836e",
         "news:91d97dde6f4365c2e62aa2cc",
-        "news:de698656b3e55dd22f03ac38"
+        "news:de698656b3e55dd22f03ac38",
+        "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Ladd McConkey",
       "nfl_team": "LAC",
@@ -2474,7 +2528,8 @@
       "primary_event_ids": [
         "news:355efb2c878848d56cce0ed0",
         "news:91d97dde6f4365c2e62aa2cc",
-        "news:de698656b3e55dd22f03ac38"
+        "news:de698656b3e55dd22f03ac38",
+        "news:fc1f1382c660ab08ade0b8c9"
       ],
       "related_event_ids": [
         "news:759dac8b62bec249b282836e"
@@ -2719,6 +2774,18 @@
         "news:5fcf42085be1bbf2be83dbd4"
       ]
     },
+    "00-0040311": {
+      "event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ],
+      "name": "Theo Wease Jr.",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0040311",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ]
+    },
     "00-0040319": {
       "event_ids": [
         "news:70bf5e9aab77f85357ce7fac",
@@ -2861,7 +2928,8 @@
     "00-0040727": {
       "event_ids": [
         "news:6694d21e8c9ec5386edb48a5",
-        "news:759dac8b62bec249b282836e"
+        "news:759dac8b62bec249b282836e",
+        "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Tre Harris",
       "nfl_team": "LAC",
@@ -2869,7 +2937,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:6694d21e8c9ec5386edb48a5",
-        "news:759dac8b62bec249b282836e"
+        "news:759dac8b62bec249b282836e",
+        "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
     "00-0040730": {
@@ -3235,6 +3304,18 @@
       "related_event_ids": [
         "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c"
+      ]
+    },
+    "00-0041550": {
+      "event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
+      ],
+      "name": "Brenen Thompson",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0041550",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fc1f1382c660ab08ade0b8c9"
       ]
     }
   },
