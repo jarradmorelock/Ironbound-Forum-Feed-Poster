@@ -1770,6 +1770,7 @@
     },
     "00-0038797": {
       "event_ids": [
+        "news:1c447870c8cbc3dc21381426",
         "news:50299468aa0ba0c31e5e489c",
         "news:80007ef73885136616e6356f",
         "news:81649ea69ee16a01a008368c",
@@ -1784,6 +1785,7 @@
         "news:d7b4005ee2803b39b1aead49"
       ],
       "related_event_ids": [
+        "news:1c447870c8cbc3dc21381426",
         "news:50299468aa0ba0c31e5e489c",
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b"
@@ -2033,6 +2035,7 @@
     },
     "00-0039165": {
       "event_ids": [
+        "news:1c447870c8cbc3dc21381426",
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b"
       ],
@@ -2043,6 +2046,7 @@
         "news:80007ef73885136616e6356f"
       ],
       "related_event_ids": [
+        "news:1c447870c8cbc3dc21381426",
         "news:d54619e249e1073482a4c77b"
       ]
     },
@@ -2088,13 +2092,16 @@
     },
     "00-0039299": {
       "event_ids": [
+        "news:1c447870c8cbc3dc21381426",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
       ],
       "name": "George Holani",
       "nfl_team": "SEA",
       "nflverse_id": "00-0039299",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:1c447870c8cbc3dc21381426"
+      ],
       "related_event_ids": [
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
@@ -2308,6 +2315,7 @@
       "event_ids": [
         "news:0203963a0744637b06e379f1",
         "news:0ef9d36257970a0cb09eabb8",
+        "news:1c447870c8cbc3dc21381426",
         "news:250427755c25b79de29d963c",
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:39e1eee96896b3df3e591175",
@@ -2332,6 +2340,7 @@
       "related_event_ids": [
         "news:0203963a0744637b06e379f1",
         "news:0ef9d36257970a0cb09eabb8",
+        "news:1c447870c8cbc3dc21381426",
         "news:250427755c25b79de29d963c",
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:39e1eee96896b3df3e591175",
@@ -2533,6 +2542,7 @@
     },
     "00-0040087": {
       "event_ids": [
+        "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
@@ -2543,6 +2553,7 @@
       "nflverse_id": "00-0040087",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
@@ -3099,6 +3110,18 @@
         "news:e8b9c46b6f7c20665052ca43",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
+      ]
+    },
+    "00-0041178": {
+      "event_ids": [
+        "news:1c447870c8cbc3dc21381426"
+      ],
+      "name": "Robert Henry Jr.",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0041178",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:1c447870c8cbc3dc21381426"
       ]
     },
     "00-0041251": {
