@@ -232,6 +232,7 @@
         "news:0f011c5b68769534d4b92859",
         "news:169a17bb9a2fb0774de2f48d",
         "news:5901efaf2aa39c4da015df1b",
+        "news:ce3e51627516baf78633b05f",
         "news:d8b6331c93cfd902c116075b"
       ],
       "name": "Dante Fowler Jr.",
@@ -242,6 +243,7 @@
         "news:0f011c5b68769534d4b92859",
         "news:169a17bb9a2fb0774de2f48d",
         "news:5901efaf2aa39c4da015df1b",
+        "news:ce3e51627516baf78633b05f",
         "news:d8b6331c93cfd902c116075b"
       ]
     },
@@ -734,14 +736,16 @@
     "00-0035659": {
       "event_ids": [
         "news:0f011c5b68769534d4b92859",
-        "news:197bd25b2e08e22adf5d2f2b"
+        "news:197bd25b2e08e22adf5d2f2b",
+        "news:ce3e51627516baf78633b05f"
       ],
       "name": "Terry McLaurin",
       "nfl_team": "WAS",
       "nflverse_id": "00-0035659",
       "primary_event_ids": [
         "news:0f011c5b68769534d4b92859",
-        "news:197bd25b2e08e22adf5d2f2b"
+        "news:197bd25b2e08e22adf5d2f2b",
+        "news:ce3e51627516baf78633b05f"
       ],
       "related_event_ids": []
     },
@@ -1408,6 +1412,7 @@
     "00-0037838": {
       "event_ids": [
         "news:169a17bb9a2fb0774de2f48d",
+        "news:ce3e51627516baf78633b05f",
         "news:db3e642a6c70f2809524a2c0",
         "news:fac0c1ec37a88fbbd9c5500c"
       ],
@@ -1419,6 +1424,7 @@
       ],
       "related_event_ids": [
         "news:169a17bb9a2fb0774de2f48d",
+        "news:ce3e51627516baf78633b05f",
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
