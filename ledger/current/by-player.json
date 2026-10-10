@@ -229,6 +229,7 @@
     },
     "00-0032052": {
       "event_ids": [
+        "news:0f011c5b68769534d4b92859",
         "news:169a17bb9a2fb0774de2f48d",
         "news:5901efaf2aa39c4da015df1b",
         "news:d8b6331c93cfd902c116075b"
@@ -238,6 +239,7 @@
       "nflverse_id": "00-0032052",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0f011c5b68769534d4b92859",
         "news:169a17bb9a2fb0774de2f48d",
         "news:5901efaf2aa39c4da015df1b",
         "news:d8b6331c93cfd902c116075b"
@@ -695,12 +697,14 @@
     },
     "00-0035659": {
       "event_ids": [
+        "news:0f011c5b68769534d4b92859",
         "news:197bd25b2e08e22adf5d2f2b"
       ],
       "name": "Terry McLaurin",
       "nfl_team": "WAS",
       "nflverse_id": "00-0035659",
       "primary_event_ids": [
+        "news:0f011c5b68769534d4b92859",
         "news:197bd25b2e08e22adf5d2f2b"
       ],
       "related_event_ids": []
