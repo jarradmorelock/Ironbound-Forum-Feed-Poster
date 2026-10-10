@@ -2422,6 +2422,18 @@
         "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
+    "00-0039849": {
+      "event_ids": [
+        "news:6f07d26fa50840718ac0ba37"
+      ],
+      "name": "Marvin Harrison Jr.",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0039849",
+      "primary_event_ids": [
+        "news:6f07d26fa50840718ac0ba37"
+      ],
+      "related_event_ids": []
+    },
     "00-0039850": {
       "event_ids": [
         "news:9b25331eccb390f51679a697"
