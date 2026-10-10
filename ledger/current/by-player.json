@@ -417,12 +417,15 @@
     },
     "00-0033868": {
       "event_ids": [
+        "news:422095401f0568abd0f833ec",
         "news:6dd134d3c33d117fa38113b0"
       ],
       "name": "Myles Garrett",
       "nfl_team": "LAR",
       "nflverse_id": "00-0033868",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:422095401f0568abd0f833ec"
+      ],
       "related_event_ids": [
         "news:6dd134d3c33d117fa38113b0"
       ]
@@ -3119,6 +3122,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:197bd25b2e08e22adf5d2f2b"
+      ]
+    },
+    "00-0041046": {
+      "event_ids": [
+        "news:422095401f0568abd0f833ec"
+      ],
+      "name": "Domonique Orange",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0041046",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:422095401f0568abd0f833ec"
       ]
     },
     "00-0041069": {
