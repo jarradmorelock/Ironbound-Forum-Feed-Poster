@@ -488,6 +488,7 @@
     },
     "00-0034272": {
       "event_ids": [
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Marquez Valdes-Scantling",
@@ -495,6 +496,7 @@
       "nflverse_id": "00-0034272",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
@@ -1667,6 +1669,7 @@
     "00-0038544": {
       "event_ids": [
         "news:759dac8b62bec249b282836e",
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Quentin Johnston",
@@ -1676,6 +1679,7 @@
         "news:759dac8b62bec249b282836e"
       ],
       "related_event_ids": [
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
@@ -1748,6 +1752,7 @@
     },
     "00-0038573": {
       "event_ids": [
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Derius Davis",
@@ -1755,6 +1760,7 @@
       "nflverse_id": "00-0038573",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
@@ -2392,6 +2398,7 @@
         "news:50601319dd6c4364a1ff9139",
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
+        "news:7fa453d2ef249eed23b9399e",
         "news:8bfcc5f42e63e50c195b278e",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:972e2bb1ade13ada0e79bcb5",
@@ -2418,6 +2425,7 @@
         "news:50601319dd6c4364a1ff9139",
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
+        "news:7fa453d2ef249eed23b9399e",
         "news:8bfcc5f42e63e50c195b278e",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:972e2bb1ade13ada0e79bcb5",
@@ -2550,6 +2558,7 @@
       "event_ids": [
         "news:355efb2c878848d56cce0ed0",
         "news:759dac8b62bec249b282836e",
+        "news:7fa453d2ef249eed23b9399e",
         "news:91d97dde6f4365c2e62aa2cc",
         "news:de698656b3e55dd22f03ac38",
         "news:fc1f1382c660ab08ade0b8c9"
@@ -2559,6 +2568,7 @@
       "nflverse_id": "00-0039915",
       "primary_event_ids": [
         "news:355efb2c878848d56cce0ed0",
+        "news:7fa453d2ef249eed23b9399e",
         "news:91d97dde6f4365c2e62aa2cc",
         "news:de698656b3e55dd22f03ac38",
         "news:fc1f1382c660ab08ade0b8c9"
@@ -2733,7 +2743,8 @@
     },
     "00-0040189": {
       "event_ids": [
-        "news:6694d21e8c9ec5386edb48a5"
+        "news:6694d21e8c9ec5386edb48a5",
+        "news:7fa453d2ef249eed23b9399e"
       ],
       "name": "Oronde Gadsden II",
       "nfl_team": "LAC",
@@ -2741,7 +2752,9 @@
       "primary_event_ids": [
         "news:6694d21e8c9ec5386edb48a5"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:7fa453d2ef249eed23b9399e"
+      ]
     },
     "00-0040198": {
       "event_ids": [
@@ -2808,6 +2821,7 @@
     },
     "00-0040311": {
       "event_ids": [
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Theo Wease Jr.",
@@ -2815,6 +2829,7 @@
       "nflverse_id": "00-0040311",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
@@ -2961,6 +2976,7 @@
       "event_ids": [
         "news:6694d21e8c9ec5386edb48a5",
         "news:759dac8b62bec249b282836e",
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Tre Harris",
@@ -2970,6 +2986,7 @@
       "related_event_ids": [
         "news:6694d21e8c9ec5386edb48a5",
         "news:759dac8b62bec249b282836e",
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
@@ -3356,6 +3373,7 @@
     },
     "00-0041550": {
       "event_ids": [
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Brenen Thompson",
@@ -3363,6 +3381,7 @@
       "nflverse_id": "00-0041550",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:7fa453d2ef249eed23b9399e",
         "news:fc1f1382c660ab08ade0b8c9"
       ]
     }
