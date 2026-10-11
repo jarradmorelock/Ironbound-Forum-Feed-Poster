@@ -1343,7 +1343,8 @@
     "00-0037258": {
       "event_ids": [
         "news:169a17bb9a2fb0774de2f48d",
-        "news:64b0b8be152ab1fea5afb0a2"
+        "news:64b0b8be152ab1fea5afb0a2",
+        "news:e5895bf19e27c967de0506e2"
       ],
       "name": "Dameon Pierce",
       "nfl_team": "PHI",
@@ -1352,7 +1353,8 @@
         "news:169a17bb9a2fb0774de2f48d"
       ],
       "related_event_ids": [
-        "news:64b0b8be152ab1fea5afb0a2"
+        "news:64b0b8be152ab1fea5afb0a2",
+        "news:e5895bf19e27c967de0506e2"
       ]
     },
     "00-0037431": {
@@ -2206,6 +2208,18 @@
         "news:d7b4005ee2803b39b1aead49"
       ]
     },
+    "00-0039325": {
+      "event_ids": [
+        "news:e5895bf19e27c967de0506e2"
+      ],
+      "name": "Carson Steele",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0039325",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e5895bf19e27c967de0506e2"
+      ]
+    },
     "00-0039337": {
       "event_ids": [
         "news:0a357e79942a2a6029cbdd2c",
@@ -2295,6 +2309,18 @@
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
+    "00-0039387": {
+      "event_ids": [
+        "news:e5895bf19e27c967de0506e2"
+      ],
+      "name": "Caelen Carson",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0039387",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e5895bf19e27c967de0506e2"
+      ]
+    },
     "00-0039391": {
       "event_ids": [
         "news:927f4d2cdb6a1ee11ac2c476"
@@ -2371,12 +2397,15 @@
       "event_ids": [
         "news:11a993edce3943ec0de56eca",
         "news:169a17bb9a2fb0774de2f48d",
-        "news:64b0b8be152ab1fea5afb0a2"
+        "news:64b0b8be152ab1fea5afb0a2",
+        "news:e5895bf19e27c967de0506e2"
       ],
       "name": "Will Shipley",
       "nfl_team": "PHI",
       "nflverse_id": "00-0039746",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:e5895bf19e27c967de0506e2"
+      ],
       "related_event_ids": [
         "news:11a993edce3943ec0de56eca",
         "news:169a17bb9a2fb0774de2f48d",
