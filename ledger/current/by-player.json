@@ -3142,13 +3142,15 @@
     "00-0040734": {
       "event_ids": [
         "news:1728164621d49f31f39816c9",
+        "news:a38e16967f606f4c748fc8a1",
         "news:f08fe2bb9baba85b1f0f3d19"
       ],
       "name": "TreVeyon Henderson",
       "nfl_team": "NE",
       "nflverse_id": "00-0040734",
       "primary_event_ids": [
-        "news:1728164621d49f31f39816c9"
+        "news:1728164621d49f31f39816c9",
+        "news:a38e16967f606f4c748fc8a1"
       ],
       "related_event_ids": [
         "news:f08fe2bb9baba85b1f0f3d19"
