@@ -986,13 +986,15 @@
     "00-0036275": {
       "event_ids": [
         "news:322740cd8ad79ba067ae6dea",
-        "news:463c5f9292e3b5af0a2cc870"
+        "news:463c5f9292e3b5af0a2cc870",
+        "news:b0049374b66a2d3d9a42519e"
       ],
       "name": "D'Andre Swift",
       "nfl_team": "CHI",
       "nflverse_id": "00-0036275",
       "primary_event_ids": [
-        "news:322740cd8ad79ba067ae6dea"
+        "news:322740cd8ad79ba067ae6dea",
+        "news:b0049374b66a2d3d9a42519e"
       ],
       "related_event_ids": [
         "news:463c5f9292e3b5af0a2cc870"
