@@ -2731,6 +2731,7 @@
       "event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
+        "news:c9e38a1e6bb17df529d73207",
         "news:e8b9c46b6f7c20665052ca43",
         "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c"
@@ -2739,7 +2740,8 @@
       "nfl_team": "PHI",
       "nflverse_id": "00-0040024",
       "primary_event_ids": [
-        "news:00c503483783fa1ebca89065"
+        "news:00c503483783fa1ebca89065",
+        "news:c9e38a1e6bb17df529d73207"
       ],
       "related_event_ids": [
         "news:75c729e2909b2695469c436d",
