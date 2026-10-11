@@ -2724,6 +2724,7 @@
     },
     "00-0040122": {
       "event_ids": [
+        "news:8a0171673d7d3350ca95b432",
         "news:946c5dd0a5f544c7301257da",
         "news:a6e41c1e1883a0d0c0bf7337",
         "news:b0f90e35fbe646faf767a479"
@@ -2732,6 +2733,7 @@
       "nfl_team": "LV",
       "nflverse_id": "00-0040122",
       "primary_event_ids": [
+        "news:8a0171673d7d3350ca95b432",
         "news:946c5dd0a5f544c7301257da",
         "news:a6e41c1e1883a0d0c0bf7337",
         "news:b0f90e35fbe646faf767a479"
