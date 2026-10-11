@@ -842,6 +842,7 @@
     },
     "00-0036139": {
       "event_ids": [
+        "news:6843310566b58c1bdb24c740",
         "news:8d718e4797ba786637f1d6b7",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:d338b3fc74cfc90465cc488d"
@@ -850,6 +851,7 @@
       "nfl_team": "PIT",
       "nflverse_id": "00-0036139",
       "primary_event_ids": [
+        "news:6843310566b58c1bdb24c740",
         "news:8d718e4797ba786637f1d6b7",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:d338b3fc74cfc90465cc488d"
@@ -1255,6 +1257,7 @@
     },
     "00-0037228": {
       "event_ids": [
+        "news:6843310566b58c1bdb24c740",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:d338b3fc74cfc90465cc488d"
       ],
@@ -1263,6 +1266,7 @@
       "nflverse_id": "00-0037228",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:6843310566b58c1bdb24c740",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:d338b3fc74cfc90465cc488d"
       ]
