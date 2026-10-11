@@ -677,6 +677,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0034960": {
+      "event_ids": [
+        "news:67670716dd18eafea21589c3"
+      ],
+      "name": "Jakobi Meyers",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0034960",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:67670716dd18eafea21589c3"
+      ]
+    },
     "00-0034967": {
       "event_ids": [
         "news:fc1f1382c660ab08ade0b8c9"
@@ -2694,6 +2706,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039893": {
+      "event_ids": [
+        "news:67670716dd18eafea21589c3"
+      ],
+      "name": "Brian Thomas Jr.",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0039893",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:67670716dd18eafea21589c3"
+      ]
+    },
     "00-0039894": {
       "event_ids": [
         "news:04956dffca3b8212a2f99845"
@@ -3432,12 +3456,15 @@
     },
     "00-0041100": {
       "event_ids": [
-        "news:3219329299073c6b6d83c2c2"
+        "news:3219329299073c6b6d83c2c2",
+        "news:67670716dd18eafea21589c3"
       ],
       "name": "Josh Cameron",
       "nfl_team": "JAX",
       "nflverse_id": "00-0041100",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:67670716dd18eafea21589c3"
+      ],
       "related_event_ids": [
         "news:3219329299073c6b6d83c2c2"
       ]
