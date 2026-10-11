@@ -1457,12 +1457,15 @@
     },
     "00-0037740": {
       "event_ids": [
-        "news:6dd134d3c33d117fa38113b0"
+        "news:6dd134d3c33d117fa38113b0",
+        "news:f0a4295ff923a7218b517fb9"
       ],
       "name": "Garrett Wilson",
       "nfl_team": "NYJ",
       "nflverse_id": "00-0037740",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:f0a4295ff923a7218b517fb9"
+      ],
       "related_event_ids": [
         "news:6dd134d3c33d117fa38113b0"
       ]
