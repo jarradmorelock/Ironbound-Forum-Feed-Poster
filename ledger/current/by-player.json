@@ -1743,13 +1743,15 @@
       "event_ids": [
         "news:058bb5fae341293acc150b06",
         "news:8d56f938536ea89fcdd3df69",
-        "news:9313fe0fe29ef943dc92427f"
+        "news:9313fe0fe29ef943dc92427f",
+        "news:ad269100cb099e1734cc6997"
       ],
       "name": "Tyson Bagent",
       "nfl_team": "CHI",
       "nflverse_id": "00-0038416",
       "primary_event_ids": [
-        "news:058bb5fae341293acc150b06"
+        "news:058bb5fae341293acc150b06",
+        "news:ad269100cb099e1734cc6997"
       ],
       "related_event_ids": [
         "news:8d56f938536ea89fcdd3df69",
