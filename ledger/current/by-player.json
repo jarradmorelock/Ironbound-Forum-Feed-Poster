@@ -1122,6 +1122,7 @@
     },
     "00-0036442": {
       "event_ids": [
+        "news:96fffdb0c04be27ca8cb17f6",
         "news:a56559875d9edfa1cb8342ef",
         "news:d4e998a309ac3345d219e197",
         "news:def92612b0a0860c98400a3c"
@@ -1130,6 +1131,7 @@
       "nfl_team": "CIN",
       "nflverse_id": "00-0036442",
       "primary_event_ids": [
+        "news:96fffdb0c04be27ca8cb17f6",
         "news:d4e998a309ac3345d219e197",
         "news:def92612b0a0860c98400a3c"
       ],
