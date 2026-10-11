@@ -525,6 +525,7 @@
         "news:0203963a0744637b06e379f1",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
+        "news:60f84ca03fcefdddd2f2f0b0",
         "news:7dd859216b3bba49d57c92ab",
         "news:ba38911b0ee4c1d0ac4a7cd7"
       ],
@@ -534,6 +535,7 @@
       "primary_event_ids": [
         "news:0203963a0744637b06e379f1",
         "news:3cee59ea0f35ec0b4ae11eab",
+        "news:60f84ca03fcefdddd2f2f0b0",
         "news:ba38911b0ee4c1d0ac4a7cd7"
       ],
       "related_event_ids": [
@@ -1029,6 +1031,7 @@
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:475c5bba8f8720011bb146ac",
         "news:536395cc5c2f30b9af7087fd",
+        "news:60f84ca03fcefdddd2f2f0b0",
         "news:7dd859216b3bba49d57c92ab"
       ],
       "name": "DeeJay Dallas",
@@ -1041,6 +1044,7 @@
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:475c5bba8f8720011bb146ac",
         "news:536395cc5c2f30b9af7087fd",
+        "news:60f84ca03fcefdddd2f2f0b0",
         "news:7dd859216b3bba49d57c92ab"
       ]
     },
