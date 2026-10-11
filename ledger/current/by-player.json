@@ -1263,14 +1263,16 @@
       "event_ids": [
         "news:52b8520bbb27ec21ff889a47",
         "news:5b3f3588f0ca8f0a33627ddf",
-        "news:822a6216da81a9142b967a7a"
+        "news:822a6216da81a9142b967a7a",
+        "news:f41fbd7e98f23b904a40ddd2"
       ],
       "name": "Trevor Lawrence",
       "nfl_team": "JAX",
       "nflverse_id": "00-0036971",
       "primary_event_ids": [
         "news:52b8520bbb27ec21ff889a47",
-        "news:822a6216da81a9142b967a7a"
+        "news:822a6216da81a9142b967a7a",
+        "news:f41fbd7e98f23b904a40ddd2"
       ],
       "related_event_ids": [
         "news:5b3f3588f0ca8f0a33627ddf"
@@ -1902,7 +1904,8 @@
       "event_ids": [
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:a91be86b465333c628438998",
-        "news:d64f0b2ba86861be37aa3eb7"
+        "news:d64f0b2ba86861be37aa3eb7",
+        "news:f41fbd7e98f23b904a40ddd2"
       ],
       "name": "Parker Washington",
       "nfl_team": "JAX",
@@ -1912,7 +1915,9 @@
         "news:a91be86b465333c628438998",
         "news:d64f0b2ba86861be37aa3eb7"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:f41fbd7e98f23b904a40ddd2"
+      ]
     },
     "00-0038611": {
       "event_ids": [
