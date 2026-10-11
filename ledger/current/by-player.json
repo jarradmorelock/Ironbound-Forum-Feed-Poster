@@ -3287,6 +3287,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040784": {
+      "event_ids": [
+        "news:cb97fe3bc4e9b2d5a95aa6af"
+      ],
+      "name": "Quinshon Judkins",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0040784",
+      "primary_event_ids": [
+        "news:cb97fe3bc4e9b2d5a95aa6af"
+      ],
+      "related_event_ids": []
+    },
     "00-0040785": {
       "event_ids": [
         "news:edcc6e97cc2d3e76efb28f60"
