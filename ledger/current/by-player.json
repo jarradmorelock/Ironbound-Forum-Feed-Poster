@@ -1248,13 +1248,15 @@
     "00-0036971": {
       "event_ids": [
         "news:52b8520bbb27ec21ff889a47",
-        "news:5b3f3588f0ca8f0a33627ddf"
+        "news:5b3f3588f0ca8f0a33627ddf",
+        "news:822a6216da81a9142b967a7a"
       ],
       "name": "Trevor Lawrence",
       "nfl_team": "JAX",
       "nflverse_id": "00-0036971",
       "primary_event_ids": [
-        "news:52b8520bbb27ec21ff889a47"
+        "news:52b8520bbb27ec21ff889a47",
+        "news:822a6216da81a9142b967a7a"
       ],
       "related_event_ids": [
         "news:5b3f3588f0ca8f0a33627ddf"
