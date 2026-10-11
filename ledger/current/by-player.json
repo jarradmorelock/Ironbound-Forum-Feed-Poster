@@ -2996,6 +2996,18 @@
         "news:303c972e64ef85754c49f9df"
       ]
     },
+    "00-0040128": {
+      "event_ids": [
+        "news:50c3a448be04998cf69323ba"
+      ],
+      "name": "Tyler Warren",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0040128",
+      "primary_event_ids": [
+        "news:50c3a448be04998cf69323ba"
+      ],
+      "related_event_ids": []
+    },
     "00-0040129": {
       "event_ids": [
         "news:6f872daf39f67c56610579e9"
