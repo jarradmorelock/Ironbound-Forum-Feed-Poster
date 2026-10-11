@@ -3170,13 +3170,15 @@
     },
     "00-0041096": {
       "event_ids": [
-        "news:15436cfd15b2f098cbf4e1e3"
+        "news:15436cfd15b2f098cbf4e1e3",
+        "news:ac348e7833a5f1cdbf04dd60"
       ],
       "name": "Kaytron Allen",
       "nfl_team": "WAS",
       "nflverse_id": "00-0041096",
       "primary_event_ids": [
-        "news:15436cfd15b2f098cbf4e1e3"
+        "news:15436cfd15b2f098cbf4e1e3",
+        "news:ac348e7833a5f1cdbf04dd60"
       ],
       "related_event_ids": []
     },
