@@ -992,6 +992,7 @@
     },
     "00-0036410": {
       "event_ids": [
+        "news:3219329299073c6b6d83c2c2",
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:edcc6e97cc2d3e76efb28f60",
         "news:f306a9f02b328bcdd5ec92f5"
@@ -1000,6 +1001,7 @@
       "nfl_team": "CIN",
       "nflverse_id": "00-0036410",
       "primary_event_ids": [
+        "news:3219329299073c6b6d83c2c2",
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:f306a9f02b328bcdd5ec92f5"
       ],
@@ -2284,6 +2286,7 @@
     "00-0039366": {
       "event_ids": [
         "news:215a662b508f4ea648a92711",
+        "news:3219329299073c6b6d83c2c2",
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
         "news:99525e52a7d1dd2754a23228",
@@ -2297,6 +2300,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:215a662b508f4ea648a92711",
+        "news:3219329299073c6b6d83c2c2",
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
         "news:99525e52a7d1dd2754a23228",
@@ -3278,6 +3282,18 @@
         "news:ac348e7833a5f1cdbf04dd60"
       ],
       "related_event_ids": []
+    },
+    "00-0041100": {
+      "event_ids": [
+        "news:3219329299073c6b6d83c2c2"
+      ],
+      "name": "Josh Cameron",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0041100",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:3219329299073c6b6d83c2c2"
+      ]
     },
     "00-0041117": {
       "event_ids": [
