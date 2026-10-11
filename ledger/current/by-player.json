@@ -1898,6 +1898,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0038611": {
+      "event_ids": [
+        "news:94697422354eb0b83b45bdb9"
+      ],
+      "name": "Chris Rodriguez Jr.",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0038611",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:94697422354eb0b83b45bdb9"
+      ]
+    },
     "00-0038621": {
       "event_ids": [
         "news:f578056da7a35ecc5c91839e"
@@ -2560,6 +2572,7 @@
         "news:7fa453d2ef249eed23b9399e",
         "news:8bfcc5f42e63e50c195b278e",
         "news:93fb5beeec4e95fa53e4a2e3",
+        "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
@@ -2588,6 +2601,7 @@
         "news:7fa453d2ef249eed23b9399e",
         "news:8bfcc5f42e63e50c195b278e",
         "news:93fb5beeec4e95fa53e4a2e3",
+        "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
@@ -2964,6 +2978,18 @@
         "news:322740cd8ad79ba067ae6dea"
       ]
     },
+    "00-0040238": {
+      "event_ids": [
+        "news:94697422354eb0b83b45bdb9"
+      ],
+      "name": "LeQuint Allen Jr.",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0040238",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:94697422354eb0b83b45bdb9"
+      ]
+    },
     "00-0040242": {
       "event_ids": [
         "news:15436cfd15b2f098cbf4e1e3",
@@ -3136,13 +3162,15 @@
     },
     "00-0040719": {
       "event_ids": [
-        "news:8f05113c5b0bc31d1cd9f229"
+        "news:8f05113c5b0bc31d1cd9f229",
+        "news:94697422354eb0b83b45bdb9"
       ],
       "name": "Bhayshul Tuten",
       "nfl_team": "JAX",
       "nflverse_id": "00-0040719",
       "primary_event_ids": [
-        "news:8f05113c5b0bc31d1cd9f229"
+        "news:8f05113c5b0bc31d1cd9f229",
+        "news:94697422354eb0b83b45bdb9"
       ],
       "related_event_ids": []
     },
