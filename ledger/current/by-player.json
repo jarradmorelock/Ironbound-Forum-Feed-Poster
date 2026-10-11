@@ -103,14 +103,16 @@
     "00-0030279": {
       "event_ids": [
         "news:7e8d80e70af763822ed0e972",
-        "news:822540010d4645b8183f283c"
+        "news:822540010d4645b8183f283c",
+        "news:da5192497b1817e06e4ef92a"
       ],
       "name": "Keenan Allen",
       "nfl_team": "IND",
       "nflverse_id": "00-0030279",
       "primary_event_ids": [
         "news:7e8d80e70af763822ed0e972",
-        "news:822540010d4645b8183f283c"
+        "news:822540010d4645b8183f283c",
+        "news:da5192497b1817e06e4ef92a"
       ],
       "related_event_ids": []
     },
@@ -234,7 +236,8 @@
         "news:5901efaf2aa39c4da015df1b",
         "news:ce3e51627516baf78633b05f",
         "news:cec35169886e5596bf5be6c6",
-        "news:d8b6331c93cfd902c116075b"
+        "news:d8b6331c93cfd902c116075b",
+        "news:da5192497b1817e06e4ef92a"
       ],
       "name": "Dante Fowler Jr.",
       "nfl_team": "SEA",
@@ -246,7 +249,8 @@
         "news:5901efaf2aa39c4da015df1b",
         "news:ce3e51627516baf78633b05f",
         "news:cec35169886e5596bf5be6c6",
-        "news:d8b6331c93cfd902c116075b"
+        "news:d8b6331c93cfd902c116075b",
+        "news:da5192497b1817e06e4ef92a"
       ]
     },
     "00-0032764": {
