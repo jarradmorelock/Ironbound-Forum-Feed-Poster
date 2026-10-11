@@ -985,13 +985,15 @@
         "news:00c503483783fa1ebca89065",
         "news:34031c4ca8e242017da37732",
         "news:536395cc5c2f30b9af7087fd",
-        "news:7dd859216b3bba49d57c92ab"
+        "news:7dd859216b3bba49d57c92ab",
+        "news:fa98c3a4d37de2dc41931a57"
       ],
       "name": "Jalen Hurts",
       "nfl_team": "PHI",
       "nflverse_id": "00-0036389",
       "primary_event_ids": [
-        "news:536395cc5c2f30b9af7087fd"
+        "news:536395cc5c2f30b9af7087fd",
+        "news:fa98c3a4d37de2dc41931a57"
       ],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
@@ -1147,6 +1149,7 @@
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:e8b9c46b6f7c20665052ca43",
+        "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
       ],
@@ -1164,6 +1167,7 @@
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab",
+        "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
@@ -2710,6 +2714,7 @@
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
         "news:e8b9c46b6f7c20665052ca43",
+        "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Darius Cooper",
@@ -2721,6 +2726,7 @@
       "related_event_ids": [
         "news:75c729e2909b2695469c436d",
         "news:e8b9c46b6f7c20665052ca43",
+        "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
@@ -3330,6 +3336,7 @@
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:e8b9c46b6f7c20665052ca43",
+        "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
       ],
@@ -3345,6 +3352,7 @@
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:e8b9c46b6f7c20665052ca43",
+        "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
       ]
