@@ -695,7 +695,8 @@
     },
     "00-0035229": {
       "event_ids": [
-        "news:5fcab1f09857dba344b398e9"
+        "news:5fcab1f09857dba344b398e9",
+        "news:f64b96c7cd20c4314a8ec146"
       ],
       "name": "T.J. Hockenson",
       "nfl_team": "MIN",
@@ -703,7 +704,9 @@
       "primary_event_ids": [
         "news:5fcab1f09857dba344b398e9"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:f64b96c7cd20c4314a8ec146"
+      ]
     },
     "00-0035261": {
       "event_ids": [
@@ -1944,14 +1947,16 @@
       "event_ids": [
         "news:191425d6c243690297d03a6d",
         "news:98796c41dadf46960a129b42",
-        "news:f388f79969ad54328f06b040"
+        "news:f388f79969ad54328f06b040",
+        "news:f64b96c7cd20c4314a8ec146"
       ],
       "name": "Jordan Addison",
       "nfl_team": "MIN",
       "nflverse_id": "00-0038994",
       "primary_event_ids": [
         "news:191425d6c243690297d03a6d",
-        "news:98796c41dadf46960a129b42"
+        "news:98796c41dadf46960a129b42",
+        "news:f64b96c7cd20c4314a8ec146"
       ],
       "related_event_ids": [
         "news:f388f79969ad54328f06b040"
