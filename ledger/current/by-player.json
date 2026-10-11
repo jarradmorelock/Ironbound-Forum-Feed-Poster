@@ -3302,12 +3302,14 @@
     },
     "00-0041032": {
       "event_ids": [
+        "news:009503ab1e2f439ae272efe3",
         "news:4cb79a176c6fb91d6630137f"
       ],
       "name": "Kenyon Sadiq",
       "nfl_team": "NYJ",
       "nflverse_id": "00-0041032",
       "primary_event_ids": [
+        "news:009503ab1e2f439ae272efe3",
         "news:4cb79a176c6fb91d6630137f"
       ],
       "related_event_ids": []
