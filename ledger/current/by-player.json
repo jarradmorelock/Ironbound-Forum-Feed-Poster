@@ -366,6 +366,7 @@
     },
     "00-0033288": {
       "event_ids": [
+        "news:268cab389b1877ee0c60883c",
         "news:e5ed47203eac93b2660f95bb",
         "news:f84b9d09908cda13b523c2a7"
       ],
@@ -373,6 +374,7 @@
       "nfl_team": "SF",
       "nflverse_id": "00-0033288",
       "primary_event_ids": [
+        "news:268cab389b1877ee0c60883c",
         "news:e5ed47203eac93b2660f95bb"
       ],
       "related_event_ids": [
