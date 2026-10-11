@@ -2463,12 +2463,15 @@
     },
     "00-0039739": {
       "event_ids": [
+        "news:880df6ac2b525c3c70d6483d",
         "news:e528f25814b3c5542b10d122"
       ],
       "name": "Roman Wilson",
       "nfl_team": "PIT",
       "nflverse_id": "00-0039739",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:880df6ac2b525c3c70d6483d"
+      ],
       "related_event_ids": [
         "news:e528f25814b3c5542b10d122"
       ]
