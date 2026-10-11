@@ -3149,13 +3149,15 @@
     },
     "00-0040667": {
       "event_ids": [
-        "news:0213701c3d05aa8dfc30f55a"
+        "news:0213701c3d05aa8dfc30f55a",
+        "news:34529980b10e2fe5eee08602"
       ],
       "name": "Matthew Golden",
       "nfl_team": "GB",
       "nflverse_id": "00-0040667",
       "primary_event_ids": [
-        "news:0213701c3d05aa8dfc30f55a"
+        "news:0213701c3d05aa8dfc30f55a",
+        "news:34529980b10e2fe5eee08602"
       ],
       "related_event_ids": []
     },
