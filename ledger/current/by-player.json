@@ -423,6 +423,18 @@
         "news:3981e3d5a400199aa4d7aaa9"
       ]
     },
+    "00-0033537": {
+      "event_ids": [
+        "news:42555320f3a86cbc75aa6922"
+      ],
+      "name": "Deshaun Watson",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0033537",
+      "primary_event_ids": [
+        "news:42555320f3a86cbc75aa6922"
+      ],
+      "related_event_ids": []
+    },
     "00-0033555": {
       "event_ids": [
         "news:136acc9c41ce361c1da28d96",
