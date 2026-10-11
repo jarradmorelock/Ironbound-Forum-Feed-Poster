@@ -1419,6 +1419,7 @@
     "00-0037838": {
       "event_ids": [
         "news:169a17bb9a2fb0774de2f48d",
+        "news:37e02e92c6ca16fb937017bc",
         "news:ce3e51627516baf78633b05f",
         "news:db3e642a6c70f2809524a2c0",
         "news:fac0c1ec37a88fbbd9c5500c"
@@ -1431,6 +1432,7 @@
       ],
       "related_event_ids": [
         "news:169a17bb9a2fb0774de2f48d",
+        "news:37e02e92c6ca16fb937017bc",
         "news:ce3e51627516baf78633b05f",
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
@@ -2087,6 +2089,7 @@
     },
     "00-0039163": {
       "event_ids": [
+        "news:37e02e92c6ca16fb937017bc",
         "news:d39b9f3acfb6843815b8190b"
       ],
       "name": "C.J. Stroud",
@@ -2095,7 +2098,9 @@
       "primary_event_ids": [
         "news:d39b9f3acfb6843815b8190b"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:37e02e92c6ca16fb937017bc"
+      ]
     },
     "00-0039165": {
       "event_ids": [
@@ -2427,12 +2432,14 @@
     },
     "00-0039849": {
       "event_ids": [
+        "news:37e02e92c6ca16fb937017bc",
         "news:6f07d26fa50840718ac0ba37"
       ],
       "name": "Marvin Harrison Jr.",
       "nfl_team": "ARI",
       "nflverse_id": "00-0039849",
       "primary_event_ids": [
+        "news:37e02e92c6ca16fb937017bc",
         "news:6f07d26fa50840718ac0ba37"
       ],
       "related_event_ids": []
