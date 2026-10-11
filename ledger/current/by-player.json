@@ -959,6 +959,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0036264": {
+      "event_ids": [
+        "news:075f338ce2bde124f3146f91"
+      ],
+      "name": "Jordan Love",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0036264",
+      "primary_event_ids": [
+        "news:075f338ce2bde124f3146f91"
+      ],
+      "related_event_ids": []
+    },
     "00-0036275": {
       "event_ids": [
         "news:322740cd8ad79ba067ae6dea",
