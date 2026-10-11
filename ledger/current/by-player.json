@@ -28,14 +28,16 @@
     },
     "00-0029562": {
       "event_ids": [
-        "news:c50f1bac7b008b7223c89a18"
+        "news:c50f1bac7b008b7223c89a18",
+        "news:fa3a2aec7888f0c623f6bf0b"
       ],
       "name": "Lavonte David",
       "nfl_team": "TB",
       "nflverse_id": "00-0029562",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:c50f1bac7b008b7223c89a18"
+        "news:c50f1bac7b008b7223c89a18",
+        "news:fa3a2aec7888f0c623f6bf0b"
       ]
     },
     "00-0029604": {
@@ -798,6 +800,18 @@
       "nflverse_id": "00-0035676",
       "primary_event_ids": [
         "news:6c52af439db2df36c39101c3"
+      ],
+      "related_event_ids": []
+    },
+    "00-0035685": {
+      "event_ids": [
+        "news:fa3a2aec7888f0c623f6bf0b"
+      ],
+      "name": "David Montgomery",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0035685",
+      "primary_event_ids": [
+        "news:fa3a2aec7888f0c623f6bf0b"
       ],
       "related_event_ids": []
     },
@@ -2997,7 +3011,8 @@
     "00-0040583": {
       "event_ids": [
         "news:8ffb3f30b97a5d72f2323fe4",
-        "news:beb1db3ab52ce7b74839ed7b"
+        "news:beb1db3ab52ce7b74839ed7b",
+        "news:fa3a2aec7888f0c623f6bf0b"
       ],
       "name": "Woody Marks",
       "nfl_team": "HOU",
@@ -3005,7 +3020,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:8ffb3f30b97a5d72f2323fe4",
-        "news:beb1db3ab52ce7b74839ed7b"
+        "news:beb1db3ab52ce7b74839ed7b",
+        "news:fa3a2aec7888f0c623f6bf0b"
       ]
     },
     "00-0040586": {
