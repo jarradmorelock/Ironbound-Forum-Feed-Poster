@@ -587,6 +587,7 @@
     },
     "00-0034796": {
       "event_ids": [
+        "news:03c3a62cab4d3b425f7fe2f4",
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:eaaa5489714a1283c5ce341c",
@@ -596,6 +597,7 @@
       "nfl_team": "BAL",
       "nflverse_id": "00-0034796",
       "primary_event_ids": [
+        "news:03c3a62cab4d3b425f7fe2f4",
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:ecedde8756b5e29e431e3615"
@@ -822,6 +824,7 @@
     },
     "00-0035993": {
       "event_ids": [
+        "news:03c3a62cab4d3b425f7fe2f4",
         "news:5ed096c865c22a8a68e0eba6"
       ],
       "name": "Tyler Huntley",
@@ -830,7 +833,9 @@
       "primary_event_ids": [
         "news:5ed096c865c22a8a68e0eba6"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:03c3a62cab4d3b425f7fe2f4"
+      ]
     },
     "00-0036139": {
       "event_ids": [
@@ -848,6 +853,7 @@
     },
     "00-0036152": {
       "event_ids": [
+        "news:03c3a62cab4d3b425f7fe2f4",
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:eaaa5489714a1283c5ce341c",
@@ -858,6 +864,7 @@
       "nflverse_id": "00-0036152",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:03c3a62cab4d3b425f7fe2f4",
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:eaaa5489714a1283c5ce341c",
@@ -1428,6 +1435,7 @@
     },
     "00-0037838": {
       "event_ids": [
+        "news:03c3a62cab4d3b425f7fe2f4",
         "news:169a17bb9a2fb0774de2f48d",
         "news:37e02e92c6ca16fb937017bc",
         "news:ce3e51627516baf78633b05f",
@@ -1441,6 +1449,7 @@
         "news:db3e642a6c70f2809524a2c0"
       ],
       "related_event_ids": [
+        "news:03c3a62cab4d3b425f7fe2f4",
         "news:169a17bb9a2fb0774de2f48d",
         "news:37e02e92c6ca16fb937017bc",
         "news:ce3e51627516baf78633b05f",
@@ -2399,6 +2408,7 @@
     "00-0039814": {
       "event_ids": [
         "news:0203963a0744637b06e379f1",
+        "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ef9d36257970a0cb09eabb8",
         "news:1c447870c8cbc3dc21381426",
         "news:250427755c25b79de29d963c",
@@ -2426,6 +2436,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0203963a0744637b06e379f1",
+        "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ef9d36257970a0cb09eabb8",
         "news:1c447870c8cbc3dc21381426",
         "news:250427755c25b79de29d963c",
