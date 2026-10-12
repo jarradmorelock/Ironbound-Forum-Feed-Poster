@@ -1306,12 +1306,15 @@
     },
     "00-0036894": {
       "event_ids": [
+        "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ],
       "name": "Pat Freiermuth",
       "nfl_team": "PIT",
       "nflverse_id": "00-0036894",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:9897b50fcf6e1718e755ff42"
+      ],
       "related_event_ids": [
         "news:e528f25814b3c5542b10d122"
       ]
@@ -2014,6 +2017,7 @@
     },
     "00-0038558": {
       "event_ids": [
+        "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ],
       "name": "Darnell Washington",
@@ -2021,6 +2025,7 @@
       "nflverse_id": "00-0038558",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ]
     },
@@ -3940,6 +3945,7 @@
     },
     "00-0041489": {
       "event_ids": [
+        "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ],
       "name": "Germie Bernard",
@@ -3947,6 +3953,7 @@
       "nflverse_id": "00-0041489",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ]
     },
