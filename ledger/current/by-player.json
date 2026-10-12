@@ -542,6 +542,7 @@
     "00-0033906": {
       "event_ids": [
         "news:21d672797933ee5b372daed8",
+        "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419",
         "news:c6ce95017310a84c0b94abf9",
         "news:d9d44fae78ee4df237681836"
@@ -551,6 +552,7 @@
       "nflverse_id": "00-0033906",
       "primary_event_ids": [
         "news:21d672797933ee5b372daed8",
+        "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419",
         "news:c6ce95017310a84c0b94abf9",
         "news:d9d44fae78ee4df237681836"
@@ -2070,6 +2072,7 @@
     },
     "00-0038551": {
       "event_ids": [
+        "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ],
       "name": "Kendre Miller",
@@ -2077,6 +2080,7 @@
       "nflverse_id": "00-0038551",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ]
     },
@@ -4054,6 +4058,7 @@
     },
     "00-0041326": {
       "event_ids": [
+        "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ],
       "name": "CJ Donaldson",
@@ -4061,6 +4066,7 @@
       "nflverse_id": "00-0041326",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ]
     },
