@@ -566,6 +566,18 @@
         "news:f94576bc4657166bd7e37087"
       ]
     },
+    "00-0034348": {
+      "event_ids": [
+        "news:fe306a2820df3bd86b1acbea"
+      ],
+      "name": "Courtland Sutton",
+      "nfl_team": "DEN",
+      "nflverse_id": "00-0034348",
+      "primary_event_ids": [
+        "news:fe306a2820df3bd86b1acbea"
+      ],
+      "related_event_ids": []
+    },
     "00-0034351": {
       "event_ids": [
         "news:0203963a0744637b06e379f1",
