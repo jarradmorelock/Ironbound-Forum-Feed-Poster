@@ -261,6 +261,7 @@
         "news:0f011c5b68769534d4b92859",
         "news:169a17bb9a2fb0774de2f48d",
         "news:5901efaf2aa39c4da015df1b",
+        "news:64355f6f1ee34bf11b527855",
         "news:ce3e51627516baf78633b05f",
         "news:cec35169886e5596bf5be6c6",
         "news:d8b6331c93cfd902c116075b",
@@ -274,6 +275,7 @@
         "news:0f011c5b68769534d4b92859",
         "news:169a17bb9a2fb0774de2f48d",
         "news:5901efaf2aa39c4da015df1b",
+        "news:64355f6f1ee34bf11b527855",
         "news:ce3e51627516baf78633b05f",
         "news:cec35169886e5596bf5be6c6",
         "news:d8b6331c93cfd902c116075b",
@@ -873,6 +875,7 @@
     },
     "00-0035640": {
       "event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:e528f25814b3c5542b10d122"
       ],
       "name": "DK Metcalf",
@@ -880,6 +883,7 @@
       "nflverse_id": "00-0035640",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:e528f25814b3c5542b10d122"
       ]
     },
@@ -1102,6 +1106,7 @@
     },
     "00-0036252": {
       "event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:bf0d0a971c77d60d2ee2f0c4",
         "news:e528f25814b3c5542b10d122"
       ],
@@ -1112,7 +1117,9 @@
         "news:bf0d0a971c77d60d2ee2f0c4",
         "news:e528f25814b3c5542b10d122"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:64355f6f1ee34bf11b527855"
+      ]
     },
     "00-0036259": {
       "event_ids": [
@@ -1346,6 +1353,30 @@
         "news:ced7fa6f65d8368ec64a3ee0"
       ]
     },
+    "00-0036775": {
+      "event_ids": [
+        "news:64355f6f1ee34bf11b527855"
+      ],
+      "name": "Brandon Smith",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0036775",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:64355f6f1ee34bf11b527855"
+      ]
+    },
+    "00-0036862": {
+      "event_ids": [
+        "news:64355f6f1ee34bf11b527855"
+      ],
+      "name": "Ben Skowronek",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0036862",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:64355f6f1ee34bf11b527855"
+      ]
+    },
     "00-0036874": {
       "event_ids": [
         "news:5901efaf2aa39c4da015df1b"
@@ -1376,6 +1407,7 @@
     },
     "00-0036894": {
       "event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ],
@@ -1386,6 +1418,7 @@
         "news:9897b50fcf6e1718e755ff42"
       ],
       "related_event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:e528f25814b3c5542b10d122"
       ]
     },
@@ -1555,6 +1588,7 @@
     "00-0037228": {
       "event_ids": [
         "news:3e066f2fe2bcfa0a28991012",
+        "news:64355f6f1ee34bf11b527855",
         "news:6843310566b58c1bdb24c740",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:d338b3fc74cfc90465cc488d",
@@ -1568,6 +1602,7 @@
         "news:dfce9a32dc480679e13c3da3"
       ],
       "related_event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:6843310566b58c1bdb24c740",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:d338b3fc74cfc90465cc488d"
@@ -1872,6 +1907,18 @@
         "news:d886d94ff65be4289afae51a"
       ]
     },
+    "00-0038113": {
+      "event_ids": [
+        "news:64355f6f1ee34bf11b527855"
+      ],
+      "name": "Brandon Smith",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0038113",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:64355f6f1ee34bf11b527855"
+      ]
+    },
     "00-0038117": {
       "event_ids": [
         "news:77a7f3be3a4ffd5cbcdb00cc",
@@ -2119,6 +2166,7 @@
     },
     "00-0038558": {
       "event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ],
@@ -2127,6 +2175,7 @@
       "nflverse_id": "00-0038558",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ]
@@ -2715,6 +2764,7 @@
         "news:3ee980249f53a8fa31d9247e",
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
+        "news:64355f6f1ee34bf11b527855",
         "news:99525e52a7d1dd2754a23228",
         "news:d8b6331c93cfd902c116075b",
         "news:ecedde8756b5e29e431e3615",
@@ -2730,6 +2780,7 @@
         "news:3ee980249f53a8fa31d9247e",
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
+        "news:64355f6f1ee34bf11b527855",
         "news:99525e52a7d1dd2754a23228",
         "news:d8b6331c93cfd902c116075b",
         "news:ecedde8756b5e29e431e3615",
@@ -2831,6 +2882,7 @@
     },
     "00-0039739": {
       "event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:880df6ac2b525c3c70d6483d",
         "news:e528f25814b3c5542b10d122"
       ],
@@ -2838,6 +2890,7 @@
       "nfl_team": "PIT",
       "nflverse_id": "00-0039739",
       "primary_event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:880df6ac2b525c3c70d6483d"
       ],
       "related_event_ids": [
@@ -4097,6 +4150,7 @@
     },
     "00-0041489": {
       "event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ],
@@ -4105,6 +4159,7 @@
       "nflverse_id": "00-0041489",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:64355f6f1ee34bf11b527855",
         "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ]
