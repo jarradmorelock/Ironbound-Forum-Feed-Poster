@@ -2240,13 +2240,15 @@
     },
     "00-0038543": {
       "event_ids": [
-        "news:4ef6ca358c7611c68ab0371a"
+        "news:4ef6ca358c7611c68ab0371a",
+        "news:b163e38af09821837028a2d6"
       ],
       "name": "Jaxon Smith-Njigba",
       "nfl_team": "SEA",
       "nflverse_id": "00-0038543",
       "primary_event_ids": [
-        "news:4ef6ca358c7611c68ab0371a"
+        "news:4ef6ca358c7611c68ab0371a",
+        "news:b163e38af09821837028a2d6"
       ],
       "related_event_ids": []
     },
