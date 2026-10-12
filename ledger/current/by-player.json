@@ -2466,6 +2466,7 @@
     },
     "00-0039338": {
       "event_ids": [
+        "news:17e04b0e072315764db7d64e",
         "news:1b349a651314e1a53f4dbe14",
         "news:5a04300dd162cdb97d19a817"
       ],
@@ -2473,6 +2474,7 @@
       "nfl_team": "LV",
       "nflverse_id": "00-0039338",
       "primary_event_ids": [
+        "news:17e04b0e072315764db7d64e",
         "news:1b349a651314e1a53f4dbe14"
       ],
       "related_event_ids": [
