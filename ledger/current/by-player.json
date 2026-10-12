@@ -4029,12 +4029,14 @@
         "news:0a8b7e20cfad00354a35c828",
         "news:8d56f938536ea89fcdd3df69",
         "news:9313fe0fe29ef943dc92427f",
+        "news:ae030a135d2de256cf9375c0",
         "news:f3f56ad52d065880a1c5bae4"
       ],
       "name": "Jordyn Tyson",
       "nfl_team": "NO",
       "nflverse_id": "00-0041029",
       "primary_event_ids": [
+        "news:ae030a135d2de256cf9375c0",
         "news:f3f56ad52d065880a1c5bae4"
       ],
       "related_event_ids": [
