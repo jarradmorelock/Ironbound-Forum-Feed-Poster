@@ -302,6 +302,7 @@
     "00-0033010": {
       "event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
+        "news:0230ede58f08ec745722fd04",
         "news:08bc4fa7692c9a7c714915b7",
         "news:463c5f9292e3b5af0a2cc870",
         "news:5b3f3588f0ca8f0a33627ddf",
@@ -317,6 +318,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
+        "news:0230ede58f08ec745722fd04",
         "news:08bc4fa7692c9a7c714915b7",
         "news:463c5f9292e3b5af0a2cc870",
         "news:5b3f3588f0ca8f0a33627ddf",
@@ -1170,6 +1172,18 @@
         "news:00c503483783fa1ebca89065",
         "news:34031c4ca8e242017da37732",
         "news:7dd859216b3bba49d57c92ab"
+      ]
+    },
+    "00-0036407": {
+      "event_ids": [
+        "news:0230ede58f08ec745722fd04"
+      ],
+      "name": "Jerry Jeudy",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0036407",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:0230ede58f08ec745722fd04"
       ]
     },
     "00-0036410": {
@@ -3534,6 +3548,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040782": {
+      "event_ids": [
+        "news:0230ede58f08ec745722fd04"
+      ],
+      "name": "Isaiah Bond",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0040782",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:0230ede58f08ec745722fd04"
+      ]
+    },
     "00-0040784": {
       "event_ids": [
         "news:cb97fe3bc4e9b2d5a95aa6af"
@@ -3655,13 +3681,16 @@
     },
     "00-0041037": {
       "event_ids": [
+        "news:0230ede58f08ec745722fd04",
         "news:136acc9c41ce361c1da28d96",
         "news:6c52af439db2df36c39101c3"
       ],
       "name": "Denzel Boston",
       "nfl_team": "CLE",
       "nflverse_id": "00-0041037",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:0230ede58f08ec745722fd04"
+      ],
       "related_event_ids": [
         "news:136acc9c41ce361c1da28d96",
         "news:6c52af439db2df36c39101c3"
