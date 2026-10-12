@@ -1010,7 +1010,8 @@
     },
     "00-0036158": {
       "event_ids": [
-        "news:72c0a29a900371b420f0e607"
+        "news:72c0a29a900371b420f0e607",
+        "news:a2c1246e1acc3b0c7fe8b334"
       ],
       "name": "J.K. Dobbins",
       "nfl_team": "DEN",
@@ -1018,7 +1019,9 @@
       "primary_event_ids": [
         "news:72c0a29a900371b420f0e607"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:a2c1246e1acc3b0c7fe8b334"
+      ]
     },
     "00-0036223": {
       "event_ids": [
@@ -1444,6 +1447,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:9c547095459f998d356ab8be"
+      ]
+    },
+    "00-0037085": {
+      "event_ids": [
+        "news:a2c1246e1acc3b0c7fe8b334"
+      ],
+      "name": "Tyler Badie",
+      "nfl_team": "DEN",
+      "nflverse_id": "00-0037085",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:a2c1246e1acc3b0c7fe8b334"
       ]
     },
     "00-0037132": {
@@ -3540,6 +3555,7 @@
       "event_ids": [
         "news:0ef9d36257970a0cb09eabb8",
         "news:8e5b31e716ed4892b9a91ec9",
+        "news:a2c1246e1acc3b0c7fe8b334",
         "news:e2a38d7e3da2993c4b934d6c"
       ],
       "name": "RJ Harvey",
@@ -3548,6 +3564,7 @@
       "primary_event_ids": [
         "news:0ef9d36257970a0cb09eabb8",
         "news:8e5b31e716ed4892b9a91ec9",
+        "news:a2c1246e1acc3b0c7fe8b334",
         "news:e2a38d7e3da2993c4b934d6c"
       ],
       "related_event_ids": []
