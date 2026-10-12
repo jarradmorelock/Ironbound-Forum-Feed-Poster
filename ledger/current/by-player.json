@@ -401,6 +401,7 @@
     },
     "00-0033293": {
       "event_ids": [
+        "news:1a30d471e2de5e85169bd1d7",
         "news:80cf64acdbd9a7576e54f450",
         "news:ccbbe5c90291eece8a3cc46e"
       ],
@@ -408,6 +409,7 @@
       "nfl_team": "MIN",
       "nflverse_id": "00-0033293",
       "primary_event_ids": [
+        "news:1a30d471e2de5e85169bd1d7",
         "news:80cf64acdbd9a7576e54f450",
         "news:ccbbe5c90291eece8a3cc46e"
       ],
@@ -2746,6 +2748,7 @@
         "news:0203963a0744637b06e379f1",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ef9d36257970a0cb09eabb8",
+        "news:1a30d471e2de5e85169bd1d7",
         "news:1c447870c8cbc3dc21381426",
         "news:250427755c25b79de29d963c",
         "news:2d8616eedc8a1dab5d08dc5e",
@@ -2778,6 +2781,7 @@
         "news:0203963a0744637b06e379f1",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ef9d36257970a0cb09eabb8",
+        "news:1a30d471e2de5e85169bd1d7",
         "news:1c447870c8cbc3dc21381426",
         "news:250427755c25b79de29d963c",
         "news:2d8616eedc8a1dab5d08dc5e",
