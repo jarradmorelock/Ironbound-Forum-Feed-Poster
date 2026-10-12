@@ -1951,12 +1951,14 @@
     },
     "00-0038559": {
       "event_ids": [
+        "news:9ea42a072de10917953088b9",
         "news:a0a2fbf046e1657bf21ec8d6"
       ],
       "name": "Michael Wilson",
       "nfl_team": "ARI",
       "nflverse_id": "00-0038559",
       "primary_event_ids": [
+        "news:9ea42a072de10917953088b9",
         "news:a0a2fbf046e1657bf21ec8d6"
       ],
       "related_event_ids": []
