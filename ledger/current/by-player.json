@@ -3096,6 +3096,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0039851": {
+      "event_ids": [
+        "news:d27f2546a72260e8bca16801"
+      ],
+      "name": "Drake Maye",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0039851",
+      "primary_event_ids": [
+        "news:d27f2546a72260e8bca16801"
+      ],
+      "related_event_ids": []
+    },
     "00-0039868": {
       "event_ids": [
         "news:0fc715cd580046ffde8c9d55",
