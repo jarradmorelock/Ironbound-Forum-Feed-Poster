@@ -778,6 +778,7 @@
     },
     "00-0035229": {
       "event_ids": [
+        "news:316b4dd4d719cdc7015b080d",
         "news:5fcab1f09857dba344b398e9",
         "news:9cc49d50512c0df589307483",
         "news:f64b96c7cd20c4314a8ec146"
@@ -790,7 +791,20 @@
         "news:9cc49d50512c0df589307483"
       ],
       "related_event_ids": [
+        "news:316b4dd4d719cdc7015b080d",
         "news:f64b96c7cd20c4314a8ec146"
+      ]
+    },
+    "00-0035249": {
+      "event_ids": [
+        "news:316b4dd4d719cdc7015b080d"
+      ],
+      "name": "Josh Oliver",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0035249",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:316b4dd4d719cdc7015b080d"
       ]
     },
     "00-0035261": {
@@ -3183,6 +3197,18 @@
         "news:e4565d8d56dfc35a70c7c07f"
       ]
     },
+    "00-0040215": {
+      "event_ids": [
+        "news:316b4dd4d719cdc7015b080d"
+      ],
+      "name": "Gavin Bartholomew",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0040215",
+      "primary_event_ids": [
+        "news:316b4dd4d719cdc7015b080d"
+      ],
+      "related_event_ids": []
+    },
     "00-0040236": {
       "event_ids": [
         "news:322740cd8ad79ba067ae6dea",
@@ -3283,6 +3309,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:a1b1077de91a3dee0f0c9a2c"
+      ]
+    },
+    "00-0040509": {
+      "event_ids": [
+        "news:316b4dd4d719cdc7015b080d"
+      ],
+      "name": "Ben Yurosek",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0040509",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:316b4dd4d719cdc7015b080d"
       ]
     },
     "00-0040583": {
