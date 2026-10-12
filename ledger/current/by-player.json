@@ -969,6 +969,18 @@
         "news:ecedde8756b5e29e431e3615"
       ]
     },
+    "00-0036158": {
+      "event_ids": [
+        "news:72c0a29a900371b420f0e607"
+      ],
+      "name": "J.K. Dobbins",
+      "nfl_team": "DEN",
+      "nflverse_id": "00-0036158",
+      "primary_event_ids": [
+        "news:72c0a29a900371b420f0e607"
+      ],
+      "related_event_ids": []
+    },
     "00-0036223": {
       "event_ids": [
         "news:2a9f5d31fc5a879c165f7958"
