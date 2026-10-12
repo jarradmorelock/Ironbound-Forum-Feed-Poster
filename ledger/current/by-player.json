@@ -28,6 +28,7 @@
     },
     "00-0029562": {
       "event_ids": [
+        "news:89cdc9dd54fb98692f66730a",
         "news:c50f1bac7b008b7223c89a18",
         "news:fa3a2aec7888f0c623f6bf0b"
       ],
@@ -36,6 +37,7 @@
       "nflverse_id": "00-0029562",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:89cdc9dd54fb98692f66730a",
         "news:c50f1bac7b008b7223c89a18",
         "news:fa3a2aec7888f0c623f6bf0b"
       ]
@@ -887,6 +889,7 @@
     "00-0035685": {
       "event_ids": [
         "news:5206e36183dff6a2a35aa4bf",
+        "news:89cdc9dd54fb98692f66730a",
         "news:fa3a2aec7888f0c623f6bf0b"
       ],
       "name": "David Montgomery",
@@ -896,7 +899,9 @@
         "news:5206e36183dff6a2a35aa4bf",
         "news:fa3a2aec7888f0c623f6bf0b"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:89cdc9dd54fb98692f66730a"
+      ]
     },
     "00-0035689": {
       "event_ids": [
@@ -2817,6 +2822,7 @@
         "news:6694d21e8c9ec5386edb48a5",
         "news:7fa453d2ef249eed23b9399e",
         "news:88de2296c7b4f1bc0fcf3832",
+        "news:89cdc9dd54fb98692f66730a",
         "news:8bfcc5f42e63e50c195b278e",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
@@ -2851,6 +2857,7 @@
         "news:6694d21e8c9ec5386edb48a5",
         "news:7fa453d2ef249eed23b9399e",
         "news:88de2296c7b4f1bc0fcf3832",
+        "news:89cdc9dd54fb98692f66730a",
         "news:8bfcc5f42e63e50c195b278e",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
@@ -3401,6 +3408,7 @@
     },
     "00-0040583": {
       "event_ids": [
+        "news:89cdc9dd54fb98692f66730a",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b",
         "news:fa3a2aec7888f0c623f6bf0b"
@@ -3408,7 +3416,9 @@
       "name": "Woody Marks",
       "nfl_team": "HOU",
       "nflverse_id": "00-0040583",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:89cdc9dd54fb98692f66730a"
+      ],
       "related_event_ids": [
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b",
