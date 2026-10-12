@@ -3126,12 +3126,15 @@
     },
     "00-0039917": {
       "event_ids": [
-        "news:6d62f574c57f8fafe7ab3f14"
+        "news:6d62f574c57f8fafe7ab3f14",
+        "news:842512516abe055aff6eaef0"
       ],
       "name": "Michael Penix Jr.",
       "nfl_team": "ATL",
       "nflverse_id": "00-0039917",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:842512516abe055aff6eaef0"
+      ],
       "related_event_ids": [
         "news:6d62f574c57f8fafe7ab3f14"
       ]
