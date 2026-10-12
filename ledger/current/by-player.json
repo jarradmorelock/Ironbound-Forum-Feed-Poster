@@ -26,6 +26,18 @@
         "news:322740cd8ad79ba067ae6dea"
       ]
     },
+    "00-0028986": {
+      "event_ids": [
+        "news:0a8b7e20cfad00354a35c828"
+      ],
+      "name": "Case Keenum",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0028986",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:0a8b7e20cfad00354a35c828"
+      ]
+    },
     "00-0029562": {
       "event_ids": [
         "news:89cdc9dd54fb98692f66730a",
@@ -2072,6 +2084,7 @@
     "00-0038416": {
       "event_ids": [
         "news:058bb5fae341293acc150b06",
+        "news:0a8b7e20cfad00354a35c828",
         "news:8d56f938536ea89fcdd3df69",
         "news:9313fe0fe29ef943dc92427f",
         "news:ad269100cb099e1734cc6997"
@@ -2084,6 +2097,7 @@
         "news:ad269100cb099e1734cc6997"
       ],
       "related_event_ids": [
+        "news:0a8b7e20cfad00354a35c828",
         "news:8d56f938536ea89fcdd3df69",
         "news:9313fe0fe29ef943dc92427f"
       ]
@@ -3006,6 +3020,7 @@
       "event_ids": [
         "news:0203963a0744637b06e379f1",
         "news:03c3a62cab4d3b425f7fe2f4",
+        "news:0a8b7e20cfad00354a35c828",
         "news:0ef9d36257970a0cb09eabb8",
         "news:1a30d471e2de5e85169bd1d7",
         "news:1c447870c8cbc3dc21381426",
@@ -3043,6 +3058,7 @@
       "related_event_ids": [
         "news:0203963a0744637b06e379f1",
         "news:03c3a62cab4d3b425f7fe2f4",
+        "news:0a8b7e20cfad00354a35c828",
         "news:0ef9d36257970a0cb09eabb8",
         "news:1a30d471e2de5e85169bd1d7",
         "news:1c447870c8cbc3dc21381426",
@@ -3392,6 +3408,18 @@
       "related_event_ids": [
         "news:303c972e64ef85754c49f9df"
       ]
+    },
+    "00-0040126": {
+      "event_ids": [
+        "news:0a8b7e20cfad00354a35c828"
+      ],
+      "name": "Colston Loveland",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0040126",
+      "primary_event_ids": [
+        "news:0a8b7e20cfad00354a35c828"
+      ],
+      "related_event_ids": []
     },
     "00-0040128": {
       "event_ids": [
@@ -3968,6 +3996,7 @@
     "00-0041029": {
       "event_ids": [
         "news:058bb5fae341293acc150b06",
+        "news:0a8b7e20cfad00354a35c828",
         "news:8d56f938536ea89fcdd3df69",
         "news:9313fe0fe29ef943dc92427f",
         "news:f3f56ad52d065880a1c5bae4"
@@ -3980,6 +4009,7 @@
       ],
       "related_event_ids": [
         "news:058bb5fae341293acc150b06",
+        "news:0a8b7e20cfad00354a35c828",
         "news:8d56f938536ea89fcdd3df69",
         "news:9313fe0fe29ef943dc92427f"
       ]
