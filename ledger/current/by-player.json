@@ -83,6 +83,7 @@
     "00-0030140": {
       "event_ids": [
         "news:2bacdaaf8e1cbc9208f782d2",
+        "news:3ee980249f53a8fa31d9247e",
         "news:6c146d141dd8e18084e6efa4",
         "news:8ccddc3d55a86dca7e96e461",
         "news:8f5df405e98573eb45f51499",
@@ -97,6 +98,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:2bacdaaf8e1cbc9208f782d2",
+        "news:3ee980249f53a8fa31d9247e",
         "news:6c146d141dd8e18084e6efa4",
         "news:8ccddc3d55a86dca7e96e461",
         "news:8f5df405e98573eb45f51499",
@@ -2004,6 +2006,7 @@
     },
     "00-0038542": {
       "event_ids": [
+        "news:3ee980249f53a8fa31d9247e",
         "news:5a382e948d38177f1a19175e",
         "news:6c146d141dd8e18084e6efa4",
         "news:93a3ae5d8cafbbc51af54403",
@@ -2013,6 +2016,7 @@
       "nfl_team": "ATL",
       "nflverse_id": "00-0038542",
       "primary_event_ids": [
+        "news:3ee980249f53a8fa31d9247e",
         "news:93a3ae5d8cafbbc51af54403",
         "news:bdcbe7e4c4b988bdde4e3f18"
       ],
@@ -2690,6 +2694,7 @@
       "event_ids": [
         "news:215a662b508f4ea648a92711",
         "news:3219329299073c6b6d83c2c2",
+        "news:3ee980249f53a8fa31d9247e",
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
         "news:99525e52a7d1dd2754a23228",
@@ -2704,6 +2709,7 @@
       "related_event_ids": [
         "news:215a662b508f4ea648a92711",
         "news:3219329299073c6b6d83c2c2",
+        "news:3ee980249f53a8fa31d9247e",
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
         "news:99525e52a7d1dd2754a23228",
