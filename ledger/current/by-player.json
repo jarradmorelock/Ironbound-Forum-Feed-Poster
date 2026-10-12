@@ -1519,6 +1519,18 @@
         "news:e5895bf19e27c967de0506e2"
       ]
     },
+    "00-0037410": {
+      "event_ids": [
+        "news:757102e0541f7c9f38c2b05f"
+      ],
+      "name": "Jashaun Corbin",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0037410",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:757102e0541f7c9f38c2b05f"
+      ]
+    },
     "00-0037431": {
       "event_ids": [
         "news:e8b20af7ca1f9bd7dc0337f0"
@@ -2361,6 +2373,7 @@
     "00-0039165": {
       "event_ids": [
         "news:1c447870c8cbc3dc21381426",
+        "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b"
       ],
@@ -2368,6 +2381,7 @@
       "nfl_team": "SEA",
       "nflverse_id": "00-0039165",
       "primary_event_ids": [
+        "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f"
       ],
       "related_event_ids": [
