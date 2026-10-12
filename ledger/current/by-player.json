@@ -449,6 +449,18 @@
         "news:3981e3d5a400199aa4d7aaa9"
       ]
     },
+    "00-0033526": {
+      "event_ids": [
+        "news:b41e96a12017c8b29af9e56d"
+      ],
+      "name": "Samaje Perine",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0033526",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:b41e96a12017c8b29af9e56d"
+      ]
+    },
     "00-0033537": {
       "event_ids": [
         "news:42555320f3a86cbc75aa6922"
@@ -1459,6 +1471,7 @@
       "event_ids": [
         "news:62412e325cec7110f38f3f90",
         "news:a56559875d9edfa1cb8342ef",
+        "news:b41e96a12017c8b29af9e56d",
         "news:edcc6e97cc2d3e76efb28f60"
       ],
       "name": "Ja'Marr Chase",
@@ -1469,7 +1482,8 @@
         "news:edcc6e97cc2d3e76efb28f60"
       ],
       "related_event_ids": [
-        "news:a56559875d9edfa1cb8342ef"
+        "news:a56559875d9edfa1cb8342ef",
+        "news:b41e96a12017c8b29af9e56d"
       ]
     },
     "00-0036912": {
@@ -2261,7 +2275,8 @@
       "event_ids": [
         "news:4111d97c2c9df4a251e8933b",
         "news:972e2bb1ade13ada0e79bcb5",
-        "news:a56559875d9edfa1cb8342ef"
+        "news:a56559875d9edfa1cb8342ef",
+        "news:b41e96a12017c8b29af9e56d"
       ],
       "name": "Chase Brown",
       "nfl_team": "CIN",
@@ -2269,7 +2284,8 @@
       "primary_event_ids": [
         "news:4111d97c2c9df4a251e8933b",
         "news:972e2bb1ade13ada0e79bcb5",
-        "news:a56559875d9edfa1cb8342ef"
+        "news:a56559875d9edfa1cb8342ef",
+        "news:b41e96a12017c8b29af9e56d"
       ],
       "related_event_ids": []
     },
