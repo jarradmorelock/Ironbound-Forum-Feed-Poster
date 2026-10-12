@@ -982,13 +982,15 @@
     "00-0035993": {
       "event_ids": [
         "news:03c3a62cab4d3b425f7fe2f4",
-        "news:5ed096c865c22a8a68e0eba6"
+        "news:5ed096c865c22a8a68e0eba6",
+        "news:6f9443806a273f670197ad98"
       ],
       "name": "Tyler Huntley",
       "nfl_team": "BAL",
       "nflverse_id": "00-0035993",
       "primary_event_ids": [
-        "news:5ed096c865c22a8a68e0eba6"
+        "news:5ed096c865c22a8a68e0eba6",
+        "news:6f9443806a273f670197ad98"
       ],
       "related_event_ids": [
         "news:03c3a62cab4d3b425f7fe2f4"
