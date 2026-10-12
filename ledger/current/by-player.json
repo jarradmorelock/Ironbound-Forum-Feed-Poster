@@ -42,12 +42,14 @@
     },
     "00-0029604": {
       "event_ids": [
+        "news:3114b09ec7c4c083372c469d",
         "news:5a04300dd162cdb97d19a817"
       ],
       "name": "Kirk Cousins",
       "nfl_team": "LV",
       "nflverse_id": "00-0029604",
       "primary_event_ids": [
+        "news:3114b09ec7c4c083372c469d",
         "news:5a04300dd162cdb97d19a817"
       ],
       "related_event_ids": []
