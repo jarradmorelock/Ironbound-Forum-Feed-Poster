@@ -3124,12 +3124,15 @@
     },
     "00-0039811": {
       "event_ids": [
+        "news:47eebc0ee517f55496edbc8f",
         "news:52348d293ed1eaf305235013"
       ],
       "name": "MarShawn Lloyd",
       "nfl_team": "GB",
       "nflverse_id": "00-0039811",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:47eebc0ee517f55496edbc8f"
+      ],
       "related_event_ids": [
         "news:52348d293ed1eaf305235013"
       ]
