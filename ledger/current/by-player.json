@@ -1831,6 +1831,18 @@
         "news:e5895bf19e27c967de0506e2"
       ]
     },
+    "00-0037263": {
+      "event_ids": [
+        "news:17c551fda1a7fb40e2eb8696"
+      ],
+      "name": "Tyler Allgeier",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0037263",
+      "primary_event_ids": [
+        "news:17c551fda1a7fb40e2eb8696"
+      ],
+      "related_event_ids": []
+    },
     "00-0037410": {
       "event_ids": [
         "news:757102e0541f7c9f38c2b05f"
@@ -4108,6 +4120,7 @@
     },
     "00-0041027": {
       "event_ids": [
+        "news:17c551fda1a7fb40e2eb8696",
         "news:20aad95aa5e1b84b1026d26b",
         "news:50601319dd6c4364a1ff9139",
         "news:617c7c7be6a2cdc9cf999866",
@@ -4124,7 +4137,9 @@
         "news:b1e0c3b7ff5eedc3218d9d31",
         "news:e54c2dbb508b79240a754253"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:17c551fda1a7fb40e2eb8696"
+      ]
     },
     "00-0041029": {
       "event_ids": [
