@@ -971,7 +971,8 @@
         "news:6843310566b58c1bdb24c740",
         "news:8d718e4797ba786637f1d6b7",
         "news:93fb5beeec4e95fa53e4a2e3",
-        "news:d338b3fc74cfc90465cc488d"
+        "news:d338b3fc74cfc90465cc488d",
+        "news:dfce9a32dc480679e13c3da3"
       ],
       "name": "Rico Dowdle",
       "nfl_team": "PIT",
@@ -983,7 +984,8 @@
         "news:d338b3fc74cfc90465cc488d"
       ],
       "related_event_ids": [
-        "news:3e066f2fe2bcfa0a28991012"
+        "news:3e066f2fe2bcfa0a28991012",
+        "news:dfce9a32dc480679e13c3da3"
       ]
     },
     "00-0036152": {
@@ -1470,13 +1472,15 @@
         "news:3e066f2fe2bcfa0a28991012",
         "news:6843310566b58c1bdb24c740",
         "news:93fb5beeec4e95fa53e4a2e3",
-        "news:d338b3fc74cfc90465cc488d"
+        "news:d338b3fc74cfc90465cc488d",
+        "news:dfce9a32dc480679e13c3da3"
       ],
       "name": "Jaylen Warren",
       "nfl_team": "PIT",
       "nflverse_id": "00-0037228",
       "primary_event_ids": [
-        "news:3e066f2fe2bcfa0a28991012"
+        "news:3e066f2fe2bcfa0a28991012",
+        "news:dfce9a32dc480679e13c3da3"
       ],
       "related_event_ids": [
         "news:6843310566b58c1bdb24c740",
@@ -1858,6 +1862,18 @@
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
         "news:e8b9c46b6f7c20665052ca43"
+      ]
+    },
+    "00-0038409": {
+      "event_ids": [
+        "news:dfce9a32dc480679e13c3da3"
+      ],
+      "name": "Lew Nichols III",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0038409",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:dfce9a32dc480679e13c3da3"
       ]
     },
     "00-0038416": {
@@ -3732,6 +3748,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:422095401f0568abd0f833ec"
+      ]
+    },
+    "00-0041062": {
+      "event_ids": [
+        "news:dfce9a32dc480679e13c3da3"
+      ],
+      "name": "Connor Lew",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0041062",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:dfce9a32dc480679e13c3da3"
       ]
     },
     "00-0041069": {
