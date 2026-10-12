@@ -3268,6 +3268,7 @@
     },
     "00-0040666": {
       "event_ids": [
+        "news:4ecff04141773b985126e391",
         "news:759dac8b62bec249b282836e",
         "news:927f4d2cdb6a1ee11ac2c476"
       ],
@@ -3275,6 +3276,7 @@
       "nfl_team": "LAC",
       "nflverse_id": "00-0040666",
       "primary_event_ids": [
+        "news:4ecff04141773b985126e391",
         "news:927f4d2cdb6a1ee11ac2c476"
       ],
       "related_event_ids": [
