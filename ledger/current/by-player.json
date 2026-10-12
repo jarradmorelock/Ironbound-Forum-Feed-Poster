@@ -588,12 +588,14 @@
     },
     "00-0034348": {
       "event_ids": [
+        "news:ced7fa6f65d8368ec64a3ee0",
         "news:fe306a2820df3bd86b1acbea"
       ],
       "name": "Courtland Sutton",
       "nfl_team": "DEN",
       "nflverse_id": "00-0034348",
       "primary_event_ids": [
+        "news:ced7fa6f65d8368ec64a3ee0",
         "news:fe306a2820df3bd86b1acbea"
       ],
       "related_event_ids": []
@@ -1299,6 +1301,18 @@
         "news:2bacdaaf8e1cbc9208f782d2"
       ],
       "related_event_ids": []
+    },
+    "00-0036613": {
+      "event_ids": [
+        "news:ced7fa6f65d8368ec64a3ee0"
+      ],
+      "name": "Jaylen Waddle",
+      "nfl_team": "DEN",
+      "nflverse_id": "00-0036613",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ced7fa6f65d8368ec64a3ee0"
+      ]
     },
     "00-0036874": {
       "event_ids": [
@@ -2744,6 +2758,7 @@
     "00-0039732": {
       "event_ids": [
         "news:7ae52063cfe74450b522d9cd",
+        "news:ced7fa6f65d8368ec64a3ee0",
         "news:fcf1f6a2d779b4d9d581d08d"
       ],
       "name": "Bo Nix",
@@ -2753,7 +2768,8 @@
         "news:fcf1f6a2d779b4d9d581d08d"
       ],
       "related_event_ids": [
-        "news:7ae52063cfe74450b522d9cd"
+        "news:7ae52063cfe74450b522d9cd",
+        "news:ced7fa6f65d8368ec64a3ee0"
       ]
     },
     "00-0039739": {
@@ -2921,14 +2937,16 @@
     },
     "00-0039868": {
       "event_ids": [
-        "news:0fc715cd580046ffde8c9d55"
+        "news:0fc715cd580046ffde8c9d55",
+        "news:ced7fa6f65d8368ec64a3ee0"
       ],
       "name": "Troy Franklin",
       "nfl_team": "DEN",
       "nflverse_id": "00-0039868",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:0fc715cd580046ffde8c9d55"
+        "news:0fc715cd580046ffde8c9d55",
+        "news:ced7fa6f65d8368ec64a3ee0"
       ]
     },
     "00-0039874": {
@@ -3215,7 +3233,8 @@
     "00-0040134": {
       "event_ids": [
         "news:0fc715cd580046ffde8c9d55",
-        "news:3801fdb89a26fc166dacffe7"
+        "news:3801fdb89a26fc166dacffe7",
+        "news:ced7fa6f65d8368ec64a3ee0"
       ],
       "name": "Pat Bryant",
       "nfl_team": "DEN",
@@ -3224,7 +3243,9 @@
         "news:0fc715cd580046ffde8c9d55",
         "news:3801fdb89a26fc166dacffe7"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:ced7fa6f65d8368ec64a3ee0"
+      ]
     },
     "00-0040138": {
       "event_ids": [
