@@ -377,6 +377,7 @@
     },
     "00-0033106": {
       "event_ids": [
+        "news:503b7adf093102e49c8efd77",
         "news:9883748e3ce3861a3ef0dbbf",
         "news:c5ce82445d71e610f1a1294b"
       ],
@@ -387,7 +388,9 @@
         "news:9883748e3ce3861a3ef0dbbf",
         "news:c5ce82445d71e610f1a1294b"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:503b7adf093102e49c8efd77"
+      ]
     },
     "00-0033280": {
       "event_ids": [
@@ -1670,6 +1673,7 @@
     },
     "00-0037240": {
       "event_ids": [
+        "news:503b7adf093102e49c8efd77",
         "news:7a78e640b9bba87a355ff412",
         "news:bfae92bc89f8e60134148080"
       ],
@@ -1677,6 +1681,7 @@
       "nfl_team": "DET",
       "nflverse_id": "00-0037240",
       "primary_event_ids": [
+        "news:503b7adf093102e49c8efd77",
         "news:7a78e640b9bba87a355ff412",
         "news:bfae92bc89f8e60134148080"
       ],
