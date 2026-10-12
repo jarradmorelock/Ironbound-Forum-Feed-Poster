@@ -329,6 +329,7 @@
         "news:0213701c3d05aa8dfc30f55a",
         "news:0230ede58f08ec745722fd04",
         "news:08bc4fa7692c9a7c714915b7",
+        "news:2a359f50bef122df69bffef6",
         "news:463c5f9292e3b5af0a2cc870",
         "news:5a382e948d38177f1a19175e",
         "news:5b3f3588f0ca8f0a33627ddf",
@@ -348,6 +349,7 @@
         "news:0213701c3d05aa8dfc30f55a",
         "news:0230ede58f08ec745722fd04",
         "news:08bc4fa7692c9a7c714915b7",
+        "news:2a359f50bef122df69bffef6",
         "news:463c5f9292e3b5af0a2cc870",
         "news:5a382e948d38177f1a19175e",
         "news:5b3f3588f0ca8f0a33627ddf",
@@ -1907,6 +1909,7 @@
       "event_ids": [
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:169a17bb9a2fb0774de2f48d",
+        "news:2a359f50bef122df69bffef6",
         "news:37e02e92c6ca16fb937017bc",
         "news:ce3e51627516baf78633b05f",
         "news:db3e642a6c70f2809524a2c0",
@@ -1921,6 +1924,7 @@
       "related_event_ids": [
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:169a17bb9a2fb0774de2f48d",
+        "news:2a359f50bef122df69bffef6",
         "news:37e02e92c6ca16fb937017bc",
         "news:ce3e51627516baf78633b05f",
         "news:fac0c1ec37a88fbbd9c5500c"
@@ -2408,6 +2412,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:1f5c8e663230131bcd2fdc93"
+      ]
+    },
+    "00-0038794": {
+      "event_ids": [
+        "news:2a359f50bef122df69bffef6"
+      ],
+      "name": "Jaleel McLaughlin",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0038794",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:2a359f50bef122df69bffef6"
       ]
     },
     "00-0038797": {
@@ -3706,6 +3722,18 @@
         "news:a1b1077de91a3dee0f0c9a2c"
       ]
     },
+    "00-0040466": {
+      "event_ids": [
+        "news:2a359f50bef122df69bffef6"
+      ],
+      "name": "Raheim Sanders",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0040466",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:2a359f50bef122df69bffef6"
+      ]
+    },
     "00-0040509": {
       "event_ids": [
         "news:316b4dd4d719cdc7015b080d"
@@ -3951,12 +3979,14 @@
     },
     "00-0040784": {
       "event_ids": [
+        "news:2a359f50bef122df69bffef6",
         "news:cb97fe3bc4e9b2d5a95aa6af"
       ],
       "name": "Quinshon Judkins",
       "nfl_team": "CLE",
       "nflverse_id": "00-0040784",
       "primary_event_ids": [
+        "news:2a359f50bef122df69bffef6",
         "news:cb97fe3bc4e9b2d5a95aa6af"
       ],
       "related_event_ids": []
