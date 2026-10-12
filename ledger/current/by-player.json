@@ -748,6 +748,7 @@
     "00-0035228": {
       "event_ids": [
         "news:3ae66500bfbb93be743e5245",
+        "news:88de2296c7b4f1bc0fcf3832",
         "news:93c9bdb7d3cc5250b3ef7a55",
         "news:d7762da42fb3aab14b69df89"
       ],
@@ -759,7 +760,9 @@
         "news:93c9bdb7d3cc5250b3ef7a55",
         "news:d7762da42fb3aab14b69df89"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:88de2296c7b4f1bc0fcf3832"
+      ]
     },
     "00-0035229": {
       "event_ids": [
@@ -1023,6 +1026,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0036259": {
+      "event_ids": [
+        "news:88de2296c7b4f1bc0fcf3832"
+      ],
+      "name": "Jauan Jennings",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0036259",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:88de2296c7b4f1bc0fcf3832"
+      ]
+    },
     "00-0036264": {
       "event_ids": [
         "news:075f338ce2bde124f3146f91"
@@ -1056,6 +1071,7 @@
       "event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
+        "news:88de2296c7b4f1bc0fcf3832",
         "news:93c9bdb7d3cc5250b3ef7a55",
         "news:cec35169886e5596bf5be6c6",
         "news:f388f79969ad54328f06b040"
@@ -1066,6 +1082,7 @@
       "primary_event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
+        "news:88de2296c7b4f1bc0fcf3832",
         "news:cec35169886e5596bf5be6c6",
         "news:f388f79969ad54328f06b040"
       ],
@@ -2710,6 +2727,7 @@
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
         "news:7fa453d2ef249eed23b9399e",
+        "news:88de2296c7b4f1bc0fcf3832",
         "news:8bfcc5f42e63e50c195b278e",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
@@ -2741,6 +2759,7 @@
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
         "news:7fa453d2ef249eed23b9399e",
+        "news:88de2296c7b4f1bc0fcf3832",
         "news:8bfcc5f42e63e50c195b278e",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
@@ -3104,6 +3123,18 @@
       ],
       "related_event_ids": [
         "news:52348d293ed1eaf305235013"
+      ]
+    },
+    "00-0040154": {
+      "event_ids": [
+        "news:88de2296c7b4f1bc0fcf3832"
+      ],
+      "name": "Tai Felton",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0040154",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:88de2296c7b4f1bc0fcf3832"
       ]
     },
     "00-0040189": {
@@ -3616,6 +3647,7 @@
       "event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
+        "news:88de2296c7b4f1bc0fcf3832",
         "news:93c9bdb7d3cc5250b3ef7a55",
         "news:cec35169886e5596bf5be6c6",
         "news:f388f79969ad54328f06b040"
@@ -3627,6 +3659,7 @@
       "related_event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
+        "news:88de2296c7b4f1bc0fcf3832",
         "news:93c9bdb7d3cc5250b3ef7a55",
         "news:cec35169886e5596bf5be6c6",
         "news:f388f79969ad54328f06b040"
