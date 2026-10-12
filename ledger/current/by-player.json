@@ -2922,13 +2922,15 @@
     },
     "00-0039491": {
       "event_ids": [
-        "news:303c972e64ef85754c49f9df"
+        "news:303c972e64ef85754c49f9df",
+        "news:f173fc2546a7178ab3445a38"
       ],
       "name": "Jalen Coker",
       "nfl_team": "CAR",
       "nflverse_id": "00-0039491",
       "primary_event_ids": [
-        "news:303c972e64ef85754c49f9df"
+        "news:303c972e64ef85754c49f9df",
+        "news:f173fc2546a7178ab3445a38"
       ],
       "related_event_ids": []
     },
