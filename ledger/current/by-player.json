@@ -2393,6 +2393,7 @@
     "00-0039163": {
       "event_ids": [
         "news:37e02e92c6ca16fb937017bc",
+        "news:3ad992cec6dcdcdb7da22a42",
         "news:97c5a884f4f2c083ed0e7efa",
         "news:d39b9f3acfb6843815b8190b"
       ],
@@ -2400,6 +2401,7 @@
       "nfl_team": "HOU",
       "nflverse_id": "00-0039163",
       "primary_event_ids": [
+        "news:3ad992cec6dcdcdb7da22a42",
         "news:97c5a884f4f2c083ed0e7efa",
         "news:d39b9f3acfb6843815b8190b"
       ],
