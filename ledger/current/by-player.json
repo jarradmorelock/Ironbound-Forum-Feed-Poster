@@ -736,6 +736,18 @@
         "news:eaaa5489714a1283c5ce341c"
       ]
     },
+    "00-0034817": {
+      "event_ids": [
+        "news:54daca9eb3e9fb1a45d33e61"
+      ],
+      "name": "Geron Christian",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0034817",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:54daca9eb3e9fb1a45d33e61"
+      ]
+    },
     "00-0034827": {
       "event_ids": [
         "news:2d8e3d8a33e5b2eecc579683"
@@ -2013,13 +2025,15 @@
     },
     "00-0038124": {
       "event_ids": [
-        "news:3c6d60cedebd49a719058e2a"
+        "news:3c6d60cedebd49a719058e2a",
+        "news:54daca9eb3e9fb1a45d33e61"
       ],
       "name": "Christian Watson",
       "nfl_team": "GB",
       "nflverse_id": "00-0038124",
       "primary_event_ids": [
-        "news:3c6d60cedebd49a719058e2a"
+        "news:3c6d60cedebd49a719058e2a",
+        "news:54daca9eb3e9fb1a45d33e61"
       ],
       "related_event_ids": []
     },
