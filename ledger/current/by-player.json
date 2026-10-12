@@ -885,13 +885,15 @@
     },
     "00-0035710": {
       "event_ids": [
-        "news:ac0f5b783e106fa472ccb883"
+        "news:ac0f5b783e106fa472ccb883",
+        "news:c6fd516e467b8f96471c7f56"
       ],
       "name": "Daniel Jones",
       "nfl_team": "IND",
       "nflverse_id": "00-0035710",
       "primary_event_ids": [
-        "news:ac0f5b783e106fa472ccb883"
+        "news:ac0f5b783e106fa472ccb883",
+        "news:c6fd516e467b8f96471c7f56"
       ],
       "related_event_ids": []
     },
