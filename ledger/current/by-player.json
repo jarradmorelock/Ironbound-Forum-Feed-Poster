@@ -1569,6 +1569,18 @@
         "news:d338b3fc74cfc90465cc488d"
       ]
     },
+    "00-0037238": {
+      "event_ids": [
+        "news:be7c2b26fd2b99b67a558435"
+      ],
+      "name": "Drake London",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0037238",
+      "primary_event_ids": [
+        "news:be7c2b26fd2b99b67a558435"
+      ],
+      "related_event_ids": []
+    },
     "00-0037239": {
       "event_ids": [
         "news:9691b7425963b33722597723",
