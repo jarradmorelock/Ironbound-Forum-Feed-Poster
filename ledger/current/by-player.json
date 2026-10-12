@@ -281,6 +281,7 @@
     "00-0032764": {
       "event_ids": [
         "news:08bc4fa7692c9a7c714915b7",
+        "news:5a382e948d38177f1a19175e",
         "news:f91cd6e6bad4863f7506a249"
       ],
       "name": "Derrick Henry",
@@ -288,6 +289,7 @@
       "nflverse_id": "00-0032764",
       "primary_event_ids": [
         "news:08bc4fa7692c9a7c714915b7",
+        "news:5a382e948d38177f1a19175e",
         "news:f91cd6e6bad4863f7506a249"
       ],
       "related_event_ids": []
@@ -312,6 +314,7 @@
         "news:0230ede58f08ec745722fd04",
         "news:08bc4fa7692c9a7c714915b7",
         "news:463c5f9292e3b5af0a2cc870",
+        "news:5a382e948d38177f1a19175e",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:5ba8ebf69f4bead029eb2f01",
         "news:a56559875d9edfa1cb8342ef",
@@ -329,6 +332,7 @@
         "news:0230ede58f08ec745722fd04",
         "news:08bc4fa7692c9a7c714915b7",
         "news:463c5f9292e3b5af0a2cc870",
+        "news:5a382e948d38177f1a19175e",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:5ba8ebf69f4bead029eb2f01",
         "news:a56559875d9edfa1cb8342ef",
@@ -2000,6 +2004,7 @@
     },
     "00-0038542": {
       "event_ids": [
+        "news:5a382e948d38177f1a19175e",
         "news:6c146d141dd8e18084e6efa4",
         "news:93a3ae5d8cafbbc51af54403",
         "news:bdcbe7e4c4b988bdde4e3f18"
@@ -2012,6 +2017,7 @@
         "news:bdcbe7e4c4b988bdde4e3f18"
       ],
       "related_event_ids": [
+        "news:5a382e948d38177f1a19175e",
         "news:6c146d141dd8e18084e6efa4"
       ]
     },
