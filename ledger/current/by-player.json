@@ -3127,12 +3127,14 @@
     "00-0040242": {
       "event_ids": [
         "news:15436cfd15b2f098cbf4e1e3",
+        "news:5b01f570751b4e393889f327",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
       "name": "Jacory Croskey-Merritt",
       "nfl_team": "WAS",
       "nflverse_id": "00-0040242",
       "primary_event_ids": [
+        "news:5b01f570751b4e393889f327",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
       "related_event_ids": [
