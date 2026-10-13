@@ -1027,6 +1027,18 @@
         "news:f809c90b8f96700e2f8cffe8"
       ]
     },
+    "00-0035647": {
+      "event_ids": [
+        "news:749cd3bf2e949ea198500053"
+      ],
+      "name": "Montez Sweat",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0035647",
+      "primary_event_ids": [
+        "news:749cd3bf2e949ea198500053"
+      ],
+      "related_event_ids": []
+    },
     "00-0035659": {
       "event_ids": [
         "news:0f011c5b68769534d4b92859",
@@ -3075,6 +3087,7 @@
       "event_ids": [
         "news:058bb5fae341293acc150b06",
         "news:1c23398206333231d3b433fa",
+        "news:749cd3bf2e949ea198500053",
         "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Bub Means",
@@ -3084,6 +3097,7 @@
       "related_event_ids": [
         "news:058bb5fae341293acc150b06",
         "news:1c23398206333231d3b433fa",
+        "news:749cd3bf2e949ea198500053",
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
