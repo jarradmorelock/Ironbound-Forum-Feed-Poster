@@ -1836,6 +1836,7 @@
     },
     "00-0037248": {
       "event_ids": [
+        "news:8d6b7a767f0f5525e93ff190",
         "news:af43c5cdccc82ba0bb4c4407",
         "news:d75eaf8117acb2a62048a5c1"
       ],
@@ -1843,6 +1844,7 @@
       "nfl_team": "BUF",
       "nflverse_id": "00-0037248",
       "primary_event_ids": [
+        "news:8d6b7a767f0f5525e93ff190",
         "news:af43c5cdccc82ba0bb4c4407",
         "news:d75eaf8117acb2a62048a5c1"
       ],
