@@ -97,6 +97,7 @@
     },
     "00-0030140": {
       "event_ids": [
+        "news:167e4084e2ee9adca6ab8874",
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:3ee980249f53a8fa31d9247e",
         "news:6c146d141dd8e18084e6efa4",
@@ -112,6 +113,7 @@
       "nflverse_id": "00-0030140",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:167e4084e2ee9adca6ab8874",
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:3ee980249f53a8fa31d9247e",
         "news:6c146d141dd8e18084e6efa4",
@@ -194,12 +196,14 @@
     },
     "00-0031381": {
       "event_ids": [
+        "news:167e4084e2ee9adca6ab8874",
         "news:23b438c84374010e1a201958"
       ],
       "name": "Davante Adams",
       "nfl_team": "LAR",
       "nflverse_id": "00-0031381",
       "primary_event_ids": [
+        "news:167e4084e2ee9adca6ab8874",
         "news:23b438c84374010e1a201958"
       ],
       "related_event_ids": []
