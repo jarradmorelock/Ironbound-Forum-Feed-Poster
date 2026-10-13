@@ -197,14 +197,16 @@
     "00-0031381": {
       "event_ids": [
         "news:167e4084e2ee9adca6ab8874",
-        "news:23b438c84374010e1a201958"
+        "news:23b438c84374010e1a201958",
+        "news:e412ebe6f11247fc4ccc8341"
       ],
       "name": "Davante Adams",
       "nfl_team": "LAR",
       "nflverse_id": "00-0031381",
       "primary_event_ids": [
         "news:167e4084e2ee9adca6ab8874",
-        "news:23b438c84374010e1a201958"
+        "news:23b438c84374010e1a201958",
+        "news:e412ebe6f11247fc4ccc8341"
       ],
       "related_event_ids": []
     },
