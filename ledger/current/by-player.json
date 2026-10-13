@@ -835,6 +835,18 @@
         "news:3cee59ea0f35ec0b4ae11eab"
       ]
     },
+    "00-0034857": {
+      "event_ids": [
+        "news:5adbd93d7e0d7fa6ed2bab09"
+      ],
+      "name": "Josh Allen",
+      "nfl_team": "BUF",
+      "nflverse_id": "00-0034857",
+      "primary_event_ids": [
+        "news:5adbd93d7e0d7fa6ed2bab09"
+      ],
+      "related_event_ids": []
+    },
     "00-0034869": {
       "event_ids": [
         "news:50299468aa0ba0c31e5e489c",
