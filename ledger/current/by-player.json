@@ -2,12 +2,15 @@
   "players": {
     "00-0026498": {
       "event_ids": [
-        "news:23b438c84374010e1a201958"
+        "news:23b438c84374010e1a201958",
+        "news:d4b2362dee0b23e4d1bc89bb"
       ],
       "name": "Matthew Stafford",
       "nfl_team": "LAR",
       "nflverse_id": "00-0026498",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:d4b2362dee0b23e4d1bc89bb"
+      ],
       "related_event_ids": [
         "news:23b438c84374010e1a201958"
       ]
