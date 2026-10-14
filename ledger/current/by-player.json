@@ -3244,6 +3244,7 @@
     },
     "00-0039491": {
       "event_ids": [
+        "news:25a113166d1f7423953de8a9",
         "news:303c972e64ef85754c49f9df",
         "news:f173fc2546a7178ab3445a38"
       ],
@@ -3251,6 +3252,7 @@
       "nfl_team": "CAR",
       "nflverse_id": "00-0039491",
       "primary_event_ids": [
+        "news:25a113166d1f7423953de8a9",
         "news:303c972e64ef85754c49f9df",
         "news:f173fc2546a7178ab3445a38"
       ],
