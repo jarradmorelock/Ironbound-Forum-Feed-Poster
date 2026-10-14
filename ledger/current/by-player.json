@@ -4301,13 +4301,15 @@
     },
     "00-0040870": {
       "event_ids": [
-        "news:a84f755cc2b65c6a5cedc6ff"
+        "news:a84f755cc2b65c6a5cedc6ff",
+        "news:f0392310baae27791ed98314"
       ],
       "name": "Ja'Kobi Lane",
       "nfl_team": "BAL",
       "nflverse_id": "00-0040870",
       "primary_event_ids": [
-        "news:a84f755cc2b65c6a5cedc6ff"
+        "news:a84f755cc2b65c6a5cedc6ff",
+        "news:f0392310baae27791ed98314"
       ],
       "related_event_ids": []
     },
