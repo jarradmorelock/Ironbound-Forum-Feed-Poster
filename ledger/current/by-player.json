@@ -389,7 +389,8 @@
       "event_ids": [
         "news:0b07debf593bc63fe8558dda",
         "news:8eed84627f54a101edf74c50",
-        "news:9d4f8427ff153d1751033bf8"
+        "news:9d4f8427ff153d1751033bf8",
+        "news:e0cb79574540c66087eb148d"
       ],
       "name": "Tyreek Hill",
       "nfl_team": "MIA",
@@ -397,7 +398,8 @@
       "primary_event_ids": [
         "news:0b07debf593bc63fe8558dda",
         "news:8eed84627f54a101edf74c50",
-        "news:9d4f8427ff153d1751033bf8"
+        "news:9d4f8427ff153d1751033bf8",
+        "news:e0cb79574540c66087eb148d"
       ],
       "related_event_ids": []
     },
