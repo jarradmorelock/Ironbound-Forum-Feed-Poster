@@ -2219,6 +2219,7 @@
     "00-0038120": {
       "event_ids": [
         "news:2d8616eedc8a1dab5d08dc5e",
+        "news:57eea2f68c592274a1ad428e",
         "news:c54d21770d3503d75e4ad6e4"
       ],
       "name": "Breece Hall",
@@ -2226,6 +2227,7 @@
       "nflverse_id": "00-0038120",
       "primary_event_ids": [
         "news:2d8616eedc8a1dab5d08dc5e",
+        "news:57eea2f68c592274a1ad428e",
         "news:c54d21770d3503d75e4ad6e4"
       ],
       "related_event_ids": []
@@ -3300,6 +3302,7 @@
     "00-0039794": {
       "event_ids": [
         "news:2d8616eedc8a1dab5d08dc5e",
+        "news:57eea2f68c592274a1ad428e",
         "news:e9db674a6ef7f0fc4f29c50b"
       ],
       "name": "Braelon Allen",
@@ -3309,7 +3312,8 @@
         "news:e9db674a6ef7f0fc4f29c50b"
       ],
       "related_event_ids": [
-        "news:2d8616eedc8a1dab5d08dc5e"
+        "news:2d8616eedc8a1dab5d08dc5e",
+        "news:57eea2f68c592274a1ad428e"
       ]
     },
     "00-0039811": {
