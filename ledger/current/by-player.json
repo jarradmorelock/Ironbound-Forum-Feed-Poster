@@ -1090,6 +1090,7 @@
     "00-0035676": {
       "event_ids": [
         "news:6c52af439db2df36c39101c3",
+        "news:dcf317127a4ab3d31a017b1a",
         "news:ff5418956ffeafa32142ddbf"
       ],
       "name": "A.J. Brown",
@@ -1097,6 +1098,7 @@
       "nflverse_id": "00-0035676",
       "primary_event_ids": [
         "news:6c52af439db2df36c39101c3",
+        "news:dcf317127a4ab3d31a017b1a",
         "news:ff5418956ffeafa32142ddbf"
       ],
       "related_event_ids": []
@@ -3115,6 +3117,7 @@
         "news:8eed84627f54a101edf74c50",
         "news:99525e52a7d1dd2754a23228",
         "news:d8b6331c93cfd902c116075b",
+        "news:dcf317127a4ab3d31a017b1a",
         "news:ecedde8756b5e29e431e3615",
         "news:f3f56ad52d065880a1c5bae4"
       ],
@@ -3132,6 +3135,7 @@
         "news:8eed84627f54a101edf74c50",
         "news:99525e52a7d1dd2754a23228",
         "news:d8b6331c93cfd902c116075b",
+        "news:dcf317127a4ab3d31a017b1a",
         "news:ecedde8756b5e29e431e3615",
         "news:f3f56ad52d065880a1c5bae4"
       ]
