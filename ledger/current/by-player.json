@@ -3378,6 +3378,7 @@
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
+        "news:a17fecd758c204ad952309aa",
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
@@ -3417,6 +3418,7 @@
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
+        "news:a17fecd758c204ad952309aa",
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
@@ -3622,14 +3624,16 @@
       "event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
         "news:6d62f574c57f8fafe7ab3f14",
-        "news:842512516abe055aff6eaef0"
+        "news:842512516abe055aff6eaef0",
+        "news:a17fecd758c204ad952309aa"
       ],
       "name": "Michael Penix Jr.",
       "nfl_team": "ATL",
       "nflverse_id": "00-0039917",
       "primary_event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
-        "news:842512516abe055aff6eaef0"
+        "news:842512516abe055aff6eaef0",
+        "news:a17fecd758c204ad952309aa"
       ],
       "related_event_ids": [
         "news:6d62f574c57f8fafe7ab3f14"
