@@ -2138,14 +2138,16 @@
     },
     "00-0038097": {
       "event_ids": [
-        "news:2d8616eedc8a1dab5d08dc5e"
+        "news:2d8616eedc8a1dab5d08dc5e",
+        "news:fb64eeb5cfdb26e371686882"
       ],
       "name": "Cade York",
       "nfl_team": "NO",
       "nflverse_id": "00-0038097",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:2d8616eedc8a1dab5d08dc5e"
+        "news:2d8616eedc8a1dab5d08dc5e",
+        "news:fb64eeb5cfdb26e371686882"
       ]
     },
     "00-0038098": {
@@ -4697,6 +4699,18 @@
         "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ]
+    },
+    "00-0041511": {
+      "event_ids": [
+        "news:fb64eeb5cfdb26e371686882"
+      ],
+      "name": "Omar Cooper Jr.",
+      "nfl_team": "NYJ",
+      "nflverse_id": "00-0041511",
+      "primary_event_ids": [
+        "news:fb64eeb5cfdb26e371686882"
+      ],
+      "related_event_ids": []
     },
     "00-0041512": {
       "event_ids": [
