@@ -860,12 +860,14 @@
     },
     "00-0034855": {
       "event_ids": [
+        "news:70db6532958f1e615f3d0c8c",
         "news:bbf7cf1b08b85ee90cd07a53"
       ],
       "name": "Baker Mayfield",
       "nfl_team": "TB",
       "nflverse_id": "00-0034855",
       "primary_event_ids": [
+        "news:70db6532958f1e615f3d0c8c",
         "news:bbf7cf1b08b85ee90cd07a53"
       ],
       "related_event_ids": []
@@ -4674,7 +4676,8 @@
     },
     "00-0041251": {
       "event_ids": [
-        "news:4e5d9ed34ced960769edc58e"
+        "news:4e5d9ed34ced960769edc58e",
+        "news:70db6532958f1e615f3d0c8c"
       ],
       "name": "Jalon Daniels",
       "nfl_team": "TB",
@@ -4682,7 +4685,9 @@
       "primary_event_ids": [
         "news:4e5d9ed34ced960769edc58e"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:70db6532958f1e615f3d0c8c"
+      ]
     },
     "00-0041326": {
       "event_ids": [
