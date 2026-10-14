@@ -1097,6 +1097,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0035662": {
+      "event_ids": [
+        "news:ef47c301fe59e2bc758c8d16"
+      ],
+      "name": "Marquise Brown",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0035662",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ef47c301fe59e2bc758c8d16"
+      ]
+    },
     "00-0035676": {
       "event_ids": [
         "news:12c23fabf6f2a795a1c63ed3",
@@ -1675,6 +1687,7 @@
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:e8b9c46b6f7c20665052ca43",
+        "news:ef47c301fe59e2bc758c8d16",
         "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
@@ -1685,6 +1698,7 @@
       "primary_event_ids": [
         "news:75c729e2909b2695469c436d",
         "news:e8b9c46b6f7c20665052ca43",
+        "news:ef47c301fe59e2bc758c8d16",
         "news:fe5411b39259748b1ff193c9"
       ],
       "related_event_ids": [
@@ -4661,6 +4675,7 @@
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:e8b9c46b6f7c20665052ca43",
+        "news:ef47c301fe59e2bc758c8d16",
         "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
@@ -4677,6 +4692,7 @@
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:e8b9c46b6f7c20665052ca43",
+        "news:ef47c301fe59e2bc758c8d16",
         "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:fe5411b39259748b1ff193c9"
