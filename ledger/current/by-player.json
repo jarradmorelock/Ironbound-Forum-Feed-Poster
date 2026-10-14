@@ -4739,12 +4739,14 @@
     },
     "00-0041511": {
       "event_ids": [
+        "news:19fb149c74b647eb834af91c",
         "news:fb64eeb5cfdb26e371686882"
       ],
       "name": "Omar Cooper Jr.",
       "nfl_team": "NYJ",
       "nflverse_id": "00-0041511",
       "primary_event_ids": [
+        "news:19fb149c74b647eb834af91c",
         "news:fb64eeb5cfdb26e371686882"
       ],
       "related_event_ids": []
