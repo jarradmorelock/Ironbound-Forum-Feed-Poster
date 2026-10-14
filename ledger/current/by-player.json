@@ -898,6 +898,18 @@
         "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
+    "00-0034982": {
+      "event_ids": [
+        "news:09e0122acbc9582226fc9c6c"
+      ],
+      "name": "Dre Greenlaw",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0034982",
+      "primary_event_ids": [
+        "news:09e0122acbc9582226fc9c6c"
+      ],
+      "related_event_ids": []
+    },
     "00-0035021": {
       "event_ids": [
         "news:7e8d80e70af763822ed0e972"
@@ -1736,6 +1748,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:9c547095459f998d356ab8be"
+      ]
+    },
+    "00-0036994": {
+      "event_ids": [
+        "news:09e0122acbc9582226fc9c6c"
+      ],
+      "name": "Ernest Jones",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0036994",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:09e0122acbc9582226fc9c6c"
       ]
     },
     "00-0037085": {
@@ -3098,6 +3122,7 @@
     "00-0039386": {
       "event_ids": [
         "news:058bb5fae341293acc150b06",
+        "news:09e0122acbc9582226fc9c6c",
         "news:1c23398206333231d3b433fa",
         "news:749cd3bf2e949ea198500053",
         "news:fac0c1ec37a88fbbd9c5500c"
@@ -3108,6 +3133,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:058bb5fae341293acc150b06",
+        "news:09e0122acbc9582226fc9c6c",
         "news:1c23398206333231d3b433fa",
         "news:749cd3bf2e949ea198500053",
         "news:fac0c1ec37a88fbbd9c5500c"
