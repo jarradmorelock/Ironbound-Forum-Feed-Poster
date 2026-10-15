@@ -47,7 +47,8 @@
       "event_ids": [
         "news:89cdc9dd54fb98692f66730a",
         "news:c50f1bac7b008b7223c89a18",
-        "news:fa3a2aec7888f0c623f6bf0b"
+        "news:fa3a2aec7888f0c623f6bf0b",
+        "news:ff8a5801f5a00a64f90f51ad"
       ],
       "name": "Lavonte David",
       "nfl_team": "TB",
@@ -56,7 +57,8 @@
       "related_event_ids": [
         "news:89cdc9dd54fb98692f66730a",
         "news:c50f1bac7b008b7223c89a18",
-        "news:fa3a2aec7888f0c623f6bf0b"
+        "news:fa3a2aec7888f0c623f6bf0b",
+        "news:ff8a5801f5a00a64f90f51ad"
       ]
     },
     "00-0029604": {
@@ -1141,14 +1143,16 @@
       "event_ids": [
         "news:5206e36183dff6a2a35aa4bf",
         "news:89cdc9dd54fb98692f66730a",
-        "news:fa3a2aec7888f0c623f6bf0b"
+        "news:fa3a2aec7888f0c623f6bf0b",
+        "news:ff8a5801f5a00a64f90f51ad"
       ],
       "name": "David Montgomery",
       "nfl_team": "HOU",
       "nflverse_id": "00-0035685",
       "primary_event_ids": [
         "news:5206e36183dff6a2a35aa4bf",
-        "news:fa3a2aec7888f0c623f6bf0b"
+        "news:fa3a2aec7888f0c623f6bf0b",
+        "news:ff8a5801f5a00a64f90f51ad"
       ],
       "related_event_ids": [
         "news:89cdc9dd54fb98692f66730a"
@@ -2200,7 +2204,8 @@
         "news:ce3e51627516baf78633b05f",
         "news:d9e943bd280b4c695fce45d7",
         "news:db3e642a6c70f2809524a2c0",
-        "news:fac0c1ec37a88fbbd9c5500c"
+        "news:fac0c1ec37a88fbbd9c5500c",
+        "news:ff8a5801f5a00a64f90f51ad"
       ],
       "name": "Isaiah Likely",
       "nfl_team": "NYG",
@@ -2216,7 +2221,8 @@
         "news:4a16f9f22c858c2aa591ae27",
         "news:ce3e51627516baf78633b05f",
         "news:d9e943bd280b4c695fce45d7",
-        "news:fac0c1ec37a88fbbd9c5500c"
+        "news:fac0c1ec37a88fbbd9c5500c",
+        "news:ff8a5801f5a00a64f90f51ad"
       ]
     },
     "00-0037840": {
@@ -4232,7 +4238,8 @@
         "news:89cdc9dd54fb98692f66730a",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b",
-        "news:fa3a2aec7888f0c623f6bf0b"
+        "news:fa3a2aec7888f0c623f6bf0b",
+        "news:ff8a5801f5a00a64f90f51ad"
       ],
       "name": "Woody Marks",
       "nfl_team": "HOU",
@@ -4243,7 +4250,8 @@
       "related_event_ids": [
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b",
-        "news:fa3a2aec7888f0c623f6bf0b"
+        "news:fa3a2aec7888f0c623f6bf0b",
+        "news:ff8a5801f5a00a64f90f51ad"
       ]
     },
     "00-0040586": {
