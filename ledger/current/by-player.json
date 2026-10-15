@@ -1435,6 +1435,7 @@
     "00-0036358": {
       "event_ids": [
         "news:61365726821aa092bf0a8eb1",
+        "news:85cecf4207108d97eb910480",
         "news:8ccddc3d55a86dca7e96e461"
       ],
       "name": "CeeDee Lamb",
@@ -1442,6 +1443,7 @@
       "nflverse_id": "00-0036358",
       "primary_event_ids": [
         "news:61365726821aa092bf0a8eb1",
+        "news:85cecf4207108d97eb910480",
         "news:8ccddc3d55a86dca7e96e461"
       ],
       "related_event_ids": []
