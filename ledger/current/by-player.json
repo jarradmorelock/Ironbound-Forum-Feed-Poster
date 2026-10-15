@@ -1462,6 +1462,7 @@
         "news:38ab986da844a4a24e679f25",
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab",
+        "news:bee5aad2cf2d2a3a1968e6b3",
         "news:fa98c3a4d37de2dc41931a57"
       ],
       "name": "Jalen Hurts",
@@ -1476,7 +1477,8 @@
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:34031c4ca8e242017da37732",
-        "news:7dd859216b3bba49d57c92ab"
+        "news:7dd859216b3bba49d57c92ab",
+        "news:bee5aad2cf2d2a3a1968e6b3"
       ]
     },
     "00-0036407": {
@@ -2371,6 +2373,18 @@
         "news:75c729e2909b2695469c436d",
         "news:e8b9c46b6f7c20665052ca43"
       ]
+    },
+    "00-0038400": {
+      "event_ids": [
+        "news:bee5aad2cf2d2a3a1968e6b3"
+      ],
+      "name": "Tanner McKee",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0038400",
+      "primary_event_ids": [
+        "news:bee5aad2cf2d2a3a1968e6b3"
+      ],
+      "related_event_ids": []
     },
     "00-0038409": {
       "event_ids": [
