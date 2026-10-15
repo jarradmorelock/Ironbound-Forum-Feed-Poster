@@ -1376,6 +1376,7 @@
     "00-0036275": {
       "event_ids": [
         "news:322740cd8ad79ba067ae6dea",
+        "news:38ca495dac24f4805f0c6d5e",
         "news:463c5f9292e3b5af0a2cc870",
         "news:b0049374b66a2d3d9a42519e"
       ],
@@ -1387,6 +1388,7 @@
         "news:b0049374b66a2d3d9a42519e"
       ],
       "related_event_ids": [
+        "news:38ca495dac24f4805f0c6d5e",
         "news:463c5f9292e3b5af0a2cc870"
       ]
     },
@@ -3975,6 +3977,7 @@
     "00-0040236": {
       "event_ids": [
         "news:322740cd8ad79ba067ae6dea",
+        "news:38ca495dac24f4805f0c6d5e",
         "news:463c5f9292e3b5af0a2cc870",
         "news:587451581e3ecd268e2830a8",
         "news:d8b6331c93cfd902c116075b"
@@ -3983,6 +3986,7 @@
       "nfl_team": "CHI",
       "nflverse_id": "00-0040236",
       "primary_event_ids": [
+        "news:38ca495dac24f4805f0c6d5e",
         "news:463c5f9292e3b5af0a2cc870",
         "news:587451581e3ecd268e2830a8",
         "news:d8b6331c93cfd902c116075b"
