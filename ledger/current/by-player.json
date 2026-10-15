@@ -283,6 +283,7 @@
       "event_ids": [
         "news:0f011c5b68769534d4b92859",
         "news:169a17bb9a2fb0774de2f48d",
+        "news:45534b8591ba8dd7d6b4f9ca",
         "news:5901efaf2aa39c4da015df1b",
         "news:64355f6f1ee34bf11b527855",
         "news:ce3e51627516baf78633b05f",
@@ -297,6 +298,7 @@
       "related_event_ids": [
         "news:0f011c5b68769534d4b92859",
         "news:169a17bb9a2fb0774de2f48d",
+        "news:45534b8591ba8dd7d6b4f9ca",
         "news:5901efaf2aa39c4da015df1b",
         "news:64355f6f1ee34bf11b527855",
         "news:ce3e51627516baf78633b05f",
@@ -2046,6 +2048,18 @@
         "news:239837ab85a1ad6d0d3b3a3b",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ]
+    },
+    "00-0037525": {
+      "event_ids": [
+        "news:45534b8591ba8dd7d6b4f9ca"
+      ],
+      "name": "Jordan Mason",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0037525",
+      "primary_event_ids": [
+        "news:45534b8591ba8dd7d6b4f9ca"
+      ],
+      "related_event_ids": []
     },
     "00-0037664": {
       "event_ids": [
