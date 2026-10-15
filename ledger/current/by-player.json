@@ -1160,6 +1160,18 @@
         "news:ab6df1f6093f58a6e20885b0"
       ]
     },
+    "00-0035700": {
+      "event_ids": [
+        "news:ac5a6e6fcff183d8b037e1b0"
+      ],
+      "name": "Josh Jacobs",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0035700",
+      "primary_event_ids": [
+        "news:ac5a6e6fcff183d8b037e1b0"
+      ],
+      "related_event_ids": []
+    },
     "00-0035704": {
       "event_ids": [
         "news:64b0b8be152ab1fea5afb0a2"
