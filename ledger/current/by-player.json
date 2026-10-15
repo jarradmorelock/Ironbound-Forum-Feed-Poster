@@ -4628,13 +4628,15 @@
       "event_ids": [
         "news:0230ede58f08ec745722fd04",
         "news:136acc9c41ce361c1da28d96",
-        "news:6c52af439db2df36c39101c3"
+        "news:6c52af439db2df36c39101c3",
+        "news:e82b43c4e10664d3e8db17f1"
       ],
       "name": "Denzel Boston",
       "nfl_team": "CLE",
       "nflverse_id": "00-0041037",
       "primary_event_ids": [
-        "news:0230ede58f08ec745722fd04"
+        "news:0230ede58f08ec745722fd04",
+        "news:e82b43c4e10664d3e8db17f1"
       ],
       "related_event_ids": [
         "news:136acc9c41ce361c1da28d96",
