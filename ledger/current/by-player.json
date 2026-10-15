@@ -1254,6 +1254,7 @@
       "event_ids": [
         "news:3e066f2fe2bcfa0a28991012",
         "news:6843310566b58c1bdb24c740",
+        "news:763439aaadfe38a0d21ab332",
         "news:8d718e4797ba786637f1d6b7",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:d338b3fc74cfc90465cc488d",
@@ -1265,6 +1266,7 @@
       "nflverse_id": "00-0036139",
       "primary_event_ids": [
         "news:6843310566b58c1bdb24c740",
+        "news:763439aaadfe38a0d21ab332",
         "news:8d718e4797ba786637f1d6b7",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:d338b3fc74cfc90465cc488d",
@@ -1885,6 +1887,7 @@
         "news:3e066f2fe2bcfa0a28991012",
         "news:64355f6f1ee34bf11b527855",
         "news:6843310566b58c1bdb24c740",
+        "news:763439aaadfe38a0d21ab332",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:d338b3fc74cfc90465cc488d",
         "news:dfce9a32dc480679e13c3da3",
@@ -1900,6 +1903,7 @@
       "related_event_ids": [
         "news:64355f6f1ee34bf11b527855",
         "news:6843310566b58c1bdb24c740",
+        "news:763439aaadfe38a0d21ab332",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:d338b3fc74cfc90465cc488d",
         "news:e914929871226c57f7f548db"
@@ -3804,6 +3808,7 @@
     },
     "00-0039923": {
       "event_ids": [
+        "news:763439aaadfe38a0d21ab332",
         "news:e528f25814b3c5542b10d122"
       ],
       "name": "J.J. McCarthy",
@@ -3811,6 +3816,7 @@
       "nflverse_id": "00-0039923",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:763439aaadfe38a0d21ab332",
         "news:e528f25814b3c5542b10d122"
       ]
     },
