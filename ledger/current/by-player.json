@@ -3200,6 +3200,18 @@
         "news:5a04300dd162cdb97d19a817"
       ]
     },
+    "00-0039344": {
+      "event_ids": [
+        "news:e3b93b0ea68fb9497fb8d200"
+      ],
+      "name": "Jonathon Brooks",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0039344",
+      "primary_event_ids": [
+        "news:e3b93b0ea68fb9497fb8d200"
+      ],
+      "related_event_ids": []
+    },
     "00-0039361": {
       "event_ids": [
         "news:2124b32b66def3d15356b258",
