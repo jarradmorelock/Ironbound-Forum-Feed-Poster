@@ -795,6 +795,7 @@
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:d13a2fa1c21a003fc193903d",
+        "news:d9e943bd280b4c695fce45d7",
         "news:eaaa5489714a1283c5ce341c",
         "news:ecedde8756b5e29e431e3615"
       ],
@@ -807,6 +808,7 @@
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:d13a2fa1c21a003fc193903d",
+        "news:d9e943bd280b4c695fce45d7",
         "news:ecedde8756b5e29e431e3615"
       ],
       "related_event_ids": [
@@ -1225,7 +1227,8 @@
       "event_ids": [
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:5ed096c865c22a8a68e0eba6",
-        "news:6f9443806a273f670197ad98"
+        "news:6f9443806a273f670197ad98",
+        "news:d9e943bd280b4c695fce45d7"
       ],
       "name": "Tyler Huntley",
       "nfl_team": "BAL",
@@ -1235,7 +1238,8 @@
         "news:6f9443806a273f670197ad98"
       ],
       "related_event_ids": [
-        "news:03c3a62cab4d3b425f7fe2f4"
+        "news:03c3a62cab4d3b425f7fe2f4",
+        "news:d9e943bd280b4c695fce45d7"
       ]
     },
     "00-0036040": {
@@ -1286,6 +1290,7 @@
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:d13a2fa1c21a003fc193903d",
+        "news:d9e943bd280b4c695fce45d7",
         "news:eaaa5489714a1283c5ce341c",
         "news:ecedde8756b5e29e431e3615"
       ],
@@ -1299,6 +1304,7 @@
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:d13a2fa1c21a003fc193903d",
+        "news:d9e943bd280b4c695fce45d7",
         "news:eaaa5489714a1283c5ce341c",
         "news:ecedde8756b5e29e431e3615"
       ]
@@ -2190,6 +2196,7 @@
         "news:37e02e92c6ca16fb937017bc",
         "news:4a16f9f22c858c2aa591ae27",
         "news:ce3e51627516baf78633b05f",
+        "news:d9e943bd280b4c695fce45d7",
         "news:db3e642a6c70f2809524a2c0",
         "news:fac0c1ec37a88fbbd9c5500c"
       ],
@@ -2206,6 +2213,7 @@
         "news:37e02e92c6ca16fb937017bc",
         "news:4a16f9f22c858c2aa591ae27",
         "news:ce3e51627516baf78633b05f",
+        "news:d9e943bd280b4c695fce45d7",
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
