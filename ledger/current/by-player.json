@@ -4568,6 +4568,7 @@
     },
     "00-0040736": {
       "event_ids": [
+        "news:1638b04885674ed7cfdaa436",
         "news:6f0ad09ba539a488538f5130"
       ],
       "name": "Mason Taylor",
@@ -4575,6 +4576,7 @@
       "nflverse_id": "00-0040736",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:1638b04885674ed7cfdaa436",
         "news:6f0ad09ba539a488538f5130"
       ]
     },
@@ -4744,6 +4746,7 @@
     "00-0041032": {
       "event_ids": [
         "news:009503ab1e2f439ae272efe3",
+        "news:1638b04885674ed7cfdaa436",
         "news:4cb79a176c6fb91d6630137f",
         "news:6f0ad09ba539a488538f5130"
       ],
@@ -4752,6 +4755,7 @@
       "nflverse_id": "00-0041032",
       "primary_event_ids": [
         "news:009503ab1e2f439ae272efe3",
+        "news:1638b04885674ed7cfdaa436",
         "news:4cb79a176c6fb91d6630137f",
         "news:6f0ad09ba539a488538f5130"
       ],
