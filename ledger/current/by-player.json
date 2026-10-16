@@ -2380,6 +2380,7 @@
       "event_ids": [
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:57eea2f68c592274a1ad428e",
+        "news:69787ba2db0f5947336b6115",
         "news:c54d21770d3503d75e4ad6e4",
         "news:c8f254130ef4002c100e2f63"
       ],
@@ -2389,6 +2390,7 @@
       "primary_event_ids": [
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:57eea2f68c592274a1ad428e",
+        "news:69787ba2db0f5947336b6115",
         "news:c54d21770d3503d75e4ad6e4",
         "news:c8f254130ef4002c100e2f63"
       ],
@@ -3519,6 +3521,7 @@
       "event_ids": [
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:57eea2f68c592274a1ad428e",
+        "news:69787ba2db0f5947336b6115",
         "news:e9db674a6ef7f0fc4f29c50b"
       ],
       "name": "Braelon Allen",
@@ -3529,7 +3532,8 @@
       ],
       "related_event_ids": [
         "news:2d8616eedc8a1dab5d08dc5e",
-        "news:57eea2f68c592274a1ad428e"
+        "news:57eea2f68c592274a1ad428e",
+        "news:69787ba2db0f5947336b6115"
       ]
     },
     "00-0039811": {
