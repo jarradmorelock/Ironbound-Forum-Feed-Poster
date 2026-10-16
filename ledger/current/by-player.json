@@ -1029,6 +1029,7 @@
     },
     "00-0035261": {
       "event_ids": [
+        "news:265b96a6d5b429b2598e9c2f",
         "news:2895c73454026dda022593e1",
         "news:332e45f574e5b92bde4f99c7",
         "news:7f135c7a5a85681728cd6f95",
@@ -1043,6 +1044,7 @@
         "news:7f135c7a5a85681728cd6f95"
       ],
       "related_event_ids": [
+        "news:265b96a6d5b429b2598e9c2f",
         "news:ffd5d01a9aa25669f6b14fea"
       ]
     },
@@ -2857,6 +2859,18 @@
         "news:d54619e249e1073482a4c77b"
       ]
     },
+    "00-0038807": {
+      "event_ids": [
+        "news:265b96a6d5b429b2598e9c2f"
+      ],
+      "name": "Ivan Pace Jr.",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0038807",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:265b96a6d5b429b2598e9c2f"
+      ]
+    },
     "00-0038839": {
       "event_ids": [
         "news:edcc6e97cc2d3e76efb28f60"
@@ -3005,12 +3019,15 @@
     },
     "00-0039032": {
       "event_ids": [
+        "news:265b96a6d5b429b2598e9c2f",
         "news:2895c73454026dda022593e1"
       ],
       "name": "Tyjae Spears",
       "nfl_team": "TEN",
       "nflverse_id": "00-0039032",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:265b96a6d5b429b2598e9c2f"
+      ],
       "related_event_ids": [
         "news:2895c73454026dda022593e1"
       ]
