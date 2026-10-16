@@ -20,7 +20,8 @@
     "00-0028171": {
       "event_ids": [
         "news:11a993edce3943ec0de56eca",
-        "news:322740cd8ad79ba067ae6dea"
+        "news:322740cd8ad79ba067ae6dea",
+        "news:539f223c83c7e1e635bf5698"
       ],
       "name": "Lawrence Guy",
       "nfl_team": "CIN",
@@ -28,7 +29,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:11a993edce3943ec0de56eca",
-        "news:322740cd8ad79ba067ae6dea"
+        "news:322740cd8ad79ba067ae6dea",
+        "news:539f223c83c7e1e635bf5698"
       ]
     },
     "00-0028986": {
@@ -1130,6 +1132,7 @@
     },
     "00-0035662": {
       "event_ids": [
+        "news:539f223c83c7e1e635bf5698",
         "news:ef47c301fe59e2bc758c8d16"
       ],
       "name": "Marquise Brown",
@@ -1137,6 +1140,7 @@
       "nflverse_id": "00-0035662",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:539f223c83c7e1e635bf5698",
         "news:ef47c301fe59e2bc758c8d16"
       ]
     },
@@ -1763,6 +1767,7 @@
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
+        "news:539f223c83c7e1e635bf5698",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:e8b9c46b6f7c20665052ca43",
@@ -1776,6 +1781,7 @@
       "nflverse_id": "00-0036912",
       "primary_event_ids": [
         "news:3a1582e55f0f550fab552bc6",
+        "news:539f223c83c7e1e635bf5698",
         "news:75c729e2909b2695469c436d",
         "news:e8b9c46b6f7c20665052ca43",
         "news:ef47c301fe59e2bc758c8d16",
@@ -2458,6 +2464,7 @@
     "00-0038393": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:539f223c83c7e1e635bf5698",
         "news:75c729e2909b2695469c436d",
         "news:8e4f11b0abbff97f7d999bfb",
         "news:e8b9c46b6f7c20665052ca43",
@@ -2472,12 +2479,14 @@
       ],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:539f223c83c7e1e635bf5698",
         "news:75c729e2909b2695469c436d",
         "news:e8b9c46b6f7c20665052ca43"
       ]
     },
     "00-0038400": {
       "event_ids": [
+        "news:539f223c83c7e1e635bf5698",
         "news:bee5aad2cf2d2a3a1968e6b3"
       ],
       "name": "Tanner McKee",
@@ -2486,7 +2495,9 @@
       "primary_event_ids": [
         "news:bee5aad2cf2d2a3a1968e6b3"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:539f223c83c7e1e635bf5698"
+      ]
     },
     "00-0038409": {
       "event_ids": [
@@ -4934,6 +4945,7 @@
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
+        "news:539f223c83c7e1e635bf5698",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:e8b9c46b6f7c20665052ca43",
@@ -4952,6 +4964,7 @@
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:536395cc5c2f30b9af7087fd",
+        "news:539f223c83c7e1e635bf5698",
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:e8b9c46b6f7c20665052ca43",
