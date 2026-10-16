@@ -2016,6 +2016,7 @@
       "event_ids": [
         "news:15436cfd15b2f098cbf4e1e3",
         "news:17905655664514b19ca5674e",
+        "news:2f190019b4651bab297f196c",
         "news:7f5319f1cf7fce9817aadf26",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
@@ -2028,6 +2029,7 @@
       ],
       "related_event_ids": [
         "news:15436cfd15b2f098cbf4e1e3",
+        "news:2f190019b4651bab297f196c",
         "news:ea7d53dcc4ae950825ecd20d"
       ]
     },
@@ -2208,6 +2210,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:169a17bb9a2fb0774de2f48d",
         "news:2a359f50bef122df69bffef6",
+        "news:2f190019b4651bab297f196c",
         "news:37e02e92c6ca16fb937017bc",
         "news:4a16f9f22c858c2aa591ae27",
         "news:ce3e51627516baf78633b05f",
@@ -2226,6 +2229,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:169a17bb9a2fb0774de2f48d",
         "news:2a359f50bef122df69bffef6",
+        "news:2f190019b4651bab297f196c",
         "news:37e02e92c6ca16fb937017bc",
         "news:4a16f9f22c858c2aa591ae27",
         "news:ce3e51627516baf78633b05f",
@@ -4137,6 +4141,7 @@
     "00-0040242": {
       "event_ids": [
         "news:15436cfd15b2f098cbf4e1e3",
+        "news:2f190019b4651bab297f196c",
         "news:5b01f570751b4e393889f327",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
@@ -4144,6 +4149,7 @@
       "nfl_team": "WAS",
       "nflverse_id": "00-0040242",
       "primary_event_ids": [
+        "news:2f190019b4651bab297f196c",
         "news:5b01f570751b4e393889f327",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
