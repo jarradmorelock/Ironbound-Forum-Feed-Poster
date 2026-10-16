@@ -1140,6 +1140,7 @@
     },
     "00-0035676": {
       "event_ids": [
+        "news:126f451c5589baa18070897c",
         "news:12c23fabf6f2a795a1c63ed3",
         "news:6c52af439db2df36c39101c3",
         "news:dcf317127a4ab3d31a017b1a",
@@ -1149,6 +1150,7 @@
       "nfl_team": "NE",
       "nflverse_id": "00-0035676",
       "primary_event_ids": [
+        "news:126f451c5589baa18070897c",
         "news:12c23fabf6f2a795a1c63ed3",
         "news:6c52af439db2df36c39101c3",
         "news:dcf317127a4ab3d31a017b1a",
@@ -3567,6 +3569,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0a8b7e20cfad00354a35c828",
         "news:0ef9d36257970a0cb09eabb8",
+        "news:126f451c5589baa18070897c",
         "news:1a30d471e2de5e85169bd1d7",
         "news:1c447870c8cbc3dc21381426",
         "news:250427755c25b79de29d963c",
@@ -3614,6 +3617,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0a8b7e20cfad00354a35c828",
         "news:0ef9d36257970a0cb09eabb8",
+        "news:126f451c5589baa18070897c",
         "news:1a30d471e2de5e85169bd1d7",
         "news:1c447870c8cbc3dc21381426",
         "news:250427755c25b79de29d963c",
