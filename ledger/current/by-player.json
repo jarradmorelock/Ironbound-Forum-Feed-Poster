@@ -367,6 +367,7 @@
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:5ba8ebf69f4bead029eb2f01",
         "news:967a082278902767213af092",
+        "news:997c9b83441ddc406347ca71",
         "news:a56559875d9edfa1cb8342ef",
         "news:cb54c29e7a6316b028ee327e",
         "news:e12892a87f9c84cf5b6fcbf6",
@@ -388,6 +389,7 @@
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:5ba8ebf69f4bead029eb2f01",
         "news:967a082278902767213af092",
+        "news:997c9b83441ddc406347ca71",
         "news:a56559875d9edfa1cb8342ef",
         "news:cb54c29e7a6316b028ee327e",
         "news:e12892a87f9c84cf5b6fcbf6",
@@ -770,12 +772,15 @@
     },
     "00-0034775": {
       "event_ids": [
-        "news:5a04300dd162cdb97d19a817"
+        "news:5a04300dd162cdb97d19a817",
+        "news:997c9b83441ddc406347ca71"
       ],
       "name": "Christian Kirk",
       "nfl_team": "SF",
       "nflverse_id": "00-0034775",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:997c9b83441ddc406347ca71"
+      ],
       "related_event_ids": [
         "news:5a04300dd162cdb97d19a817"
       ]
@@ -821,14 +826,16 @@
     },
     "00-0034817": {
       "event_ids": [
-        "news:54daca9eb3e9fb1a45d33e61"
+        "news:54daca9eb3e9fb1a45d33e61",
+        "news:997c9b83441ddc406347ca71"
       ],
       "name": "Geron Christian",
       "nfl_team": "JAX",
       "nflverse_id": "00-0034817",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:54daca9eb3e9fb1a45d33e61"
+        "news:54daca9eb3e9fb1a45d33e61",
+        "news:997c9b83441ddc406347ca71"
       ]
     },
     "00-0034827": {
