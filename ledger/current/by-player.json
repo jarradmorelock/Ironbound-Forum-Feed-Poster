@@ -259,6 +259,7 @@
     "00-0031588": {
       "event_ids": [
         "news:197bd25b2e08e22adf5d2f2b",
+        "news:315b528ea9301a8c529ab7b5",
         "news:43e563bc0de7a7d020311949",
         "news:a61f4cd6af556475f634c077"
       ],
@@ -266,6 +267,7 @@
       "nfl_team": "WAS",
       "nflverse_id": "00-0031588",
       "primary_event_ids": [
+        "news:315b528ea9301a8c529ab7b5",
         "news:43e563bc0de7a7d020311949",
         "news:a61f4cd6af556475f634c077"
       ],
@@ -362,6 +364,7 @@
         "news:08bc4fa7692c9a7c714915b7",
         "news:0ce6ef192700353addbc374b",
         "news:2a359f50bef122df69bffef6",
+        "news:315b528ea9301a8c529ab7b5",
         "news:463c5f9292e3b5af0a2cc870",
         "news:5a382e948d38177f1a19175e",
         "news:5b3f3588f0ca8f0a33627ddf",
@@ -384,6 +387,7 @@
         "news:08bc4fa7692c9a7c714915b7",
         "news:0ce6ef192700353addbc374b",
         "news:2a359f50bef122df69bffef6",
+        "news:315b528ea9301a8c529ab7b5",
         "news:463c5f9292e3b5af0a2cc870",
         "news:5a382e948d38177f1a19175e",
         "news:5b3f3588f0ca8f0a33627ddf",
