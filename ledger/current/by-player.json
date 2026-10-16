@@ -3052,13 +3052,15 @@
     "00-0039032": {
       "event_ids": [
         "news:265b96a6d5b429b2598e9c2f",
-        "news:2895c73454026dda022593e1"
+        "news:2895c73454026dda022593e1",
+        "news:63a0c049f8b5b03cf42fb0a6"
       ],
       "name": "Tyjae Spears",
       "nfl_team": "TEN",
       "nflverse_id": "00-0039032",
       "primary_event_ids": [
-        "news:265b96a6d5b429b2598e9c2f"
+        "news:265b96a6d5b429b2598e9c2f",
+        "news:63a0c049f8b5b03cf42fb0a6"
       ],
       "related_event_ids": [
         "news:2895c73454026dda022593e1"
