@@ -1630,12 +1630,15 @@
     },
     "00-0036613": {
       "event_ids": [
+        "news:24a3815395acd0f59626c8a7",
         "news:ced7fa6f65d8368ec64a3ee0"
       ],
       "name": "Jaylen Waddle",
       "nfl_team": "DEN",
       "nflverse_id": "00-0036613",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:24a3815395acd0f59626c8a7"
+      ],
       "related_event_ids": [
         "news:ced7fa6f65d8368ec64a3ee0"
       ]
