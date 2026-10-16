@@ -871,7 +871,8 @@
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:4ba225c96ce08e9cbdef9b34",
         "news:64b0b8be152ab1fea5afb0a2",
-        "news:b2b894b8fd2c91ac78b585a9"
+        "news:b2b894b8fd2c91ac78b585a9",
+        "news:d9298aba647019266bcb6de0"
       ],
       "name": "Saquon Barkley",
       "nfl_team": "PHI",
@@ -879,7 +880,8 @@
       "primary_event_ids": [
         "news:4ba225c96ce08e9cbdef9b34",
         "news:64b0b8be152ab1fea5afb0a2",
-        "news:b2b894b8fd2c91ac78b585a9"
+        "news:b2b894b8fd2c91ac78b585a9",
+        "news:d9298aba647019266bcb6de0"
       ],
       "related_event_ids": [
         "news:0203963a0744637b06e379f1",
@@ -2076,6 +2078,7 @@
         "news:169a17bb9a2fb0774de2f48d",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:c3a4c248a65f80cf1730fce2",
+        "news:d9298aba647019266bcb6de0",
         "news:e5895bf19e27c967de0506e2"
       ],
       "name": "Dameon Pierce",
@@ -2088,6 +2091,7 @@
       ],
       "related_event_ids": [
         "news:64b0b8be152ab1fea5afb0a2",
+        "news:d9298aba647019266bcb6de0",
         "news:e5895bf19e27c967de0506e2"
       ]
     },
@@ -2491,7 +2495,8 @@
     "00-0038400": {
       "event_ids": [
         "news:539f223c83c7e1e635bf5698",
-        "news:bee5aad2cf2d2a3a1968e6b3"
+        "news:bee5aad2cf2d2a3a1968e6b3",
+        "news:d9298aba647019266bcb6de0"
       ],
       "name": "Tanner McKee",
       "nfl_team": "PHI",
@@ -2500,7 +2505,8 @@
         "news:bee5aad2cf2d2a3a1968e6b3"
       ],
       "related_event_ids": [
-        "news:539f223c83c7e1e635bf5698"
+        "news:539f223c83c7e1e635bf5698",
+        "news:d9298aba647019266bcb6de0"
       ]
     },
     "00-0038409": {
@@ -2651,7 +2657,8 @@
         "news:11a993edce3943ec0de56eca",
         "news:169a17bb9a2fb0774de2f48d",
         "news:215a662b508f4ea648a92711",
-        "news:64b0b8be152ab1fea5afb0a2"
+        "news:64b0b8be152ab1fea5afb0a2",
+        "news:d9298aba647019266bcb6de0"
       ],
       "name": "Tank Bigsby",
       "nfl_team": "PHI",
@@ -2662,7 +2669,8 @@
       ],
       "related_event_ids": [
         "news:169a17bb9a2fb0774de2f48d",
-        "news:64b0b8be152ab1fea5afb0a2"
+        "news:64b0b8be152ab1fea5afb0a2",
+        "news:d9298aba647019266bcb6de0"
       ]
     },
     "00-0038558": {
@@ -3557,6 +3565,7 @@
         "news:169a17bb9a2fb0774de2f48d",
         "news:4f242df15ff3d758675796d5",
         "news:64b0b8be152ab1fea5afb0a2",
+        "news:d9298aba647019266bcb6de0",
         "news:e5895bf19e27c967de0506e2"
       ],
       "name": "Will Shipley",
@@ -3570,7 +3579,8 @@
         "news:11a993edce3943ec0de56eca",
         "news:13bec1a2f988f9d87dcf58ae",
         "news:169a17bb9a2fb0774de2f48d",
-        "news:64b0b8be152ab1fea5afb0a2"
+        "news:64b0b8be152ab1fea5afb0a2",
+        "news:d9298aba647019266bcb6de0"
       ]
     },
     "00-0039794": {
