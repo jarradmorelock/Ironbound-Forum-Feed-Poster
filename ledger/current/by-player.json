@@ -5167,6 +5167,7 @@
     "00-0041547": {
       "event_ids": [
         "news:1f5c8e663230131bcd2fdc93",
+        "news:81e13d1178ab63529864067a",
         "news:829602e575e3e63f68a16299"
       ],
       "name": "KC Concepcion",
@@ -5174,6 +5175,7 @@
       "nflverse_id": "00-0041547",
       "primary_event_ids": [
         "news:1f5c8e663230131bcd2fdc93",
+        "news:81e13d1178ab63529864067a",
         "news:829602e575e3e63f68a16299"
       ],
       "related_event_ids": []
