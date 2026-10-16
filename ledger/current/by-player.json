@@ -2579,13 +2579,15 @@
         "news:759dac8b62bec249b282836e",
         "news:7fa453d2ef249eed23b9399e",
         "news:88f7c86eb3aec9c75aeeb1c0",
+        "news:a6b64c57797babbb8ad5ee7d",
         "news:fc1f1382c660ab08ade0b8c9"
       ],
       "name": "Quentin Johnston",
       "nfl_team": "LAC",
       "nflverse_id": "00-0038544",
       "primary_event_ids": [
-        "news:759dac8b62bec249b282836e"
+        "news:759dac8b62bec249b282836e",
+        "news:a6b64c57797babbb8ad5ee7d"
       ],
       "related_event_ids": [
         "news:7fa453d2ef249eed23b9399e",
