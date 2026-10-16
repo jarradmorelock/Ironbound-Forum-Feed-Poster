@@ -106,6 +106,7 @@
         "news:3ee980249f53a8fa31d9247e",
         "news:6c146d141dd8e18084e6efa4",
         "news:8ccddc3d55a86dca7e96e461",
+        "news:8ed71a1053ce0713f164456e",
         "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a0a2fbf046e1657bf21ec8d6",
@@ -122,6 +123,7 @@
         "news:3ee980249f53a8fa31d9247e",
         "news:6c146d141dd8e18084e6efa4",
         "news:8ccddc3d55a86dca7e96e461",
+        "news:8ed71a1053ce0713f164456e",
         "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a0a2fbf046e1657bf21ec8d6",
@@ -2175,6 +2177,18 @@
         "news:83d617efa24a34fc6e66221d"
       ]
     },
+    "00-0037745": {
+      "event_ids": [
+        "news:8ed71a1053ce0713f164456e"
+      ],
+      "name": "Velus Jones Jr.",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0037745",
+      "primary_event_ids": [
+        "news:8ed71a1053ce0713f164456e"
+      ],
+      "related_event_ids": []
+    },
     "00-0037746": {
       "event_ids": [
         "news:578c3bdd73c20d4460bcf8d5",
@@ -2805,6 +2819,7 @@
         "news:50299468aa0ba0c31e5e489c",
         "news:80007ef73885136616e6356f",
         "news:81649ea69ee16a01a008368c",
+        "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
       ],
@@ -2820,6 +2835,7 @@
         "news:1c447870c8cbc3dc21381426",
         "news:50299468aa0ba0c31e5e489c",
         "news:80007ef73885136616e6356f",
+        "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b"
       ]
     },
@@ -3191,6 +3207,7 @@
     "00-0039299": {
       "event_ids": [
         "news:1c447870c8cbc3dc21381426",
+        "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
       ],
@@ -3201,6 +3218,7 @@
         "news:1c447870c8cbc3dc21381426"
       ],
       "related_event_ids": [
+        "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
       ]
@@ -3907,6 +3925,7 @@
       "event_ids": [
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
+        "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
         "news:f84b9d09908cda13b523c2a7"
@@ -3918,6 +3937,7 @@
       "related_event_ids": [
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
+        "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
         "news:f84b9d09908cda13b523c2a7"
