@@ -1631,13 +1631,15 @@
     "00-0036613": {
       "event_ids": [
         "news:24a3815395acd0f59626c8a7",
+        "news:6bf1b374e4aed9812e1e4f0d",
         "news:ced7fa6f65d8368ec64a3ee0"
       ],
       "name": "Jaylen Waddle",
       "nfl_team": "DEN",
       "nflverse_id": "00-0036613",
       "primary_event_ids": [
-        "news:24a3815395acd0f59626c8a7"
+        "news:24a3815395acd0f59626c8a7",
+        "news:6bf1b374e4aed9812e1e4f0d"
       ],
       "related_event_ids": [
         "news:ced7fa6f65d8368ec64a3ee0"
@@ -4373,6 +4375,18 @@
         "news:d573fd29419a4595a79fe5b4"
       ]
     },
+    "00-0040704": {
+      "event_ids": [
+        "news:6bf1b374e4aed9812e1e4f0d"
+      ],
+      "name": "Dillon Gabriel",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0040704",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:6bf1b374e4aed9812e1e4f0d"
+      ]
+    },
     "00-0040715": {
       "event_ids": [
         "news:0e09a720b76a232c592d4837",
@@ -4866,6 +4880,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:1c447870c8cbc3dc21381426"
+      ]
+    },
+    "00-0041182": {
+      "event_ids": [
+        "news:6bf1b374e4aed9812e1e4f0d"
+      ],
+      "name": "Drew Stevens",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0041182",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:6bf1b374e4aed9812e1e4f0d"
       ]
     },
     "00-0041251": {
