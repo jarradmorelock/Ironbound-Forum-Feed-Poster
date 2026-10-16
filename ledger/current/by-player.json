@@ -1331,13 +1331,15 @@
     "00-0036158": {
       "event_ids": [
         "news:72c0a29a900371b420f0e607",
+        "news:8e1c21ea36a33d520d6416cb",
         "news:a2c1246e1acc3b0c7fe8b334"
       ],
       "name": "J.K. Dobbins",
       "nfl_team": "DEN",
       "nflverse_id": "00-0036158",
       "primary_event_ids": [
-        "news:72c0a29a900371b420f0e607"
+        "news:72c0a29a900371b420f0e607",
+        "news:8e1c21ea36a33d520d6416cb"
       ],
       "related_event_ids": [
         "news:a2c1246e1acc3b0c7fe8b334"
@@ -3552,6 +3554,7 @@
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89cdc9dd54fb98692f66730a",
         "news:8bfcc5f42e63e50c195b278e",
+        "news:8e1c21ea36a33d520d6416cb",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
@@ -3597,6 +3600,7 @@
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89cdc9dd54fb98692f66730a",
         "news:8bfcc5f42e63e50c195b278e",
+        "news:8e1c21ea36a33d520d6416cb",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
