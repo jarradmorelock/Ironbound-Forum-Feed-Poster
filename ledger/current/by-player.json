@@ -47,6 +47,7 @@
     },
     "00-0029562": {
       "event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9",
         "news:89cdc9dd54fb98692f66730a",
         "news:c50f1bac7b008b7223c89a18",
         "news:fa3a2aec7888f0c623f6bf0b",
@@ -57,6 +58,7 @@
       "nflverse_id": "00-0029562",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9",
         "news:89cdc9dd54fb98692f66730a",
         "news:c50f1bac7b008b7223c89a18",
         "news:fa3a2aec7888f0c623f6bf0b",
@@ -202,6 +204,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0031236": {
+      "event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9"
+      ],
+      "name": "Brandin Cooks",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0031236",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9"
+      ]
+    },
     "00-0031381": {
       "event_ids": [
         "news:167e4084e2ee9adca6ab8874",
@@ -232,6 +246,7 @@
     },
     "00-0031408": {
       "event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9",
         "news:54c672d52b0ea565aa5ce8f3",
         "news:5ce6adeb848e382070bcc043",
         "news:f84b9d09908cda13b523c2a7"
@@ -240,6 +255,7 @@
       "nfl_team": "SF",
       "nflverse_id": "00-0031408",
       "primary_event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9",
         "news:54c672d52b0ea565aa5ce8f3",
         "news:5ce6adeb848e382070bcc043",
         "news:f84b9d09908cda13b523c2a7"
@@ -791,6 +807,7 @@
     },
     "00-0034775": {
       "event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817",
         "news:997c9b83441ddc406347ca71"
       ],
@@ -801,6 +818,7 @@
         "news:997c9b83441ddc406347ca71"
       ],
       "related_event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817"
       ]
     },
@@ -845,6 +863,7 @@
     },
     "00-0034817": {
       "event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
         "news:997c9b83441ddc406347ca71"
       ],
@@ -853,6 +872,7 @@
       "nflverse_id": "00-0034817",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
         "news:997c9b83441ddc406347ca71"
       ]
@@ -1257,6 +1277,7 @@
       "event_ids": [
         "news:1c23398206333231d3b433fa",
         "news:2401c85df362ec0d31e71b65",
+        "news:514e56ea8fcae8b5d8ed18e9",
         "news:8df0412418b7fb36ed6cc4db",
         "news:8f5df405e98573eb45f51499"
       ],
@@ -1269,7 +1290,9 @@
         "news:8df0412418b7fb36ed6cc4db",
         "news:8f5df405e98573eb45f51499"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9"
+      ]
     },
     "00-0035993": {
       "event_ids": [
@@ -3404,6 +3427,18 @@
         "news:4310348df99c73936b308aae"
       ]
     },
+    "00-0039365": {
+      "event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9"
+      ],
+      "name": "Jacob Cowing",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0039365",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9"
+      ]
+    },
     "00-0039366": {
       "event_ids": [
         "news:215a662b508f4ea648a92711",
@@ -4225,6 +4260,18 @@
       ],
       "related_event_ids": [
         "news:c6fcd8282640881e233c2014"
+      ]
+    },
+    "00-0040172": {
+      "event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9"
+      ],
+      "name": "Jordan Watkins",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0040172",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:514e56ea8fcae8b5d8ed18e9"
       ]
     },
     "00-0040189": {
