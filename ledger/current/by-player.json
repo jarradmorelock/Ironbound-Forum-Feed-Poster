@@ -528,14 +528,16 @@
     },
     "00-0033505": {
       "event_ids": [
-        "news:3981e3d5a400199aa4d7aaa9"
+        "news:3981e3d5a400199aa4d7aaa9",
+        "news:e90a9a6f2630d49747063230"
       ],
       "name": "Cameron Tom",
       "nfl_team": "CLE",
       "nflverse_id": "00-0033505",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:3981e3d5a400199aa4d7aaa9"
+        "news:3981e3d5a400199aa4d7aaa9",
+        "news:e90a9a6f2630d49747063230"
       ]
     },
     "00-0033526": {
@@ -671,7 +673,8 @@
     },
     "00-0033921": {
       "event_ids": [
-        "news:39e1eee96896b3df3e591175"
+        "news:39e1eee96896b3df3e591175",
+        "news:e90a9a6f2630d49747063230"
       ],
       "name": "Chris Godwin Jr.",
       "nfl_team": "TB",
@@ -679,7 +682,9 @@
       "primary_event_ids": [
         "news:39e1eee96896b3df3e591175"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:e90a9a6f2630d49747063230"
+      ]
     },
     "00-0034272": {
       "event_ids": [
@@ -896,14 +901,16 @@
     "00-0034855": {
       "event_ids": [
         "news:70db6532958f1e615f3d0c8c",
-        "news:bbf7cf1b08b85ee90cd07a53"
+        "news:bbf7cf1b08b85ee90cd07a53",
+        "news:e90a9a6f2630d49747063230"
       ],
       "name": "Baker Mayfield",
       "nfl_team": "TB",
       "nflverse_id": "00-0034855",
       "primary_event_ids": [
         "news:70db6532958f1e615f3d0c8c",
-        "news:bbf7cf1b08b85ee90cd07a53"
+        "news:bbf7cf1b08b85ee90cd07a53",
+        "news:e90a9a6f2630d49747063230"
       ],
       "related_event_ids": []
     },
@@ -4118,7 +4125,8 @@
     },
     "00-0040129": {
       "event_ids": [
-        "news:6f872daf39f67c56610579e9"
+        "news:6f872daf39f67c56610579e9",
+        "news:e90a9a6f2630d49747063230"
       ],
       "name": "Emeka Egbuka",
       "nfl_team": "TB",
@@ -4126,7 +4134,9 @@
       "primary_event_ids": [
         "news:6f872daf39f67c56610579e9"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:e90a9a6f2630d49747063230"
+      ]
     },
     "00-0040131": {
       "event_ids": [
