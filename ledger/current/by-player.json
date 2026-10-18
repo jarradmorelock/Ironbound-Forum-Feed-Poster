@@ -141,6 +141,7 @@
       "event_ids": [
         "news:25fbe22dd68d1fb8a0994eea",
         "news:50fb80cecfadf520a46d86ce",
+        "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c",
         "news:da5192497b1817e06e4ef92a"
@@ -155,7 +156,8 @@
         "news:da5192497b1817e06e4ef92a"
       ],
       "related_event_ids": [
-        "news:50fb80cecfadf520a46d86ce"
+        "news:50fb80cecfadf520a46d86ce",
+        "news:7df545a15b8e8b40aabf0420"
       ]
     },
     "00-0030561": {
@@ -3119,6 +3121,7 @@
       "event_ids": [
         "news:39b523b76831c520c8e7117b",
         "news:50fb80cecfadf520a46d86ce",
+        "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972"
       ],
       "name": "Josh Downs",
@@ -3129,6 +3132,7 @@
         "news:50fb80cecfadf520a46d86ce"
       ],
       "related_event_ids": [
+        "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972"
       ]
     },
@@ -4221,14 +4225,16 @@
       "event_ids": [
         "news:11fcbe677e681d636203b0df",
         "news:50c3a448be04998cf69323ba",
-        "news:50fb80cecfadf520a46d86ce"
+        "news:50fb80cecfadf520a46d86ce",
+        "news:7df545a15b8e8b40aabf0420"
       ],
       "name": "Tyler Warren",
       "nfl_team": "IND",
       "nflverse_id": "00-0040128",
       "primary_event_ids": [
         "news:11fcbe677e681d636203b0df",
-        "news:50c3a448be04998cf69323ba"
+        "news:50c3a448be04998cf69323ba",
+        "news:7df545a15b8e8b40aabf0420"
       ],
       "related_event_ids": [
         "news:50fb80cecfadf520a46d86ce"
@@ -5347,6 +5353,7 @@
       "event_ids": [
         "news:25fbe22dd68d1fb8a0994eea",
         "news:50fb80cecfadf520a46d86ce",
+        "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c"
       ],
@@ -5357,6 +5364,7 @@
       "related_event_ids": [
         "news:25fbe22dd68d1fb8a0994eea",
         "news:50fb80cecfadf520a46d86ce",
+        "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c"
       ]
