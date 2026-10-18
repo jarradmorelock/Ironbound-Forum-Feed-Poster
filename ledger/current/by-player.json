@@ -3865,6 +3865,7 @@
         "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
         "news:a17fecd758c204ad952309aa",
+        "news:a334aaa5082249aad68f8760",
         "news:b478f9f4df3759ce3761b2a7",
         "news:b5f4de95b4cc15206a461f02",
         "news:bbb6735c8179bd12cc8ccba1",
@@ -3920,6 +3921,7 @@
         "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
         "news:a17fecd758c204ad952309aa",
+        "news:a334aaa5082249aad68f8760",
         "news:b478f9f4df3759ce3761b2a7",
         "news:b5f4de95b4cc15206a461f02",
         "news:bbb6735c8179bd12cc8ccba1",
@@ -4373,12 +4375,14 @@
     },
     "00-0040138": {
       "event_ids": [
+        "news:a334aaa5082249aad68f8760",
         "news:bbb6735c8179bd12cc8ccba1"
       ],
       "name": "Jaylin Noel",
       "nfl_team": "HOU",
       "nflverse_id": "00-0040138",
       "primary_event_ids": [
+        "news:a334aaa5082249aad68f8760",
         "news:bbb6735c8179bd12cc8ccba1"
       ],
       "related_event_ids": []
