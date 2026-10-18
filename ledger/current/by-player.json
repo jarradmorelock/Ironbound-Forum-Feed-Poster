@@ -2903,6 +2903,7 @@
     "00-0038794": {
       "event_ids": [
         "news:2a359f50bef122df69bffef6",
+        "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
       ],
       "name": "Jaleel McLaughlin",
@@ -2911,6 +2912,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:2a359f50bef122df69bffef6",
+        "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
       ]
     },
@@ -3486,6 +3488,7 @@
     "00-0039373": {
       "event_ids": [
         "news:52c4bbe4441aa67811994dfd",
+        "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
       ],
       "name": "Audric Estimé",
@@ -3494,6 +3497,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:52c4bbe4441aa67811994dfd",
+        "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
       ]
     },
@@ -4751,6 +4755,7 @@
     "00-0040784": {
       "event_ids": [
         "news:2a359f50bef122df69bffef6",
+        "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014",
         "news:cb97fe3bc4e9b2d5a95aa6af"
       ],
@@ -4759,6 +4764,7 @@
       "nflverse_id": "00-0040784",
       "primary_event_ids": [
         "news:2a359f50bef122df69bffef6",
+        "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014",
         "news:cb97fe3bc4e9b2d5a95aa6af"
       ],
