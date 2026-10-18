@@ -1774,6 +1774,18 @@
         "news:ee4d079180ee110f314f6f54"
       ]
     },
+    "00-0036893": {
+      "event_ids": [
+        "news:b78541a08dabf31d051d8340"
+      ],
+      "name": "Najee Harris",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0036893",
+      "primary_event_ids": [
+        "news:b78541a08dabf31d051d8340"
+      ],
+      "related_event_ids": []
+    },
     "00-0036894": {
       "event_ids": [
         "news:64355f6f1ee34bf11b527855",
@@ -4634,7 +4646,8 @@
     "00-0040715": {
       "event_ids": [
         "news:0e09a720b76a232c592d4837",
-        "news:a399a9dd46c94fa1476e4186"
+        "news:a399a9dd46c94fa1476e4186",
+        "news:b78541a08dabf31d051d8340"
       ],
       "name": "Cam Skattebo",
       "nfl_team": "NYG",
@@ -4643,7 +4656,9 @@
         "news:0e09a720b76a232c592d4837",
         "news:a399a9dd46c94fa1476e4186"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:b78541a08dabf31d051d8340"
+      ]
     },
     "00-0040719": {
       "event_ids": [
