@@ -1089,6 +1089,18 @@
         "news:ffd5d01a9aa25669f6b14fea"
       ]
     },
+    "00-0035282": {
+      "event_ids": [
+        "news:13f4ae4c378aaa27b9a29889"
+      ],
+      "name": "Easton Stick",
+      "nfl_team": "TB",
+      "nflverse_id": "00-0035282",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:13f4ae4c378aaa27b9a29889"
+      ]
+    },
     "00-0035500": {
       "event_ids": [
         "news:bf9a34aeebdaccc60f26f1f0"
@@ -1792,6 +1804,7 @@
     },
     "00-0036894": {
       "event_ids": [
+        "news:13f4ae4c378aaa27b9a29889",
         "news:64355f6f1ee34bf11b527855",
         "news:97aa607eb16de384c08de908",
         "news:9897b50fcf6e1718e755ff42",
@@ -1802,6 +1815,7 @@
       "nfl_team": "PIT",
       "nflverse_id": "00-0036894",
       "primary_event_ids": [
+        "news:13f4ae4c378aaa27b9a29889",
         "news:97aa607eb16de384c08de908",
         "news:9897b50fcf6e1718e755ff42",
         "news:dc8f0590836eec1d1aab2622"
