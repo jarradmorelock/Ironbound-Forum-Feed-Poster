@@ -2925,6 +2925,7 @@
     "00-0038794": {
       "event_ids": [
         "news:2a359f50bef122df69bffef6",
+        "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
       ],
@@ -2934,6 +2935,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:2a359f50bef122df69bffef6",
+        "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
       ]
@@ -3516,6 +3518,7 @@
     "00-0039373": {
       "event_ids": [
         "news:52c4bbe4441aa67811994dfd",
+        "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
       ],
@@ -3525,6 +3528,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:52c4bbe4441aa67811994dfd",
+        "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
       ]
@@ -3754,6 +3758,7 @@
         "news:7ae52063cfe74450b522d9cd",
         "news:7ec39a2a7880df7475334bb1",
         "news:7fa453d2ef249eed23b9399e",
+        "news:861af8d722f1e28b50664228",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89cdc9dd54fb98692f66730a",
         "news:8bfcc5f42e63e50c195b278e",
@@ -3805,6 +3810,7 @@
         "news:7ae52063cfe74450b522d9cd",
         "news:7ec39a2a7880df7475334bb1",
         "news:7fa453d2ef249eed23b9399e",
+        "news:861af8d722f1e28b50664228",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89cdc9dd54fb98692f66730a",
         "news:8bfcc5f42e63e50c195b278e",
@@ -4792,6 +4798,7 @@
     "00-0040784": {
       "event_ids": [
         "news:2a359f50bef122df69bffef6",
+        "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014",
         "news:cb97fe3bc4e9b2d5a95aa6af"
@@ -4801,6 +4808,7 @@
       "nflverse_id": "00-0040784",
       "primary_event_ids": [
         "news:2a359f50bef122df69bffef6",
+        "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014",
         "news:cb97fe3bc4e9b2d5a95aa6af"
