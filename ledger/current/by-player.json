@@ -4013,12 +4013,15 @@
     },
     "00-0039893": {
       "event_ids": [
+        "news:6700f949c79ad71512a82285",
         "news:67670716dd18eafea21589c3"
       ],
       "name": "Brian Thomas Jr.",
       "nfl_team": "JAX",
       "nflverse_id": "00-0039893",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:6700f949c79ad71512a82285"
+      ],
       "related_event_ids": [
         "news:67670716dd18eafea21589c3"
       ]
