@@ -407,6 +407,7 @@
         "news:cb54c29e7a6316b028ee327e",
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:e54c2dbb508b79240a754253",
+        "news:e7292ebae4a604c14d09cd38",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ],
       "name": "Sheldon Day",
@@ -430,6 +431,7 @@
         "news:cb54c29e7a6316b028ee327e",
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:e54c2dbb508b79240a754253",
+        "news:e7292ebae4a604c14d09cd38",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ]
     },
@@ -5286,6 +5288,18 @@
         "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ]
+    },
+    "00-0041502": {
+      "event_ids": [
+        "news:e7292ebae4a604c14d09cd38"
+      ],
+      "name": "Josiah Trotter",
+      "nfl_team": "TB",
+      "nflverse_id": "00-0041502",
+      "primary_event_ids": [
+        "news:e7292ebae4a604c14d09cd38"
+      ],
+      "related_event_ids": []
     },
     "00-0041511": {
       "event_ids": [
