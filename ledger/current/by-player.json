@@ -732,6 +732,7 @@
     },
     "00-0034344": {
       "event_ids": [
+        "news:e7826bd17053debee2775935",
         "news:f94576bc4657166bd7e37087"
       ],
       "name": "Marcus Davenport",
@@ -739,6 +740,7 @@
       "nflverse_id": "00-0034344",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:e7826bd17053debee2775935",
         "news:f94576bc4657166bd7e37087"
       ]
     },
@@ -2523,6 +2525,18 @@
         "news:06b8df54b03da4fe95d7daf4"
       ]
     },
+    "00-0038121": {
+      "event_ids": [
+        "news:e7826bd17053debee2775935"
+      ],
+      "name": "Alontae Taylor",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0038121",
+      "primary_event_ids": [
+        "news:e7826bd17053debee2775935"
+      ],
+      "related_event_ids": []
+    },
     "00-0038124": {
       "event_ids": [
         "news:3c6d60cedebd49a719058e2a",
@@ -3802,6 +3816,7 @@
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
+        "news:e7826bd17053debee2775935",
         "news:e8b9c46b6f7c20665052ca43",
         "news:e914929871226c57f7f548db",
         "news:ebb465783605b9d9ecbd7663",
@@ -3856,6 +3871,7 @@
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
+        "news:e7826bd17053debee2775935",
         "news:e8b9c46b6f7c20665052ca43",
         "news:e914929871226c57f7f548db",
         "news:ebb465783605b9d9ecbd7663",
