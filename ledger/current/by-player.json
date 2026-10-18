@@ -2885,6 +2885,7 @@
       "event_ids": [
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:a91be86b465333c628438998",
+        "news:bc971d998e12bacee9b711c3",
         "news:d64f0b2ba86861be37aa3eb7",
         "news:f41fbd7e98f23b904a40ddd2"
       ],
@@ -2894,6 +2895,7 @@
       "primary_event_ids": [
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:a91be86b465333c628438998",
+        "news:bc971d998e12bacee9b711c3",
         "news:d64f0b2ba86861be37aa3eb7"
       ],
       "related_event_ids": [
