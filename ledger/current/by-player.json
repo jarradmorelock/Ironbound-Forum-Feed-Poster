@@ -315,6 +315,7 @@
       "event_ids": [
         "news:0f011c5b68769534d4b92859",
         "news:11fcbe677e681d636203b0df",
+        "news:13192a85a92da62e93c3df5a",
         "news:169a17bb9a2fb0774de2f48d",
         "news:45534b8591ba8dd7d6b4f9ca",
         "news:5901efaf2aa39c4da015df1b",
@@ -332,6 +333,7 @@
       "related_event_ids": [
         "news:0f011c5b68769534d4b92859",
         "news:11fcbe677e681d636203b0df",
+        "news:13192a85a92da62e93c3df5a",
         "news:169a17bb9a2fb0774de2f48d",
         "news:45534b8591ba8dd7d6b4f9ca",
         "news:5901efaf2aa39c4da015df1b",
@@ -1776,12 +1778,14 @@
     },
     "00-0036893": {
       "event_ids": [
+        "news:13192a85a92da62e93c3df5a",
         "news:b78541a08dabf31d051d8340"
       ],
       "name": "Najee Harris",
       "nfl_team": "NYG",
       "nflverse_id": "00-0036893",
       "primary_event_ids": [
+        "news:13192a85a92da62e93c3df5a",
         "news:b78541a08dabf31d051d8340"
       ],
       "related_event_ids": []
