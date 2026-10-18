@@ -3577,6 +3577,7 @@
     },
     "00-0039387": {
       "event_ids": [
+        "news:6f354d5a9d71cc2842d7a2e8",
         "news:e5895bf19e27c967de0506e2"
       ],
       "name": "Caelen Carson",
@@ -3584,6 +3585,7 @@
       "nflverse_id": "00-0039387",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:6f354d5a9d71cc2842d7a2e8",
         "news:e5895bf19e27c967de0506e2"
       ]
     },
@@ -4549,6 +4551,18 @@
         "news:ee4d079180ee110f314f6f54"
       ]
     },
+    "00-0040579": {
+      "event_ids": [
+        "news:6f354d5a9d71cc2842d7a2e8"
+      ],
+      "name": "Carson Schwesinger",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0040579",
+      "primary_event_ids": [
+        "news:6f354d5a9d71cc2842d7a2e8"
+      ],
+      "related_event_ids": []
+    },
     "00-0040583": {
       "event_ids": [
         "news:89cdc9dd54fb98692f66730a",
@@ -4654,6 +4668,18 @@
         "news:c12323bbdeb48798f08cb315"
       ],
       "related_event_ids": []
+    },
+    "00-0040685": {
+      "event_ids": [
+        "news:6f354d5a9d71cc2842d7a2e8"
+      ],
+      "name": "Mason Graham",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0040685",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:6f354d5a9d71cc2842d7a2e8"
+      ]
     },
     "00-0040691": {
       "event_ids": [
