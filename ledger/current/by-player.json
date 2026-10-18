@@ -3087,12 +3087,15 @@
     },
     "00-0038905": {
       "event_ids": [
-        "news:42d65fa207face1190ac5368"
+        "news:42d65fa207face1190ac5368",
+        "news:aee3eb3bb3ad526ffcd6ee95"
       ],
       "name": "Blake Grupe",
       "nfl_team": "NYJ",
       "nflverse_id": "00-0038905",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:aee3eb3bb3ad526ffcd6ee95"
+      ],
       "related_event_ids": [
         "news:42d65fa207face1190ac5368"
       ]
@@ -3713,7 +3716,8 @@
     },
     "00-0039498": {
       "event_ids": [
-        "news:42d65fa207face1190ac5368"
+        "news:42d65fa207face1190ac5368",
+        "news:aee3eb3bb3ad526ffcd6ee95"
       ],
       "name": "Harrison Mevis",
       "nfl_team": "LAR",
@@ -3721,7 +3725,9 @@
       "primary_event_ids": [
         "news:42d65fa207face1190ac5368"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:aee3eb3bb3ad526ffcd6ee95"
+      ]
     },
     "00-0039732": {
       "event_ids": [
