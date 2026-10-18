@@ -1523,6 +1523,18 @@
         "news:463c5f9292e3b5af0a2cc870"
       ]
     },
+    "00-0036309": {
+      "event_ids": [
+        "news:e66204750d3e868e226ee6d0"
+      ],
+      "name": "Darnell Mooney",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0036309",
+      "primary_event_ids": [
+        "news:e66204750d3e868e226ee6d0"
+      ],
+      "related_event_ids": []
+    },
     "00-0036322": {
       "event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
@@ -2855,6 +2867,18 @@
         "news:7fa453d2ef249eed23b9399e",
         "news:88f7c86eb3aec9c75aeeb1c0",
         "news:fc1f1382c660ab08ade0b8c9"
+      ]
+    },
+    "00-0038576": {
+      "event_ids": [
+        "news:e66204750d3e868e226ee6d0"
+      ],
+      "name": "Charlie Jones",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0038576",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e66204750d3e868e226ee6d0"
       ]
     },
     "00-0038590": {
