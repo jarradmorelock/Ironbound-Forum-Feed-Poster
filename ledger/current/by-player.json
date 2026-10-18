@@ -314,6 +314,7 @@
     "00-0032052": {
       "event_ids": [
         "news:0f011c5b68769534d4b92859",
+        "news:11fcbe677e681d636203b0df",
         "news:169a17bb9a2fb0774de2f48d",
         "news:45534b8591ba8dd7d6b4f9ca",
         "news:5901efaf2aa39c4da015df1b",
@@ -330,6 +331,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0f011c5b68769534d4b92859",
+        "news:11fcbe677e681d636203b0df",
         "news:169a17bb9a2fb0774de2f48d",
         "news:45534b8591ba8dd7d6b4f9ca",
         "news:5901efaf2aa39c4da015df1b",
@@ -4177,6 +4179,7 @@
     },
     "00-0040128": {
       "event_ids": [
+        "news:11fcbe677e681d636203b0df",
         "news:50c3a448be04998cf69323ba",
         "news:50fb80cecfadf520a46d86ce"
       ],
@@ -4184,6 +4187,7 @@
       "nfl_team": "IND",
       "nflverse_id": "00-0040128",
       "primary_event_ids": [
+        "news:11fcbe677e681d636203b0df",
         "news:50c3a448be04998cf69323ba"
       ],
       "related_event_ids": [
