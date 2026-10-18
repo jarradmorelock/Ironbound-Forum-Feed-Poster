@@ -4942,13 +4942,16 @@
       "event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
+        "news:962ec5d6fb79c98b21adba3a",
         "news:e8b9c46b6f7c20665052ca43",
         "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Makai Lemon",
       "nfl_team": "PHI",
       "nflverse_id": "00-0040867",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:962ec5d6fb79c98b21adba3a"
+      ],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:75c729e2909b2695469c436d",
