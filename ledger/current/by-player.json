@@ -3102,12 +3102,14 @@
     },
     "00-0038933": {
       "event_ids": [
+        "news:4e3ad93ad830c45fc7e38ce4",
         "news:ab6df1f6093f58a6e20885b0"
       ],
       "name": "Dalton Kincaid",
       "nfl_team": "BUF",
       "nflverse_id": "00-0038933",
       "primary_event_ids": [
+        "news:4e3ad93ad830c45fc7e38ce4",
         "news:ab6df1f6093f58a6e20885b0"
       ],
       "related_event_ids": []
