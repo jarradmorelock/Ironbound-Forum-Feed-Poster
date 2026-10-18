@@ -4753,7 +4753,8 @@
     "00-0040736": {
       "event_ids": [
         "news:1638b04885674ed7cfdaa436",
-        "news:6f0ad09ba539a488538f5130"
+        "news:6f0ad09ba539a488538f5130",
+        "news:d7f96a639042e5d3da2e8fec"
       ],
       "name": "Mason Taylor",
       "nfl_team": "NYJ",
@@ -4761,7 +4762,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:1638b04885674ed7cfdaa436",
-        "news:6f0ad09ba539a488538f5130"
+        "news:6f0ad09ba539a488538f5130",
+        "news:d7f96a639042e5d3da2e8fec"
       ]
     },
     "00-0040743": {
@@ -4940,7 +4942,8 @@
         "news:009503ab1e2f439ae272efe3",
         "news:1638b04885674ed7cfdaa436",
         "news:4cb79a176c6fb91d6630137f",
-        "news:6f0ad09ba539a488538f5130"
+        "news:6f0ad09ba539a488538f5130",
+        "news:d7f96a639042e5d3da2e8fec"
       ],
       "name": "Kenyon Sadiq",
       "nfl_team": "NYJ",
@@ -4949,7 +4952,8 @@
         "news:009503ab1e2f439ae272efe3",
         "news:1638b04885674ed7cfdaa436",
         "news:4cb79a176c6fb91d6630137f",
-        "news:6f0ad09ba539a488538f5130"
+        "news:6f0ad09ba539a488538f5130",
+        "news:d7f96a639042e5d3da2e8fec"
       ],
       "related_event_ids": []
     },
