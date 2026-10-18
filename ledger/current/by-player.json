@@ -4604,6 +4604,7 @@
     "00-0040583": {
       "event_ids": [
         "news:89cdc9dd54fb98692f66730a",
+        "news:8e8bb81c26f3f0f16244ad78",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b",
         "news:fa3a2aec7888f0c623f6bf0b",
@@ -4613,7 +4614,8 @@
       "nfl_team": "HOU",
       "nflverse_id": "00-0040583",
       "primary_event_ids": [
-        "news:89cdc9dd54fb98692f66730a"
+        "news:89cdc9dd54fb98692f66730a",
+        "news:8e8bb81c26f3f0f16244ad78"
       ],
       "related_event_ids": [
         "news:8ffb3f30b97a5d72f2323fe4",
