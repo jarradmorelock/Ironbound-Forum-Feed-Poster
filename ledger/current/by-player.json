@@ -1701,6 +1701,7 @@
     "00-0036550": {
       "event_ids": [
         "news:1a486b2222b1a1ad15c6b811",
+        "news:25e4a07a034f25adc44a4bfa",
         "news:f6f94f013d7caa9ca63f4a0a"
       ],
       "name": "Rashod Bateman",
@@ -1708,6 +1709,7 @@
       "nflverse_id": "00-0036550",
       "primary_event_ids": [
         "news:1a486b2222b1a1ad15c6b811",
+        "news:25e4a07a034f25adc44a4bfa",
         "news:f6f94f013d7caa9ca63f4a0a"
       ],
       "related_event_ids": []
