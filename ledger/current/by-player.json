@@ -213,12 +213,14 @@
     },
     "00-0030565": {
       "event_ids": [
+        "news:29da31ae9849fe88823a6473",
         "news:edf34ad3ba8d192047cbb068"
       ],
       "name": "Geno Smith",
       "nfl_team": "NYJ",
       "nflverse_id": "00-0030565",
       "primary_event_ids": [
+        "news:29da31ae9849fe88823a6473",
         "news:edf34ad3ba8d192047cbb068"
       ],
       "related_event_ids": []
