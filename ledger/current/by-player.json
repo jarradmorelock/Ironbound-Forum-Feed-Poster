@@ -1682,12 +1682,15 @@
     },
     "00-0036407": {
       "event_ids": [
-        "news:0230ede58f08ec745722fd04"
+        "news:0230ede58f08ec745722fd04",
+        "news:77b1b416f55cbcb377515e5f"
       ],
       "name": "Jerry Jeudy",
       "nfl_team": "CLE",
       "nflverse_id": "00-0036407",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:77b1b416f55cbcb377515e5f"
+      ],
       "related_event_ids": [
         "news:0230ede58f08ec745722fd04"
       ]
@@ -3973,6 +3976,7 @@
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
         "news:752e82ec9f204a38e36b4db6",
+        "news:77b1b416f55cbcb377515e5f",
         "news:7889f88bb18d838394b7a33e",
         "news:7ae52063cfe74450b522d9cd",
         "news:7ec39a2a7880df7475334bb1",
@@ -4030,6 +4034,7 @@
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
         "news:752e82ec9f204a38e36b4db6",
+        "news:77b1b416f55cbcb377515e5f",
         "news:7889f88bb18d838394b7a33e",
         "news:7ae52063cfe74450b522d9cd",
         "news:7ec39a2a7880df7475334bb1",
