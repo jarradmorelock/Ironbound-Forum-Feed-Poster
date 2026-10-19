@@ -4922,6 +4922,7 @@
     "00-0040715": {
       "event_ids": [
         "news:0e09a720b76a232c592d4837",
+        "news:6cc81f38d30fbdf86adc2e3d",
         "news:a399a9dd46c94fa1476e4186",
         "news:b78541a08dabf31d051d8340"
       ],
@@ -4930,6 +4931,7 @@
       "nflverse_id": "00-0040715",
       "primary_event_ids": [
         "news:0e09a720b76a232c592d4837",
+        "news:6cc81f38d30fbdf86adc2e3d",
         "news:a399a9dd46c94fa1476e4186"
       ],
       "related_event_ids": [
