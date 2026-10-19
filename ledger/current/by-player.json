@@ -2362,6 +2362,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0037291": {
+      "event_ids": [
+        "news:4bcbbf5f52b1ff63e09eae51"
+      ],
+      "name": "Jalen Nailor",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0037291",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:4bcbbf5f52b1ff63e09eae51"
+      ]
+    },
     "00-0037410": {
       "event_ids": [
         "news:757102e0541f7c9f38c2b05f"
@@ -2985,6 +2997,18 @@
       "related_event_ids": [
         "news:83d617efa24a34fc6e66221d"
       ]
+    },
+    "00-0038563": {
+      "event_ids": [
+        "news:4bcbbf5f52b1ff63e09eae51"
+      ],
+      "name": "Tre Tucker",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0038563",
+      "primary_event_ids": [
+        "news:4bcbbf5f52b1ff63e09eae51"
+      ],
+      "related_event_ids": []
     },
     "00-0038573": {
       "event_ids": [
