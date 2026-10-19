@@ -1,5 +1,17 @@
 {
   "players": {
+    "00-0023459": {
+      "event_ids": [
+        "news:04e7e3ed4d1f5d520e22aee1"
+      ],
+      "name": "Aaron Rodgers",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0023459",
+      "primary_event_ids": [
+        "news:04e7e3ed4d1f5d520e22aee1"
+      ],
+      "related_event_ids": []
+    },
     "00-0026498": {
       "event_ids": [
         "news:0d6e90509e44e61d90b288ee",
