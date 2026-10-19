@@ -5006,6 +5006,7 @@
     },
     "00-0040743": {
       "event_ids": [
+        "news:2e8963cc000ebc9a50789f52",
         "news:a01d37964bbb31eeb277a63a",
         "news:bc5cec98c39afb696910ebd0",
         "news:dd2c83f939b8dd92986bd909",
@@ -5015,6 +5016,7 @@
       "nfl_team": "NO",
       "nflverse_id": "00-0040743",
       "primary_event_ids": [
+        "news:2e8963cc000ebc9a50789f52",
         "news:a01d37964bbb31eeb277a63a",
         "news:bc5cec98c39afb696910ebd0",
         "news:dd2c83f939b8dd92986bd909"
