@@ -124,6 +124,7 @@
         "news:167e4084e2ee9adca6ab8874",
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:3ee980249f53a8fa31d9247e",
+        "news:3f049ac6e932ebd27ca5e7e2",
         "news:5b58c75e540f50514f533d8b",
         "news:6c146d141dd8e18084e6efa4",
         "news:72fdce09b9649c7a25cc74f5",
@@ -146,6 +147,7 @@
         "news:167e4084e2ee9adca6ab8874",
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:3ee980249f53a8fa31d9247e",
+        "news:3f049ac6e932ebd27ca5e7e2",
         "news:5b58c75e540f50514f533d8b",
         "news:6c146d141dd8e18084e6efa4",
         "news:72fdce09b9649c7a25cc74f5",
@@ -2525,7 +2527,8 @@
     "00-0037747": {
       "event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
-        "news:23b438c84374010e1a201958"
+        "news:23b438c84374010e1a201958",
+        "news:3f049ac6e932ebd27ca5e7e2"
       ],
       "name": "Christian Matthew",
       "nfl_team": "DAL",
@@ -2533,7 +2536,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
-        "news:23b438c84374010e1a201958"
+        "news:23b438c84374010e1a201958",
+        "news:3f049ac6e932ebd27ca5e7e2"
       ]
     },
     "00-0037816": {
@@ -5053,14 +5057,16 @@
     "00-0040667": {
       "event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
-        "news:34529980b10e2fe5eee08602"
+        "news:34529980b10e2fe5eee08602",
+        "news:3f049ac6e932ebd27ca5e7e2"
       ],
       "name": "Matthew Golden",
       "nfl_team": "GB",
       "nflverse_id": "00-0040667",
       "primary_event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
-        "news:34529980b10e2fe5eee08602"
+        "news:34529980b10e2fe5eee08602",
+        "news:3f049ac6e932ebd27ca5e7e2"
       ],
       "related_event_ids": []
     },
