@@ -1192,6 +1192,18 @@
         "news:bf9a34aeebdaccc60f26f1f0"
       ]
     },
+    "00-0035537": {
+      "event_ids": [
+        "news:828e3d49c915b104a7d7663d"
+      ],
+      "name": "Ty Johnson",
+      "nfl_team": "BUF",
+      "nflverse_id": "00-0035537",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:828e3d49c915b104a7d7663d"
+      ]
+    },
     "00-0035589": {
       "event_ids": [
         "news:fc1f1382c660ab08ade0b8c9"
@@ -2172,6 +2184,7 @@
     "00-0037203": {
       "event_ids": [
         "news:07b2ae52e4dcb7db56ff0c9d",
+        "news:828e3d49c915b104a7d7663d",
         "news:8d718e4797ba786637f1d6b7"
       ],
       "name": "LaBryan Ray",
@@ -2180,6 +2193,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:07b2ae52e4dcb7db56ff0c9d",
+        "news:828e3d49c915b104a7d7663d",
         "news:8d718e4797ba786637f1d6b7"
       ]
     },
@@ -2280,6 +2294,7 @@
     },
     "00-0037248": {
       "event_ids": [
+        "news:828e3d49c915b104a7d7663d",
         "news:8d6b7a767f0f5525e93ff190",
         "news:af43c5cdccc82ba0bb4c4407",
         "news:d75eaf8117acb2a62048a5c1"
@@ -2288,6 +2303,7 @@
       "nfl_team": "BUF",
       "nflverse_id": "00-0037248",
       "primary_event_ids": [
+        "news:828e3d49c915b104a7d7663d",
         "news:8d6b7a767f0f5525e93ff190",
         "news:af43c5cdccc82ba0bb4c4407",
         "news:d75eaf8117acb2a62048a5c1"
@@ -4060,6 +4076,7 @@
         "news:7ae52063cfe74450b522d9cd",
         "news:7ec39a2a7880df7475334bb1",
         "news:7fa453d2ef249eed23b9399e",
+        "news:828e3d49c915b104a7d7663d",
         "news:861af8d722f1e28b50664228",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89cdc9dd54fb98692f66730a",
@@ -4118,6 +4135,7 @@
         "news:7ae52063cfe74450b522d9cd",
         "news:7ec39a2a7880df7475334bb1",
         "news:7fa453d2ef249eed23b9399e",
+        "news:828e3d49c915b104a7d7663d",
         "news:861af8d722f1e28b50664228",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89cdc9dd54fb98692f66730a",
@@ -4221,6 +4239,18 @@
       ],
       "related_event_ids": [
         "news:dd6641bd87f31f873c20a3b5"
+      ]
+    },
+    "00-0039875": {
+      "event_ids": [
+        "news:828e3d49c915b104a7d7663d"
+      ],
+      "name": "Ray Davis",
+      "nfl_team": "BUF",
+      "nflverse_id": "00-0039875",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:828e3d49c915b104a7d7663d"
       ]
     },
     "00-0039880": {
