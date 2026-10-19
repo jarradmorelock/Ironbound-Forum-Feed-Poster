@@ -2447,6 +2447,7 @@
         "news:ce3e51627516baf78633b05f",
         "news:d9e943bd280b4c695fce45d7",
         "news:db3e642a6c70f2809524a2c0",
+        "news:e25fc6fe0048b0523bbcd494",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:ff8a5801f5a00a64f90f51ad"
       ],
@@ -2454,7 +2455,8 @@
       "nfl_team": "NYG",
       "nflverse_id": "00-0037838",
       "primary_event_ids": [
-        "news:db3e642a6c70f2809524a2c0"
+        "news:db3e642a6c70f2809524a2c0",
+        "news:e25fc6fe0048b0523bbcd494"
       ],
       "related_event_ids": [
         "news:03c3a62cab4d3b425f7fe2f4",
