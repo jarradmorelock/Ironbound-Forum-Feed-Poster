@@ -2614,6 +2614,7 @@
     "00-0038117": {
       "event_ids": [
         "news:77a7f3be3a4ffd5cbcdb00cc",
+        "news:f99e688c8436790e65a46da0",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "name": "Wan'Dale Robinson",
@@ -2623,6 +2624,7 @@
         "news:77a7f3be3a4ffd5cbcdb00cc"
       ],
       "related_event_ids": [
+        "news:f99e688c8436790e65a46da0",
         "news:ffd5d01a9aa25669f6b14fea"
       ]
     },
@@ -5557,6 +5559,7 @@
         "news:76e7b47db814a4e5a52ae9bb",
         "news:77a7f3be3a4ffd5cbcdb00cc",
         "news:f94576bc4657166bd7e37087",
+        "news:f99e688c8436790e65a46da0",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "name": "Carnell Tate",
@@ -5568,6 +5571,7 @@
         "news:558ed254f47f8da7abfe7301",
         "news:76e7b47db814a4e5a52ae9bb",
         "news:f94576bc4657166bd7e37087",
+        "news:f99e688c8436790e65a46da0",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "related_event_ids": [
