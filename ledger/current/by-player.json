@@ -129,7 +129,8 @@
         "news:a0a2fbf046e1657bf21ec8d6",
         "news:b6f2bbeacca56635d187ec1a",
         "news:bdcbe7e4c4b988bdde4e3f18",
-        "news:e5ed47203eac93b2660f95bb"
+        "news:e5ed47203eac93b2660f95bb",
+        "news:f3dd8c914a34d927bc360636"
       ],
       "name": "Tress Way",
       "nfl_team": "WAS",
@@ -148,7 +149,8 @@
         "news:a0a2fbf046e1657bf21ec8d6",
         "news:b6f2bbeacca56635d187ec1a",
         "news:bdcbe7e4c4b988bdde4e3f18",
-        "news:e5ed47203eac93b2660f95bb"
+        "news:e5ed47203eac93b2660f95bb",
+        "news:f3dd8c914a34d927bc360636"
       ]
     },
     "00-0030279": {
@@ -5201,6 +5203,18 @@
       "related_event_ids": [
         "news:2895c73454026dda022593e1"
       ]
+    },
+    "00-0040887": {
+      "event_ids": [
+        "news:f3dd8c914a34d927bc360636"
+      ],
+      "name": "Josh Cuevas",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0040887",
+      "primary_event_ids": [
+        "news:f3dd8c914a34d927bc360636"
+      ],
+      "related_event_ids": []
     },
     "00-0041027": {
       "event_ids": [
