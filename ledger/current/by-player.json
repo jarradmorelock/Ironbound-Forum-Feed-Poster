@@ -162,6 +162,18 @@
         "news:7df545a15b8e8b40aabf0420"
       ]
     },
+    "00-0030506": {
+      "event_ids": [
+        "news:ae1426a2b90eb9240ba89d60"
+      ],
+      "name": "Travis Kelce",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0030506",
+      "primary_event_ids": [
+        "news:ae1426a2b90eb9240ba89d60"
+      ],
+      "related_event_ids": []
+    },
     "00-0030561": {
       "event_ids": [
         "news:d886d94ff65be4289afae51a"
