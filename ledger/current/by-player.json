@@ -273,14 +273,16 @@
     "00-0031503": {
       "event_ids": [
         "news:27e4b099e012785fc6d7a517",
-        "news:d573fd29419a4595a79fe5b4"
+        "news:d573fd29419a4595a79fe5b4",
+        "news:f28516b7018e19a46293acad"
       ],
       "name": "Jameis Winston",
       "nfl_team": "NYG",
       "nflverse_id": "00-0031503",
       "primary_event_ids": [
         "news:27e4b099e012785fc6d7a517",
-        "news:d573fd29419a4595a79fe5b4"
+        "news:d573fd29419a4595a79fe5b4",
+        "news:f28516b7018e19a46293acad"
       ],
       "related_event_ids": []
     },
@@ -4286,7 +4288,8 @@
     "00-0039923": {
       "event_ids": [
         "news:763439aaadfe38a0d21ab332",
-        "news:e528f25814b3c5542b10d122"
+        "news:e528f25814b3c5542b10d122",
+        "news:f28516b7018e19a46293acad"
       ],
       "name": "J.J. McCarthy",
       "nfl_team": "NYG",
@@ -4294,7 +4297,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:763439aaadfe38a0d21ab332",
-        "news:e528f25814b3c5542b10d122"
+        "news:e528f25814b3c5542b10d122",
+        "news:f28516b7018e19a46293acad"
       ]
     },
     "00-0040024": {
