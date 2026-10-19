@@ -2550,13 +2550,15 @@
     },
     "00-0037525": {
       "event_ids": [
-        "news:45534b8591ba8dd7d6b4f9ca"
+        "news:45534b8591ba8dd7d6b4f9ca",
+        "news:6ba716a9fc8e828800ac01e5"
       ],
       "name": "Jordan Mason",
       "nfl_team": "MIN",
       "nflverse_id": "00-0037525",
       "primary_event_ids": [
-        "news:45534b8591ba8dd7d6b4f9ca"
+        "news:45534b8591ba8dd7d6b4f9ca",
+        "news:6ba716a9fc8e828800ac01e5"
       ],
       "related_event_ids": []
     },
@@ -3940,6 +3942,7 @@
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
         "news:64355f6f1ee34bf11b527855",
+        "news:6ba716a9fc8e828800ac01e5",
         "news:7c559872831dcb67748baa23",
         "news:8354d59a411a6665e71f4f5b",
         "news:8eed84627f54a101edf74c50",
@@ -3964,6 +3967,7 @@
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
         "news:64355f6f1ee34bf11b527855",
+        "news:6ba716a9fc8e828800ac01e5",
         "news:7c559872831dcb67748baa23",
         "news:8354d59a411a6665e71f4f5b",
         "news:8eed84627f54a101edf74c50",
