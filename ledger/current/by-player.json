@@ -727,7 +727,8 @@
     "00-0033868": {
       "event_ids": [
         "news:422095401f0568abd0f833ec",
-        "news:6dd134d3c33d117fa38113b0"
+        "news:6dd134d3c33d117fa38113b0",
+        "news:b647c351b944f6004d628754"
       ],
       "name": "Myles Garrett",
       "nfl_team": "LAR",
@@ -736,7 +737,8 @@
         "news:422095401f0568abd0f833ec"
       ],
       "related_event_ids": [
-        "news:6dd134d3c33d117fa38113b0"
+        "news:6dd134d3c33d117fa38113b0",
+        "news:b647c351b944f6004d628754"
       ]
     },
     "00-0033873": {
@@ -2563,6 +2565,7 @@
       "event_ids": [
         "news:1cb9b26dbd535ef847780088",
         "news:6dd134d3c33d117fa38113b0",
+        "news:b647c351b944f6004d628754",
         "news:f0a4295ff923a7218b517fb9"
       ],
       "name": "Garrett Wilson",
@@ -2570,6 +2573,7 @@
       "nflverse_id": "00-0037740",
       "primary_event_ids": [
         "news:1cb9b26dbd535ef847780088",
+        "news:b647c351b944f6004d628754",
         "news:f0a4295ff923a7218b517fb9"
       ],
       "related_event_ids": [
