@@ -4113,6 +4113,7 @@
         "news:972e2bb1ade13ada0e79bcb5",
         "news:a17fecd758c204ad952309aa",
         "news:a334aaa5082249aad68f8760",
+        "news:a39764b6f03e4b5cdcc3ccb3",
         "news:b478f9f4df3759ce3761b2a7",
         "news:b5f4de95b4cc15206a461f02",
         "news:bbb6735c8179bd12cc8ccba1",
@@ -4172,6 +4173,7 @@
         "news:972e2bb1ade13ada0e79bcb5",
         "news:a17fecd758c204ad952309aa",
         "news:a334aaa5082249aad68f8760",
+        "news:a39764b6f03e4b5cdcc3ccb3",
         "news:b478f9f4df3759ce3761b2a7",
         "news:b5f4de95b4cc15206a461f02",
         "news:bbb6735c8179bd12cc8ccba1",
@@ -5252,6 +5254,18 @@
         "news:6104a3a334df42b931c67835",
         "news:f08fe2bb9baba85b1f0f3d19"
       ]
+    },
+    "00-0040735": {
+      "event_ids": [
+        "news:a39764b6f03e4b5cdcc3ccb3"
+      ],
+      "name": "Luther Burden III",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0040735",
+      "primary_event_ids": [
+        "news:a39764b6f03e4b5cdcc3ccb3"
+      ],
+      "related_event_ids": []
     },
     "00-0040736": {
       "event_ids": [
