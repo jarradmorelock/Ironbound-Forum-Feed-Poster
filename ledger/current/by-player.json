@@ -1613,6 +1613,7 @@
         "news:322740cd8ad79ba067ae6dea",
         "news:38ca495dac24f4805f0c6d5e",
         "news:463c5f9292e3b5af0a2cc870",
+        "news:9eb57c758e1284eb3228b89a",
         "news:b0049374b66a2d3d9a42519e"
       ],
       "name": "D'Andre Swift",
@@ -1620,6 +1621,7 @@
       "nflverse_id": "00-0036275",
       "primary_event_ids": [
         "news:322740cd8ad79ba067ae6dea",
+        "news:9eb57c758e1284eb3228b89a",
         "news:b0049374b66a2d3d9a42519e"
       ],
       "related_event_ids": [
