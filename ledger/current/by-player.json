@@ -1127,6 +1127,7 @@
         "news:265b96a6d5b429b2598e9c2f",
         "news:2895c73454026dda022593e1",
         "news:332e45f574e5b92bde4f99c7",
+        "news:54c67af945eff0eedfa01598",
         "news:7f135c7a5a85681728cd6f95",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
@@ -1136,6 +1137,7 @@
       "primary_event_ids": [
         "news:2895c73454026dda022593e1",
         "news:332e45f574e5b92bde4f99c7",
+        "news:54c67af945eff0eedfa01598",
         "news:7f135c7a5a85681728cd6f95"
       ],
       "related_event_ids": [
@@ -3322,6 +3324,7 @@
       "event_ids": [
         "news:265b96a6d5b429b2598e9c2f",
         "news:2895c73454026dda022593e1",
+        "news:54c67af945eff0eedfa01598",
         "news:63a0c049f8b5b03cf42fb0a6"
       ],
       "name": "Tyjae Spears",
@@ -3332,7 +3335,8 @@
         "news:63a0c049f8b5b03cf42fb0a6"
       ],
       "related_event_ids": [
-        "news:2895c73454026dda022593e1"
+        "news:2895c73454026dda022593e1",
+        "news:54c67af945eff0eedfa01598"
       ]
     },
     "00-0039040": {
