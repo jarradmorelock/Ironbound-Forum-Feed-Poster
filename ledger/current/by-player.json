@@ -3479,13 +3479,15 @@
     },
     "00-0038977": {
       "event_ids": [
-        "news:e8b20af7ca1f9bd7dc0337f0"
+        "news:e8b20af7ca1f9bd7dc0337f0",
+        "news:eae832cb642745efc7b25afa"
       ],
       "name": "Tank Dell",
       "nfl_team": "HOU",
       "nflverse_id": "00-0038977",
       "primary_event_ids": [
-        "news:e8b20af7ca1f9bd7dc0337f0"
+        "news:e8b20af7ca1f9bd7dc0337f0",
+        "news:eae832cb642745efc7b25afa"
       ],
       "related_event_ids": []
     },
@@ -5836,6 +5838,18 @@
         "news:15c12b09c0c206a73220046d"
       ],
       "related_event_ids": []
+    },
+    "00-0041131": {
+      "event_ids": [
+        "news:eae832cb642745efc7b25afa"
+      ],
+      "name": "Carsen Ryan",
+      "nfl_team": "CLE",
+      "nflverse_id": "00-0041131",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:eae832cb642745efc7b25afa"
+      ]
     },
     "00-0041153": {
       "event_ids": [
