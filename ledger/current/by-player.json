@@ -3764,14 +3764,16 @@
         "news:1c447870c8cbc3dc21381426",
         "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f",
-        "news:d54619e249e1073482a4c77b"
+        "news:d54619e249e1073482a4c77b",
+        "news:f7b47abf4dbbd785c3c41bf4"
       ],
       "name": "Zach Charbonnet",
       "nfl_team": "SEA",
       "nflverse_id": "00-0039165",
       "primary_event_ids": [
         "news:757102e0541f7c9f38c2b05f",
-        "news:80007ef73885136616e6356f"
+        "news:80007ef73885136616e6356f",
+        "news:f7b47abf4dbbd785c3c41bf4"
       ],
       "related_event_ids": [
         "news:1c447870c8cbc3dc21381426",
