@@ -5497,13 +5497,15 @@
     "00-0041251": {
       "event_ids": [
         "news:4e5d9ed34ced960769edc58e",
-        "news:70db6532958f1e615f3d0c8c"
+        "news:70db6532958f1e615f3d0c8c",
+        "news:9792625a08d9ec0a73d31340"
       ],
       "name": "Jalon Daniels",
       "nfl_team": "TB",
       "nflverse_id": "00-0041251",
       "primary_event_ids": [
-        "news:4e5d9ed34ced960769edc58e"
+        "news:4e5d9ed34ced960769edc58e",
+        "news:9792625a08d9ec0a73d31340"
       ],
       "related_event_ids": [
         "news:70db6532958f1e615f3d0c8c"
