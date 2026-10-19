@@ -489,13 +489,15 @@
     },
     "00-0033119": {
       "event_ids": [
-        "news:42f2f7febf62952f1ca4dcef"
+        "news:42f2f7febf62952f1ca4dcef",
+        "news:aeb0aa6933ec4e64b39a8056"
       ],
       "name": "Jacoby Brissett",
       "nfl_team": "ARI",
       "nflverse_id": "00-0033119",
       "primary_event_ids": [
-        "news:42f2f7febf62952f1ca4dcef"
+        "news:42f2f7febf62952f1ca4dcef",
+        "news:aeb0aa6933ec4e64b39a8056"
       ],
       "related_event_ids": []
     },
