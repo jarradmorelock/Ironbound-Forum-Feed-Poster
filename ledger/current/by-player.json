@@ -61,6 +61,7 @@
     },
     "00-0029562": {
       "event_ids": [
+        "news:32a290545f5b14bb06086c2b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:89cdc9dd54fb98692f66730a",
         "news:c50f1bac7b008b7223c89a18",
@@ -73,6 +74,7 @@
       "nflverse_id": "00-0029562",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:32a290545f5b14bb06086c2b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:89cdc9dd54fb98692f66730a",
         "news:c50f1bac7b008b7223c89a18",
@@ -1371,6 +1373,7 @@
     },
     "00-0035685": {
       "event_ids": [
+        "news:32a290545f5b14bb06086c2b",
         "news:5206e36183dff6a2a35aa4bf",
         "news:89cdc9dd54fb98692f66730a",
         "news:fa3a2aec7888f0c623f6bf0b",
@@ -1385,6 +1388,7 @@
         "news:ff8a5801f5a00a64f90f51ad"
       ],
       "related_event_ids": [
+        "news:32a290545f5b14bb06086c2b",
         "news:89cdc9dd54fb98692f66730a"
       ]
     },
@@ -4026,6 +4030,18 @@
         "news:927f4d2cdb6a1ee11ac2c476"
       ]
     },
+    "00-0039405": {
+      "event_ids": [
+        "news:32a290545f5b14bb06086c2b"
+      ],
+      "name": "Jawhar Jordan",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0039405",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:32a290545f5b14bb06086c2b"
+      ]
+    },
     "00-0039424": {
       "event_ids": [
         "news:ae5a31606ec9ac1a414ca1f3"
@@ -5118,6 +5134,7 @@
     },
     "00-0040583": {
       "event_ids": [
+        "news:32a290545f5b14bb06086c2b",
         "news:4ef5c77f9830f2656c79cc32",
         "news:89cdc9dd54fb98692f66730a",
         "news:8e8bb81c26f3f0f16244ad78",
@@ -5131,6 +5148,7 @@
       "nfl_team": "HOU",
       "nflverse_id": "00-0040583",
       "primary_event_ids": [
+        "news:32a290545f5b14bb06086c2b",
         "news:89cdc9dd54fb98692f66730a",
         "news:8e8bb81c26f3f0f16244ad78"
       ],
