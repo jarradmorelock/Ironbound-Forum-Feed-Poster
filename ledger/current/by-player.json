@@ -644,13 +644,15 @@
     },
     "00-0033537": {
       "event_ids": [
-        "news:42555320f3a86cbc75aa6922"
+        "news:42555320f3a86cbc75aa6922",
+        "news:678625af7af0c2fa56fcf894"
       ],
       "name": "Deshaun Watson",
       "nfl_team": "CLE",
       "nflverse_id": "00-0033537",
       "primary_event_ids": [
-        "news:42555320f3a86cbc75aa6922"
+        "news:42555320f3a86cbc75aa6922",
+        "news:678625af7af0c2fa56fcf894"
       ],
       "related_event_ids": []
     },
