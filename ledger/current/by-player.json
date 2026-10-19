@@ -2638,13 +2638,15 @@
     "00-0038134": {
       "event_ids": [
         "news:8a57f4e49574e754bcdced58",
+        "news:b525fda2cf8838652e4acc01",
         "news:d7b4005ee2803b39b1aead49"
       ],
       "name": "Kenneth Walker III",
       "nfl_team": "KC",
       "nflverse_id": "00-0038134",
       "primary_event_ids": [
-        "news:8a57f4e49574e754bcdced58"
+        "news:8a57f4e49574e754bcdced58",
+        "news:b525fda2cf8838652e4acc01"
       ],
       "related_event_ids": [
         "news:d7b4005ee2803b39b1aead49"
