@@ -565,6 +565,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0033217": {
+      "event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df"
+      ],
+      "name": "Mo Alie-Cox",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0033217",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df"
+      ]
+    },
     "00-0033280": {
       "event_ids": [
         "news:0c2757704a3c3070f7fe9fb0"
@@ -620,6 +632,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:83d617efa24a34fc6e66221d"
+      ]
+    },
+    "00-0033439": {
+      "event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df"
+      ],
+      "name": "Pharaoh Brown",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0033439",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df"
       ]
     },
     "00-0033505": {
@@ -1392,6 +1416,7 @@
     },
     "00-0035710": {
       "event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df",
         "news:50fb80cecfadf520a46d86ce",
         "news:6c938f124ba297c9726fa3b2",
         "news:ac0f5b783e106fa472ccb883",
@@ -1407,6 +1432,7 @@
         "news:e95843dbba719fa986e464b4"
       ],
       "related_event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df",
         "news:50fb80cecfadf520a46d86ce",
         "news:6c938f124ba297c9726fa3b2"
       ]
@@ -2428,6 +2454,18 @@
         "news:4bcbbf5f52b1ff63e09eae51"
       ]
     },
+    "00-0037292": {
+      "event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df"
+      ],
+      "name": "Andrew Ogletree",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0037292",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df"
+      ]
+    },
     "00-0037410": {
       "event_ids": [
         "news:757102e0541f7c9f38c2b05f"
@@ -2837,6 +2875,18 @@
         "news:75c729e2909b2695469c436d",
         "news:e8b9c46b6f7c20665052ca43"
       ]
+    },
+    "00-0038394": {
+      "event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df"
+      ],
+      "name": "Will Mallory",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0038394",
+      "primary_event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df"
+      ],
+      "related_event_ids": []
     },
     "00-0038400": {
       "event_ids": [
@@ -4615,6 +4665,7 @@
     "00-0040128": {
       "event_ids": [
         "news:11fcbe677e681d636203b0df",
+        "news:2ae86ca2f1bec9de3f2c08df",
         "news:50c3a448be04998cf69323ba",
         "news:50fb80cecfadf520a46d86ce",
         "news:7df545a15b8e8b40aabf0420"
@@ -4628,6 +4679,7 @@
         "news:7df545a15b8e8b40aabf0420"
       ],
       "related_event_ids": [
+        "news:2ae86ca2f1bec9de3f2c08df",
         "news:50fb80cecfadf520a46d86ce"
       ]
     },
