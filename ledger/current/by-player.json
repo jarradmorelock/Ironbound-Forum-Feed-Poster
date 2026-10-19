@@ -774,6 +774,7 @@
       "event_ids": [
         "news:0203963a0744637b06e379f1",
         "news:3cee59ea0f35ec0b4ae11eab",
+        "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
         "news:60f84ca03fcefdddd2f2f0b0",
         "news:7dd859216b3bba49d57c92ab",
@@ -785,6 +786,7 @@
       "primary_event_ids": [
         "news:0203963a0744637b06e379f1",
         "news:3cee59ea0f35ec0b4ae11eab",
+        "news:4ef5c77f9830f2656c79cc32",
         "news:60f84ca03fcefdddd2f2f0b0",
         "news:ba38911b0ee4c1d0ac4a7cd7"
       ],
@@ -1693,6 +1695,7 @@
         "news:34031c4ca8e242017da37732",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:475c5bba8f8720011bb146ac",
+        "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
         "news:60f84ca03fcefdddd2f2f0b0",
         "news:7dd859216b3bba49d57c92ab",
@@ -1707,6 +1710,7 @@
         "news:34031c4ca8e242017da37732",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:475c5bba8f8720011bb146ac",
+        "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
         "news:60f84ca03fcefdddd2f2f0b0",
         "news:7dd859216b3bba49d57c92ab",
@@ -1916,6 +1920,7 @@
         "news:0203963a0744637b06e379f1",
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
+        "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
         "news:539f223c83c7e1e635bf5698",
         "news:75c729e2909b2695469c436d",
@@ -1941,6 +1946,7 @@
         "news:00c503483783fa1ebca89065",
         "news:0203963a0744637b06e379f1",
         "news:3cee59ea0f35ec0b4ae11eab",
+        "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab",
         "news:fa98c3a4d37de2dc41931a57",
@@ -2685,6 +2691,7 @@
     },
     "00-0038400": {
       "event_ids": [
+        "news:4ef5c77f9830f2656c79cc32",
         "news:539f223c83c7e1e635bf5698",
         "news:bee5aad2cf2d2a3a1968e6b3",
         "news:d9298aba647019266bcb6de0"
@@ -2696,6 +2703,7 @@
         "news:bee5aad2cf2d2a3a1968e6b3"
       ],
       "related_event_ids": [
+        "news:4ef5c77f9830f2656c79cc32",
         "news:539f223c83c7e1e635bf5698",
         "news:d9298aba647019266bcb6de0"
       ]
@@ -4749,6 +4757,7 @@
     },
     "00-0040583": {
       "event_ids": [
+        "news:4ef5c77f9830f2656c79cc32",
         "news:89cdc9dd54fb98692f66730a",
         "news:8e8bb81c26f3f0f16244ad78",
         "news:8ffb3f30b97a5d72f2323fe4",
@@ -4764,6 +4773,7 @@
         "news:8e8bb81c26f3f0f16244ad78"
       ],
       "related_event_ids": [
+        "news:4ef5c77f9830f2656c79cc32",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b",
         "news:fa3a2aec7888f0c623f6bf0b",
@@ -5392,6 +5402,7 @@
         "news:0203963a0744637b06e379f1",
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
+        "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
         "news:539f223c83c7e1e635bf5698",
         "news:75c729e2909b2695469c436d",
@@ -5411,6 +5422,7 @@
         "news:0203963a0744637b06e379f1",
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
+        "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
         "news:539f223c83c7e1e635bf5698",
         "news:75c729e2909b2695469c436d",
