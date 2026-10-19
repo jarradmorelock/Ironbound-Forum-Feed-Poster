@@ -5032,14 +5032,16 @@
     "00-0040663": {
       "event_ids": [
         "news:074d2c36e2cb4d4889b22677",
-        "news:2c9499d23f7f3de50f526b5c"
+        "news:2c9499d23f7f3de50f526b5c",
+        "news:7d7dfbf1c3a7cdfffec4187a"
       ],
       "name": "Harold Fannin Jr.",
       "nfl_team": "CLE",
       "nflverse_id": "00-0040663",
       "primary_event_ids": [
         "news:074d2c36e2cb4d4889b22677",
-        "news:2c9499d23f7f3de50f526b5c"
+        "news:2c9499d23f7f3de50f526b5c",
+        "news:7d7dfbf1c3a7cdfffec4187a"
       ],
       "related_event_ids": []
     },
