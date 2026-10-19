@@ -1699,6 +1699,7 @@
       "event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
+        "news:86f2098221edc5a2512651a6",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:93c9bdb7d3cc5250b3ef7a55",
         "news:cec35169886e5596bf5be6c6",
@@ -1715,6 +1716,7 @@
         "news:f388f79969ad54328f06b040"
       ],
       "related_event_ids": [
+        "news:86f2098221edc5a2512651a6",
         "news:93c9bdb7d3cc5250b3ef7a55"
       ]
     },
@@ -2247,6 +2249,18 @@
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
+    "00-0037190": {
+      "event_ids": [
+        "news:86f2098221edc5a2512651a6"
+      ],
+      "name": "Sauce Gardner",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0037190",
+      "primary_event_ids": [
+        "news:86f2098221edc5a2512651a6"
+      ],
+      "related_event_ids": []
+    },
     "00-0037203": {
       "event_ids": [
         "news:07b2ae52e4dcb7db56ff0c9d",
@@ -2638,6 +2652,7 @@
         "news:37e02e92c6ca16fb937017bc",
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
+        "news:86f2098221edc5a2512651a6",
         "news:a01d37964bbb31eeb277a63a",
         "news:ce3e51627516baf78633b05f",
         "news:d9e943bd280b4c695fce45d7",
@@ -2661,6 +2676,7 @@
         "news:37e02e92c6ca16fb937017bc",
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
+        "news:86f2098221edc5a2512651a6",
         "news:a01d37964bbb31eeb277a63a",
         "news:ce3e51627516baf78633b05f",
         "news:d9e943bd280b4c695fce45d7",
@@ -5698,6 +5714,7 @@
       "event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
+        "news:86f2098221edc5a2512651a6",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:93c9bdb7d3cc5250b3ef7a55",
         "news:cec35169886e5596bf5be6c6",
@@ -5710,6 +5727,7 @@
       "related_event_ids": [
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
+        "news:86f2098221edc5a2512651a6",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:93c9bdb7d3cc5250b3ef7a55",
         "news:cec35169886e5596bf5be6c6",
