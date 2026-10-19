@@ -1211,6 +1211,7 @@
     },
     "00-0035644": {
       "event_ids": [
+        "news:52128213dbb39a944ce47ede",
         "news:f809c90b8f96700e2f8cffe8"
       ],
       "name": "Noah Fant",
@@ -1218,6 +1219,7 @@
       "nflverse_id": "00-0035644",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:52128213dbb39a944ce47ede",
         "news:f809c90b8f96700e2f8cffe8"
       ]
     },
@@ -1409,12 +1411,14 @@
     },
     "00-0036040": {
       "event_ids": [
+        "news:52128213dbb39a944ce47ede",
         "news:f809c90b8f96700e2f8cffe8"
       ],
       "name": "Juwan Johnson",
       "nfl_team": "NO",
       "nflverse_id": "00-0036040",
       "primary_event_ids": [
+        "news:52128213dbb39a944ce47ede",
         "news:f809c90b8f96700e2f8cffe8"
       ],
       "related_event_ids": []
@@ -5362,6 +5366,7 @@
     },
     "00-0041041": {
       "event_ids": [
+        "news:52128213dbb39a944ce47ede",
         "news:f809c90b8f96700e2f8cffe8"
       ],
       "name": "Oscar Delp",
@@ -5369,6 +5374,7 @@
       "nflverse_id": "00-0041041",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:52128213dbb39a944ce47ede",
         "news:f809c90b8f96700e2f8cffe8"
       ]
     },
