@@ -936,12 +936,14 @@
         "news:253cfe541bb838400006109b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817",
+        "news:83ee8e754d89253f0b80ddd1",
         "news:997c9b83441ddc406347ca71"
       ],
       "name": "Christian Kirk",
       "nfl_team": "SF",
       "nflverse_id": "00-0034775",
       "primary_event_ids": [
+        "news:83ee8e754d89253f0b80ddd1",
         "news:997c9b83441ddc406347ca71"
       ],
       "related_event_ids": [
