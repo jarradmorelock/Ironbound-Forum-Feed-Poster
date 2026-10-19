@@ -4354,6 +4354,7 @@
     "00-0039901": {
       "event_ids": [
         "news:1b58034b8390ffe863c3dff4",
+        "news:23d8e802680e97317460f5cd",
         "news:bf9a34aeebdaccc60f26f1f0",
         "news:fc4b3703e352b13408a2fdee"
       ],
@@ -4362,6 +4363,7 @@
       "nflverse_id": "00-0039901",
       "primary_event_ids": [
         "news:1b58034b8390ffe863c3dff4",
+        "news:23d8e802680e97317460f5cd",
         "news:fc4b3703e352b13408a2fdee"
       ],
       "related_event_ids": [
