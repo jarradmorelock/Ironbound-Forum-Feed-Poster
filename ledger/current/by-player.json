@@ -744,13 +744,15 @@
     "00-0033921": {
       "event_ids": [
         "news:39e1eee96896b3df3e591175",
-        "news:e90a9a6f2630d49747063230"
+        "news:e90a9a6f2630d49747063230",
+        "news:edce7e9d8edab115b4276fb0"
       ],
       "name": "Chris Godwin Jr.",
       "nfl_team": "TB",
       "nflverse_id": "00-0033921",
       "primary_event_ids": [
-        "news:39e1eee96896b3df3e591175"
+        "news:39e1eee96896b3df3e591175",
+        "news:edce7e9d8edab115b4276fb0"
       ],
       "related_event_ids": [
         "news:e90a9a6f2630d49747063230"
