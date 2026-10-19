@@ -79,6 +79,7 @@
     },
     "00-0029604": {
       "event_ids": [
+        "news:253cfe541bb838400006109b",
         "news:3114b09ec7c4c083372c469d",
         "news:5a04300dd162cdb97d19a817"
       ],
@@ -89,7 +90,9 @@
         "news:3114b09ec7c4c083372c469d",
         "news:5a04300dd162cdb97d19a817"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:253cfe541bb838400006109b"
+      ]
     },
     "00-0029822": {
       "event_ids": [
@@ -876,6 +879,7 @@
     },
     "00-0034775": {
       "event_ids": [
+        "news:253cfe541bb838400006109b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817",
         "news:997c9b83441ddc406347ca71"
@@ -887,6 +891,7 @@
         "news:997c9b83441ddc406347ca71"
       ],
       "related_event_ids": [
+        "news:253cfe541bb838400006109b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817"
       ]
@@ -3421,12 +3426,15 @@
     },
     "00-0039066": {
       "event_ids": [
+        "news:253cfe541bb838400006109b",
         "news:5a04300dd162cdb97d19a817"
       ],
       "name": "Michael Mayer",
       "nfl_team": "LV",
       "nflverse_id": "00-0039066",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:253cfe541bb838400006109b"
+      ],
       "related_event_ids": [
         "news:5a04300dd162cdb97d19a817"
       ]
@@ -3643,6 +3651,7 @@
       "event_ids": [
         "news:17e04b0e072315764db7d64e",
         "news:1b349a651314e1a53f4dbe14",
+        "news:253cfe541bb838400006109b",
         "news:5a04300dd162cdb97d19a817",
         "news:7d7361d50039cc944bb636d3"
       ],
@@ -3655,6 +3664,7 @@
         "news:7d7361d50039cc944bb636d3"
       ],
       "related_event_ids": [
+        "news:253cfe541bb838400006109b",
         "news:5a04300dd162cdb97d19a817"
       ]
     },
@@ -5064,6 +5074,18 @@
         "news:7fa453d2ef249eed23b9399e",
         "news:ecb4e677e80dc4d94a534a62",
         "news:fc1f1382c660ab08ade0b8c9"
+      ]
+    },
+    "00-0040729": {
+      "event_ids": [
+        "news:253cfe541bb838400006109b"
+      ],
+      "name": "Jack Bech",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0040729",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:253cfe541bb838400006109b"
       ]
     },
     "00-0040730": {
