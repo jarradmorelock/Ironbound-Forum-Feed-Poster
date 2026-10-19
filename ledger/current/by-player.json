@@ -1189,12 +1189,15 @@
       "event_ids": [
         "news:014da0a09cd18c7b1c727590",
         "news:64355f6f1ee34bf11b527855",
+        "news:963da63bf9f7916a20504017",
         "news:e528f25814b3c5542b10d122"
       ],
       "name": "DK Metcalf",
       "nfl_team": "PIT",
       "nflverse_id": "00-0035640",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:963da63bf9f7916a20504017"
+      ],
       "related_event_ids": [
         "news:014da0a09cd18c7b1c727590",
         "news:64355f6f1ee34bf11b527855",
@@ -5619,6 +5622,7 @@
       "event_ids": [
         "news:014da0a09cd18c7b1c727590",
         "news:64355f6f1ee34bf11b527855",
+        "news:963da63bf9f7916a20504017",
         "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ],
@@ -5630,6 +5634,7 @@
       ],
       "related_event_ids": [
         "news:64355f6f1ee34bf11b527855",
+        "news:963da63bf9f7916a20504017",
         "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
       ]
