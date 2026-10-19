@@ -4584,13 +4584,15 @@
     },
     "00-0040126": {
       "event_ids": [
-        "news:0a8b7e20cfad00354a35c828"
+        "news:0a8b7e20cfad00354a35c828",
+        "news:c07e2b1562a10dd9501d41b2"
       ],
       "name": "Colston Loveland",
       "nfl_team": "CHI",
       "nflverse_id": "00-0040126",
       "primary_event_ids": [
-        "news:0a8b7e20cfad00354a35c828"
+        "news:0a8b7e20cfad00354a35c828",
+        "news:c07e2b1562a10dd9501d41b2"
       ],
       "related_event_ids": []
     },
