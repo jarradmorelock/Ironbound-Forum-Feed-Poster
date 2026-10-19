@@ -2249,6 +2249,18 @@
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
+    "00-0037157": {
+      "event_ids": [
+        "news:1864197da8d2538477fcc554"
+      ],
+      "name": "Bam Knight",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0037157",
+      "primary_event_ids": [
+        "news:1864197da8d2538477fcc554"
+      ],
+      "related_event_ids": []
+    },
     "00-0037190": {
       "event_ids": [
         "news:86f2098221edc5a2512651a6"
@@ -2459,6 +2471,7 @@
     "00-0037263": {
       "event_ids": [
         "news:17c551fda1a7fb40e2eb8696",
+        "news:1864197da8d2538477fcc554",
         "news:fdb76c7cc006322288f24f91"
       ],
       "name": "Tyler Allgeier",
@@ -2468,7 +2481,9 @@
         "news:17c551fda1a7fb40e2eb8696",
         "news:fdb76c7cc006322288f24f91"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:1864197da8d2538477fcc554"
+      ]
     },
     "00-0037291": {
       "event_ids": [
@@ -5546,6 +5561,7 @@
     "00-0041027": {
       "event_ids": [
         "news:17c551fda1a7fb40e2eb8696",
+        "news:1864197da8d2538477fcc554",
         "news:20aad95aa5e1b84b1026d26b",
         "news:294371b5bb632ce4479d31f3",
         "news:50601319dd6c4364a1ff9139",
@@ -5569,6 +5585,7 @@
       ],
       "related_event_ids": [
         "news:17c551fda1a7fb40e2eb8696",
+        "news:1864197da8d2538477fcc554",
         "news:fdb76c7cc006322288f24f91"
       ]
     },
