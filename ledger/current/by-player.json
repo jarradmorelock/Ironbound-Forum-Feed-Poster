@@ -1923,7 +1923,8 @@
     },
     "00-0036554": {
       "event_ids": [
-        "news:a4b5e0d37639047f8b960d35"
+        "news:a4b5e0d37639047f8b960d35",
+        "news:d5051843b8dab93714386be4"
       ],
       "name": "Nico Collins",
       "nfl_team": "HOU",
@@ -1931,7 +1932,9 @@
       "primary_event_ids": [
         "news:a4b5e0d37639047f8b960d35"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:d5051843b8dab93714386be4"
+      ]
     },
     "00-0036555": {
       "event_ids": [
@@ -3479,6 +3482,7 @@
     },
     "00-0038977": {
       "event_ids": [
+        "news:d5051843b8dab93714386be4",
         "news:e8b20af7ca1f9bd7dc0337f0",
         "news:eae832cb642745efc7b25afa"
       ],
@@ -3486,6 +3490,7 @@
       "nfl_team": "HOU",
       "nflverse_id": "00-0038977",
       "primary_event_ids": [
+        "news:d5051843b8dab93714386be4",
         "news:e8b20af7ca1f9bd7dc0337f0",
         "news:eae832cb642745efc7b25afa"
       ],
@@ -4347,6 +4352,7 @@
         "news:3c3fc084845f3844af89e7f4",
         "news:6f07d26fa50840718ac0ba37",
         "news:83d617efa24a34fc6e66221d",
+        "news:d5051843b8dab93714386be4",
         "news:f559d299870d8094e2503bf4"
       ],
       "name": "Marvin Harrison Jr.",
@@ -4359,7 +4365,8 @@
         "news:f559d299870d8094e2503bf4"
       ],
       "related_event_ids": [
-        "news:83d617efa24a34fc6e66221d"
+        "news:83d617efa24a34fc6e66221d",
+        "news:d5051843b8dab93714386be4"
       ]
     },
     "00-0039850": {
@@ -4816,7 +4823,8 @@
     "00-0040138": {
       "event_ids": [
         "news:a334aaa5082249aad68f8760",
-        "news:bbb6735c8179bd12cc8ccba1"
+        "news:bbb6735c8179bd12cc8ccba1",
+        "news:d5051843b8dab93714386be4"
       ],
       "name": "Jaylin Noel",
       "nfl_team": "HOU",
@@ -4825,7 +4833,9 @@
         "news:a334aaa5082249aad68f8760",
         "news:bbb6735c8179bd12cc8ccba1"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:d5051843b8dab93714386be4"
+      ]
     },
     "00-0040142": {
       "event_ids": [
