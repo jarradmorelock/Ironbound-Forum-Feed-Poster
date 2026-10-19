@@ -1187,6 +1187,7 @@
     },
     "00-0035640": {
       "event_ids": [
+        "news:014da0a09cd18c7b1c727590",
         "news:64355f6f1ee34bf11b527855",
         "news:e528f25814b3c5542b10d122"
       ],
@@ -1195,6 +1196,7 @@
       "nflverse_id": "00-0035640",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:014da0a09cd18c7b1c727590",
         "news:64355f6f1ee34bf11b527855",
         "news:e528f25814b3c5542b10d122"
       ]
@@ -1862,6 +1864,7 @@
     },
     "00-0036862": {
       "event_ids": [
+        "news:014da0a09cd18c7b1c727590",
         "news:64355f6f1ee34bf11b527855"
       ],
       "name": "Ben Skowronek",
@@ -1869,6 +1872,7 @@
       "nflverse_id": "00-0036862",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:014da0a09cd18c7b1c727590",
         "news:64355f6f1ee34bf11b527855"
       ]
     },
@@ -3890,6 +3894,7 @@
     },
     "00-0039739": {
       "event_ids": [
+        "news:014da0a09cd18c7b1c727590",
         "news:64355f6f1ee34bf11b527855",
         "news:880df6ac2b525c3c70d6483d",
         "news:e528f25814b3c5542b10d122"
@@ -3902,6 +3907,7 @@
         "news:880df6ac2b525c3c70d6483d"
       ],
       "related_event_ids": [
+        "news:014da0a09cd18c7b1c727590",
         "news:e528f25814b3c5542b10d122"
       ]
     },
@@ -5611,6 +5617,7 @@
     },
     "00-0041489": {
       "event_ids": [
+        "news:014da0a09cd18c7b1c727590",
         "news:64355f6f1ee34bf11b527855",
         "news:9897b50fcf6e1718e755ff42",
         "news:e528f25814b3c5542b10d122"
@@ -5618,7 +5625,9 @@
       "name": "Germie Bernard",
       "nfl_team": "PIT",
       "nflverse_id": "00-0041489",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:014da0a09cd18c7b1c727590"
+      ],
       "related_event_ids": [
         "news:64355f6f1ee34bf11b527855",
         "news:9897b50fcf6e1718e755ff42",
