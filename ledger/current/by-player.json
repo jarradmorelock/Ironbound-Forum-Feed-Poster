@@ -497,6 +497,7 @@
     },
     "00-0033077": {
       "event_ids": [
+        "news:48f32b8b50b3cdc9700b0244",
         "news:8ccddc3d55a86dca7e96e461",
         "news:f1ab35c6d9a82781c04f561a"
       ],
@@ -504,6 +505,7 @@
       "nfl_team": "DAL",
       "nflverse_id": "00-0033077",
       "primary_event_ids": [
+        "news:48f32b8b50b3cdc9700b0244",
         "news:f1ab35c6d9a82781c04f561a"
       ],
       "related_event_ids": [
