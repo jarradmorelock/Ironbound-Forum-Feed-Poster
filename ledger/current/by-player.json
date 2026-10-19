@@ -305,14 +305,16 @@
     },
     "00-0031610": {
       "event_ids": [
-        "news:303c972e64ef85754c49f9df"
+        "news:303c972e64ef85754c49f9df",
+        "news:e4937fe20d6150579bcafd69"
       ],
       "name": "Darren Waller",
       "nfl_team": "CAR",
       "nflverse_id": "00-0031610",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:303c972e64ef85754c49f9df"
+        "news:303c972e64ef85754c49f9df",
+        "news:e4937fe20d6150579bcafd69"
       ]
     },
     "00-0032052": {
@@ -408,6 +410,7 @@
         "news:a56559875d9edfa1cb8342ef",
         "news:cb54c29e7a6316b028ee327e",
         "news:e12892a87f9c84cf5b6fcbf6",
+        "news:e4937fe20d6150579bcafd69",
         "news:e54c2dbb508b79240a754253",
         "news:e7292ebae4a604c14d09cd38",
         "news:e8b20af7ca1f9bd7dc0337f0"
@@ -432,6 +435,7 @@
         "news:a56559875d9edfa1cb8342ef",
         "news:cb54c29e7a6316b028ee327e",
         "news:e12892a87f9c84cf5b6fcbf6",
+        "news:e4937fe20d6150579bcafd69",
         "news:e54c2dbb508b79240a754253",
         "news:e7292ebae4a604c14d09cd38",
         "news:e8b20af7ca1f9bd7dc0337f0"
@@ -2042,6 +2046,18 @@
         "news:09e0122acbc9582226fc9c6c"
       ]
     },
+    "00-0037005": {
+      "event_ids": [
+        "news:e4937fe20d6150579bcafd69"
+      ],
+      "name": "Tommy Tremble",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0037005",
+      "primary_event_ids": [
+        "news:e4937fe20d6150579bcafd69"
+      ],
+      "related_event_ids": []
+    },
     "00-0037085": {
       "event_ids": [
         "news:a2c1246e1acc3b0c7fe8b334"
@@ -3380,6 +3396,7 @@
     "00-0039150": {
       "event_ids": [
         "news:9e65e49a5297f21db4bc8217",
+        "news:e4937fe20d6150579bcafd69",
         "news:fe3e864bddd6927fa3be8451"
       ],
       "name": "Bryce Young",
@@ -3389,7 +3406,8 @@
         "news:fe3e864bddd6927fa3be8451"
       ],
       "related_event_ids": [
-        "news:9e65e49a5297f21db4bc8217"
+        "news:9e65e49a5297f21db4bc8217",
+        "news:e4937fe20d6150579bcafd69"
       ]
     },
     "00-0039163": {
@@ -3898,6 +3916,7 @@
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
+        "news:e4937fe20d6150579bcafd69",
         "news:e7826bd17053debee2775935",
         "news:e8b9c46b6f7c20665052ca43",
         "news:e914929871226c57f7f548db",
@@ -3954,6 +3973,7 @@
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d54619e249e1073482a4c77b",
         "news:e2a38d7e3da2993c4b934d6c",
+        "news:e4937fe20d6150579bcafd69",
         "news:e7826bd17053debee2775935",
         "news:e8b9c46b6f7c20665052ca43",
         "news:e914929871226c57f7f548db",
@@ -4468,6 +4488,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:514e56ea8fcae8b5d8ed18e9"
+      ]
+    },
+    "00-0040187": {
+      "event_ids": [
+        "news:e4937fe20d6150579bcafd69"
+      ],
+      "name": "Mitchell Evans",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0040187",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:e4937fe20d6150579bcafd69"
       ]
     },
     "00-0040189": {
