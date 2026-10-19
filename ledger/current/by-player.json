@@ -1392,14 +1392,16 @@
       "event_ids": [
         "news:50fb80cecfadf520a46d86ce",
         "news:ac0f5b783e106fa472ccb883",
-        "news:c6fd516e467b8f96471c7f56"
+        "news:c6fd516e467b8f96471c7f56",
+        "news:e95843dbba719fa986e464b4"
       ],
       "name": "Daniel Jones",
       "nfl_team": "IND",
       "nflverse_id": "00-0035710",
       "primary_event_ids": [
         "news:ac0f5b783e106fa472ccb883",
-        "news:c6fd516e467b8f96471c7f56"
+        "news:c6fd516e467b8f96471c7f56",
+        "news:e95843dbba719fa986e464b4"
       ],
       "related_event_ids": [
         "news:50fb80cecfadf520a46d86ce"
@@ -4989,6 +4991,7 @@
         "news:8e8bb81c26f3f0f16244ad78",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b",
+        "news:e95843dbba719fa986e464b4",
         "news:fa3a2aec7888f0c623f6bf0b",
         "news:ff8a5801f5a00a64f90f51ad"
       ],
@@ -5003,6 +5006,7 @@
         "news:4ef5c77f9830f2656c79cc32",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b",
+        "news:e95843dbba719fa986e464b4",
         "news:fa3a2aec7888f0c623f6bf0b",
         "news:ff8a5801f5a00a64f90f51ad"
       ]
