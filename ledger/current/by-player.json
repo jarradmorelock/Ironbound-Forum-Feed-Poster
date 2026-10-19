@@ -443,6 +443,7 @@
         "news:0ce6ef192700353addbc374b",
         "news:2a359f50bef122df69bffef6",
         "news:315b528ea9301a8c529ab7b5",
+        "news:39429ed7142b5384d324f3e6",
         "news:463c5f9292e3b5af0a2cc870",
         "news:5a382e948d38177f1a19175e",
         "news:5b3f3588f0ca8f0a33627ddf",
@@ -468,6 +469,7 @@
         "news:0ce6ef192700353addbc374b",
         "news:2a359f50bef122df69bffef6",
         "news:315b528ea9301a8c529ab7b5",
+        "news:39429ed7142b5384d324f3e6",
         "news:463c5f9292e3b5af0a2cc870",
         "news:5a382e948d38177f1a19175e",
         "news:5b3f3588f0ca8f0a33627ddf",
@@ -4509,6 +4511,7 @@
     },
     "00-0040122": {
       "event_ids": [
+        "news:39429ed7142b5384d324f3e6",
         "news:8a0171673d7d3350ca95b432",
         "news:946c5dd0a5f544c7301257da",
         "news:a6e41c1e1883a0d0c0bf7337",
@@ -4519,6 +4522,7 @@
       "nfl_team": "LV",
       "nflverse_id": "00-0040122",
       "primary_event_ids": [
+        "news:39429ed7142b5384d324f3e6",
         "news:8a0171673d7d3350ca95b432",
         "news:946c5dd0a5f544c7301257da",
         "news:a6e41c1e1883a0d0c0bf7337",
@@ -4843,6 +4847,18 @@
       "related_event_ids": [
         "news:70bf5e9aab77f85357ce7fac",
         "news:927f4d2cdb6a1ee11ac2c476"
+      ]
+    },
+    "00-0040338": {
+      "event_ids": [
+        "news:39429ed7142b5384d324f3e6"
+      ],
+      "name": "Keivie Rose",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0040338",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:39429ed7142b5384d324f3e6"
       ]
     },
     "00-0040394": {
@@ -5319,6 +5335,7 @@
     },
     "00-0040878": {
       "event_ids": [
+        "news:39429ed7142b5384d324f3e6",
         "news:a6e41c1e1883a0d0c0bf7337"
       ],
       "name": "Mike Washington Jr.",
@@ -5326,6 +5343,7 @@
       "nflverse_id": "00-0040878",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:39429ed7142b5384d324f3e6",
         "news:a6e41c1e1883a0d0c0bf7337"
       ]
     },
