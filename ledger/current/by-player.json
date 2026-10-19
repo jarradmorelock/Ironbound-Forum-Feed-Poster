@@ -3809,6 +3809,18 @@
         "news:fc501e4a7afb56f35f736d77"
       ]
     },
+    "00-0039738": {
+      "event_ids": [
+        "news:fde7982fa59f787d4d5dad49"
+      ],
+      "name": "Blake Corum",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0039738",
+      "primary_event_ids": [
+        "news:fde7982fa59f787d4d5dad49"
+      ],
+      "related_event_ids": []
+    },
     "00-0039739": {
       "event_ids": [
         "news:64355f6f1ee34bf11b527855",
