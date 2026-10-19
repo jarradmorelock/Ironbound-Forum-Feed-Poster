@@ -2672,6 +2672,7 @@
     },
     "00-0038124": {
       "event_ids": [
+        "news:22a8ae5914b797080f87f619",
         "news:3c6d60cedebd49a719058e2a",
         "news:54daca9eb3e9fb1a45d33e61"
       ],
@@ -2679,6 +2680,7 @@
       "nfl_team": "GB",
       "nflverse_id": "00-0038124",
       "primary_event_ids": [
+        "news:22a8ae5914b797080f87f619",
         "news:3c6d60cedebd49a719058e2a",
         "news:54daca9eb3e9fb1a45d33e61"
       ],
