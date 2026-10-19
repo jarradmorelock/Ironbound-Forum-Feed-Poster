@@ -126,6 +126,7 @@
         "news:3ee980249f53a8fa31d9247e",
         "news:5b58c75e540f50514f533d8b",
         "news:6c146d141dd8e18084e6efa4",
+        "news:72fdce09b9649c7a25cc74f5",
         "news:8ccddc3d55a86dca7e96e461",
         "news:8ed71a1053ce0713f164456e",
         "news:8f5df405e98573eb45f51499",
@@ -147,6 +148,7 @@
         "news:3ee980249f53a8fa31d9247e",
         "news:5b58c75e540f50514f533d8b",
         "news:6c146d141dd8e18084e6efa4",
+        "news:72fdce09b9649c7a25cc74f5",
         "news:8ccddc3d55a86dca7e96e461",
         "news:8ed71a1053ce0713f164456e",
         "news:8f5df405e98573eb45f51499",
@@ -2285,14 +2287,16 @@
     "00-0037247": {
       "event_ids": [
         "news:2ac512e98d9f0971aabef215",
-        "news:2dc04c262336640932eaff96"
+        "news:2dc04c262336640932eaff96",
+        "news:72fdce09b9649c7a25cc74f5"
       ],
       "name": "George Pickens",
       "nfl_team": "DAL",
       "nflverse_id": "00-0037247",
       "primary_event_ids": [
         "news:2ac512e98d9f0971aabef215",
-        "news:2dc04c262336640932eaff96"
+        "news:2dc04c262336640932eaff96",
+        "news:72fdce09b9649c7a25cc74f5"
       ],
       "related_event_ids": []
     },
@@ -4497,6 +4501,7 @@
       "event_ids": [
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
+        "news:72fdce09b9649c7a25cc74f5",
         "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
@@ -4509,6 +4514,7 @@
       "related_event_ids": [
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
+        "news:72fdce09b9649c7a25cc74f5",
         "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
