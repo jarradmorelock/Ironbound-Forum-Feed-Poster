@@ -1665,6 +1665,18 @@
         "news:edcc6e97cc2d3e76efb28f60"
       ]
     },
+    "00-0036418": {
+      "event_ids": [
+        "news:9e65e49a5297f21db4bc8217"
+      ],
+      "name": "Zack Baun",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0036418",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9e65e49a5297f21db4bc8217"
+      ]
+    },
     "00-0036425": {
       "event_ids": [
         "news:0203963a0744637b06e379f1",
@@ -3363,6 +3375,7 @@
     },
     "00-0039150": {
       "event_ids": [
+        "news:9e65e49a5297f21db4bc8217",
         "news:fe3e864bddd6927fa3be8451"
       ],
       "name": "Bryce Young",
@@ -3371,7 +3384,9 @@
       "primary_event_ids": [
         "news:fe3e864bddd6927fa3be8451"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:9e65e49a5297f21db4bc8217"
+      ]
     },
     "00-0039163": {
       "event_ids": [
@@ -3708,6 +3723,7 @@
       "event_ids": [
         "news:25a113166d1f7423953de8a9",
         "news:303c972e64ef85754c49f9df",
+        "news:9e65e49a5297f21db4bc8217",
         "news:f173fc2546a7178ab3445a38"
       ],
       "name": "Jalen Coker",
@@ -3716,6 +3732,7 @@
       "primary_event_ids": [
         "news:25a113166d1f7423953de8a9",
         "news:303c972e64ef85754c49f9df",
+        "news:9e65e49a5297f21db4bc8217",
         "news:f173fc2546a7178ab3445a38"
       ],
       "related_event_ids": []
@@ -4292,7 +4309,8 @@
     "00-0040124": {
       "event_ids": [
         "news:0f16c06df9048477faf4e0ab",
-        "news:303c972e64ef85754c49f9df"
+        "news:303c972e64ef85754c49f9df",
+        "news:9e65e49a5297f21db4bc8217"
       ],
       "name": "Tetairoa McMillan",
       "nfl_team": "CAR",
@@ -4301,7 +4319,8 @@
         "news:0f16c06df9048477faf4e0ab"
       ],
       "related_event_ids": [
-        "news:303c972e64ef85754c49f9df"
+        "news:303c972e64ef85754c49f9df",
+        "news:9e65e49a5297f21db4bc8217"
       ]
     },
     "00-0040126": {
