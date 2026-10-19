@@ -1756,12 +1756,14 @@
     },
     "00-0036555": {
       "event_ids": [
+        "news:1de429e205d2b92520f5c6dd",
         "news:2bacdaaf8e1cbc9208f782d2"
       ],
       "name": "Chuba Hubbard",
       "nfl_team": "CAR",
       "nflverse_id": "00-0036555",
       "primary_event_ids": [
+        "news:1de429e205d2b92520f5c6dd",
         "news:2bacdaaf8e1cbc9208f782d2"
       ],
       "related_event_ids": []
@@ -4610,6 +4612,18 @@
         "news:927f4d2cdb6a1ee11ac2c476"
       ]
     },
+    "00-0040394": {
+      "event_ids": [
+        "news:1de429e205d2b92520f5c6dd"
+      ],
+      "name": "Anthony Tyus III",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0040394",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:1de429e205d2b92520f5c6dd"
+      ]
+    },
     "00-0040408": {
       "event_ids": [
         "news:a1b1077de91a3dee0f0c9a2c"
@@ -4708,6 +4722,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:64b0b8be152ab1fea5afb0a2"
+      ]
+    },
+    "00-0040644": {
+      "event_ids": [
+        "news:1de429e205d2b92520f5c6dd"
+      ],
+      "name": "Trevor Etienne",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0040644",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:1de429e205d2b92520f5c6dd"
       ]
     },
     "00-0040648": {
