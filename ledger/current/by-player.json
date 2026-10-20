@@ -104,12 +104,15 @@
     },
     "00-0029822": {
       "event_ids": [
+        "news:d608bcb0f889768fa2b6b59f",
         "news:fe5411b39259748b1ff193c9"
       ],
       "name": "Brandon McManus",
       "nfl_team": "GB",
       "nflverse_id": "00-0029822",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:d608bcb0f889768fa2b6b59f"
+      ],
       "related_event_ids": [
         "news:fe5411b39259748b1ff193c9"
       ]
@@ -3518,6 +3521,7 @@
       "event_ids": [
         "news:42d65fa207face1190ac5368",
         "news:aee3eb3bb3ad526ffcd6ee95",
+        "news:d608bcb0f889768fa2b6b59f",
         "news:e2a8508d556c1a9e735a6588"
       ],
       "name": "Blake Grupe",
@@ -3528,7 +3532,8 @@
         "news:e2a8508d556c1a9e735a6588"
       ],
       "related_event_ids": [
-        "news:42d65fa207face1190ac5368"
+        "news:42d65fa207face1190ac5368",
+        "news:d608bcb0f889768fa2b6b59f"
       ]
     },
     "00-0038933": {
@@ -4213,6 +4218,7 @@
       "event_ids": [
         "news:42d65fa207face1190ac5368",
         "news:aee3eb3bb3ad526ffcd6ee95",
+        "news:d608bcb0f889768fa2b6b59f",
         "news:e2a8508d556c1a9e735a6588"
       ],
       "name": "Harrison Mevis",
@@ -4223,6 +4229,7 @@
       ],
       "related_event_ids": [
         "news:aee3eb3bb3ad526ffcd6ee95",
+        "news:d608bcb0f889768fa2b6b59f",
         "news:e2a8508d556c1a9e735a6588"
       ]
     },
