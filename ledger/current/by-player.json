@@ -618,6 +618,7 @@
     "00-0033288": {
       "event_ids": [
         "news:268cab389b1877ee0c60883c",
+        "news:36a659d8077a0ab5b55bf3ac",
         "news:7e39bf0731c70b16178a1c66",
         "news:e5ed47203eac93b2660f95bb",
         "news:f84b9d09908cda13b523c2a7"
@@ -631,6 +632,7 @@
         "news:e5ed47203eac93b2660f95bb"
       ],
       "related_event_ids": [
+        "news:36a659d8077a0ab5b55bf3ac",
         "news:f84b9d09908cda13b523c2a7"
       ]
     },
@@ -2732,13 +2734,15 @@
     },
     "00-0037834": {
       "event_ids": [
-        "news:071b381cb7b8b6c6ba2aa0e9"
+        "news:071b381cb7b8b6c6ba2aa0e9",
+        "news:36a659d8077a0ab5b55bf3ac"
       ],
       "name": "Brock Purdy",
       "nfl_team": "SF",
       "nflverse_id": "00-0037834",
       "primary_event_ids": [
-        "news:071b381cb7b8b6c6ba2aa0e9"
+        "news:071b381cb7b8b6c6ba2aa0e9",
+        "news:36a659d8077a0ab5b55bf3ac"
       ],
       "related_event_ids": []
     },
@@ -4008,6 +4012,7 @@
         "news:1e953f2140e37a2fb498f931",
         "news:215a662b508f4ea648a92711",
         "news:3219329299073c6b6d83c2c2",
+        "news:36a659d8077a0ab5b55bf3ac",
         "news:3ee980249f53a8fa31d9247e",
         "news:46ed5e3854b99ac8d6900f03",
         "news:52348d293ed1eaf305235013",
@@ -4033,6 +4038,7 @@
         "news:1e953f2140e37a2fb498f931",
         "news:215a662b508f4ea648a92711",
         "news:3219329299073c6b6d83c2c2",
+        "news:36a659d8077a0ab5b55bf3ac",
         "news:3ee980249f53a8fa31d9247e",
         "news:46ed5e3854b99ac8d6900f03",
         "news:52348d293ed1eaf305235013",
@@ -4779,6 +4785,7 @@
       "event_ids": [
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
+        "news:36a659d8077a0ab5b55bf3ac",
         "news:72fdce09b9649c7a25cc74f5",
         "news:7e39bf0731c70b16178a1c66",
         "news:8ed71a1053ce0713f164456e",
@@ -4793,6 +4800,7 @@
       "related_event_ids": [
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
+        "news:36a659d8077a0ab5b55bf3ac",
         "news:72fdce09b9649c7a25cc74f5",
         "news:7e39bf0731c70b16178a1c66",
         "news:8ed71a1053ce0713f164456e",
