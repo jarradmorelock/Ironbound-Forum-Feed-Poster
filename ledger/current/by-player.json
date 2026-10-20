@@ -277,6 +277,7 @@
     },
     "00-0031381": {
       "event_ids": [
+        "news:0d60e9924cf408d7ea625d09",
         "news:167e4084e2ee9adca6ab8874",
         "news:23b438c84374010e1a201958",
         "news:511abae8e8c3ec8722a3a477",
@@ -287,6 +288,7 @@
       "nfl_team": "LAR",
       "nflverse_id": "00-0031381",
       "primary_event_ids": [
+        "news:0d60e9924cf408d7ea625d09",
         "news:167e4084e2ee9adca6ab8874",
         "news:23b438c84374010e1a201958",
         "news:511abae8e8c3ec8722a3a477",
