@@ -282,6 +282,7 @@
         "news:23b438c84374010e1a201958",
         "news:511abae8e8c3ec8722a3a477",
         "news:98a08e420bde6125b8d7564c",
+        "news:d96a0f1e456c2d77344a5a96",
         "news:e412ebe6f11247fc4ccc8341"
       ],
       "name": "Davante Adams",
@@ -295,7 +296,9 @@
         "news:98a08e420bde6125b8d7564c",
         "news:e412ebe6f11247fc4ccc8341"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:d96a0f1e456c2d77344a5a96"
+      ]
     },
     "00-0031388": {
       "event_ids": [
@@ -573,6 +576,18 @@
       ],
       "related_event_ids": [
         "news:503b7adf093102e49c8efd77"
+      ]
+    },
+    "00-0033110": {
+      "event_ids": [
+        "news:d96a0f1e456c2d77344a5a96"
+      ],
+      "name": "Tyler Higbee",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0033110",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:d96a0f1e456c2d77344a5a96"
       ]
     },
     "00-0033119": {
@@ -5587,6 +5602,18 @@
         "news:6f0ad09ba539a488538f5130",
         "news:d7f96a639042e5d3da2e8fec"
       ]
+    },
+    "00-0040737": {
+      "event_ids": [
+        "news:d96a0f1e456c2d77344a5a96"
+      ],
+      "name": "Terrance Ferguson",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0040737",
+      "primary_event_ids": [
+        "news:d96a0f1e456c2d77344a5a96"
+      ],
+      "related_event_ids": []
     },
     "00-0040743": {
       "event_ids": [
