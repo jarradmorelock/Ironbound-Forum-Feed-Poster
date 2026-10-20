@@ -597,13 +597,15 @@
     },
     "00-0033280": {
       "event_ids": [
-        "news:0c2757704a3c3070f7fe9fb0"
+        "news:0c2757704a3c3070f7fe9fb0",
+        "news:107ba3ffb6d75c6a9cda1c93"
       ],
       "name": "Christian McCaffrey",
       "nfl_team": "SF",
       "nflverse_id": "00-0033280",
       "primary_event_ids": [
-        "news:0c2757704a3c3070f7fe9fb0"
+        "news:0c2757704a3c3070f7fe9fb0",
+        "news:107ba3ffb6d75c6a9cda1c93"
       ],
       "related_event_ids": []
     },
