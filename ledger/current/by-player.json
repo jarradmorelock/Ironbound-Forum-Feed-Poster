@@ -1219,6 +1219,18 @@
         "news:316b4dd4d719cdc7015b080d"
       ]
     },
+    "00-0035250": {
+      "event_ids": [
+        "news:050a8a38d8d97c3a9e29d2e3"
+      ],
+      "name": "Devin Singletary",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0035250",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:050a8a38d8d97c3a9e29d2e3"
+      ]
+    },
     "00-0035261": {
       "event_ids": [
         "news:265b96a6d5b429b2598e9c2f",
@@ -2053,6 +2065,7 @@
     },
     "00-0036893": {
       "event_ids": [
+        "news:050a8a38d8d97c3a9e29d2e3",
         "news:13192a85a92da62e93c3df5a",
         "news:b78541a08dabf31d051d8340"
       ],
@@ -2060,6 +2073,7 @@
       "nfl_team": "NYG",
       "nflverse_id": "00-0036893",
       "primary_event_ids": [
+        "news:050a8a38d8d97c3a9e29d2e3",
         "news:13192a85a92da62e93c3df5a",
         "news:b78541a08dabf31d051d8340"
       ],
@@ -2798,6 +2812,7 @@
     },
     "00-0038097": {
       "event_ids": [
+        "news:050a8a38d8d97c3a9e29d2e3",
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:62e9ddffedc89ce4924e4fc3",
         "news:6f0ad09ba539a488538f5130",
@@ -2809,6 +2824,7 @@
       "nflverse_id": "00-0038097",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:050a8a38d8d97c3a9e29d2e3",
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:62e9ddffedc89ce4924e4fc3",
         "news:6f0ad09ba539a488538f5130",
@@ -4046,6 +4062,18 @@
         "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
+      ]
+    },
+    "00-0039384": {
+      "event_ids": [
+        "news:050a8a38d8d97c3a9e29d2e3"
+      ],
+      "name": "Tyrone Tracy Jr.",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0039384",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:050a8a38d8d97c3a9e29d2e3"
       ]
     },
     "00-0039386": {
@@ -5399,6 +5427,7 @@
     },
     "00-0040715": {
       "event_ids": [
+        "news:050a8a38d8d97c3a9e29d2e3",
         "news:0e09a720b76a232c592d4837",
         "news:6cc81f38d30fbdf86adc2e3d",
         "news:a399a9dd46c94fa1476e4186",
@@ -5413,6 +5442,7 @@
         "news:a399a9dd46c94fa1476e4186"
       ],
       "related_event_ids": [
+        "news:050a8a38d8d97c3a9e29d2e3",
         "news:b78541a08dabf31d051d8340"
       ]
     },
