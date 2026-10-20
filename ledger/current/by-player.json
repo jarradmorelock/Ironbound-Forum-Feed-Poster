@@ -2689,6 +2689,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0037834": {
+      "event_ids": [
+        "news:071b381cb7b8b6c6ba2aa0e9"
+      ],
+      "name": "Brock Purdy",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0037834",
+      "primary_event_ids": [
+        "news:071b381cb7b8b6c6ba2aa0e9"
+      ],
+      "related_event_ids": []
+    },
     "00-0037838": {
       "event_ids": [
         "news:03c3a62cab4d3b425f7fe2f4",
