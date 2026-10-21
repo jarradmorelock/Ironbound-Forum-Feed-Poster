@@ -1020,6 +1020,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
         "news:473346279cfc9dfe07d88a82",
+        "news:4b4e92d2ad21dfbc2b3e7872",
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:d13a2fa1c21a003fc193903d",
@@ -1034,6 +1035,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
         "news:473346279cfc9dfe07d88a82",
+        "news:4b4e92d2ad21dfbc2b3e7872",
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:d13a2fa1c21a003fc193903d",
@@ -1639,6 +1641,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
         "news:473346279cfc9dfe07d88a82",
+        "news:4b4e92d2ad21dfbc2b3e7872",
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:d13a2fa1c21a003fc193903d",
@@ -1654,6 +1657,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
         "news:473346279cfc9dfe07d88a82",
+        "news:4b4e92d2ad21dfbc2b3e7872",
         "news:5e17cc438064c7b969adb2c0",
         "news:9eeec5feb6bdad2f41c9f2e0",
         "news:d13a2fa1c21a003fc193903d",
@@ -3548,6 +3552,18 @@
         "news:303c972e64ef85754c49f9df"
       ]
     },
+    "00-0038877": {
+      "event_ids": [
+        "news:4b4e92d2ad21dfbc2b3e7872"
+      ],
+      "name": "D'Shawn Jamison",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0038877",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:4b4e92d2ad21dfbc2b3e7872"
+      ]
+    },
     "00-0038905": {
       "event_ids": [
         "news:42d65fa207face1190ac5368",
@@ -4082,6 +4098,7 @@
         "news:36a659d8077a0ab5b55bf3ac",
         "news:3ee980249f53a8fa31d9247e",
         "news:46ed5e3854b99ac8d6900f03",
+        "news:4b4e92d2ad21dfbc2b3e7872",
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
         "news:64355f6f1ee34bf11b527855",
@@ -4109,6 +4126,7 @@
         "news:36a659d8077a0ab5b55bf3ac",
         "news:3ee980249f53a8fa31d9247e",
         "news:46ed5e3854b99ac8d6900f03",
+        "news:4b4e92d2ad21dfbc2b3e7872",
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
         "news:64355f6f1ee34bf11b527855",
