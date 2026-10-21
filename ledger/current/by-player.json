@@ -5795,6 +5795,7 @@
       "event_ids": [
         "news:058bb5fae341293acc150b06",
         "news:0a8b7e20cfad00354a35c828",
+        "news:61aa9fffa6034990f260ce73",
         "news:8d56f938536ea89fcdd3df69",
         "news:9313fe0fe29ef943dc92427f",
         "news:ae030a135d2de256cf9375c0",
@@ -5804,6 +5805,7 @@
       "nfl_team": "NO",
       "nflverse_id": "00-0041029",
       "primary_event_ids": [
+        "news:61aa9fffa6034990f260ce73",
         "news:ae030a135d2de256cf9375c0",
         "news:f3f56ad52d065880a1c5bae4"
       ],
