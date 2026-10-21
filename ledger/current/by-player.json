@@ -2655,14 +2655,16 @@
     "00-0037525": {
       "event_ids": [
         "news:45534b8591ba8dd7d6b4f9ca",
-        "news:6ba716a9fc8e828800ac01e5"
+        "news:6ba716a9fc8e828800ac01e5",
+        "news:8e0bdb0762a2aeae81037f9a"
       ],
       "name": "Jordan Mason",
       "nfl_team": "MIN",
       "nflverse_id": "00-0037525",
       "primary_event_ids": [
         "news:45534b8591ba8dd7d6b4f9ca",
-        "news:6ba716a9fc8e828800ac01e5"
+        "news:6ba716a9fc8e828800ac01e5",
+        "news:8e0bdb0762a2aeae81037f9a"
       ],
       "related_event_ids": []
     },
