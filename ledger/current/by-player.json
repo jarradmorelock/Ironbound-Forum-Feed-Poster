@@ -948,13 +948,15 @@
     "00-0034383": {
       "event_ids": [
         "news:5daea1a6708ca59602ad0c93",
-        "news:af55d8f8727f260f6031e745"
+        "news:af55d8f8727f260f6031e745",
+        "news:bb4e97f85bdcb9b1cfb12380"
       ],
       "name": "Dalton Schultz",
       "nfl_team": "HOU",
       "nflverse_id": "00-0034383",
       "primary_event_ids": [
-        "news:5daea1a6708ca59602ad0c93"
+        "news:5daea1a6708ca59602ad0c93",
+        "news:bb4e97f85bdcb9b1cfb12380"
       ],
       "related_event_ids": [
         "news:af55d8f8727f260f6031e745"
