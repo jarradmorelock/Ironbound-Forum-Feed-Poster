@@ -4030,6 +4030,7 @@
     },
     "00-0039361": {
       "event_ids": [
+        "news:1f46676631e1adc7c55bc6ea",
         "news:2124b32b66def3d15356b258",
         "news:2a11b3acf9923cc7e9416b2e",
         "news:4310348df99c73936b308aae",
@@ -4040,6 +4041,7 @@
       "nfl_team": "TB",
       "nflverse_id": "00-0039361",
       "primary_event_ids": [
+        "news:1f46676631e1adc7c55bc6ea",
         "news:2124b32b66def3d15356b258",
         "news:475c5bba8f8720011bb146ac",
         "news:ec3fb719b4ca5131873e0e9e"
