@@ -66,6 +66,7 @@
         "news:89cdc9dd54fb98692f66730a",
         "news:c50f1bac7b008b7223c89a18",
         "news:d3a8e6bc3263e656f695bbaf",
+        "news:f155a70f6a8be534de3d5cb6",
         "news:fa3a2aec7888f0c623f6bf0b",
         "news:ff8a5801f5a00a64f90f51ad"
       ],
@@ -79,6 +80,7 @@
         "news:89cdc9dd54fb98692f66730a",
         "news:c50f1bac7b008b7223c89a18",
         "news:d3a8e6bc3263e656f695bbaf",
+        "news:f155a70f6a8be534de3d5cb6",
         "news:fa3a2aec7888f0c623f6bf0b",
         "news:ff8a5801f5a00a64f90f51ad"
       ]
@@ -1465,6 +1467,7 @@
         "news:5206e36183dff6a2a35aa4bf",
         "news:89cdc9dd54fb98692f66730a",
         "news:bba33a3e92eccbba48cc3678",
+        "news:f155a70f6a8be534de3d5cb6",
         "news:fa3a2aec7888f0c623f6bf0b",
         "news:ff8a5801f5a00a64f90f51ad"
       ],
@@ -1474,6 +1477,7 @@
       "primary_event_ids": [
         "news:5206e36183dff6a2a35aa4bf",
         "news:bba33a3e92eccbba48cc3678",
+        "news:f155a70f6a8be534de3d5cb6",
         "news:fa3a2aec7888f0c623f6bf0b",
         "news:ff8a5801f5a00a64f90f51ad"
       ],
@@ -2813,6 +2817,7 @@
         "news:d9e943bd280b4c695fce45d7",
         "news:db3e642a6c70f2809524a2c0",
         "news:e25fc6fe0048b0523bbcd494",
+        "news:f155a70f6a8be534de3d5cb6",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:ff8a5801f5a00a64f90f51ad"
       ],
@@ -2836,6 +2841,7 @@
         "news:a01d37964bbb31eeb277a63a",
         "news:ce3e51627516baf78633b05f",
         "news:d9e943bd280b4c695fce45d7",
+        "news:f155a70f6a8be534de3d5cb6",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:ff8a5801f5a00a64f90f51ad"
       ]
@@ -4224,14 +4230,16 @@
     },
     "00-0039405": {
       "event_ids": [
-        "news:32a290545f5b14bb06086c2b"
+        "news:32a290545f5b14bb06086c2b",
+        "news:f155a70f6a8be534de3d5cb6"
       ],
       "name": "Jawhar Jordan",
       "nfl_team": "HOU",
       "nflverse_id": "00-0039405",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:32a290545f5b14bb06086c2b"
+        "news:32a290545f5b14bb06086c2b",
+        "news:f155a70f6a8be534de3d5cb6"
       ]
     },
     "00-0039424": {
@@ -5372,6 +5380,7 @@
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b",
         "news:e95843dbba719fa986e464b4",
+        "news:f155a70f6a8be534de3d5cb6",
         "news:fa3a2aec7888f0c623f6bf0b",
         "news:ff8a5801f5a00a64f90f51ad"
       ],
@@ -5388,6 +5397,7 @@
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:beb1db3ab52ce7b74839ed7b",
         "news:e95843dbba719fa986e464b4",
+        "news:f155a70f6a8be534de3d5cb6",
         "news:fa3a2aec7888f0c623f6bf0b",
         "news:ff8a5801f5a00a64f90f51ad"
       ]
