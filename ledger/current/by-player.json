@@ -341,6 +341,7 @@
     },
     "00-0031503": {
       "event_ids": [
+        "news:0be066d0322c1c4e569b2f60",
         "news:27e4b099e012785fc6d7a517",
         "news:7500647429fe62ee92cd2bb7",
         "news:d573fd29419a4595a79fe5b4",
@@ -355,6 +356,7 @@
         "news:f28516b7018e19a46293acad"
       ],
       "related_event_ids": [
+        "news:0be066d0322c1c4e569b2f60",
         "news:7500647429fe62ee92cd2bb7"
       ]
     },
@@ -397,6 +399,7 @@
     },
     "00-0032052": {
       "event_ids": [
+        "news:0be066d0322c1c4e569b2f60",
         "news:0f011c5b68769534d4b92859",
         "news:11fcbe677e681d636203b0df",
         "news:13192a85a92da62e93c3df5a",
@@ -415,6 +418,7 @@
       "nflverse_id": "00-0032052",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0be066d0322c1c4e569b2f60",
         "news:0f011c5b68769534d4b92859",
         "news:11fcbe677e681d636203b0df",
         "news:13192a85a92da62e93c3df5a",
@@ -2773,6 +2777,7 @@
     "00-0037838": {
       "event_ids": [
         "news:03c3a62cab4d3b425f7fe2f4",
+        "news:0be066d0322c1c4e569b2f60",
         "news:169a17bb9a2fb0774de2f48d",
         "news:2a359f50bef122df69bffef6",
         "news:2f190019b4651bab297f196c",
@@ -2797,6 +2802,7 @@
       ],
       "related_event_ids": [
         "news:03c3a62cab4d3b425f7fe2f4",
+        "news:0be066d0322c1c4e569b2f60",
         "news:169a17bb9a2fb0774de2f48d",
         "news:2a359f50bef122df69bffef6",
         "news:2f190019b4651bab297f196c",
@@ -2845,6 +2851,7 @@
     "00-0038097": {
       "event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
+        "news:0be066d0322c1c4e569b2f60",
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:62e9ddffedc89ce4924e4fc3",
         "news:6f0ad09ba539a488538f5130",
@@ -2857,6 +2864,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
+        "news:0be066d0322c1c4e569b2f60",
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:62e9ddffedc89ce4924e4fc3",
         "news:6f0ad09ba539a488538f5130",
@@ -3305,6 +3313,7 @@
     },
     "00-0038576": {
       "event_ids": [
+        "news:0be066d0322c1c4e569b2f60",
         "news:e66204750d3e868e226ee6d0"
       ],
       "name": "Charlie Jones",
@@ -3312,6 +3321,7 @@
       "nflverse_id": "00-0038576",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0be066d0322c1c4e569b2f60",
         "news:e66204750d3e868e226ee6d0"
       ]
     },
@@ -3951,6 +3961,7 @@
     "00-0039337": {
       "event_ids": [
         "news:0a357e79942a2a6029cbdd2c",
+        "news:0be066d0322c1c4e569b2f60",
         "news:53246160a60085bc643d5475",
         "news:58b14ce1a255b696f7a608b1",
         "news:93f861fdb12b32ee0cdd0345",
@@ -3968,7 +3979,9 @@
         "news:beb1db3ab52ce7b74839ed7b",
         "news:fb2deb9af52a89e8ab226d11"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:0be066d0322c1c4e569b2f60"
+      ]
     },
     "00-0039338": {
       "event_ids": [
@@ -4773,6 +4786,7 @@
     },
     "00-0039923": {
       "event_ids": [
+        "news:0be066d0322c1c4e569b2f60",
         "news:7500647429fe62ee92cd2bb7",
         "news:763439aaadfe38a0d21ab332",
         "news:e528f25814b3c5542b10d122",
@@ -4782,6 +4796,7 @@
       "nfl_team": "NYG",
       "nflverse_id": "00-0039923",
       "primary_event_ids": [
+        "news:0be066d0322c1c4e569b2f60",
         "news:7500647429fe62ee92cd2bb7"
       ],
       "related_event_ids": [
