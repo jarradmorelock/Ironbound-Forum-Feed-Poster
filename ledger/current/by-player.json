@@ -64,6 +64,7 @@
         "news:32a290545f5b14bb06086c2b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:89cdc9dd54fb98692f66730a",
+        "news:b1e8a38de049a328620a52be",
         "news:c50f1bac7b008b7223c89a18",
         "news:d3a8e6bc3263e656f695bbaf",
         "news:f155a70f6a8be534de3d5cb6",
@@ -78,6 +79,7 @@
         "news:32a290545f5b14bb06086c2b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:89cdc9dd54fb98692f66730a",
+        "news:b1e8a38de049a328620a52be",
         "news:c50f1bac7b008b7223c89a18",
         "news:d3a8e6bc3263e656f695bbaf",
         "news:f155a70f6a8be534de3d5cb6",
@@ -780,6 +782,18 @@
         "news:ea7d53dcc4ae950825ecd20d"
       ]
     },
+    "00-0033854": {
+      "event_ids": [
+        "news:b1e8a38de049a328620a52be"
+      ],
+      "name": "Dare Ogunbowale",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0033854",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:b1e8a38de049a328620a52be"
+      ]
+    },
     "00-0033868": {
       "event_ids": [
         "news:422095401f0568abd0f833ec",
@@ -1480,6 +1494,7 @@
         "news:32a290545f5b14bb06086c2b",
         "news:5206e36183dff6a2a35aa4bf",
         "news:89cdc9dd54fb98692f66730a",
+        "news:b1e8a38de049a328620a52be",
         "news:bba33a3e92eccbba48cc3678",
         "news:f155a70f6a8be534de3d5cb6",
         "news:fa3a2aec7888f0c623f6bf0b",
@@ -1497,7 +1512,8 @@
       ],
       "related_event_ids": [
         "news:32a290545f5b14bb06086c2b",
-        "news:89cdc9dd54fb98692f66730a"
+        "news:89cdc9dd54fb98692f66730a",
+        "news:b1e8a38de049a328620a52be"
       ]
     },
     "00-0035689": {
@@ -3455,6 +3471,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0038622": {
+      "event_ids": [
+        "news:b1e8a38de049a328620a52be"
+      ],
+      "name": "Deuce Vaughn",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0038622",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:b1e8a38de049a328620a52be"
+      ]
+    },
     "00-0038640": {
       "event_ids": [
         "news:83d617efa24a34fc6e66221d"
@@ -4267,12 +4295,15 @@
     "00-0039405": {
       "event_ids": [
         "news:32a290545f5b14bb06086c2b",
+        "news:b1e8a38de049a328620a52be",
         "news:f155a70f6a8be534de3d5cb6"
       ],
       "name": "Jawhar Jordan",
       "nfl_team": "HOU",
       "nflverse_id": "00-0039405",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:b1e8a38de049a328620a52be"
+      ],
       "related_event_ids": [
         "news:32a290545f5b14bb06086c2b",
         "news:f155a70f6a8be534de3d5cb6"
@@ -5423,6 +5454,7 @@
         "news:89cdc9dd54fb98692f66730a",
         "news:8e8bb81c26f3f0f16244ad78",
         "news:8ffb3f30b97a5d72f2323fe4",
+        "news:b1e8a38de049a328620a52be",
         "news:beb1db3ab52ce7b74839ed7b",
         "news:e95843dbba719fa986e464b4",
         "news:f155a70f6a8be534de3d5cb6",
@@ -5440,6 +5472,7 @@
       "related_event_ids": [
         "news:4ef5c77f9830f2656c79cc32",
         "news:8ffb3f30b97a5d72f2323fe4",
+        "news:b1e8a38de049a328620a52be",
         "news:beb1db3ab52ce7b74839ed7b",
         "news:e95843dbba719fa986e464b4",
         "news:f155a70f6a8be534de3d5cb6",
