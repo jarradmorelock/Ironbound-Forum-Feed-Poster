@@ -3928,6 +3928,7 @@
     "00-0039165": {
       "event_ids": [
         "news:1c447870c8cbc3dc21381426",
+        "news:45fd1d42414d9527bbc36bf0",
         "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b",
@@ -3937,6 +3938,7 @@
       "nfl_team": "SEA",
       "nflverse_id": "00-0039165",
       "primary_event_ids": [
+        "news:45fd1d42414d9527bbc36bf0",
         "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f",
         "news:f7b47abf4dbbd785c3c41bf4"
