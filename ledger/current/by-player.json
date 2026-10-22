@@ -5955,12 +5955,15 @@
     "00-0040878": {
       "event_ids": [
         "news:39429ed7142b5384d324f3e6",
+        "news:8bf16d134c698ef79975663b",
         "news:a6e41c1e1883a0d0c0bf7337"
       ],
       "name": "Mike Washington Jr.",
       "nfl_team": "LV",
       "nflverse_id": "00-0040878",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:8bf16d134c698ef79975663b"
+      ],
       "related_event_ids": [
         "news:39429ed7142b5384d324f3e6",
         "news:a6e41c1e1883a0d0c0bf7337"
