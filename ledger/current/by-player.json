@@ -1515,6 +1515,7 @@
     "00-0035700": {
       "event_ids": [
         "news:437fdbf35139ac1d1b4bb4a7",
+        "news:8e36d884882d4963eaaabe8a",
         "news:ac5a6e6fcff183d8b037e1b0"
       ],
       "name": "Josh Jacobs",
@@ -1522,6 +1523,7 @@
       "nflverse_id": "00-0035700",
       "primary_event_ids": [
         "news:437fdbf35139ac1d1b4bb4a7",
+        "news:8e36d884882d4963eaaabe8a",
         "news:ac5a6e6fcff183d8b037e1b0"
       ],
       "related_event_ids": []
