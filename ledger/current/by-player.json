@@ -327,6 +327,7 @@
         "news:5ce6adeb848e382070bcc043",
         "news:88d2236120e657d740d949f4",
         "news:b590708c7d321edff5e01f58",
+        "news:f3f82b69cae54a4e536c374a",
         "news:f84b9d09908cda13b523c2a7"
       ],
       "name": "Mike Evans",
@@ -339,6 +340,7 @@
         "news:5ce6adeb848e382070bcc043",
         "news:88d2236120e657d740d949f4",
         "news:b590708c7d321edff5e01f58",
+        "news:f3f82b69cae54a4e536c374a",
         "news:f84b9d09908cda13b523c2a7"
       ],
       "related_event_ids": []
@@ -992,7 +994,8 @@
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817",
         "news:83ee8e754d89253f0b80ddd1",
-        "news:997c9b83441ddc406347ca71"
+        "news:997c9b83441ddc406347ca71",
+        "news:f3f82b69cae54a4e536c374a"
       ],
       "name": "Christian Kirk",
       "nfl_team": "SF",
@@ -1004,7 +1007,8 @@
       "related_event_ids": [
         "news:253cfe541bb838400006109b",
         "news:514e56ea8fcae8b5d8ed18e9",
-        "news:5a04300dd162cdb97d19a817"
+        "news:5a04300dd162cdb97d19a817",
+        "news:f3f82b69cae54a4e536c374a"
       ]
     },
     "00-0034790": {
@@ -1056,7 +1060,8 @@
         "news:28b7361c13bd494daded084d",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
-        "news:997c9b83441ddc406347ca71"
+        "news:997c9b83441ddc406347ca71",
+        "news:f3f82b69cae54a4e536c374a"
       ],
       "name": "Geron Christian",
       "nfl_team": "JAX",
@@ -1067,7 +1072,8 @@
         "news:28b7361c13bd494daded084d",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
-        "news:997c9b83441ddc406347ca71"
+        "news:997c9b83441ddc406347ca71",
+        "news:f3f82b69cae54a4e536c374a"
       ]
     },
     "00-0034827": {
