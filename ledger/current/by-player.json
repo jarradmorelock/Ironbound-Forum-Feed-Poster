@@ -2028,7 +2028,8 @@
         "news:536395cc5c2f30b9af7087fd",
         "news:60f84ca03fcefdddd2f2f0b0",
         "news:7dd859216b3bba49d57c92ab",
-        "news:80cf64acdbd9a7576e54f450"
+        "news:80cf64acdbd9a7576e54f450",
+        "news:e2a7341774ab6f106f174459"
       ],
       "name": "DeeJay Dallas",
       "nfl_team": "MIN",
@@ -2043,7 +2044,8 @@
         "news:536395cc5c2f30b9af7087fd",
         "news:60f84ca03fcefdddd2f2f0b0",
         "news:7dd859216b3bba49d57c92ab",
-        "news:80cf64acdbd9a7576e54f450"
+        "news:80cf64acdbd9a7576e54f450",
+        "news:e2a7341774ab6f106f174459"
       ]
     },
     "00-0036442": {
@@ -2586,7 +2588,8 @@
       "event_ids": [
         "news:2ac512e98d9f0971aabef215",
         "news:2dc04c262336640932eaff96",
-        "news:72fdce09b9649c7a25cc74f5"
+        "news:72fdce09b9649c7a25cc74f5",
+        "news:e2a7341774ab6f106f174459"
       ],
       "name": "George Pickens",
       "nfl_team": "DAL",
@@ -2594,7 +2597,8 @@
       "primary_event_ids": [
         "news:2ac512e98d9f0971aabef215",
         "news:2dc04c262336640932eaff96",
-        "news:72fdce09b9649c7a25cc74f5"
+        "news:72fdce09b9649c7a25cc74f5",
+        "news:e2a7341774ab6f106f174459"
       ],
       "related_event_ids": []
     },
