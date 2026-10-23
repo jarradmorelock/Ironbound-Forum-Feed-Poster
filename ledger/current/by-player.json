@@ -4962,6 +4962,7 @@
         "news:3ff74b402112c29508d75cf7",
         "news:46ed5e3854b99ac8d6900f03",
         "news:64a08678d16b6d2040e65081",
+        "news:7dbcc294cf2db952831b8f3d",
         "news:8354d59a411a6665e71f4f5b",
         "news:8d56f938536ea89fcdd3df69",
         "news:9313fe0fe29ef943dc92427f",
@@ -4975,6 +4976,7 @@
         "news:3ff74b402112c29508d75cf7",
         "news:46ed5e3854b99ac8d6900f03",
         "news:64a08678d16b6d2040e65081",
+        "news:7dbcc294cf2db952831b8f3d",
         "news:8354d59a411a6665e71f4f5b",
         "news:8d56f938536ea89fcdd3df69",
         "news:9313fe0fe29ef943dc92427f",
@@ -4987,6 +4989,7 @@
     "00-0039919": {
       "event_ids": [
         "news:5884dcfc048f682c46970571",
+        "news:7dbcc294cf2db952831b8f3d",
         "news:a9a9542226692374de40a098"
       ],
       "name": "Rome Odunze",
@@ -4996,7 +4999,9 @@
         "news:5884dcfc048f682c46970571",
         "news:a9a9542226692374de40a098"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:7dbcc294cf2db952831b8f3d"
+      ]
     },
     "00-0039923": {
       "event_ids": [
