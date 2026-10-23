@@ -2078,6 +2078,7 @@
     "00-0036550": {
       "event_ids": [
         "news:1a486b2222b1a1ad15c6b811",
+        "news:1aa92babf2af0c3446f67e4d",
         "news:25e4a07a034f25adc44a4bfa",
         "news:f6f94f013d7caa9ca63f4a0a"
       ],
@@ -2086,6 +2087,7 @@
       "nflverse_id": "00-0036550",
       "primary_event_ids": [
         "news:1a486b2222b1a1ad15c6b811",
+        "news:1aa92babf2af0c3446f67e4d",
         "news:25e4a07a034f25adc44a4bfa",
         "news:f6f94f013d7caa9ca63f4a0a"
       ],
@@ -4583,6 +4585,18 @@
         "news:a8f49316ff9fdc834e34986c"
       ]
     },
+    "00-0039792": {
+      "event_ids": [
+        "news:1aa92babf2af0c3446f67e4d"
+      ],
+      "name": "Devontez Walker",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0039792",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:1aa92babf2af0c3446f67e4d"
+      ]
+    },
     "00-0039794": {
       "event_ids": [
         "news:06b8df54b03da4fe95d7daf4",
@@ -4633,6 +4647,7 @@
         "news:126f451c5589baa18070897c",
         "news:12a51c2387660bdf1bc7a399",
         "news:1a30d471e2de5e85169bd1d7",
+        "news:1aa92babf2af0c3446f67e4d",
         "news:1c447870c8cbc3dc21381426",
         "news:206b4f9337a4e959df9f3783",
         "news:250427755c25b79de29d963c",
@@ -4702,6 +4717,7 @@
         "news:126f451c5589baa18070897c",
         "news:12a51c2387660bdf1bc7a399",
         "news:1a30d471e2de5e85169bd1d7",
+        "news:1aa92babf2af0c3446f67e4d",
         "news:1c447870c8cbc3dc21381426",
         "news:206b4f9337a4e959df9f3783",
         "news:250427755c25b79de29d963c",
