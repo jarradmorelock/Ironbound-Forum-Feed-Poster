@@ -2171,6 +2171,7 @@
       "event_ids": [
         "news:13706ce1d35499b7e2a3d22c",
         "news:6104a3a334df42b931c67835",
+        "news:78d94942bb0e8cbbe77b4d39",
         "news:a2ad869648121b95d813699b",
         "news:ee4d079180ee110f314f6f54",
         "news:f08fe2bb9baba85b1f0f3d19"
@@ -2181,6 +2182,7 @@
       "primary_event_ids": [
         "news:13706ce1d35499b7e2a3d22c",
         "news:6104a3a334df42b931c67835",
+        "news:78d94942bb0e8cbbe77b4d39",
         "news:a2ad869648121b95d813699b",
         "news:f08fe2bb9baba85b1f0f3d19"
       ],
