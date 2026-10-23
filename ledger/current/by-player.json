@@ -1343,6 +1343,7 @@
         "news:332e45f574e5b92bde4f99c7",
         "news:54c67af945eff0eedfa01598",
         "news:7f135c7a5a85681728cd6f95",
+        "news:b22f5a905d63a713ecc777fb",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "name": "Tony Pollard",
@@ -1356,6 +1357,7 @@
       ],
       "related_event_ids": [
         "news:265b96a6d5b429b2598e9c2f",
+        "news:b22f5a905d63a713ecc777fb",
         "news:ffd5d01a9aa25669f6b14fea"
       ]
     },
@@ -2955,6 +2957,7 @@
         "news:86f2098221edc5a2512651a6",
         "news:a01d37964bbb31eeb277a63a",
         "news:a8f49316ff9fdc834e34986c",
+        "news:b22f5a905d63a713ecc777fb",
         "news:ce3e51627516baf78633b05f",
         "news:d9e943bd280b4c695fce45d7",
         "news:db3e642a6c70f2809524a2c0",
@@ -2983,6 +2986,7 @@
         "news:86f2098221edc5a2512651a6",
         "news:a01d37964bbb31eeb277a63a",
         "news:a8f49316ff9fdc834e34986c",
+        "news:b22f5a905d63a713ecc777fb",
         "news:ce3e51627516baf78633b05f",
         "news:d9e943bd280b4c695fce45d7",
         "news:f155a70f6a8be534de3d5cb6",
@@ -3913,14 +3917,16 @@
         "news:265b96a6d5b429b2598e9c2f",
         "news:2895c73454026dda022593e1",
         "news:54c67af945eff0eedfa01598",
-        "news:63a0c049f8b5b03cf42fb0a6"
+        "news:63a0c049f8b5b03cf42fb0a6",
+        "news:b22f5a905d63a713ecc777fb"
       ],
       "name": "Tyjae Spears",
       "nfl_team": "TEN",
       "nflverse_id": "00-0039032",
       "primary_event_ids": [
         "news:265b96a6d5b429b2598e9c2f",
-        "news:63a0c049f8b5b03cf42fb0a6"
+        "news:63a0c049f8b5b03cf42fb0a6",
+        "news:b22f5a905d63a713ecc777fb"
       ],
       "related_event_ids": [
         "news:2895c73454026dda022593e1",
