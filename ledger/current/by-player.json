@@ -2460,6 +2460,7 @@
     },
     "00-0037190": {
       "event_ids": [
+        "news:3463c2cd455f55cd48f85238",
         "news:86f2098221edc5a2512651a6"
       ],
       "name": "Sauce Gardner",
@@ -2468,7 +2469,9 @@
       "primary_event_ids": [
         "news:86f2098221edc5a2512651a6"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:3463c2cd455f55cd48f85238"
+      ]
     },
     "00-0037203": {
       "event_ids": [
@@ -3774,6 +3777,7 @@
       "event_ids": [
         "news:191425d6c243690297d03a6d",
         "news:1e0a548b9d0c28f826e5c8f1",
+        "news:3463c2cd455f55cd48f85238",
         "news:98796c41dadf46960a129b42",
         "news:ce81993799dbe16c241323d5",
         "news:f388f79969ad54328f06b040",
@@ -3785,6 +3789,7 @@
       "primary_event_ids": [
         "news:191425d6c243690297d03a6d",
         "news:1e0a548b9d0c28f826e5c8f1",
+        "news:3463c2cd455f55cd48f85238",
         "news:98796c41dadf46960a129b42",
         "news:ce81993799dbe16c241323d5",
         "news:f64b96c7cd20c4314a8ec146"
