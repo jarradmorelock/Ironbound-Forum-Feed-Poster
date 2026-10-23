@@ -4028,6 +4028,7 @@
       "event_ids": [
         "news:0d6e90509e44e61d90b288ee",
         "news:23b438c84374010e1a201958",
+        "news:625ec4b9a0058775beddc9c2",
         "news:6afb8db4391cf69830588672",
         "news:913c193c4cff7f8342a9eb4d",
         "news:a8f49316ff9fdc834e34986c",
@@ -4037,6 +4038,7 @@
       "nfl_team": "LAR",
       "nflverse_id": "00-0039075",
       "primary_event_ids": [
+        "news:625ec4b9a0058775beddc9c2",
         "news:6afb8db4391cf69830588672",
         "news:913c193c4cff7f8342a9eb4d",
         "news:a8f49316ff9fdc834e34986c",
@@ -5542,6 +5544,7 @@
     },
     "00-0040252": {
       "event_ids": [
+        "news:625ec4b9a0058775beddc9c2",
         "news:d3a8e6bc3263e656f695bbaf"
       ],
       "name": "Kobee Minor",
@@ -5549,6 +5552,7 @@
       "nflverse_id": "00-0040252",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:625ec4b9a0058775beddc9c2",
         "news:d3a8e6bc3263e656f695bbaf"
       ]
     },
