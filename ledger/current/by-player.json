@@ -2240,6 +2240,18 @@
         "news:b41e96a12017c8b29af9e56d"
       ]
     },
+    "00-0036906": {
+      "event_ids": [
+        "news:1b4958d2900deb0d24d6ad1e"
+      ],
+      "name": "Khalil Herbert",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0036906",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:1b4958d2900deb0d24d6ad1e"
+      ]
+    },
     "00-0036912": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
@@ -2788,6 +2800,7 @@
     },
     "00-0037746": {
       "event_ids": [
+        "news:1b4958d2900deb0d24d6ad1e",
         "news:578c3bdd73c20d4460bcf8d5",
         "news:6c146d141dd8e18084e6efa4"
       ],
@@ -2795,6 +2808,7 @@
       "nfl_team": "ATL",
       "nflverse_id": "00-0037746",
       "primary_event_ids": [
+        "news:1b4958d2900deb0d24d6ad1e",
         "news:578c3bdd73c20d4460bcf8d5",
         "news:6c146d141dd8e18084e6efa4"
       ],
@@ -2868,6 +2882,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0be066d0322c1c4e569b2f60",
         "news:169a17bb9a2fb0774de2f48d",
+        "news:1b4958d2900deb0d24d6ad1e",
         "news:2a359f50bef122df69bffef6",
         "news:2f190019b4651bab297f196c",
         "news:37e02e92c6ca16fb937017bc",
@@ -2895,6 +2910,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0be066d0322c1c4e569b2f60",
         "news:169a17bb9a2fb0774de2f48d",
+        "news:1b4958d2900deb0d24d6ad1e",
         "news:2a359f50bef122df69bffef6",
         "news:2f190019b4651bab297f196c",
         "news:37e02e92c6ca16fb937017bc",
@@ -3246,6 +3262,7 @@
     },
     "00-0038542": {
       "event_ids": [
+        "news:1b4958d2900deb0d24d6ad1e",
         "news:3ee980249f53a8fa31d9247e",
         "news:5a382e948d38177f1a19175e",
         "news:6c146d141dd8e18084e6efa4",
@@ -3263,6 +3280,7 @@
         "news:ca0f2dc023e1c2aa0624108a"
       ],
       "related_event_ids": [
+        "news:1b4958d2900deb0d24d6ad1e",
         "news:5a382e948d38177f1a19175e",
         "news:6c146d141dd8e18084e6efa4"
       ]
@@ -6262,6 +6280,18 @@
         "news:15c12b09c0c206a73220046d"
       ],
       "related_event_ids": []
+    },
+    "00-0041129": {
+      "event_ids": [
+        "news:1b4958d2900deb0d24d6ad1e"
+      ],
+      "name": "Jam Miller",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0041129",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:1b4958d2900deb0d24d6ad1e"
+      ]
     },
     "00-0041131": {
       "event_ids": [
