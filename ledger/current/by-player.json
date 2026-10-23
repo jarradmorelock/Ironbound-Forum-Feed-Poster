@@ -2468,6 +2468,7 @@
     },
     "00-0037157": {
       "event_ids": [
+        "news:118d7c64477a0af9d8c4d94d",
         "news:1864197da8d2538477fcc554"
       ],
       "name": "Bam Knight",
@@ -2476,7 +2477,9 @@
       "primary_event_ids": [
         "news:1864197da8d2538477fcc554"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:118d7c64477a0af9d8c4d94d"
+      ]
     },
     "00-0037190": {
       "event_ids": [
@@ -2694,6 +2697,7 @@
     },
     "00-0037263": {
       "event_ids": [
+        "news:118d7c64477a0af9d8c4d94d",
         "news:17c551fda1a7fb40e2eb8696",
         "news:1864197da8d2538477fcc554",
         "news:fdb76c7cc006322288f24f91"
@@ -2706,6 +2710,7 @@
         "news:fdb76c7cc006322288f24f91"
       ],
       "related_event_ids": [
+        "news:118d7c64477a0af9d8c4d94d",
         "news:1864197da8d2538477fcc554"
       ]
     },
@@ -3622,6 +3627,7 @@
     },
     "00-0038737": {
       "event_ids": [
+        "news:118d7c64477a0af9d8c4d94d",
         "news:1f5c8e663230131bcd2fdc93"
       ],
       "name": "Isaiah Land",
@@ -3629,6 +3635,7 @@
       "nflverse_id": "00-0038737",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:118d7c64477a0af9d8c4d94d",
         "news:1f5c8e663230131bcd2fdc93"
       ]
     },
@@ -6131,6 +6138,7 @@
     },
     "00-0041027": {
       "event_ids": [
+        "news:118d7c64477a0af9d8c4d94d",
         "news:17c551fda1a7fb40e2eb8696",
         "news:1864197da8d2538477fcc554",
         "news:20aad95aa5e1b84b1026d26b",
@@ -6147,6 +6155,7 @@
       "nfl_team": "ARI",
       "nflverse_id": "00-0041027",
       "primary_event_ids": [
+        "news:118d7c64477a0af9d8c4d94d",
         "news:20aad95aa5e1b84b1026d26b",
         "news:294371b5bb632ce4479d31f3",
         "news:4df3c6911f07aeb06075306e",
