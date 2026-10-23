@@ -1123,6 +1123,18 @@
         "news:fc4b3703e352b13408a2fdee"
       ]
     },
+    "00-0034837": {
+      "event_ids": [
+        "news:6e3f6c94b4f3607bf007a5dc"
+      ],
+      "name": "Calvin Ridley",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0034837",
+      "primary_event_ids": [
+        "news:6e3f6c94b4f3607bf007a5dc"
+      ],
+      "related_event_ids": []
+    },
     "00-0034844": {
       "event_ids": [
         "news:0203963a0744637b06e379f1",
@@ -4297,6 +4309,7 @@
         "news:64355f6f1ee34bf11b527855",
         "news:69d828f18184355601ae9633",
         "news:6ba716a9fc8e828800ac01e5",
+        "news:6e3f6c94b4f3607bf007a5dc",
         "news:7c559872831dcb67748baa23",
         "news:8354d59a411a6665e71f4f5b",
         "news:8eed84627f54a101edf74c50",
@@ -4329,6 +4342,7 @@
         "news:64355f6f1ee34bf11b527855",
         "news:69d828f18184355601ae9633",
         "news:6ba716a9fc8e828800ac01e5",
+        "news:6e3f6c94b4f3607bf007a5dc",
         "news:7c559872831dcb67748baa23",
         "news:8354d59a411a6665e71f4f5b",
         "news:8eed84627f54a101edf74c50",
@@ -5352,6 +5366,18 @@
         "news:c6fcd8282640881e233c2014"
       ]
     },
+    "00-0040170": {
+      "event_ids": [
+        "news:6e3f6c94b4f3607bf007a5dc"
+      ],
+      "name": "Elic Ayomanor",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0040170",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:6e3f6c94b4f3607bf007a5dc"
+      ]
+    },
     "00-0040172": {
       "event_ids": [
         "news:514e56ea8fcae8b5d8ed18e9"
@@ -5778,6 +5804,7 @@
         "news:1915061299ad0e15b625a434",
         "news:20345e123c2090de701d48e4",
         "news:59aaae2da7c278f0258036aa",
+        "news:6e3f6c94b4f3607bf007a5dc",
         "news:c12323bbdeb48798f08cb315",
         "news:f9ea9875dbf4f11badb6a9f1"
       ],
@@ -5791,7 +5818,9 @@
         "news:c12323bbdeb48798f08cb315",
         "news:f9ea9875dbf4f11badb6a9f1"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:6e3f6c94b4f3607bf007a5dc"
+      ]
     },
     "00-0040685": {
       "event_ids": [
