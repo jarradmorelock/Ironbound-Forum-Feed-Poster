@@ -4714,6 +4714,7 @@
         "news:e2a38d7e3da2993c4b934d6c",
         "news:e4937fe20d6150579bcafd69",
         "news:e7826bd17053debee2775935",
+        "news:e7b9b06a20c76b591c7d1a07",
         "news:e8b9c46b6f7c20665052ca43",
         "news:e914929871226c57f7f548db",
         "news:ebb465783605b9d9ecbd7663",
@@ -4784,6 +4785,7 @@
         "news:e2a38d7e3da2993c4b934d6c",
         "news:e4937fe20d6150579bcafd69",
         "news:e7826bd17053debee2775935",
+        "news:e7b9b06a20c76b591c7d1a07",
         "news:e8b9c46b6f7c20665052ca43",
         "news:e914929871226c57f7f548db",
         "news:ebb465783605b9d9ecbd7663",
@@ -5354,7 +5356,8 @@
     "00-0040162": {
       "event_ids": [
         "news:967a082278902767213af092",
-        "news:c6fcd8282640881e233c2014"
+        "news:c6fcd8282640881e233c2014",
+        "news:e7b9b06a20c76b591c7d1a07"
       ],
       "name": "Dylan Sampson",
       "nfl_team": "CLE",
@@ -5363,7 +5366,8 @@
         "news:967a082278902767213af092"
       ],
       "related_event_ids": [
-        "news:c6fcd8282640881e233c2014"
+        "news:c6fcd8282640881e233c2014",
+        "news:e7b9b06a20c76b591c7d1a07"
       ]
     },
     "00-0040170": {
@@ -6062,7 +6066,8 @@
         "news:9c06100e5c0c3df4816f6df7",
         "news:c46b9fa69a63c2dfe8ad98c0",
         "news:c6fcd8282640881e233c2014",
-        "news:cb97fe3bc4e9b2d5a95aa6af"
+        "news:cb97fe3bc4e9b2d5a95aa6af",
+        "news:e7b9b06a20c76b591c7d1a07"
       ],
       "name": "Quinshon Judkins",
       "nfl_team": "CLE",
@@ -6073,7 +6078,8 @@
         "news:9c06100e5c0c3df4816f6df7",
         "news:c46b9fa69a63c2dfe8ad98c0",
         "news:c6fcd8282640881e233c2014",
-        "news:cb97fe3bc4e9b2d5a95aa6af"
+        "news:cb97fe3bc4e9b2d5a95aa6af",
+        "news:e7b9b06a20c76b591c7d1a07"
       ],
       "related_event_ids": []
     },
