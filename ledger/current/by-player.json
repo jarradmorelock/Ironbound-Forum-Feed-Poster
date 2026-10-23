@@ -3216,6 +3216,7 @@
     "00-0038393": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:51abe3839f0337583e293415",
         "news:539f223c83c7e1e635bf5698",
         "news:5c9d6f1da561a0376369bec7",
         "news:75c729e2909b2695469c436d",
@@ -3228,6 +3229,7 @@
       "nfl_team": "PHI",
       "nflverse_id": "00-0038393",
       "primary_event_ids": [
+        "news:51abe3839f0337583e293415",
         "news:8e4f11b0abbff97f7d999bfb",
         "news:bf31d29f06b16efd793b4920",
         "news:fac0c1ec37a88fbbd9c5500c"
