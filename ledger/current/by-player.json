@@ -1051,6 +1051,7 @@
     },
     "00-0034796": {
       "event_ids": [
+        "news:01bf8b012c0f27c3ff11a6e5",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
         "news:473346279cfc9dfe07d88a82",
@@ -1067,6 +1068,7 @@
       "nfl_team": "BAL",
       "nflverse_id": "00-0034796",
       "primary_event_ids": [
+        "news:01bf8b012c0f27c3ff11a6e5",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
         "news:473346279cfc9dfe07d88a82",
@@ -1692,6 +1694,7 @@
     },
     "00-0036152": {
       "event_ids": [
+        "news:01bf8b012c0f27c3ff11a6e5",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
         "news:473346279cfc9dfe07d88a82",
@@ -1709,6 +1712,7 @@
       "nflverse_id": "00-0036152",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:01bf8b012c0f27c3ff11a6e5",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
         "news:473346279cfc9dfe07d88a82",
@@ -4267,6 +4271,7 @@
     },
     "00-0039366": {
       "event_ids": [
+        "news:01bf8b012c0f27c3ff11a6e5",
         "news:12a51c2387660bdf1bc7a399",
         "news:1e953f2140e37a2fb498f931",
         "news:206b4f9337a4e959df9f3783",
@@ -4298,6 +4303,7 @@
       "nflverse_id": "00-0039366",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:01bf8b012c0f27c3ff11a6e5",
         "news:12a51c2387660bdf1bc7a399",
         "news:1e953f2140e37a2fb498f931",
         "news:206b4f9337a4e959df9f3783",
@@ -4619,6 +4625,7 @@
     },
     "00-0039814": {
       "event_ids": [
+        "news:01bf8b012c0f27c3ff11a6e5",
         "news:0203963a0744637b06e379f1",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0a8b7e20cfad00354a35c828",
@@ -4687,6 +4694,7 @@
       "nflverse_id": "00-0039814",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:01bf8b012c0f27c3ff11a6e5",
         "news:0203963a0744637b06e379f1",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0a8b7e20cfad00354a35c828",
