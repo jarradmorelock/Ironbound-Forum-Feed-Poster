@@ -2883,6 +2883,7 @@
     },
     "00-0037745": {
       "event_ids": [
+        "news:0e931cb92b103231188e94c2",
         "news:8ed71a1053ce0713f164456e"
       ],
       "name": "Velus Jones Jr.",
@@ -2891,7 +2892,9 @@
       "primary_event_ids": [
         "news:8ed71a1053ce0713f164456e"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:0e931cb92b103231188e94c2"
+      ]
     },
     "00-0037746": {
       "event_ids": [
@@ -3719,6 +3722,7 @@
     "00-0038797": {
       "event_ids": [
         "news:0cba4010bfc64a90787f0a48",
+        "news:0e931cb92b103231188e94c2",
         "news:1c447870c8cbc3dc21381426",
         "news:50299468aa0ba0c31e5e489c",
         "news:80007ef73885136616e6356f",
@@ -3736,6 +3740,7 @@
         "news:d7b4005ee2803b39b1aead49"
       ],
       "related_event_ids": [
+        "news:0e931cb92b103231188e94c2",
         "news:1c447870c8cbc3dc21381426",
         "news:50299468aa0ba0c31e5e489c",
         "news:80007ef73885136616e6356f",
@@ -4148,6 +4153,7 @@
     },
     "00-0039165": {
       "event_ids": [
+        "news:0e931cb92b103231188e94c2",
         "news:1c447870c8cbc3dc21381426",
         "news:45fd1d42414d9527bbc36bf0",
         "news:757102e0541f7c9f38c2b05f",
@@ -4159,6 +4165,7 @@
       "nfl_team": "SEA",
       "nflverse_id": "00-0039165",
       "primary_event_ids": [
+        "news:0e931cb92b103231188e94c2",
         "news:45fd1d42414d9527bbc36bf0",
         "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f",
@@ -4219,6 +4226,7 @@
     },
     "00-0039299": {
       "event_ids": [
+        "news:0e931cb92b103231188e94c2",
         "news:1c447870c8cbc3dc21381426",
         "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b",
@@ -4231,6 +4239,7 @@
         "news:1c447870c8cbc3dc21381426"
       ],
       "related_event_ids": [
+        "news:0e931cb92b103231188e94c2",
         "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49"
@@ -5210,6 +5219,7 @@
     },
     "00-0040087": {
       "event_ids": [
+        "news:0e931cb92b103231188e94c2",
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
         "news:36a659d8077a0ab5b55bf3ac",
@@ -5225,6 +5235,7 @@
       "nflverse_id": "00-0040087",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0e931cb92b103231188e94c2",
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
         "news:36a659d8077a0ab5b55bf3ac",
