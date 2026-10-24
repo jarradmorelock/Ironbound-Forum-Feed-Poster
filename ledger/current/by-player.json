@@ -5460,13 +5460,15 @@
       "event_ids": [
         "news:967a082278902767213af092",
         "news:c6fcd8282640881e233c2014",
+        "news:df0887b74c0c909ad4d8358c",
         "news:e7b9b06a20c76b591c7d1a07"
       ],
       "name": "Dylan Sampson",
       "nfl_team": "CLE",
       "nflverse_id": "00-0040162",
       "primary_event_ids": [
-        "news:967a082278902767213af092"
+        "news:967a082278902767213af092",
+        "news:df0887b74c0c909ad4d8358c"
       ],
       "related_event_ids": [
         "news:c6fcd8282640881e233c2014",
