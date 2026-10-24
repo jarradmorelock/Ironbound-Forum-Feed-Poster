@@ -1018,6 +1018,18 @@
         "news:bf9a34aeebdaccc60f26f1f0"
       ]
     },
+    "00-0034673": {
+      "event_ids": [
+        "news:8815eebc3f1f46ac0a0fe882"
+      ],
+      "name": "Tremaine Edmunds",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0034673",
+      "primary_event_ids": [
+        "news:8815eebc3f1f46ac0a0fe882"
+      ],
+      "related_event_ids": []
+    },
     "00-0034753": {
       "event_ids": [
         "news:13bcbf61be9a95e9d03e5ae2"
@@ -2727,6 +2739,18 @@
         "news:64b0b8be152ab1fea5afb0a2",
         "news:d9298aba647019266bcb6de0",
         "news:e5895bf19e27c967de0506e2"
+      ]
+    },
+    "00-0037259": {
+      "event_ids": [
+        "news:8815eebc3f1f46ac0a0fe882"
+      ],
+      "name": "Micah McFadden",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0037259",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:8815eebc3f1f46ac0a0fe882"
       ]
     },
     "00-0037261": {
@@ -4455,6 +4479,7 @@
         "news:1c23398206333231d3b433fa",
         "news:5b58c75e540f50514f533d8b",
         "news:749cd3bf2e949ea198500053",
+        "news:8815eebc3f1f46ac0a0fe882",
         "news:fac0c1ec37a88fbbd9c5500c"
       ],
       "name": "Bub Means",
@@ -4467,6 +4492,7 @@
         "news:1c23398206333231d3b433fa",
         "news:5b58c75e540f50514f533d8b",
         "news:749cd3bf2e949ea198500053",
+        "news:8815eebc3f1f46ac0a0fe882",
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
