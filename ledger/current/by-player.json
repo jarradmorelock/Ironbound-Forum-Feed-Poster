@@ -655,7 +655,8 @@
       "event_ids": [
         "news:0bd2ba0f783289b4c9bc8b7f",
         "news:0c2757704a3c3070f7fe9fb0",
-        "news:107ba3ffb6d75c6a9cda1c93"
+        "news:107ba3ffb6d75c6a9cda1c93",
+        "news:175d56f1df43b9b9f631f9e5"
       ],
       "name": "Christian McCaffrey",
       "nfl_team": "SF",
@@ -663,7 +664,8 @@
       "primary_event_ids": [
         "news:0bd2ba0f783289b4c9bc8b7f",
         "news:0c2757704a3c3070f7fe9fb0",
-        "news:107ba3ffb6d75c6a9cda1c93"
+        "news:107ba3ffb6d75c6a9cda1c93",
+        "news:175d56f1df43b9b9f631f9e5"
       ],
       "related_event_ids": []
     },
@@ -1121,6 +1123,7 @@
     "00-0034817": {
       "event_ids": [
         "news:0bd2ba0f783289b4c9bc8b7f",
+        "news:175d56f1df43b9b9f631f9e5",
         "news:28b7361c13bd494daded084d",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
@@ -1134,6 +1137,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0bd2ba0f783289b4c9bc8b7f",
+        "news:175d56f1df43b9b9f631f9e5",
         "news:28b7361c13bd494daded084d",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
