@@ -6859,6 +6859,7 @@
     "00-0041496": {
       "event_ids": [
         "news:264db3a31ceebb062175e60e",
+        "news:3afe3e1907fea42d195f3e62",
         "news:4dedad9fd427c708849e78d7"
       ],
       "name": "Jonah Coleman",
@@ -6866,6 +6867,7 @@
       "nflverse_id": "00-0041496",
       "primary_event_ids": [
         "news:264db3a31ceebb062175e60e",
+        "news:3afe3e1907fea42d195f3e62",
         "news:4dedad9fd427c708849e78d7"
       ],
       "related_event_ids": []
