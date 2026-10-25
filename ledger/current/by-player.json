@@ -1212,6 +1212,7 @@
       "event_ids": [
         "news:70db6532958f1e615f3d0c8c",
         "news:7dda0269bbe040f81762fbe9",
+        "news:7fb33da924183f0a54514754",
         "news:8d69c5547eb3adff08c43d61",
         "news:b0ad59b6a8ac0734e4de2e51",
         "news:bbf7cf1b08b85ee90cd07a53",
@@ -1223,6 +1224,7 @@
       "primary_event_ids": [
         "news:70db6532958f1e615f3d0c8c",
         "news:7dda0269bbe040f81762fbe9",
+        "news:7fb33da924183f0a54514754",
         "news:b0ad59b6a8ac0734e4de2e51",
         "news:bbf7cf1b08b85ee90cd07a53",
         "news:e90a9a6f2630d49747063230"
