@@ -2683,12 +2683,14 @@
     },
     "00-0037238": {
       "event_ids": [
+        "news:3c8976c67f20cc4e5801d235",
         "news:be7c2b26fd2b99b67a558435"
       ],
       "name": "Drake London",
       "nfl_team": "ATL",
       "nflverse_id": "00-0037238",
       "primary_event_ids": [
+        "news:3c8976c67f20cc4e5801d235",
         "news:be7c2b26fd2b99b67a558435"
       ],
       "related_event_ids": []
