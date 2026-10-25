@@ -5418,6 +5418,7 @@
         "news:8a0171673d7d3350ca95b432",
         "news:946c5dd0a5f544c7301257da",
         "news:a6e41c1e1883a0d0c0bf7337",
+        "news:ac9edde6fc0e31322e6373cd",
         "news:b0f90e35fbe646faf767a479",
         "news:d1d626ab55186e2a467071b8"
       ],
@@ -5433,7 +5434,9 @@
         "news:b0f90e35fbe646faf767a479",
         "news:d1d626ab55186e2a467071b8"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:ac9edde6fc0e31322e6373cd"
+      ]
     },
     "00-0040124": {
       "event_ids": [
@@ -6388,13 +6391,15 @@
       "event_ids": [
         "news:39429ed7142b5384d324f3e6",
         "news:8bf16d134c698ef79975663b",
-        "news:a6e41c1e1883a0d0c0bf7337"
+        "news:a6e41c1e1883a0d0c0bf7337",
+        "news:ac9edde6fc0e31322e6373cd"
       ],
       "name": "Mike Washington Jr.",
       "nfl_team": "LV",
       "nflverse_id": "00-0040878",
       "primary_event_ids": [
-        "news:8bf16d134c698ef79975663b"
+        "news:8bf16d134c698ef79975663b",
+        "news:ac9edde6fc0e31322e6373cd"
       ],
       "related_event_ids": [
         "news:39429ed7142b5384d324f3e6",
