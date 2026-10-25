@@ -2233,14 +2233,16 @@
     "00-0036555": {
       "event_ids": [
         "news:1de429e205d2b92520f5c6dd",
-        "news:2bacdaaf8e1cbc9208f782d2"
+        "news:2bacdaaf8e1cbc9208f782d2",
+        "news:5367a61960458cf0508627ea"
       ],
       "name": "Chuba Hubbard",
       "nfl_team": "CAR",
       "nflverse_id": "00-0036555",
       "primary_event_ids": [
         "news:1de429e205d2b92520f5c6dd",
-        "news:2bacdaaf8e1cbc9208f782d2"
+        "news:2bacdaaf8e1cbc9208f782d2",
+        "news:5367a61960458cf0508627ea"
       ],
       "related_event_ids": []
     },
