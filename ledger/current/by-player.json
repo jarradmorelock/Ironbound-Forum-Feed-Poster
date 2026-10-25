@@ -5918,6 +5918,7 @@
     },
     "00-0040583": {
       "event_ids": [
+        "news:1275ef73fab4528656f961b6",
         "news:32a290545f5b14bb06086c2b",
         "news:4ef5c77f9830f2656c79cc32",
         "news:7337b3ae6e3fd0c4d6a6aff8",
@@ -5935,6 +5936,7 @@
       "nfl_team": "HOU",
       "nflverse_id": "00-0040583",
       "primary_event_ids": [
+        "news:1275ef73fab4528656f961b6",
         "news:32a290545f5b14bb06086c2b",
         "news:89cdc9dd54fb98692f66730a",
         "news:8e8bb81c26f3f0f16244ad78"
