@@ -1475,6 +1475,7 @@
       "event_ids": [
         "news:014da0a09cd18c7b1c727590",
         "news:64355f6f1ee34bf11b527855",
+        "news:8dfc30b78c3f9a8f2f6b0c8f",
         "news:963da63bf9f7916a20504017",
         "news:e528f25814b3c5542b10d122"
       ],
@@ -1482,6 +1483,7 @@
       "nfl_team": "PIT",
       "nflverse_id": "00-0035640",
       "primary_event_ids": [
+        "news:8dfc30b78c3f9a8f2f6b0c8f",
         "news:963da63bf9f7916a20504017"
       ],
       "related_event_ids": [
