@@ -2441,6 +2441,18 @@
         "news:fac0c1ec37a88fbbd9c5500c"
       ]
     },
+    "00-0036919": {
+      "event_ids": [
+        "news:54c5bb83b779f6e3600f6268"
+      ],
+      "name": "Kenny Gainwell",
+      "nfl_team": "TB",
+      "nflverse_id": "00-0036919",
+      "primary_event_ids": [
+        "news:54c5bb83b779f6e3600f6268"
+      ],
+      "related_event_ids": []
+    },
     "00-0036924": {
       "event_ids": [
         "news:9f3fcd183911144273d2d857"
@@ -3961,6 +3973,7 @@
       "event_ids": [
         "news:2a11b3acf9923cc7e9416b2e",
         "news:4310348df99c73936b308aae",
+        "news:54c5bb83b779f6e3600f6268",
         "news:ec3fb719b4ca5131873e0e9e"
       ],
       "name": "Sean Tucker",
@@ -3971,6 +3984,7 @@
         "news:4310348df99c73936b308aae"
       ],
       "related_event_ids": [
+        "news:54c5bb83b779f6e3600f6268",
         "news:ec3fb719b4ca5131873e0e9e"
       ]
     },
@@ -4310,6 +4324,7 @@
       "event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
         "news:3bbca9a1b36ea92945f1d796",
+        "news:54c5bb83b779f6e3600f6268",
         "news:7dda0269bbe040f81762fbe9",
         "news:8a04d508618a5eb5e4a0227d",
         "news:8d69c5547eb3adff08c43d61"
@@ -4321,6 +4336,7 @@
       "related_event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
         "news:3bbca9a1b36ea92945f1d796",
+        "news:54c5bb83b779f6e3600f6268",
         "news:7dda0269bbe040f81762fbe9",
         "news:8a04d508618a5eb5e4a0227d",
         "news:8d69c5547eb3adff08c43d61"
@@ -4442,6 +4458,7 @@
         "news:2a11b3acf9923cc7e9416b2e",
         "news:4310348df99c73936b308aae",
         "news:475c5bba8f8720011bb146ac",
+        "news:54c5bb83b779f6e3600f6268",
         "news:ec3fb719b4ca5131873e0e9e"
       ],
       "name": "Bucky Irving",
@@ -4455,7 +4472,8 @@
       ],
       "related_event_ids": [
         "news:2a11b3acf9923cc7e9416b2e",
-        "news:4310348df99c73936b308aae"
+        "news:4310348df99c73936b308aae",
+        "news:54c5bb83b779f6e3600f6268"
       ]
     },
     "00-0039365": {
