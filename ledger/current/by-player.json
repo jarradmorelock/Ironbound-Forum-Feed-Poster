@@ -1161,13 +1161,15 @@
     },
     "00-0034837": {
       "event_ids": [
-        "news:6e3f6c94b4f3607bf007a5dc"
+        "news:6e3f6c94b4f3607bf007a5dc",
+        "news:ceb52b707132734d5d90f661"
       ],
       "name": "Calvin Ridley",
       "nfl_team": "TEN",
       "nflverse_id": "00-0034837",
       "primary_event_ids": [
-        "news:6e3f6c94b4f3607bf007a5dc"
+        "news:6e3f6c94b4f3607bf007a5dc",
+        "news:ceb52b707132734d5d90f661"
       ],
       "related_event_ids": []
     },
@@ -4441,6 +4443,7 @@
         "news:8eed84627f54a101edf74c50",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
+        "news:ceb52b707132734d5d90f661",
         "news:d8b6331c93cfd902c116075b",
         "news:dcf317127a4ab3d31a017b1a",
         "news:ea51dbc83506a6560b64db48",
@@ -4478,6 +4481,7 @@
         "news:8eed84627f54a101edf74c50",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
+        "news:ceb52b707132734d5d90f661",
         "news:d8b6331c93cfd902c116075b",
         "news:dcf317127a4ab3d31a017b1a",
         "news:ea51dbc83506a6560b64db48",
@@ -5532,14 +5536,16 @@
     },
     "00-0040170": {
       "event_ids": [
-        "news:6e3f6c94b4f3607bf007a5dc"
+        "news:6e3f6c94b4f3607bf007a5dc",
+        "news:ceb52b707132734d5d90f661"
       ],
       "name": "Elic Ayomanor",
       "nfl_team": "TEN",
       "nflverse_id": "00-0040170",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:6e3f6c94b4f3607bf007a5dc"
+        "news:6e3f6c94b4f3607bf007a5dc",
+        "news:ceb52b707132734d5d90f661"
       ]
     },
     "00-0040172": {
