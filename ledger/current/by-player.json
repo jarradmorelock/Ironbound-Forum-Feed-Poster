@@ -5683,6 +5683,7 @@
     "00-0040198": {
       "event_ids": [
         "news:2df5b2859053d798cc9459ee",
+        "news:96d43dc0edfd263901ebde0a",
         "news:b8d08f51261a0161c5e464e7",
         "news:dd6641bd87f31f873c20a3b5",
         "news:e4565d8d56dfc35a70c7c07f"
@@ -5692,6 +5693,7 @@
       "nflverse_id": "00-0040198",
       "primary_event_ids": [
         "news:2df5b2859053d798cc9459ee",
+        "news:96d43dc0edfd263901ebde0a",
         "news:b8d08f51261a0161c5e464e7",
         "news:dd6641bd87f31f873c20a3b5"
       ],
