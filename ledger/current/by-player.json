@@ -2204,13 +2204,15 @@
     "00-0036554": {
       "event_ids": [
         "news:a4b5e0d37639047f8b960d35",
+        "news:aa8a59430ea52bbb09cc7737",
         "news:d5051843b8dab93714386be4"
       ],
       "name": "Nico Collins",
       "nfl_team": "HOU",
       "nflverse_id": "00-0036554",
       "primary_event_ids": [
-        "news:a4b5e0d37639047f8b960d35"
+        "news:a4b5e0d37639047f8b960d35",
+        "news:aa8a59430ea52bbb09cc7737"
       ],
       "related_event_ids": [
         "news:d5051843b8dab93714386be4"
