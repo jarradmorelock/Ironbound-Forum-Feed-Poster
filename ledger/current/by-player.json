@@ -6858,13 +6858,15 @@
     },
     "00-0041496": {
       "event_ids": [
-        "news:264db3a31ceebb062175e60e"
+        "news:264db3a31ceebb062175e60e",
+        "news:4dedad9fd427c708849e78d7"
       ],
       "name": "Jonah Coleman",
       "nfl_team": "DEN",
       "nflverse_id": "00-0041496",
       "primary_event_ids": [
-        "news:264db3a31ceebb062175e60e"
+        "news:264db3a31ceebb062175e60e",
+        "news:4dedad9fd427c708849e78d7"
       ],
       "related_event_ids": []
     },
