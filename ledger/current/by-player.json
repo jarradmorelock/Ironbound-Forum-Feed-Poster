@@ -1376,7 +1376,8 @@
       "event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
         "news:65a0aba312b6e5e595e1a067",
-        "news:89723b322e532fcb9d0b3956"
+        "news:89723b322e532fcb9d0b3956",
+        "news:c48b924587468abc8956799a"
       ],
       "name": "Devin Singletary",
       "nfl_team": "NYG",
@@ -1385,7 +1386,8 @@
       "related_event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
         "news:65a0aba312b6e5e595e1a067",
-        "news:89723b322e532fcb9d0b3956"
+        "news:89723b322e532fcb9d0b3956",
+        "news:c48b924587468abc8956799a"
       ]
     },
     "00-0035261": {
@@ -4605,6 +4607,7 @@
         "news:050a8a38d8d97c3a9e29d2e3",
         "news:65a0aba312b6e5e595e1a067",
         "news:89723b322e532fcb9d0b3956",
+        "news:c48b924587468abc8956799a",
         "news:f3d2231038470716e33b1b8e"
       ],
       "name": "Tyrone Tracy Jr.",
@@ -4616,7 +4619,8 @@
       ],
       "related_event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
-        "news:65a0aba312b6e5e595e1a067"
+        "news:65a0aba312b6e5e595e1a067",
+        "news:c48b924587468abc8956799a"
       ]
     },
     "00-0039386": {
@@ -6148,6 +6152,7 @@
         "news:89723b322e532fcb9d0b3956",
         "news:a399a9dd46c94fa1476e4186",
         "news:b78541a08dabf31d051d8340",
+        "news:c48b924587468abc8956799a",
         "news:f3d2231038470716e33b1b8e"
       ],
       "name": "Cam Skattebo",
@@ -6157,7 +6162,8 @@
         "news:0e09a720b76a232c592d4837",
         "news:65a0aba312b6e5e595e1a067",
         "news:6cc81f38d30fbdf86adc2e3d",
-        "news:a399a9dd46c94fa1476e4186"
+        "news:a399a9dd46c94fa1476e4186",
+        "news:c48b924587468abc8956799a"
       ],
       "related_event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
