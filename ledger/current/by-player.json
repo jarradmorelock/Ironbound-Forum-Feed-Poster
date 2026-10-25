@@ -1665,6 +1665,7 @@
     "00-0035710": {
       "event_ids": [
         "news:2ae86ca2f1bec9de3f2c08df",
+        "news:4e25cb368a8430bb0033e84c",
         "news:50fb80cecfadf520a46d86ce",
         "news:6c938f124ba297c9726fa3b2",
         "news:ac0f5b783e106fa472ccb883",
@@ -1675,6 +1676,7 @@
       "nfl_team": "IND",
       "nflverse_id": "00-0035710",
       "primary_event_ids": [
+        "news:4e25cb368a8430bb0033e84c",
         "news:ac0f5b783e106fa472ccb883",
         "news:c6fd516e467b8f96471c7f56",
         "news:e95843dbba719fa986e464b4"
