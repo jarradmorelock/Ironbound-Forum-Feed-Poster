@@ -2205,6 +2205,7 @@
     },
     "00-0036554": {
       "event_ids": [
+        "news:4663ba36d2455ae5cd0ef638",
         "news:a4b5e0d37639047f8b960d35",
         "news:aa8a59430ea52bbb09cc7737",
         "news:d5051843b8dab93714386be4"
@@ -2217,6 +2218,7 @@
         "news:aa8a59430ea52bbb09cc7737"
       ],
       "related_event_ids": [
+        "news:4663ba36d2455ae5cd0ef638",
         "news:d5051843b8dab93714386be4"
       ]
     },
@@ -3112,6 +3114,7 @@
         "news:2a359f50bef122df69bffef6",
         "news:2f190019b4651bab297f196c",
         "news:37e02e92c6ca16fb937017bc",
+        "news:4663ba36d2455ae5cd0ef638",
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
         "news:86f2098221edc5a2512651a6",
@@ -3141,6 +3144,7 @@
         "news:2a359f50bef122df69bffef6",
         "news:2f190019b4651bab297f196c",
         "news:37e02e92c6ca16fb937017bc",
+        "news:4663ba36d2455ae5cd0ef638",
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
         "news:86f2098221edc5a2512651a6",
@@ -5047,6 +5051,7 @@
       "event_ids": [
         "news:37e02e92c6ca16fb937017bc",
         "news:3c3fc084845f3844af89e7f4",
+        "news:4663ba36d2455ae5cd0ef638",
         "news:6f07d26fa50840718ac0ba37",
         "news:83d617efa24a34fc6e66221d",
         "news:d5051843b8dab93714386be4",
@@ -5062,6 +5067,7 @@
         "news:f559d299870d8094e2503bf4"
       ],
       "related_event_ids": [
+        "news:4663ba36d2455ae5cd0ef638",
         "news:83d617efa24a34fc6e66221d",
         "news:d5051843b8dab93714386be4"
       ]
@@ -5568,6 +5574,7 @@
     },
     "00-0040138": {
       "event_ids": [
+        "news:4663ba36d2455ae5cd0ef638",
         "news:a334aaa5082249aad68f8760",
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d5051843b8dab93714386be4"
@@ -5576,6 +5583,7 @@
       "nfl_team": "HOU",
       "nflverse_id": "00-0040138",
       "primary_event_ids": [
+        "news:4663ba36d2455ae5cd0ef638",
         "news:a334aaa5082249aad68f8760",
         "news:bbb6735c8179bd12cc8ccba1"
       ],
