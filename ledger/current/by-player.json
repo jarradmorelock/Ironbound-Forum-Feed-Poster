@@ -1362,14 +1362,16 @@
     },
     "00-0035250": {
       "event_ids": [
-        "news:050a8a38d8d97c3a9e29d2e3"
+        "news:050a8a38d8d97c3a9e29d2e3",
+        "news:65a0aba312b6e5e595e1a067"
       ],
       "name": "Devin Singletary",
       "nfl_team": "NYG",
       "nflverse_id": "00-0035250",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:050a8a38d8d97c3a9e29d2e3"
+        "news:050a8a38d8d97c3a9e29d2e3",
+        "news:65a0aba312b6e5e595e1a067"
       ]
     },
     "00-0035261": {
@@ -4492,14 +4494,16 @@
     },
     "00-0039384": {
       "event_ids": [
-        "news:050a8a38d8d97c3a9e29d2e3"
+        "news:050a8a38d8d97c3a9e29d2e3",
+        "news:65a0aba312b6e5e595e1a067"
       ],
       "name": "Tyrone Tracy Jr.",
       "nfl_team": "NYG",
       "nflverse_id": "00-0039384",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:050a8a38d8d97c3a9e29d2e3"
+        "news:050a8a38d8d97c3a9e29d2e3",
+        "news:65a0aba312b6e5e595e1a067"
       ]
     },
     "00-0039386": {
@@ -4508,6 +4512,7 @@
         "news:09e0122acbc9582226fc9c6c",
         "news:1c23398206333231d3b433fa",
         "news:5b58c75e540f50514f533d8b",
+        "news:65a0aba312b6e5e595e1a067",
         "news:749cd3bf2e949ea198500053",
         "news:8815eebc3f1f46ac0a0fe882",
         "news:fac0c1ec37a88fbbd9c5500c"
@@ -4521,6 +4526,7 @@
         "news:09e0122acbc9582226fc9c6c",
         "news:1c23398206333231d3b433fa",
         "news:5b58c75e540f50514f533d8b",
+        "news:65a0aba312b6e5e595e1a067",
         "news:749cd3bf2e949ea198500053",
         "news:8815eebc3f1f46ac0a0fe882",
         "news:fac0c1ec37a88fbbd9c5500c"
@@ -6005,6 +6011,7 @@
       "event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
         "news:0e09a720b76a232c592d4837",
+        "news:65a0aba312b6e5e595e1a067",
         "news:6cc81f38d30fbdf86adc2e3d",
         "news:a399a9dd46c94fa1476e4186",
         "news:b78541a08dabf31d051d8340"
@@ -6014,6 +6021,7 @@
       "nflverse_id": "00-0040715",
       "primary_event_ids": [
         "news:0e09a720b76a232c592d4837",
+        "news:65a0aba312b6e5e595e1a067",
         "news:6cc81f38d30fbdf86adc2e3d",
         "news:a399a9dd46c94fa1476e4186"
       ],
