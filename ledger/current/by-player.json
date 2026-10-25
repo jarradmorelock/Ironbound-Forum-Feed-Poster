@@ -2515,12 +2515,14 @@
     },
     "00-0036970": {
       "event_ids": [
+        "news:71e326f9afa3a63c50e679a2",
         "news:8bfcc5f42e63e50c195b278e"
       ],
       "name": "Kyle Pitts",
       "nfl_team": "ATL",
       "nflverse_id": "00-0036970",
       "primary_event_ids": [
+        "news:71e326f9afa3a63c50e679a2",
         "news:8bfcc5f42e63e50c195b278e"
       ],
       "related_event_ids": []
@@ -4951,6 +4953,7 @@
         "news:57271c233f7079bd228f10a0",
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
+        "news:71e326f9afa3a63c50e679a2",
         "news:7337b3ae6e3fd0c4d6a6aff8",
         "news:752e82ec9f204a38e36b4db6",
         "news:77b1b416f55cbcb377515e5f",
@@ -5025,6 +5028,7 @@
         "news:57271c233f7079bd228f10a0",
         "news:5fcab1f09857dba344b398e9",
         "news:6694d21e8c9ec5386edb48a5",
+        "news:71e326f9afa3a63c50e679a2",
         "news:7337b3ae6e3fd0c4d6a6aff8",
         "news:752e82ec9f204a38e36b4db6",
         "news:77b1b416f55cbcb377515e5f",
