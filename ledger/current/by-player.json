@@ -1051,6 +1051,7 @@
         "news:5a04300dd162cdb97d19a817",
         "news:83ee8e754d89253f0b80ddd1",
         "news:997c9b83441ddc406347ca71",
+        "news:b4baed26b531b1ebb43ea175",
         "news:f3f82b69cae54a4e536c374a"
       ],
       "name": "Christian Kirk",
@@ -1058,7 +1059,8 @@
       "nflverse_id": "00-0034775",
       "primary_event_ids": [
         "news:83ee8e754d89253f0b80ddd1",
-        "news:997c9b83441ddc406347ca71"
+        "news:997c9b83441ddc406347ca71",
+        "news:b4baed26b531b1ebb43ea175"
       ],
       "related_event_ids": [
         "news:253cfe541bb838400006109b",
@@ -1123,6 +1125,7 @@
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
         "news:997c9b83441ddc406347ca71",
+        "news:b4baed26b531b1ebb43ea175",
         "news:f3f82b69cae54a4e536c374a"
       ],
       "name": "Geron Christian",
@@ -1135,6 +1138,7 @@
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
         "news:997c9b83441ddc406347ca71",
+        "news:b4baed26b531b1ebb43ea175",
         "news:f3f82b69cae54a4e536c374a"
       ]
     },
