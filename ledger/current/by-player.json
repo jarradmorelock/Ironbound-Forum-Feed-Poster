@@ -1385,6 +1385,7 @@
         "news:332e45f574e5b92bde4f99c7",
         "news:54c67af945eff0eedfa01598",
         "news:7f135c7a5a85681728cd6f95",
+        "news:9f3fcd183911144273d2d857",
         "news:b22f5a905d63a713ecc777fb",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
@@ -1399,6 +1400,7 @@
       ],
       "related_event_ids": [
         "news:265b96a6d5b429b2598e9c2f",
+        "news:9f3fcd183911144273d2d857",
         "news:b22f5a905d63a713ecc777fb",
         "news:ffd5d01a9aa25669f6b14fea"
       ]
@@ -2157,6 +2159,18 @@
         "news:a56559875d9edfa1cb8342ef"
       ]
     },
+    "00-0036501": {
+      "event_ids": [
+        "news:9f3fcd183911144273d2d857"
+      ],
+      "name": "Michael Carter II",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0036501",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9f3fcd183911144273d2d857"
+      ]
+    },
     "00-0036550": {
       "event_ids": [
         "news:1a486b2222b1a1ad15c6b811",
@@ -2415,6 +2429,18 @@
         "news:9b95f4f13afa501db06b4b02",
         "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c"
+      ]
+    },
+    "00-0036924": {
+      "event_ids": [
+        "news:9f3fcd183911144273d2d857"
+      ],
+      "name": "Michael Carter",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0036924",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9f3fcd183911144273d2d857"
       ]
     },
     "00-0036932": {
@@ -2885,6 +2911,18 @@
       ],
       "related_event_ids": [
         "news:b2e0fa8cb758ee3ca2445dbb"
+      ]
+    },
+    "00-0037594": {
+      "event_ids": [
+        "news:9f3fcd183911144273d2d857"
+      ],
+      "name": "Julius Chestnut",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0037594",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9f3fcd183911144273d2d857"
       ]
     },
     "00-0037664": {
@@ -4018,6 +4056,7 @@
         "news:2895c73454026dda022593e1",
         "news:54c67af945eff0eedfa01598",
         "news:63a0c049f8b5b03cf42fb0a6",
+        "news:9f3fcd183911144273d2d857",
         "news:b22f5a905d63a713ecc777fb"
       ],
       "name": "Tyjae Spears",
@@ -4026,6 +4065,7 @@
       "primary_event_ids": [
         "news:265b96a6d5b429b2598e9c2f",
         "news:63a0c049f8b5b03cf42fb0a6",
+        "news:9f3fcd183911144273d2d857",
         "news:b22f5a905d63a713ecc777fb"
       ],
       "related_event_ids": [
