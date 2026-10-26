@@ -3219,14 +3219,16 @@
     "00-0037834": {
       "event_ids": [
         "news:071b381cb7b8b6c6ba2aa0e9",
-        "news:36a659d8077a0ab5b55bf3ac"
+        "news:36a659d8077a0ab5b55bf3ac",
+        "news:6f097fb9b047d582b629a0be"
       ],
       "name": "Brock Purdy",
       "nfl_team": "SF",
       "nflverse_id": "00-0037834",
       "primary_event_ids": [
         "news:071b381cb7b8b6c6ba2aa0e9",
-        "news:36a659d8077a0ab5b55bf3ac"
+        "news:36a659d8077a0ab5b55bf3ac",
+        "news:6f097fb9b047d582b629a0be"
       ],
       "related_event_ids": []
     },
