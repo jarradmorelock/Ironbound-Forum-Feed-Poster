@@ -476,6 +476,7 @@
     "00-0032764": {
       "event_ids": [
         "news:08bc4fa7692c9a7c714915b7",
+        "news:4e16ba7d9610528fb7d4b7a1",
         "news:5a382e948d38177f1a19175e",
         "news:8062d95a4c59975437276aca",
         "news:d938bff7db28de7e84279193",
@@ -491,7 +492,9 @@
         "news:d938bff7db28de7e84279193",
         "news:f91cd6e6bad4863f7506a249"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:4e16ba7d9610528fb7d4b7a1"
+      ]
     },
     "00-0032951": {
       "event_ids": [
@@ -1301,6 +1304,18 @@
       "related_event_ids": [
         "news:fc1f1382c660ab08ade0b8c9"
       ]
+    },
+    "00-0034975": {
+      "event_ids": [
+        "news:4e16ba7d9610528fb7d4b7a1"
+      ],
+      "name": "Justice Hill",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0034975",
+      "primary_event_ids": [
+        "news:4e16ba7d9610528fb7d4b7a1"
+      ],
+      "related_event_ids": []
     },
     "00-0034982": {
       "event_ids": [
