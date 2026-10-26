@@ -1277,6 +1277,7 @@
     },
     "00-0034869": {
       "event_ids": [
+        "news:4a4d598d9a5c0e40a80c0760",
         "news:50299468aa0ba0c31e5e489c",
         "news:f5777dd0e586af8b82152599"
       ],
@@ -1284,6 +1285,7 @@
       "nfl_team": "SEA",
       "nflverse_id": "00-0034869",
       "primary_event_ids": [
+        "news:4a4d598d9a5c0e40a80c0760",
         "news:50299468aa0ba0c31e5e489c",
         "news:f5777dd0e586af8b82152599"
       ],
