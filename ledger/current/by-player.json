@@ -3506,6 +3506,7 @@
     },
     "00-0038128": {
       "event_ids": [
+        "news:6d0f439f922b7540bf6cad60",
         "news:d3a8e6bc3263e656f695bbaf",
         "news:f55de1284e3ffa0b30067738"
       ],
@@ -3513,6 +3514,7 @@
       "nfl_team": "MIA",
       "nflverse_id": "00-0038128",
       "primary_event_ids": [
+        "news:6d0f439f922b7540bf6cad60",
         "news:d3a8e6bc3263e656f695bbaf",
         "news:f55de1284e3ffa0b30067738"
       ],
