@@ -677,7 +677,8 @@
         "news:0bd2ba0f783289b4c9bc8b7f",
         "news:0c2757704a3c3070f7fe9fb0",
         "news:107ba3ffb6d75c6a9cda1c93",
-        "news:175d56f1df43b9b9f631f9e5"
+        "news:175d56f1df43b9b9f631f9e5",
+        "news:1bcb74f69b95906591a80360"
       ],
       "name": "Christian McCaffrey",
       "nfl_team": "SF",
@@ -688,10 +689,13 @@
         "news:107ba3ffb6d75c6a9cda1c93",
         "news:175d56f1df43b9b9f631f9e5"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:1bcb74f69b95906591a80360"
+      ]
     },
     "00-0033288": {
       "event_ids": [
+        "news:1bcb74f69b95906591a80360",
         "news:268cab389b1877ee0c60883c",
         "news:36a659d8077a0ab5b55bf3ac",
         "news:6cbffcc62d08aaffb2dbdc3a",
@@ -703,6 +707,7 @@
       "nfl_team": "SF",
       "nflverse_id": "00-0033288",
       "primary_event_ids": [
+        "news:1bcb74f69b95906591a80360",
         "news:268cab389b1877ee0c60883c",
         "news:6cbffcc62d08aaffb2dbdc3a",
         "news:7e39bf0731c70b16178a1c66",
@@ -1163,6 +1168,7 @@
       "event_ids": [
         "news:0bd2ba0f783289b4c9bc8b7f",
         "news:175d56f1df43b9b9f631f9e5",
+        "news:1bcb74f69b95906591a80360",
         "news:28b7361c13bd494daded084d",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
@@ -1177,6 +1183,7 @@
       "related_event_ids": [
         "news:0bd2ba0f783289b4c9bc8b7f",
         "news:175d56f1df43b9b9f631f9e5",
+        "news:1bcb74f69b95906591a80360",
         "news:28b7361c13bd494daded084d",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
@@ -5635,6 +5642,7 @@
     "00-0040087": {
       "event_ids": [
         "news:0e931cb92b103231188e94c2",
+        "news:1bcb74f69b95906591a80360",
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
         "news:36a659d8077a0ab5b55bf3ac",
@@ -5651,6 +5659,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0e931cb92b103231188e94c2",
+        "news:1bcb74f69b95906591a80360",
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
         "news:36a659d8077a0ab5b55bf3ac",
