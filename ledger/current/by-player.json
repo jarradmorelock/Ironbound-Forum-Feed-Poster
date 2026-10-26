@@ -368,6 +368,7 @@
         "news:832e5dbeef7d0eb2e228f107",
         "news:88d2236120e657d740d949f4",
         "news:b590708c7d321edff5e01f58",
+        "news:ee2900c04bc3e5753192fe29",
         "news:f3f82b69cae54a4e536c374a",
         "news:f84b9d09908cda13b523c2a7"
       ],
@@ -382,6 +383,7 @@
         "news:832e5dbeef7d0eb2e228f107",
         "news:88d2236120e657d740d949f4",
         "news:b590708c7d321edff5e01f58",
+        "news:ee2900c04bc3e5753192fe29",
         "news:f3f82b69cae54a4e536c374a",
         "news:f84b9d09908cda13b523c2a7"
       ],
@@ -1809,7 +1811,8 @@
         "news:2401c85df362ec0d31e71b65",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:8df0412418b7fb36ed6cc4db",
-        "news:8f5df405e98573eb45f51499"
+        "news:8f5df405e98573eb45f51499",
+        "news:ee2900c04bc3e5753192fe29"
       ],
       "name": "Deebo Samuel Sr.",
       "nfl_team": "SF",
@@ -1822,7 +1825,8 @@
         "news:8f5df405e98573eb45f51499"
       ],
       "related_event_ids": [
-        "news:514e56ea8fcae8b5d8ed18e9"
+        "news:514e56ea8fcae8b5d8ed18e9",
+        "news:ee2900c04bc3e5753192fe29"
       ]
     },
     "00-0035993": {
@@ -3313,7 +3317,8 @@
       "event_ids": [
         "news:071b381cb7b8b6c6ba2aa0e9",
         "news:36a659d8077a0ab5b55bf3ac",
-        "news:6f097fb9b047d582b629a0be"
+        "news:6f097fb9b047d582b629a0be",
+        "news:ee2900c04bc3e5753192fe29"
       ],
       "name": "Brock Purdy",
       "nfl_team": "SF",
@@ -3323,7 +3328,9 @@
         "news:36a659d8077a0ab5b55bf3ac",
         "news:6f097fb9b047d582b629a0be"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:ee2900c04bc3e5753192fe29"
+      ]
     },
     "00-0037838": {
       "event_ids": [
