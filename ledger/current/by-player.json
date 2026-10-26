@@ -108,6 +108,7 @@
         "news:253cfe541bb838400006109b",
         "news:3114b09ec7c4c083372c469d",
         "news:5a04300dd162cdb97d19a817",
+        "news:b8f091131c65b6be254ee9b5",
         "news:b95c528f255c6e6bae8f65b0",
         "news:d1ae23f5c6f5c8e54932111d",
         "news:e17be22e451e6584c5be8b26"
@@ -118,6 +119,7 @@
       "primary_event_ids": [
         "news:3114b09ec7c4c083372c469d",
         "news:5a04300dd162cdb97d19a817",
+        "news:b8f091131c65b6be254ee9b5",
         "news:b95c528f255c6e6bae8f65b0",
         "news:d1ae23f5c6f5c8e54932111d"
       ],
@@ -1104,6 +1106,7 @@
         "news:83ee8e754d89253f0b80ddd1",
         "news:997c9b83441ddc406347ca71",
         "news:b4baed26b531b1ebb43ea175",
+        "news:b8f091131c65b6be254ee9b5",
         "news:e17be22e451e6584c5be8b26",
         "news:f3f82b69cae54a4e536c374a"
       ],
@@ -1119,6 +1122,7 @@
         "news:253cfe541bb838400006109b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817",
+        "news:b8f091131c65b6be254ee9b5",
         "news:e17be22e451e6584c5be8b26",
         "news:f3f82b69cae54a4e536c374a"
       ]
@@ -4796,6 +4800,7 @@
         "news:8eef59dca729ea5c5092c935",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
+        "news:b8f091131c65b6be254ee9b5",
         "news:ce8f2fdd75f4e147bc459a66",
         "news:ceb52b707132734d5d90f661",
         "news:d8b6331c93cfd902c116075b",
@@ -4839,6 +4844,7 @@
         "news:8eef59dca729ea5c5092c935",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
+        "news:b8f091131c65b6be254ee9b5",
         "news:ce8f2fdd75f4e147bc459a66",
         "news:ceb52b707132734d5d90f661",
         "news:d8b6331c93cfd902c116075b",
@@ -7477,6 +7483,7 @@
     },
     "00-0041562": {
       "event_ids": [
+        "news:b8f091131c65b6be254ee9b5",
         "news:e17be22e451e6584c5be8b26"
       ],
       "name": "Fernando Mendoza",
@@ -7485,7 +7492,9 @@
       "primary_event_ids": [
         "news:e17be22e451e6584c5be8b26"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:b8f091131c65b6be254ee9b5"
+      ]
     }
   },
   "schema_version": 2
