@@ -1199,6 +1199,7 @@
     },
     "00-0034837": {
       "event_ids": [
+        "news:5eeee4ff394aa729205765c0",
         "news:6e3f6c94b4f3607bf007a5dc",
         "news:ceb52b707132734d5d90f661"
       ],
@@ -1209,7 +1210,9 @@
         "news:6e3f6c94b4f3607bf007a5dc",
         "news:ceb52b707132734d5d90f661"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:5eeee4ff394aa729205765c0"
+      ]
     },
     "00-0034844": {
       "event_ids": [
@@ -3393,6 +3396,7 @@
     },
     "00-0038117": {
       "event_ids": [
+        "news:5eeee4ff394aa729205765c0",
         "news:77a7f3be3a4ffd5cbcdb00cc",
         "news:f99e688c8436790e65a46da0",
         "news:ffd5d01a9aa25669f6b14fea"
@@ -3404,6 +3408,7 @@
         "news:77a7f3be3a4ffd5cbcdb00cc"
       ],
       "related_event_ids": [
+        "news:5eeee4ff394aa729205765c0",
         "news:f99e688c8436790e65a46da0",
         "news:ffd5d01a9aa25669f6b14fea"
       ]
@@ -5858,13 +5863,16 @@
     },
     "00-0040170": {
       "event_ids": [
+        "news:5eeee4ff394aa729205765c0",
         "news:6e3f6c94b4f3607bf007a5dc",
         "news:ceb52b707132734d5d90f661"
       ],
       "name": "Elic Ayomanor",
       "nfl_team": "TEN",
       "nflverse_id": "00-0040170",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:5eeee4ff394aa729205765c0"
+      ],
       "related_event_ids": [
         "news:6e3f6c94b4f3607bf007a5dc",
         "news:ceb52b707132734d5d90f661"
@@ -7093,6 +7101,7 @@
         "news:01549e8af838842f0dfe8f67",
         "news:2e78d5089b68d762b8813b72",
         "news:558ed254f47f8da7abfe7301",
+        "news:5eeee4ff394aa729205765c0",
         "news:76e7b47db814a4e5a52ae9bb",
         "news:77a7f3be3a4ffd5cbcdb00cc",
         "news:f94576bc4657166bd7e37087",
@@ -7114,6 +7123,7 @@
         "news:ffd5d01a9aa25669f6b14fea"
       ],
       "related_event_ids": [
+        "news:5eeee4ff394aa729205765c0",
         "news:77a7f3be3a4ffd5cbcdb00cc"
       ]
     },
