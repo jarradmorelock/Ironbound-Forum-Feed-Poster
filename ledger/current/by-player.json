@@ -1261,6 +1261,7 @@
         "news:0203963a0744637b06e379f1",
         "news:11a993edce3943ec0de56eca",
         "news:169a17bb9a2fb0774de2f48d",
+        "news:1b1b4b475743d9018289b7ef",
         "news:215a662b508f4ea648a92711",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:4ba225c96ce08e9cbdef9b34",
@@ -1275,6 +1276,7 @@
       "nfl_team": "PHI",
       "nflverse_id": "00-0034844",
       "primary_event_ids": [
+        "news:1b1b4b475743d9018289b7ef",
         "news:4ba225c96ce08e9cbdef9b34",
         "news:4de7b483ed967484671f85f3",
         "news:64b0b8be152ab1fea5afb0a2",
