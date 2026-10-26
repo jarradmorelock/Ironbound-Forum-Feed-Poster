@@ -3001,6 +3001,18 @@
         "news:b2e0fa8cb758ee3ca2445dbb"
       ]
     },
+    "00-0037545": {
+      "event_ids": [
+        "news:bcabf8b8fd9d8fdbd300d510"
+      ],
+      "name": "Rashid Shaheed",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0037545",
+      "primary_event_ids": [
+        "news:bcabf8b8fd9d8fdbd300d510"
+      ],
+      "related_event_ids": []
+    },
     "00-0037594": {
       "event_ids": [
         "news:9f3fcd183911144273d2d857"
@@ -4018,6 +4030,18 @@
       "related_event_ids": [
         "news:42d65fa207face1190ac5368",
         "news:d608bcb0f889768fa2b6b59f"
+      ]
+    },
+    "00-0038914": {
+      "event_ids": [
+        "news:bcabf8b8fd9d8fdbd300d510"
+      ],
+      "name": "McClendon Curtis",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0038914",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:bcabf8b8fd9d8fdbd300d510"
       ]
     },
     "00-0038933": {
