@@ -4866,6 +4866,7 @@
         "news:25a113166d1f7423953de8a9",
         "news:303c972e64ef85754c49f9df",
         "news:9e65e49a5297f21db4bc8217",
+        "news:e6f786ad4580a35b4f92cc6b",
         "news:f173fc2546a7178ab3445a38"
       ],
       "name": "Jalen Coker",
@@ -4875,6 +4876,7 @@
         "news:25a113166d1f7423953de8a9",
         "news:303c972e64ef85754c49f9df",
         "news:9e65e49a5297f21db4bc8217",
+        "news:e6f786ad4580a35b4f92cc6b",
         "news:f173fc2546a7178ab3445a38"
       ],
       "related_event_ids": []
@@ -5632,7 +5634,8 @@
         "news:0f16c06df9048477faf4e0ab",
         "news:303c972e64ef85754c49f9df",
         "news:9e65e49a5297f21db4bc8217",
-        "news:c11edf8f90449026c8858007"
+        "news:c11edf8f90449026c8858007",
+        "news:e6f786ad4580a35b4f92cc6b"
       ],
       "name": "Tetairoa McMillan",
       "nfl_team": "CAR",
@@ -5643,7 +5646,8 @@
       ],
       "related_event_ids": [
         "news:303c972e64ef85754c49f9df",
-        "news:9e65e49a5297f21db4bc8217"
+        "news:9e65e49a5297f21db4bc8217",
+        "news:e6f786ad4580a35b4f92cc6b"
       ]
     },
     "00-0040126": {
