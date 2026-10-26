@@ -2903,6 +2903,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0037252": {
+      "event_ids": [
+        "news:9b77ed87b0a906a6c93e183f"
+      ],
+      "name": "Greg Dulcich",
+      "nfl_team": "MIA",
+      "nflverse_id": "00-0037252",
+      "primary_event_ids": [
+        "news:9b77ed87b0a906a6c93e183f"
+      ],
+      "related_event_ids": []
+    },
     "00-0037256": {
       "event_ids": [
         "news:15436cfd15b2f098cbf4e1e3",
