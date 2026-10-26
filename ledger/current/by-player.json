@@ -678,7 +678,8 @@
         "news:0c2757704a3c3070f7fe9fb0",
         "news:107ba3ffb6d75c6a9cda1c93",
         "news:175d56f1df43b9b9f631f9e5",
-        "news:1bcb74f69b95906591a80360"
+        "news:1bcb74f69b95906591a80360",
+        "news:e69ef093852ca6acfbe8b358"
       ],
       "name": "Christian McCaffrey",
       "nfl_team": "SF",
@@ -690,7 +691,8 @@
         "news:175d56f1df43b9b9f631f9e5"
       ],
       "related_event_ids": [
-        "news:1bcb74f69b95906591a80360"
+        "news:1bcb74f69b95906591a80360",
+        "news:e69ef093852ca6acfbe8b358"
       ]
     },
     "00-0033288": {
@@ -1174,6 +1176,7 @@
         "news:54daca9eb3e9fb1a45d33e61",
         "news:997c9b83441ddc406347ca71",
         "news:b4baed26b531b1ebb43ea175",
+        "news:e69ef093852ca6acfbe8b358",
         "news:f3f82b69cae54a4e536c374a"
       ],
       "name": "Geron Christian",
@@ -1189,6 +1192,7 @@
         "news:54daca9eb3e9fb1a45d33e61",
         "news:997c9b83441ddc406347ca71",
         "news:b4baed26b531b1ebb43ea175",
+        "news:e69ef093852ca6acfbe8b358",
         "news:f3f82b69cae54a4e536c374a"
       ]
     },
@@ -6876,6 +6880,18 @@
         "news:422095401f0568abd0f833ec",
         "news:6afb8db4391cf69830588672"
       ]
+    },
+    "00-0041052": {
+      "event_ids": [
+        "news:e69ef093852ca6acfbe8b358"
+      ],
+      "name": "Kaelon Black",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0041052",
+      "primary_event_ids": [
+        "news:e69ef093852ca6acfbe8b358"
+      ],
+      "related_event_ids": []
     },
     "00-0041062": {
       "event_ids": [
