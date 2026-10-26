@@ -7209,7 +7209,8 @@
       "event_ids": [
         "news:264db3a31ceebb062175e60e",
         "news:3afe3e1907fea42d195f3e62",
-        "news:4dedad9fd427c708849e78d7"
+        "news:4dedad9fd427c708849e78d7",
+        "news:836fe6fc1873edc1e2274914"
       ],
       "name": "Jonah Coleman",
       "nfl_team": "DEN",
@@ -7217,7 +7218,8 @@
       "primary_event_ids": [
         "news:264db3a31ceebb062175e60e",
         "news:3afe3e1907fea42d195f3e62",
-        "news:4dedad9fd427c708849e78d7"
+        "news:4dedad9fd427c708849e78d7",
+        "news:836fe6fc1873edc1e2274914"
       ],
       "related_event_ids": []
     },
