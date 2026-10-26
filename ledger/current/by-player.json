@@ -2519,7 +2519,8 @@
     "00-0036919": {
       "event_ids": [
         "news:54c5bb83b779f6e3600f6268",
-        "news:7ba76116081501cde014ea7e"
+        "news:7ba76116081501cde014ea7e",
+        "news:e14211cc79107fe2eca035da"
       ],
       "name": "Kenny Gainwell",
       "nfl_team": "TB",
@@ -2528,7 +2529,9 @@
         "news:54c5bb83b779f6e3600f6268",
         "news:7ba76116081501cde014ea7e"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:e14211cc79107fe2eca035da"
+      ]
     },
     "00-0036924": {
       "event_ids": [
@@ -4115,6 +4118,7 @@
         "news:2a11b3acf9923cc7e9416b2e",
         "news:4310348df99c73936b308aae",
         "news:54c5bb83b779f6e3600f6268",
+        "news:e14211cc79107fe2eca035da",
         "news:ec3fb719b4ca5131873e0e9e"
       ],
       "name": "Sean Tucker",
@@ -4122,7 +4126,8 @@
       "nflverse_id": "00-0038951",
       "primary_event_ids": [
         "news:2a11b3acf9923cc7e9416b2e",
-        "news:4310348df99c73936b308aae"
+        "news:4310348df99c73936b308aae",
+        "news:e14211cc79107fe2eca035da"
       ],
       "related_event_ids": [
         "news:54c5bb83b779f6e3600f6268",
@@ -5109,6 +5114,7 @@
         "news:b5f4de95b4cc15206a461f02",
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d54619e249e1073482a4c77b",
+        "news:e14211cc79107fe2eca035da",
         "news:e17be22e451e6584c5be8b26",
         "news:e2a38d7e3da2993c4b934d6c",
         "news:e4937fe20d6150579bcafd69",
@@ -5188,6 +5194,7 @@
         "news:b5f4de95b4cc15206a461f02",
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d54619e249e1073482a4c77b",
+        "news:e14211cc79107fe2eca035da",
         "news:e17be22e451e6584c5be8b26",
         "news:e2a38d7e3da2993c4b934d6c",
         "news:e4937fe20d6150579bcafd69",
