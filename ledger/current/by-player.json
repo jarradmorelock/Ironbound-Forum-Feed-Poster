@@ -106,7 +106,8 @@
         "news:253cfe541bb838400006109b",
         "news:3114b09ec7c4c083372c469d",
         "news:5a04300dd162cdb97d19a817",
-        "news:b95c528f255c6e6bae8f65b0"
+        "news:b95c528f255c6e6bae8f65b0",
+        "news:e17be22e451e6584c5be8b26"
       ],
       "name": "Kirk Cousins",
       "nfl_team": "LV",
@@ -117,7 +118,8 @@
         "news:b95c528f255c6e6bae8f65b0"
       ],
       "related_event_ids": [
-        "news:253cfe541bb838400006109b"
+        "news:253cfe541bb838400006109b",
+        "news:e17be22e451e6584c5be8b26"
       ]
     },
     "00-0029822": {
@@ -1058,6 +1060,7 @@
         "news:83ee8e754d89253f0b80ddd1",
         "news:997c9b83441ddc406347ca71",
         "news:b4baed26b531b1ebb43ea175",
+        "news:e17be22e451e6584c5be8b26",
         "news:f3f82b69cae54a4e536c374a"
       ],
       "name": "Christian Kirk",
@@ -1072,6 +1075,7 @@
         "news:253cfe541bb838400006109b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817",
+        "news:e17be22e451e6584c5be8b26",
         "news:f3f82b69cae54a4e536c374a"
       ]
     },
@@ -3687,7 +3691,8 @@
     },
     "00-0038563": {
       "event_ids": [
-        "news:4bcbbf5f52b1ff63e09eae51"
+        "news:4bcbbf5f52b1ff63e09eae51",
+        "news:e17be22e451e6584c5be8b26"
       ],
       "name": "Tre Tucker",
       "nfl_team": "LV",
@@ -3695,7 +3700,9 @@
       "primary_event_ids": [
         "news:4bcbbf5f52b1ff63e09eae51"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:e17be22e451e6584c5be8b26"
+      ]
     },
     "00-0038573": {
       "event_ids": [
@@ -4990,6 +4997,7 @@
         "news:b5f4de95b4cc15206a461f02",
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d54619e249e1073482a4c77b",
+        "news:e17be22e451e6584c5be8b26",
         "news:e2a38d7e3da2993c4b934d6c",
         "news:e4937fe20d6150579bcafd69",
         "news:e7826bd17053debee2775935",
@@ -5066,6 +5074,7 @@
         "news:b5f4de95b4cc15206a461f02",
         "news:bbb6735c8179bd12cc8ccba1",
         "news:d54619e249e1073482a4c77b",
+        "news:e17be22e451e6584c5be8b26",
         "news:e2a38d7e3da2993c4b934d6c",
         "news:e4937fe20d6150579bcafd69",
         "news:e7826bd17053debee2775935",
@@ -7113,6 +7122,18 @@
       "related_event_ids": [
         "news:206b4f9337a4e959df9f3783"
       ]
+    },
+    "00-0041562": {
+      "event_ids": [
+        "news:e17be22e451e6584c5be8b26"
+      ],
+      "name": "Fernando Mendoza",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0041562",
+      "primary_event_ids": [
+        "news:e17be22e451e6584c5be8b26"
+      ],
+      "related_event_ids": []
     }
   },
   "schema_version": 2
