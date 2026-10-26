@@ -230,13 +230,15 @@
     },
     "00-0030506": {
       "event_ids": [
-        "news:ae1426a2b90eb9240ba89d60"
+        "news:ae1426a2b90eb9240ba89d60",
+        "news:bba76a446533692ed76d3d97"
       ],
       "name": "Travis Kelce",
       "nfl_team": "KC",
       "nflverse_id": "00-0030506",
       "primary_event_ids": [
-        "news:ae1426a2b90eb9240ba89d60"
+        "news:ae1426a2b90eb9240ba89d60",
+        "news:bba76a446533692ed76d3d97"
       ],
       "related_event_ids": []
     },
