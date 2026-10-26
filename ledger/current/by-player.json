@@ -1378,6 +1378,7 @@
     },
     "00-0035250": {
       "event_ids": [
+        "news:025182746c0db01c3df65d23",
         "news:050a8a38d8d97c3a9e29d2e3",
         "news:65a0aba312b6e5e595e1a067",
         "news:89723b322e532fcb9d0b3956",
@@ -1386,7 +1387,9 @@
       "name": "Devin Singletary",
       "nfl_team": "NYG",
       "nflverse_id": "00-0035250",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:025182746c0db01c3df65d23"
+      ],
       "related_event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
         "news:65a0aba312b6e5e595e1a067",
@@ -4929,6 +4932,7 @@
       "event_ids": [
         "news:01bf8b012c0f27c3ff11a6e5",
         "news:0203963a0744637b06e379f1",
+        "news:025182746c0db01c3df65d23",
         "news:0326676592c5f57f837b769b",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0a8b7e20cfad00354a35c828",
@@ -5004,6 +5008,7 @@
       "related_event_ids": [
         "news:01bf8b012c0f27c3ff11a6e5",
         "news:0203963a0744637b06e379f1",
+        "news:025182746c0db01c3df65d23",
         "news:0326676592c5f57f837b769b",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0a8b7e20cfad00354a35c828",
