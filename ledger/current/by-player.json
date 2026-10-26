@@ -2604,6 +2604,7 @@
     "00-0036963": {
       "event_ids": [
         "news:093ff451a1968e81d9e43e03",
+        "news:12bcc6dda921cf348152a193",
         "news:8eef59dca729ea5c5092c935",
         "news:a912d77b39be5798fbbde512"
       ],
@@ -2612,6 +2613,7 @@
       "nflverse_id": "00-0036963",
       "primary_event_ids": [
         "news:093ff451a1968e81d9e43e03",
+        "news:12bcc6dda921cf348152a193",
         "news:a912d77b39be5798fbbde512"
       ],
       "related_event_ids": [
@@ -2859,6 +2861,7 @@
     },
     "00-0037240": {
       "event_ids": [
+        "news:12bcc6dda921cf348152a193",
         "news:503b7adf093102e49c8efd77",
         "news:7a78e640b9bba87a355ff412",
         "news:8eef59dca729ea5c5092c935",
@@ -2873,7 +2876,9 @@
         "news:8eef59dca729ea5c5092c935",
         "news:bfae92bc89f8e60134148080"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:12bcc6dda921cf348152a193"
+      ]
     },
     "00-0037247": {
       "event_ids": [
@@ -4399,6 +4404,7 @@
     },
     "00-0039065": {
       "event_ids": [
+        "news:12bcc6dda921cf348152a193",
         "news:ea7b71e352d87e85ceb73a9b"
       ],
       "name": "Sam LaPorta",
@@ -4407,7 +4413,9 @@
       "primary_event_ids": [
         "news:ea7b71e352d87e85ceb73a9b"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:12bcc6dda921cf348152a193"
+      ]
     },
     "00-0039066": {
       "event_ids": [
@@ -4609,6 +4617,7 @@
     },
     "00-0039267": {
       "event_ids": [
+        "news:12bcc6dda921cf348152a193",
         "news:206b4f9337a4e959df9f3783",
         "news:50299468aa0ba0c31e5e489c",
         "news:7a110410b9058fa2e27ed661"
@@ -4618,6 +4627,7 @@
       "nflverse_id": "00-0039267",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:12bcc6dda921cf348152a193",
         "news:206b4f9337a4e959df9f3783",
         "news:50299468aa0ba0c31e5e489c",
         "news:7a110410b9058fa2e27ed661"
@@ -6425,6 +6435,18 @@
         "news:3f049ac6e932ebd27ca5e7e2"
       ],
       "related_event_ids": []
+    },
+    "00-0040669": {
+      "event_ids": [
+        "news:12bcc6dda921cf348152a193"
+      ],
+      "name": "Isaac TeSlaa",
+      "nfl_team": "DET",
+      "nflverse_id": "00-0040669",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:12bcc6dda921cf348152a193"
+      ]
     },
     "00-0040676": {
       "event_ids": [
