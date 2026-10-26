@@ -926,6 +926,7 @@
     "00-0033921": {
       "event_ids": [
         "news:39e1eee96896b3df3e591175",
+        "news:3d9ac5280c40accda68cfb27",
         "news:b0ad59b6a8ac0734e4de2e51",
         "news:e90a9a6f2630d49747063230",
         "news:edce7e9d8edab115b4276fb0"
@@ -938,6 +939,7 @@
         "news:edce7e9d8edab115b4276fb0"
       ],
       "related_event_ids": [
+        "news:3d9ac5280c40accda68cfb27",
         "news:b0ad59b6a8ac0734e4de2e51",
         "news:e90a9a6f2630d49747063230"
       ]
@@ -1240,6 +1242,7 @@
     },
     "00-0034855": {
       "event_ids": [
+        "news:3d9ac5280c40accda68cfb27",
         "news:70db6532958f1e615f3d0c8c",
         "news:7dda0269bbe040f81762fbe9",
         "news:7fb33da924183f0a54514754",
@@ -1252,6 +1255,7 @@
       "nfl_team": "TB",
       "nflverse_id": "00-0034855",
       "primary_event_ids": [
+        "news:3d9ac5280c40accda68cfb27",
         "news:70db6532958f1e615f3d0c8c",
         "news:7dda0269bbe040f81762fbe9",
         "news:7fb33da924183f0a54514754",
@@ -4471,6 +4475,7 @@
       "event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
         "news:3bbca9a1b36ea92945f1d796",
+        "news:3d9ac5280c40accda68cfb27",
         "news:54c5bb83b779f6e3600f6268",
         "news:7dda0269bbe040f81762fbe9",
         "news:8a04d508618a5eb5e4a0227d",
@@ -4483,6 +4488,7 @@
       "related_event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
         "news:3bbca9a1b36ea92945f1d796",
+        "news:3d9ac5280c40accda68cfb27",
         "news:54c5bb83b779f6e3600f6268",
         "news:7dda0269bbe040f81762fbe9",
         "news:8a04d508618a5eb5e4a0227d",
@@ -5677,6 +5683,7 @@
     "00-0040129": {
       "event_ids": [
         "news:2033571d425a278ecbed4832",
+        "news:3d9ac5280c40accda68cfb27",
         "news:6f872daf39f67c56610579e9",
         "news:8d69c5547eb3adff08c43d61",
         "news:b0ad59b6a8ac0734e4de2e51",
@@ -5693,6 +5700,7 @@
         "news:f59b5c067b7e39ca02399ccd"
       ],
       "related_event_ids": [
+        "news:3d9ac5280c40accda68cfb27",
         "news:b0ad59b6a8ac0734e4de2e51",
         "news:e90a9a6f2630d49747063230"
       ]
@@ -5900,6 +5908,18 @@
       ],
       "related_event_ids": [
         "news:322740cd8ad79ba067ae6dea"
+      ]
+    },
+    "00-0040237": {
+      "event_ids": [
+        "news:3d9ac5280c40accda68cfb27"
+      ],
+      "name": "Tez Johnson",
+      "nfl_team": "TB",
+      "nflverse_id": "00-0040237",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:3d9ac5280c40accda68cfb27"
       ]
     },
     "00-0040238": {
