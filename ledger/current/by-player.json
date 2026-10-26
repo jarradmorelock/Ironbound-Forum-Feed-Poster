@@ -859,6 +859,7 @@
       "event_ids": [
         "news:422095401f0568abd0f833ec",
         "news:6dd134d3c33d117fa38113b0",
+        "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754"
       ],
       "name": "Myles Garrett",
@@ -869,6 +870,7 @@
       ],
       "related_event_ids": [
         "news:6dd134d3c33d117fa38113b0",
+        "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754"
       ]
     },
@@ -3135,6 +3137,7 @@
       "event_ids": [
         "news:1cb9b26dbd535ef847780088",
         "news:6dd134d3c33d117fa38113b0",
+        "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
         "news:f0a4295ff923a7218b517fb9"
       ],
@@ -3143,6 +3146,7 @@
       "nflverse_id": "00-0037740",
       "primary_event_ids": [
         "news:1cb9b26dbd535ef847780088",
+        "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
         "news:f0a4295ff923a7218b517fb9"
       ],
@@ -5132,6 +5136,18 @@
         "news:57eea2f68c592274a1ad428e",
         "news:69787ba2db0f5947336b6115",
         "news:69d828f18184355601ae9633"
+      ]
+    },
+    "00-0039798": {
+      "event_ids": [
+        "news:b455c48a909561577f23684b"
+      ],
+      "name": "Isaiah Davis",
+      "nfl_team": "NYJ",
+      "nflverse_id": "00-0039798",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:b455c48a909561577f23684b"
       ]
     },
     "00-0039811": {
