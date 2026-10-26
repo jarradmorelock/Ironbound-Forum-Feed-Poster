@@ -30,6 +30,7 @@
         "news:23b438c84374010e1a201958",
         "news:302134a51558a5dda8842123",
         "news:7b5cf0aac5000ed967486d4e",
+        "news:c06d338f137d69630d1af83d",
         "news:c0a239e118819ba647927f76",
         "news:d4b2362dee0b23e4d1bc89bb"
       ],
@@ -44,6 +45,7 @@
       ],
       "related_event_ids": [
         "news:23b438c84374010e1a201958",
+        "news:c06d338f137d69630d1af83d",
         "news:c0a239e118819ba647927f76"
       ]
     },
@@ -320,6 +322,7 @@
         "news:511abae8e8c3ec8722a3a477",
         "news:98a08e420bde6125b8d7564c",
         "news:a8f49316ff9fdc834e34986c",
+        "news:c06d338f137d69630d1af83d",
         "news:c0a239e118819ba647927f76",
         "news:d96a0f1e456c2d77344a5a96",
         "news:e412ebe6f11247fc4ccc8341"
@@ -338,6 +341,7 @@
       ],
       "related_event_ids": [
         "news:a8f49316ff9fdc834e34986c",
+        "news:c06d338f137d69630d1af83d",
         "news:d96a0f1e456c2d77344a5a96"
       ]
     },
@@ -2393,14 +2397,16 @@
     },
     "00-0036849": {
       "event_ids": [
-        "news:a8f49316ff9fdc834e34986c"
+        "news:a8f49316ff9fdc834e34986c",
+        "news:c06d338f137d69630d1af83d"
       ],
       "name": "Tutu Atwell",
       "nfl_team": "LAR",
       "nflverse_id": "00-0036849",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:a8f49316ff9fdc834e34986c"
+        "news:a8f49316ff9fdc834e34986c",
+        "news:c06d338f137d69630d1af83d"
       ]
     },
     "00-0036862": {
@@ -3246,6 +3252,7 @@
         "news:23b438c84374010e1a201958",
         "news:302134a51558a5dda8842123",
         "news:3f049ac6e932ebd27ca5e7e2",
+        "news:c06d338f137d69630d1af83d",
         "news:c0a239e118819ba647927f76"
       ],
       "name": "Christian Matthew",
@@ -3257,6 +3264,7 @@
         "news:23b438c84374010e1a201958",
         "news:302134a51558a5dda8842123",
         "news:3f049ac6e932ebd27ca5e7e2",
+        "news:c06d338f137d69630d1af83d",
         "news:c0a239e118819ba647927f76"
       ]
     },
@@ -4501,6 +4509,7 @@
         "news:8291262d1afc3be901df158e",
         "news:913c193c4cff7f8342a9eb4d",
         "news:a8f49316ff9fdc834e34986c",
+        "news:c06d338f137d69630d1af83d",
         "news:c0a239e118819ba647927f76",
         "news:c4b76f3ca6b2a67c50f9068f",
         "news:f7f33662cad1320714fb0a05"
@@ -4520,6 +4529,7 @@
       "related_event_ids": [
         "news:0d6e90509e44e61d90b288ee",
         "news:23b438c84374010e1a201958",
+        "news:c06d338f137d69630d1af83d",
         "news:c0a239e118819ba647927f76"
       ]
     },
@@ -6369,12 +6379,15 @@
     },
     "00-0040590": {
       "event_ids": [
-        "news:a8f49316ff9fdc834e34986c"
+        "news:a8f49316ff9fdc834e34986c",
+        "news:c06d338f137d69630d1af83d"
       ],
       "name": "Konata Mumpfield",
       "nfl_team": "LAR",
       "nflverse_id": "00-0040590",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:c06d338f137d69630d1af83d"
+      ],
       "related_event_ids": [
         "news:a8f49316ff9fdc834e34986c"
       ]
