@@ -115,7 +115,8 @@
         "news:b8f091131c65b6be254ee9b5",
         "news:b95c528f255c6e6bae8f65b0",
         "news:d1ae23f5c6f5c8e54932111d",
-        "news:e17be22e451e6584c5be8b26"
+        "news:e17be22e451e6584c5be8b26",
+        "news:f1e0cc7737d5182f048e1998"
       ],
       "name": "Kirk Cousins",
       "nfl_team": "LV",
@@ -125,7 +126,8 @@
         "news:5a04300dd162cdb97d19a817",
         "news:b8f091131c65b6be254ee9b5",
         "news:b95c528f255c6e6bae8f65b0",
-        "news:d1ae23f5c6f5c8e54932111d"
+        "news:d1ae23f5c6f5c8e54932111d",
+        "news:f1e0cc7737d5182f048e1998"
       ],
       "related_event_ids": [
         "news:253cfe541bb838400006109b",
@@ -1118,6 +1120,7 @@
         "news:b4baed26b531b1ebb43ea175",
         "news:b8f091131c65b6be254ee9b5",
         "news:e17be22e451e6584c5be8b26",
+        "news:f1e0cc7737d5182f048e1998",
         "news:f3f82b69cae54a4e536c374a"
       ],
       "name": "Christian Kirk",
@@ -1134,6 +1137,7 @@
         "news:5a04300dd162cdb97d19a817",
         "news:b8f091131c65b6be254ee9b5",
         "news:e17be22e451e6584c5be8b26",
+        "news:f1e0cc7737d5182f048e1998",
         "news:f3f82b69cae54a4e536c374a"
       ]
     },
@@ -5322,6 +5326,7 @@
         "news:ecb08d0e711193c7e3be8ba7",
         "news:f08fe2bb9baba85b1f0f3d19",
         "news:f1d41083d5143d00c18f8953",
+        "news:f1e0cc7737d5182f048e1998",
         "news:f388f79969ad54328f06b040",
         "news:f8e8e3976cdd0847a661fe4e",
         "news:fc1f1382c660ab08ade0b8c9",
@@ -5408,6 +5413,7 @@
         "news:ecb08d0e711193c7e3be8ba7",
         "news:f08fe2bb9baba85b1f0f3d19",
         "news:f1d41083d5143d00c18f8953",
+        "news:f1e0cc7737d5182f048e1998",
         "news:f388f79969ad54328f06b040",
         "news:f8e8e3976cdd0847a661fe4e",
         "news:fc1f1382c660ab08ade0b8c9",
