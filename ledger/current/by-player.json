@@ -153,6 +153,7 @@
     },
     "00-0030140": {
       "event_ids": [
+        "news:0547b66729af0d9d59a7ec08",
         "news:074d2c36e2cb4d4889b22677",
         "news:167e4084e2ee9adca6ab8874",
         "news:28b7361c13bd494daded084d",
@@ -179,6 +180,7 @@
       "nflverse_id": "00-0030140",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0547b66729af0d9d59a7ec08",
         "news:074d2c36e2cb4d4889b22677",
         "news:167e4084e2ee9adca6ab8874",
         "news:28b7361c13bd494daded084d",
@@ -894,6 +896,7 @@
     },
     "00-0033906": {
       "event_ids": [
+        "news:0547b66729af0d9d59a7ec08",
         "news:21d672797933ee5b372daed8",
         "news:2242e22878905e40d13738ec",
         "news:b478f9f4df3759ce3761b2a7",
@@ -916,7 +919,9 @@
         "news:c6ce95017310a84c0b94abf9",
         "news:d9d44fae78ee4df237681836"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:0547b66729af0d9d59a7ec08"
+      ]
     },
     "00-0033921": {
       "event_ids": [
@@ -2771,6 +2776,7 @@
     },
     "00-0037239": {
       "event_ids": [
+        "news:0547b66729af0d9d59a7ec08",
         "news:7fb79d0937595d689f73f002",
         "news:9691b7425963b33722597723",
         "news:a1ca419fac6805745de5e9b7",
@@ -2789,7 +2795,9 @@
         "news:bed9f33b1832160b1f035337",
         "news:f39c2079c1b6dcc16ceca441"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:0547b66729af0d9d59a7ec08"
+      ]
     },
     "00-0037240": {
       "event_ids": [
@@ -3672,6 +3680,7 @@
     },
     "00-0038551": {
       "event_ids": [
+        "news:0547b66729af0d9d59a7ec08",
         "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ],
@@ -3680,6 +3689,7 @@
       "nflverse_id": "00-0038551",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0547b66729af0d9d59a7ec08",
         "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ]
@@ -4815,6 +4825,7 @@
     },
     "00-0039424": {
       "event_ids": [
+        "news:0547b66729af0d9d59a7ec08",
         "news:ae5a31606ec9ac1a414ca1f3"
       ],
       "name": "Devaughn Vele",
@@ -4823,7 +4834,9 @@
       "primary_event_ids": [
         "news:ae5a31606ec9ac1a414ca1f3"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:0547b66729af0d9d59a7ec08"
+      ]
     },
     "00-0039465": {
       "event_ids": [
@@ -6460,6 +6473,7 @@
     },
     "00-0040743": {
       "event_ids": [
+        "news:0547b66729af0d9d59a7ec08",
         "news:2e8963cc000ebc9a50789f52",
         "news:a01d37964bbb31eeb277a63a",
         "news:bc5cec98c39afb696910ebd0",
@@ -6470,6 +6484,7 @@
       "nfl_team": "NO",
       "nflverse_id": "00-0040743",
       "primary_event_ids": [
+        "news:0547b66729af0d9d59a7ec08",
         "news:2e8963cc000ebc9a50789f52",
         "news:a01d37964bbb31eeb277a63a",
         "news:bc5cec98c39afb696910ebd0",
