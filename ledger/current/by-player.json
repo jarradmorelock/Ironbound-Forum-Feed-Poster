@@ -3735,13 +3735,15 @@
     "00-0038563": {
       "event_ids": [
         "news:4bcbbf5f52b1ff63e09eae51",
-        "news:e17be22e451e6584c5be8b26"
+        "news:e17be22e451e6584c5be8b26",
+        "news:e8dae8e974a2f165f1d56e1d"
       ],
       "name": "Tre Tucker",
       "nfl_team": "LV",
       "nflverse_id": "00-0038563",
       "primary_event_ids": [
-        "news:4bcbbf5f52b1ff63e09eae51"
+        "news:4bcbbf5f52b1ff63e09eae51",
+        "news:e8dae8e974a2f165f1d56e1d"
       ],
       "related_event_ids": [
         "news:e17be22e451e6584c5be8b26"
