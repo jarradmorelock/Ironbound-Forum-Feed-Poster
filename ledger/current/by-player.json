@@ -7264,6 +7264,7 @@
     },
     "00-0041512": {
       "event_ids": [
+        "news:442ef4eaae94fdc00fcbc6a1",
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
@@ -7273,6 +7274,7 @@
       "nfl_team": "SEA",
       "nflverse_id": "00-0041512",
       "primary_event_ids": [
+        "news:442ef4eaae94fdc00fcbc6a1",
         "news:e3e44cc5f1af0a74c63da1dc"
       ],
       "related_event_ids": [
