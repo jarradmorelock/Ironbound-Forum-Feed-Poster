@@ -7350,6 +7350,18 @@
         "news:bf9a34aeebdaccc60f26f1f0"
       ]
     },
+    "00-0041483": {
+      "event_ids": [
+        "news:36decc524754a7ec8a1338ab"
+      ],
+      "name": "Eli Stowers",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0041483",
+      "primary_event_ids": [
+        "news:36decc524754a7ec8a1338ab"
+      ],
+      "related_event_ids": []
+    },
     "00-0041489": {
       "event_ids": [
         "news:014da0a09cd18c7b1c727590",
