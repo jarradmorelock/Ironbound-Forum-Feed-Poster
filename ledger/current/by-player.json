@@ -535,6 +535,7 @@
         "news:997c9b83441ddc406347ca71",
         "news:a56559875d9edfa1cb8342ef",
         "news:ab8cdf43b311cbcdbfe6d74a",
+        "news:bb80700d7240c9391b0b35de",
         "news:cb54c29e7a6316b028ee327e",
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:e4937fe20d6150579bcafd69",
@@ -565,6 +566,7 @@
         "news:997c9b83441ddc406347ca71",
         "news:a56559875d9edfa1cb8342ef",
         "news:ab8cdf43b311cbcdbfe6d74a",
+        "news:bb80700d7240c9391b0b35de",
         "news:cb54c29e7a6316b028ee327e",
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:e4937fe20d6150579bcafd69",
@@ -3117,13 +3119,15 @@
     },
     "00-0037664": {
       "event_ids": [
-        "news:6c7b6bc5d7a1ab2bb9959385"
+        "news:6c7b6bc5d7a1ab2bb9959385",
+        "news:bb80700d7240c9391b0b35de"
       ],
       "name": "Alec Pierce",
       "nfl_team": "IND",
       "nflverse_id": "00-0037664",
       "primary_event_ids": [
-        "news:6c7b6bc5d7a1ab2bb9959385"
+        "news:6c7b6bc5d7a1ab2bb9959385",
+        "news:bb80700d7240c9391b0b35de"
       ],
       "related_event_ids": []
     },
@@ -3279,6 +3283,7 @@
         "news:a01d37964bbb31eeb277a63a",
         "news:a8f49316ff9fdc834e34986c",
         "news:b22f5a905d63a713ecc777fb",
+        "news:bb80700d7240c9391b0b35de",
         "news:ce3e51627516baf78633b05f",
         "news:d9e943bd280b4c695fce45d7",
         "news:db3e642a6c70f2809524a2c0",
@@ -3309,6 +3314,7 @@
         "news:a01d37964bbb31eeb277a63a",
         "news:a8f49316ff9fdc834e34986c",
         "news:b22f5a905d63a713ecc777fb",
+        "news:bb80700d7240c9391b0b35de",
         "news:ce3e51627516baf78633b05f",
         "news:d9e943bd280b4c695fce45d7",
         "news:f155a70f6a8be534de3d5cb6",
