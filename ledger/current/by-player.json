@@ -788,14 +788,16 @@
     "00-0033537": {
       "event_ids": [
         "news:42555320f3a86cbc75aa6922",
-        "news:678625af7af0c2fa56fcf894"
+        "news:678625af7af0c2fa56fcf894",
+        "news:c3a76898753d48a25d69bd8a"
       ],
       "name": "Deshaun Watson",
       "nfl_team": "CLE",
       "nflverse_id": "00-0033537",
       "primary_event_ids": [
         "news:42555320f3a86cbc75aa6922",
-        "news:678625af7af0c2fa56fcf894"
+        "news:678625af7af0c2fa56fcf894",
+        "news:c3a76898753d48a25d69bd8a"
       ],
       "related_event_ids": []
     },
@@ -5160,6 +5162,7 @@
         "news:b590708c7d321edff5e01f58",
         "news:b5f4de95b4cc15206a461f02",
         "news:bbb6735c8179bd12cc8ccba1",
+        "news:c3a76898753d48a25d69bd8a",
         "news:d54619e249e1073482a4c77b",
         "news:e14211cc79107fe2eca035da",
         "news:e17be22e451e6584c5be8b26",
@@ -5243,6 +5246,7 @@
         "news:b590708c7d321edff5e01f58",
         "news:b5f4de95b4cc15206a461f02",
         "news:bbb6735c8179bd12cc8ccba1",
+        "news:c3a76898753d48a25d69bd8a",
         "news:d54619e249e1073482a4c77b",
         "news:e14211cc79107fe2eca035da",
         "news:e17be22e451e6584c5be8b26",
@@ -6274,7 +6278,8 @@
       "event_ids": [
         "news:074d2c36e2cb4d4889b22677",
         "news:2c9499d23f7f3de50f526b5c",
-        "news:7d7dfbf1c3a7cdfffec4187a"
+        "news:7d7dfbf1c3a7cdfffec4187a",
+        "news:c3a76898753d48a25d69bd8a"
       ],
       "name": "Harold Fannin Jr.",
       "nfl_team": "CLE",
@@ -6284,7 +6289,9 @@
         "news:2c9499d23f7f3de50f526b5c",
         "news:7d7dfbf1c3a7cdfffec4187a"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:c3a76898753d48a25d69bd8a"
+      ]
     },
     "00-0040666": {
       "event_ids": [
