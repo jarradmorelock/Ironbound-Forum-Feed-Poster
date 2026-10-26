@@ -4338,6 +4338,7 @@
     },
     "00-0039040": {
       "event_ids": [
+        "news:587112a154a8a9f76f970113",
         "news:b8d08f51261a0161c5e464e7"
       ],
       "name": "De'Von Achane",
@@ -4345,6 +4346,7 @@
       "nflverse_id": "00-0039040",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:587112a154a8a9f76f970113",
         "news:b8d08f51261a0161c5e464e7"
       ]
     },
@@ -6004,6 +6006,7 @@
     "00-0040198": {
       "event_ids": [
         "news:2df5b2859053d798cc9459ee",
+        "news:587112a154a8a9f76f970113",
         "news:96d43dc0edfd263901ebde0a",
         "news:b8d08f51261a0161c5e464e7",
         "news:dd6641bd87f31f873c20a3b5",
@@ -6014,6 +6017,7 @@
       "nflverse_id": "00-0040198",
       "primary_event_ids": [
         "news:2df5b2859053d798cc9459ee",
+        "news:587112a154a8a9f76f970113",
         "news:96d43dc0edfd263901ebde0a",
         "news:b8d08f51261a0161c5e464e7",
         "news:dd6641bd87f31f873c20a3b5"
