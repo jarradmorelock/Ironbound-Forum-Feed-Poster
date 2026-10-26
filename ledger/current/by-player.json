@@ -2890,6 +2890,7 @@
     },
     "00-0037263": {
       "event_ids": [
+        "news:0fa8b0ed8c59a39b8db59dd4",
         "news:118d7c64477a0af9d8c4d94d",
         "news:17c551fda1a7fb40e2eb8696",
         "news:1864197da8d2538477fcc554",
@@ -2899,6 +2900,7 @@
       "nfl_team": "ARI",
       "nflverse_id": "00-0037263",
       "primary_event_ids": [
+        "news:0fa8b0ed8c59a39b8db59dd4",
         "news:17c551fda1a7fb40e2eb8696",
         "news:fdb76c7cc006322288f24f91"
       ],
@@ -4958,6 +4960,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0a8b7e20cfad00354a35c828",
         "news:0ef9d36257970a0cb09eabb8",
+        "news:0fa8b0ed8c59a39b8db59dd4",
         "news:126f451c5589baa18070897c",
         "news:12a51c2387660bdf1bc7a399",
         "news:1a30d471e2de5e85169bd1d7",
@@ -5035,6 +5038,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0a8b7e20cfad00354a35c828",
         "news:0ef9d36257970a0cb09eabb8",
+        "news:0fa8b0ed8c59a39b8db59dd4",
         "news:126f451c5589baa18070897c",
         "news:12a51c2387660bdf1bc7a399",
         "news:1a30d471e2de5e85169bd1d7",
