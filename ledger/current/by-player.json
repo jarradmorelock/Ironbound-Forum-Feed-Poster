@@ -523,6 +523,7 @@
         "news:08bc4fa7692c9a7c714915b7",
         "news:0ce6ef192700353addbc374b",
         "news:2a359f50bef122df69bffef6",
+        "news:30712850611f1ae1035deb38",
         "news:315b528ea9301a8c529ab7b5",
         "news:39429ed7142b5384d324f3e6",
         "news:463c5f9292e3b5af0a2cc870",
@@ -551,6 +552,7 @@
         "news:08bc4fa7692c9a7c714915b7",
         "news:0ce6ef192700353addbc374b",
         "news:2a359f50bef122df69bffef6",
+        "news:30712850611f1ae1035deb38",
         "news:315b528ea9301a8c529ab7b5",
         "news:39429ed7142b5384d324f3e6",
         "news:463c5f9292e3b5af0a2cc870",
@@ -2291,6 +2293,7 @@
       "event_ids": [
         "news:1de429e205d2b92520f5c6dd",
         "news:2bacdaaf8e1cbc9208f782d2",
+        "news:30712850611f1ae1035deb38",
         "news:5367a61960458cf0508627ea"
       ],
       "name": "Chuba Hubbard",
@@ -2299,6 +2302,7 @@
       "primary_event_ids": [
         "news:1de429e205d2b92520f5c6dd",
         "news:2bacdaaf8e1cbc9208f782d2",
+        "news:30712850611f1ae1035deb38",
         "news:5367a61960458cf0508627ea"
       ],
       "related_event_ids": []
@@ -4492,6 +4496,7 @@
     "00-0039234": {
       "event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
+        "news:30712850611f1ae1035deb38",
         "news:3bbca9a1b36ea92945f1d796",
         "news:3d9ac5280c40accda68cfb27",
         "news:54c5bb83b779f6e3600f6268",
@@ -4505,6 +4510,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0213701c3d05aa8dfc30f55a",
+        "news:30712850611f1ae1035deb38",
         "news:3bbca9a1b36ea92945f1d796",
         "news:3d9ac5280c40accda68cfb27",
         "news:54c5bb83b779f6e3600f6268",
@@ -4666,6 +4672,7 @@
         "news:1e953f2140e37a2fb498f931",
         "news:206b4f9337a4e959df9f3783",
         "news:215a662b508f4ea648a92711",
+        "news:30712850611f1ae1035deb38",
         "news:3219329299073c6b6d83c2c2",
         "news:33b14f67af587bf24658a11a",
         "news:36a659d8077a0ab5b55bf3ac",
@@ -4707,6 +4714,7 @@
         "news:1e953f2140e37a2fb498f931",
         "news:206b4f9337a4e959df9f3783",
         "news:215a662b508f4ea648a92711",
+        "news:30712850611f1ae1035deb38",
         "news:3219329299073c6b6d83c2c2",
         "news:33b14f67af587bf24658a11a",
         "news:36a659d8077a0ab5b55bf3ac",
@@ -6207,14 +6215,16 @@
     },
     "00-0040644": {
       "event_ids": [
-        "news:1de429e205d2b92520f5c6dd"
+        "news:1de429e205d2b92520f5c6dd",
+        "news:30712850611f1ae1035deb38"
       ],
       "name": "Trevor Etienne",
       "nfl_team": "CAR",
       "nflverse_id": "00-0040644",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:1de429e205d2b92520f5c6dd"
+        "news:1de429e205d2b92520f5c6dd",
+        "news:30712850611f1ae1035deb38"
       ]
     },
     "00-0040648": {
