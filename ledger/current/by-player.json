@@ -610,6 +610,7 @@
     "00-0033106": {
       "event_ids": [
         "news:503b7adf093102e49c8efd77",
+        "news:8eef59dca729ea5c5092c935",
         "news:9883748e3ce3861a3ef0dbbf",
         "news:c5ce82445d71e610f1a1294b",
         "news:caccecc9f8db4449706ed860"
@@ -623,7 +624,8 @@
         "news:caccecc9f8db4449706ed860"
       ],
       "related_event_ids": [
-        "news:503b7adf093102e49c8efd77"
+        "news:503b7adf093102e49c8efd77",
+        "news:8eef59dca729ea5c5092c935"
       ]
     },
     "00-0033110": {
@@ -2562,6 +2564,7 @@
     "00-0036963": {
       "event_ids": [
         "news:093ff451a1968e81d9e43e03",
+        "news:8eef59dca729ea5c5092c935",
         "news:a912d77b39be5798fbbde512"
       ],
       "name": "Amon-Ra St. Brown",
@@ -2571,7 +2574,9 @@
         "news:093ff451a1968e81d9e43e03",
         "news:a912d77b39be5798fbbde512"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:8eef59dca729ea5c5092c935"
+      ]
     },
     "00-0036970": {
       "event_ids": [
@@ -2812,6 +2817,7 @@
       "event_ids": [
         "news:503b7adf093102e49c8efd77",
         "news:7a78e640b9bba87a355ff412",
+        "news:8eef59dca729ea5c5092c935",
         "news:bfae92bc89f8e60134148080"
       ],
       "name": "Jameson Williams",
@@ -2820,6 +2826,7 @@
       "primary_event_ids": [
         "news:503b7adf093102e49c8efd77",
         "news:7a78e640b9bba87a355ff412",
+        "news:8eef59dca729ea5c5092c935",
         "news:bfae92bc89f8e60134148080"
       ],
       "related_event_ids": []
@@ -4677,6 +4684,7 @@
         "news:8291262d1afc3be901df158e",
         "news:8354d59a411a6665e71f4f5b",
         "news:8eed84627f54a101edf74c50",
+        "news:8eef59dca729ea5c5092c935",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
         "news:ceb52b707132734d5d90f661",
@@ -4717,6 +4725,7 @@
         "news:8291262d1afc3be901df158e",
         "news:8354d59a411a6665e71f4f5b",
         "news:8eed84627f54a101edf74c50",
+        "news:8eef59dca729ea5c5092c935",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
         "news:ceb52b707132734d5d90f661",
