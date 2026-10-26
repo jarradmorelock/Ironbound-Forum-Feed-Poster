@@ -3003,12 +3003,14 @@
     },
     "00-0037545": {
       "event_ids": [
+        "news:69c6961206a173434cebbdd0",
         "news:bcabf8b8fd9d8fdbd300d510"
       ],
       "name": "Rashid Shaheed",
       "nfl_team": "SEA",
       "nflverse_id": "00-0037545",
       "primary_event_ids": [
+        "news:69c6961206a173434cebbdd0",
         "news:bcabf8b8fd9d8fdbd300d510"
       ],
       "related_event_ids": []
@@ -6130,14 +6132,16 @@
     },
     "00-0040648": {
       "event_ids": [
-        "news:50299468aa0ba0c31e5e489c"
+        "news:50299468aa0ba0c31e5e489c",
+        "news:69c6961206a173434cebbdd0"
       ],
       "name": "Tory Horton",
       "nfl_team": "SEA",
       "nflverse_id": "00-0040648",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:50299468aa0ba0c31e5e489c"
+        "news:50299468aa0ba0c31e5e489c",
+        "news:69c6961206a173434cebbdd0"
       ]
     },
     "00-0040663": {
