@@ -1920,6 +1920,7 @@
     "00-0036264": {
       "event_ids": [
         "news:075f338ce2bde124f3146f91",
+        "news:5a0ad9ff40418d9feaae6809",
         "news:95a002d1406b80b3ffb8706e"
       ],
       "name": "Jordan Love",
@@ -1927,6 +1928,7 @@
       "nflverse_id": "00-0036264",
       "primary_event_ids": [
         "news:075f338ce2bde124f3146f91",
+        "news:5a0ad9ff40418d9feaae6809",
         "news:95a002d1406b80b3ffb8706e"
       ],
       "related_event_ids": []
