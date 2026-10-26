@@ -4311,14 +4311,16 @@
     "00-0039139": {
       "event_ids": [
         "news:45093062d22ad8db8740bdc4",
-        "news:7ec39a2a7880df7475334bb1"
+        "news:7ec39a2a7880df7475334bb1",
+        "news:f443629cb54c37c9cd804397"
       ],
       "name": "Jahmyr Gibbs",
       "nfl_team": "DET",
       "nflverse_id": "00-0039139",
       "primary_event_ids": [
         "news:45093062d22ad8db8740bdc4",
-        "news:7ec39a2a7880df7475334bb1"
+        "news:7ec39a2a7880df7475334bb1",
+        "news:f443629cb54c37c9cd804397"
       ],
       "related_event_ids": []
     },
