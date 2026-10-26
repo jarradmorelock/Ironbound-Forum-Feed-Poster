@@ -697,6 +697,7 @@
         "news:107ba3ffb6d75c6a9cda1c93",
         "news:175d56f1df43b9b9f631f9e5",
         "news:1bcb74f69b95906591a80360",
+        "news:a7b1b55a415e283360ad2b5f",
         "news:e69ef093852ca6acfbe8b358"
       ],
       "name": "Christian McCaffrey",
@@ -706,7 +707,8 @@
         "news:0bd2ba0f783289b4c9bc8b7f",
         "news:0c2757704a3c3070f7fe9fb0",
         "news:107ba3ffb6d75c6a9cda1c93",
-        "news:175d56f1df43b9b9f631f9e5"
+        "news:175d56f1df43b9b9f631f9e5",
+        "news:a7b1b55a415e283360ad2b5f"
       ],
       "related_event_ids": [
         "news:1bcb74f69b95906591a80360",
@@ -1201,6 +1203,7 @@
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
         "news:997c9b83441ddc406347ca71",
+        "news:a7b1b55a415e283360ad2b5f",
         "news:b4baed26b531b1ebb43ea175",
         "news:e69ef093852ca6acfbe8b358",
         "news:f3f82b69cae54a4e536c374a"
@@ -1217,6 +1220,7 @@
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54daca9eb3e9fb1a45d33e61",
         "news:997c9b83441ddc406347ca71",
+        "news:a7b1b55a415e283360ad2b5f",
         "news:b4baed26b531b1ebb43ea175",
         "news:e69ef093852ca6acfbe8b358",
         "news:f3f82b69cae54a4e536c374a"
@@ -5309,6 +5313,7 @@
         "news:a17fecd758c204ad952309aa",
         "news:a334aaa5082249aad68f8760",
         "news:a39764b6f03e4b5cdcc3ccb3",
+        "news:a7b1b55a415e283360ad2b5f",
         "news:b478f9f4df3759ce3761b2a7",
         "news:b590708c7d321edff5e01f58",
         "news:b5f4de95b4cc15206a461f02",
@@ -5396,6 +5401,7 @@
         "news:a17fecd758c204ad952309aa",
         "news:a334aaa5082249aad68f8760",
         "news:a39764b6f03e4b5cdcc3ccb3",
+        "news:a7b1b55a415e283360ad2b5f",
         "news:b478f9f4df3759ce3761b2a7",
         "news:b590708c7d321edff5e01f58",
         "news:b5f4de95b4cc15206a461f02",
@@ -7051,6 +7057,7 @@
     },
     "00-0041052": {
       "event_ids": [
+        "news:a7b1b55a415e283360ad2b5f",
         "news:e69ef093852ca6acfbe8b358"
       ],
       "name": "Kaelon Black",
@@ -7059,7 +7066,9 @@
       "primary_event_ids": [
         "news:e69ef093852ca6acfbe8b358"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:a7b1b55a415e283360ad2b5f"
+      ]
     },
     "00-0041062": {
       "event_ids": [
