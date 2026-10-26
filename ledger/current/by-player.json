@@ -109,6 +109,7 @@
         "news:3114b09ec7c4c083372c469d",
         "news:5a04300dd162cdb97d19a817",
         "news:b95c528f255c6e6bae8f65b0",
+        "news:d1ae23f5c6f5c8e54932111d",
         "news:e17be22e451e6584c5be8b26"
       ],
       "name": "Kirk Cousins",
@@ -117,7 +118,8 @@
       "primary_event_ids": [
         "news:3114b09ec7c4c083372c469d",
         "news:5a04300dd162cdb97d19a817",
-        "news:b95c528f255c6e6bae8f65b0"
+        "news:b95c528f255c6e6bae8f65b0",
+        "news:d1ae23f5c6f5c8e54932111d"
       ],
       "related_event_ids": [
         "news:253cfe541bb838400006109b",
@@ -3046,6 +3048,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:2ae86ca2f1bec9de3f2c08df"
+      ]
+    },
+    "00-0037381": {
+      "event_ids": [
+        "news:d1ae23f5c6f5c8e54932111d"
+      ],
+      "name": "Sebastian Gutierrez",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0037381",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:d1ae23f5c6f5c8e54932111d"
       ]
     },
     "00-0037410": {
