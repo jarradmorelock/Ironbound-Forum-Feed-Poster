@@ -3684,7 +3684,8 @@
         "news:6c146d141dd8e18084e6efa4",
         "news:93a3ae5d8cafbbc51af54403",
         "news:bdcbe7e4c4b988bdde4e3f18",
-        "news:ca0f2dc023e1c2aa0624108a"
+        "news:ca0f2dc023e1c2aa0624108a",
+        "news:ce8f2fdd75f4e147bc459a66"
       ],
       "name": "Bijan Robinson",
       "nfl_team": "ATL",
@@ -3693,7 +3694,8 @@
         "news:3ee980249f53a8fa31d9247e",
         "news:93a3ae5d8cafbbc51af54403",
         "news:bdcbe7e4c4b988bdde4e3f18",
-        "news:ca0f2dc023e1c2aa0624108a"
+        "news:ca0f2dc023e1c2aa0624108a",
+        "news:ce8f2fdd75f4e147bc459a66"
       ],
       "related_event_ids": [
         "news:1b4958d2900deb0d24d6ad1e",
@@ -4744,6 +4746,7 @@
         "news:8eef59dca729ea5c5092c935",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
+        "news:ce8f2fdd75f4e147bc459a66",
         "news:ceb52b707132734d5d90f661",
         "news:d8b6331c93cfd902c116075b",
         "news:dcf317127a4ab3d31a017b1a",
@@ -4786,6 +4789,7 @@
         "news:8eef59dca729ea5c5092c935",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
+        "news:ce8f2fdd75f4e147bc459a66",
         "news:ceb52b707132734d5d90f661",
         "news:d8b6331c93cfd902c116075b",
         "news:dcf317127a4ab3d31a017b1a",
@@ -5545,7 +5549,8 @@
         "news:239837ab85a1ad6d0d3b3a3b",
         "news:6d62f574c57f8fafe7ab3f14",
         "news:842512516abe055aff6eaef0",
-        "news:a17fecd758c204ad952309aa"
+        "news:a17fecd758c204ad952309aa",
+        "news:ce8f2fdd75f4e147bc459a66"
       ],
       "name": "Michael Penix Jr.",
       "nfl_team": "ATL",
@@ -5556,7 +5561,8 @@
         "news:a17fecd758c204ad952309aa"
       ],
       "related_event_ids": [
-        "news:6d62f574c57f8fafe7ab3f14"
+        "news:6d62f574c57f8fafe7ab3f14",
+        "news:ce8f2fdd75f4e147bc459a66"
       ]
     },
     "00-0039918": {
