@@ -2758,12 +2758,14 @@
     },
     "00-0036997": {
       "event_ids": [
+        "news:8fa003d96fd6b0be742d82c3",
         "news:ca76b8c5dcc9de63e2e29d55"
       ],
       "name": "Javonte Williams",
       "nfl_team": "DAL",
       "nflverse_id": "00-0036997",
       "primary_event_ids": [
+        "news:8fa003d96fd6b0be742d82c3",
         "news:ca76b8c5dcc9de63e2e29d55"
       ],
       "related_event_ids": []
