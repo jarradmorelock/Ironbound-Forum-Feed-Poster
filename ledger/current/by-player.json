@@ -3705,6 +3705,7 @@
       "event_ids": [
         "news:4ef5c77f9830f2656c79cc32",
         "news:539f223c83c7e1e635bf5698",
+        "news:78d44510f6398460ffda354e",
         "news:bee5aad2cf2d2a3a1968e6b3",
         "news:d9298aba647019266bcb6de0"
       ],
@@ -3712,6 +3713,7 @@
       "nfl_team": "PHI",
       "nflverse_id": "00-0038400",
       "primary_event_ids": [
+        "news:78d44510f6398460ffda354e",
         "news:bee5aad2cf2d2a3a1968e6b3"
       ],
       "related_event_ids": [
