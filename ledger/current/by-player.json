@@ -3458,6 +3458,18 @@
         "news:83d617efa24a34fc6e66221d"
       ]
     },
+    "00-0038041": {
+      "event_ids": [
+        "news:a257a6d95df19b4733af78b6"
+      ],
+      "name": "Jake Ferguson",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0038041",
+      "primary_event_ids": [
+        "news:a257a6d95df19b4733af78b6"
+      ],
+      "related_event_ids": []
+    },
     "00-0038097": {
       "event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
@@ -5129,6 +5141,18 @@
         "news:e2a8508d556c1a9e735a6588"
       ]
     },
+    "00-0039530": {
+      "event_ids": [
+        "news:a257a6d95df19b4733af78b6"
+      ],
+      "name": "Brevyn Spann-Ford",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0039530",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:a257a6d95df19b4733af78b6"
+      ]
+    },
     "00-0039732": {
       "event_ids": [
         "news:278219c3b30fdc6850cd0273",
@@ -6408,6 +6432,7 @@
         "news:89cdc9dd54fb98692f66730a",
         "news:8e8bb81c26f3f0f16244ad78",
         "news:8ffb3f30b97a5d72f2323fe4",
+        "news:a257a6d95df19b4733af78b6",
         "news:b1e8a38de049a328620a52be",
         "news:beb1db3ab52ce7b74839ed7b",
         "news:e95843dbba719fa986e464b4",
@@ -6428,6 +6453,7 @@
         "news:4ef5c77f9830f2656c79cc32",
         "news:7337b3ae6e3fd0c4d6a6aff8",
         "news:8ffb3f30b97a5d72f2323fe4",
+        "news:a257a6d95df19b4733af78b6",
         "news:b1e8a38de049a328620a52be",
         "news:beb1db3ab52ce7b74839ed7b",
         "news:e95843dbba719fa986e464b4",
