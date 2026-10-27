@@ -489,12 +489,14 @@
     },
     "00-0032378": {
       "event_ids": [
+        "news:3f76200fe02e3a72a64c249a",
         "news:d041252f381bfa03a546a7fc"
       ],
       "name": "DeForest Buckner",
       "nfl_team": "IND",
       "nflverse_id": "00-0032378",
       "primary_event_ids": [
+        "news:3f76200fe02e3a72a64c249a",
         "news:d041252f381bfa03a546a7fc"
       ],
       "related_event_ids": []
