@@ -487,6 +487,18 @@
         "news:ebb465783605b9d9ecbd7663"
       ]
     },
+    "00-0032378": {
+      "event_ids": [
+        "news:d041252f381bfa03a546a7fc"
+      ],
+      "name": "DeForest Buckner",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0032378",
+      "primary_event_ids": [
+        "news:d041252f381bfa03a546a7fc"
+      ],
+      "related_event_ids": []
+    },
     "00-0032580": {
       "event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b"
@@ -796,6 +808,7 @@
       "event_ids": [
         "news:22547b2f90419acd100b2898",
         "news:3981e3d5a400199aa4d7aaa9",
+        "news:d041252f381bfa03a546a7fc",
         "news:e90a9a6f2630d49747063230"
       ],
       "name": "Cameron Tom",
@@ -805,6 +818,7 @@
       "related_event_ids": [
         "news:22547b2f90419acd100b2898",
         "news:3981e3d5a400199aa4d7aaa9",
+        "news:d041252f381bfa03a546a7fc",
         "news:e90a9a6f2630d49747063230"
       ]
     },
