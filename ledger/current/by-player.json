@@ -1200,12 +1200,14 @@
     },
     "00-0034790": {
       "event_ids": [
+        "news:474f5bda26e65732d7e7dc0e",
         "news:9c547095459f998d356ab8be"
       ],
       "name": "Derwin James",
       "nfl_team": "LAC",
       "nflverse_id": "00-0034790",
       "primary_event_ids": [
+        "news:474f5bda26e65732d7e7dc0e",
         "news:9c547095459f998d356ab8be"
       ],
       "related_event_ids": []
@@ -4211,7 +4213,8 @@
     "00-0038737": {
       "event_ids": [
         "news:118d7c64477a0af9d8c4d94d",
-        "news:1f5c8e663230131bcd2fdc93"
+        "news:1f5c8e663230131bcd2fdc93",
+        "news:474f5bda26e65732d7e7dc0e"
       ],
       "name": "Isaiah Land",
       "nfl_team": "DAL",
@@ -4219,7 +4222,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:118d7c64477a0af9d8c4d94d",
-        "news:1f5c8e663230131bcd2fdc93"
+        "news:1f5c8e663230131bcd2fdc93",
+        "news:474f5bda26e65732d7e7dc0e"
       ]
     },
     "00-0038794": {
