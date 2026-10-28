@@ -473,6 +473,7 @@
         "news:45534b8591ba8dd7d6b4f9ca",
         "news:5901efaf2aa39c4da015df1b",
         "news:64355f6f1ee34bf11b527855",
+        "news:827d5c0a951ca5f226caca71",
         "news:ce3e51627516baf78633b05f",
         "news:cec35169886e5596bf5be6c6",
         "news:d8b6331c93cfd902c116075b",
@@ -492,6 +493,7 @@
         "news:45534b8591ba8dd7d6b4f9ca",
         "news:5901efaf2aa39c4da015df1b",
         "news:64355f6f1ee34bf11b527855",
+        "news:827d5c0a951ca5f226caca71",
         "news:ce3e51627516baf78633b05f",
         "news:cec35169886e5596bf5be6c6",
         "news:d8b6331c93cfd902c116075b",
@@ -4455,14 +4457,16 @@
         "news:50fb80cecfadf520a46d86ce",
         "news:6c938f124ba297c9726fa3b2",
         "news:7df545a15b8e8b40aabf0420",
-        "news:7e8d80e70af763822ed0e972"
+        "news:7e8d80e70af763822ed0e972",
+        "news:827d5c0a951ca5f226caca71"
       ],
       "name": "Josh Downs",
       "nfl_team": "IND",
       "nflverse_id": "00-0038997",
       "primary_event_ids": [
         "news:39b523b76831c520c8e7117b",
-        "news:50fb80cecfadf520a46d86ce"
+        "news:50fb80cecfadf520a46d86ce",
+        "news:827d5c0a951ca5f226caca71"
       ],
       "related_event_ids": [
         "news:6c938f124ba297c9726fa3b2",
