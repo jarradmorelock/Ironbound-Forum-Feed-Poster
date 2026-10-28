@@ -2332,7 +2332,8 @@
         "news:7dd859216b3bba49d57c92ab",
         "news:80cf64acdbd9a7576e54f450",
         "news:9b95f4f13afa501db06b4b02",
-        "news:e2a7341774ab6f106f174459"
+        "news:e2a7341774ab6f106f174459",
+        "news:e64dcb5a5997838f7c452f8b"
       ],
       "name": "DeeJay Dallas",
       "nfl_team": "MIN",
@@ -2350,7 +2351,8 @@
         "news:7dd859216b3bba49d57c92ab",
         "news:80cf64acdbd9a7576e54f450",
         "news:9b95f4f13afa501db06b4b02",
-        "news:e2a7341774ab6f106f174459"
+        "news:e2a7341774ab6f106f174459",
+        "news:e64dcb5a5997838f7c452f8b"
       ]
     },
     "00-0036442": {
@@ -3099,7 +3101,8 @@
         "news:c3a4c248a65f80cf1730fce2",
         "news:d9298aba647019266bcb6de0",
         "news:ded630e561fbc4a793ada303",
-        "news:e5895bf19e27c967de0506e2"
+        "news:e5895bf19e27c967de0506e2",
+        "news:e64dcb5a5997838f7c452f8b"
       ],
       "name": "Dameon Pierce",
       "nfl_team": "PHI",
@@ -3110,7 +3113,8 @@
         "news:169a17bb9a2fb0774de2f48d",
         "news:300e2c3836a4b077c9e7f23d",
         "news:9c783e8d19bf34e6ab72d3d4",
-        "news:c3a4c248a65f80cf1730fce2"
+        "news:c3a4c248a65f80cf1730fce2",
+        "news:e64dcb5a5997838f7c452f8b"
       ],
       "related_event_ids": [
         "news:64b0b8be152ab1fea5afb0a2",
@@ -4996,6 +5000,7 @@
         "news:ceb52b707132734d5d90f661",
         "news:d8b6331c93cfd902c116075b",
         "news:dcf317127a4ab3d31a017b1a",
+        "news:e64dcb5a5997838f7c452f8b",
         "news:ea51dbc83506a6560b64db48",
         "news:ecedde8756b5e29e431e3615",
         "news:f3f56ad52d065880a1c5bae4",
@@ -5040,6 +5045,7 @@
         "news:ceb52b707132734d5d90f661",
         "news:d8b6331c93cfd902c116075b",
         "news:dcf317127a4ab3d31a017b1a",
+        "news:e64dcb5a5997838f7c452f8b",
         "news:ea51dbc83506a6560b64db48",
         "news:ecedde8756b5e29e431e3615",
         "news:f3f56ad52d065880a1c5bae4",
@@ -6555,14 +6561,16 @@
     },
     "00-0040586": {
       "event_ids": [
-        "news:64b0b8be152ab1fea5afb0a2"
+        "news:64b0b8be152ab1fea5afb0a2",
+        "news:e64dcb5a5997838f7c452f8b"
       ],
       "name": "Jaydon Blue",
       "nfl_team": "PHI",
       "nflverse_id": "00-0040586",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:64b0b8be152ab1fea5afb0a2"
+        "news:64b0b8be152ab1fea5afb0a2",
+        "news:e64dcb5a5997838f7c452f8b"
       ]
     },
     "00-0040590": {
