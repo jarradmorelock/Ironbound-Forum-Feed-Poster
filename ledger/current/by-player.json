@@ -504,6 +504,7 @@
     "00-0032378": {
       "event_ids": [
         "news:3f76200fe02e3a72a64c249a",
+        "news:797ffae66d09c7be5638ce78",
         "news:d041252f381bfa03a546a7fc"
       ],
       "name": "DeForest Buckner",
@@ -513,7 +514,9 @@
         "news:3f76200fe02e3a72a64c249a",
         "news:d041252f381bfa03a546a7fc"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:797ffae66d09c7be5638ce78"
+      ]
     },
     "00-0032580": {
       "event_ids": [
@@ -4456,6 +4459,7 @@
         "news:39b523b76831c520c8e7117b",
         "news:50fb80cecfadf520a46d86ce",
         "news:6c938f124ba297c9726fa3b2",
+        "news:797ffae66d09c7be5638ce78",
         "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972",
         "news:827d5c0a951ca5f226caca71"
@@ -4466,6 +4470,7 @@
       "primary_event_ids": [
         "news:39b523b76831c520c8e7117b",
         "news:50fb80cecfadf520a46d86ce",
+        "news:797ffae66d09c7be5638ce78",
         "news:827d5c0a951ca5f226caca71"
       ],
       "related_event_ids": [
