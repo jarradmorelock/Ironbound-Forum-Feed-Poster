@@ -2627,14 +2627,16 @@
     },
     "00-0036906": {
       "event_ids": [
-        "news:1b4958d2900deb0d24d6ad1e"
+        "news:1b4958d2900deb0d24d6ad1e",
+        "news:4c0bbd9c88f4be6ce7f30ead"
       ],
       "name": "Khalil Herbert",
       "nfl_team": "ATL",
       "nflverse_id": "00-0036906",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:1b4958d2900deb0d24d6ad1e"
+        "news:1b4958d2900deb0d24d6ad1e",
+        "news:4c0bbd9c88f4be6ce7f30ead"
       ]
     },
     "00-0036912": {
@@ -3362,6 +3364,7 @@
     "00-0037746": {
       "event_ids": [
         "news:1b4958d2900deb0d24d6ad1e",
+        "news:4c0bbd9c88f4be6ce7f30ead",
         "news:578c3bdd73c20d4460bcf8d5",
         "news:6c146d141dd8e18084e6efa4"
       ],
@@ -3370,6 +3373,7 @@
       "nflverse_id": "00-0037746",
       "primary_event_ids": [
         "news:1b4958d2900deb0d24d6ad1e",
+        "news:4c0bbd9c88f4be6ce7f30ead",
         "news:578c3bdd73c20d4460bcf8d5",
         "news:6c146d141dd8e18084e6efa4"
       ],
@@ -3902,6 +3906,7 @@
       "event_ids": [
         "news:1b4958d2900deb0d24d6ad1e",
         "news:3ee980249f53a8fa31d9247e",
+        "news:4c0bbd9c88f4be6ce7f30ead",
         "news:5a382e948d38177f1a19175e",
         "news:6c146d141dd8e18084e6efa4",
         "news:93a3ae5d8cafbbc51af54403",
@@ -3921,6 +3926,7 @@
       ],
       "related_event_ids": [
         "news:1b4958d2900deb0d24d6ad1e",
+        "news:4c0bbd9c88f4be6ce7f30ead",
         "news:5a382e948d38177f1a19175e",
         "news:6c146d141dd8e18084e6efa4"
       ]
