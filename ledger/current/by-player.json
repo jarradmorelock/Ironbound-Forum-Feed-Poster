@@ -433,6 +433,7 @@
         "news:43e563bc0de7a7d020311949",
         "news:512328134e86f5e4f728c2fe",
         "news:a61f4cd6af556475f634c077",
+        "news:ade9d8326066f2a16b61faa4",
         "news:fae09d9c983e2d0bca1bf60e"
       ],
       "name": "Stefon Diggs",
@@ -443,6 +444,7 @@
         "news:43e563bc0de7a7d020311949",
         "news:512328134e86f5e4f728c2fe",
         "news:a61f4cd6af556475f634c077",
+        "news:ade9d8326066f2a16b61faa4",
         "news:fae09d9c983e2d0bca1bf60e"
       ],
       "related_event_ids": [
@@ -7055,6 +7057,18 @@
         "news:f3dd8c914a34d927bc360636"
       ],
       "related_event_ids": []
+    },
+    "00-0040947": {
+      "event_ids": [
+        "news:ade9d8326066f2a16b61faa4"
+      ],
+      "name": "TJ Quinn",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0040947",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ade9d8326066f2a16b61faa4"
+      ]
     },
     "00-0041027": {
       "event_ids": [
