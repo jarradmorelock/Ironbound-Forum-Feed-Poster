@@ -107,6 +107,18 @@
         "news:ff8a5801f5a00a64f90f51ad"
       ]
     },
+    "00-0029597": {
+      "event_ids": [
+        "news:8a58c02919142fa395245124"
+      ],
+      "name": "Justin Tucker",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0029597",
+      "primary_event_ids": [
+        "news:8a58c02919142fa395245124"
+      ],
+      "related_event_ids": []
+    },
     "00-0029604": {
       "event_ids": [
         "news:253cfe541bb838400006109b",
@@ -781,6 +793,18 @@
         "news:ccbbe5c90291eece8a3cc46e"
       ],
       "related_event_ids": []
+    },
+    "00-0033303": {
+      "event_ids": [
+        "news:8a58c02919142fa395245124"
+      ],
+      "name": "Harrison Butker",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0033303",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:8a58c02919142fa395245124"
+      ]
     },
     "00-0033307": {
       "event_ids": [
