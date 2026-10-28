@@ -342,6 +342,7 @@
         "news:a8f49316ff9fdc834e34986c",
         "news:c06d338f137d69630d1af83d",
         "news:c0a239e118819ba647927f76",
+        "news:ca053056b041c70bb159101d",
         "news:d96a0f1e456c2d77344a5a96",
         "news:e412ebe6f11247fc4ccc8341"
       ],
@@ -355,6 +356,7 @@
         "news:511abae8e8c3ec8722a3a477",
         "news:98a08e420bde6125b8d7564c",
         "news:c0a239e118819ba647927f76",
+        "news:ca053056b041c70bb159101d",
         "news:e412ebe6f11247fc4ccc8341"
       ],
       "related_event_ids": [
@@ -7224,7 +7226,8 @@
     "00-0041046": {
       "event_ids": [
         "news:422095401f0568abd0f833ec",
-        "news:6afb8db4391cf69830588672"
+        "news:6afb8db4391cf69830588672",
+        "news:ca053056b041c70bb159101d"
       ],
       "name": "Domonique Orange",
       "nfl_team": "MIN",
@@ -7232,7 +7235,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:422095401f0568abd0f833ec",
-        "news:6afb8db4391cf69830588672"
+        "news:6afb8db4391cf69830588672",
+        "news:ca053056b041c70bb159101d"
       ]
     },
     "00-0041052": {
