@@ -438,6 +438,7 @@
         "news:315b528ea9301a8c529ab7b5",
         "news:43e563bc0de7a7d020311949",
         "news:512328134e86f5e4f728c2fe",
+        "news:793b434a9f32abab1f8f25ed",
         "news:a61f4cd6af556475f634c077",
         "news:ade9d8326066f2a16b61faa4",
         "news:fae09d9c983e2d0bca1bf60e"
@@ -449,6 +450,7 @@
         "news:315b528ea9301a8c529ab7b5",
         "news:43e563bc0de7a7d020311949",
         "news:512328134e86f5e4f728c2fe",
+        "news:793b434a9f32abab1f8f25ed",
         "news:a61f4cd6af556475f634c077",
         "news:ade9d8326066f2a16b61faa4",
         "news:fae09d9c983e2d0bca1bf60e"
@@ -5626,6 +5628,18 @@
         "news:f8e8e3976cdd0847a661fe4e",
         "news:fc1f1382c660ab08ade0b8c9",
         "news:fc501e4a7afb56f35f736d77"
+      ]
+    },
+    "00-0039841": {
+      "event_ids": [
+        "news:793b434a9f32abab1f8f25ed"
+      ],
+      "name": "Cooper DeJean",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0039841",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:793b434a9f32abab1f8f25ed"
       ]
     },
     "00-0039849": {
