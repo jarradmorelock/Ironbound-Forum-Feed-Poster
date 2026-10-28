@@ -4364,7 +4364,8 @@
       "event_ids": [
         "news:4e3ad93ad830c45fc7e38ce4",
         "news:ab6df1f6093f58a6e20885b0",
-        "news:be1dfef03bc5d869c82fffac"
+        "news:be1dfef03bc5d869c82fffac",
+        "news:c0441eef81b07cb7687a0c82"
       ],
       "name": "Dalton Kincaid",
       "nfl_team": "BUF",
@@ -4372,7 +4373,8 @@
       "primary_event_ids": [
         "news:4e3ad93ad830c45fc7e38ce4",
         "news:ab6df1f6093f58a6e20885b0",
-        "news:be1dfef03bc5d869c82fffac"
+        "news:be1dfef03bc5d869c82fffac",
+        "news:c0441eef81b07cb7687a0c82"
       ],
       "related_event_ids": []
     },
