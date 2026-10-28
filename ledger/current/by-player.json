@@ -1283,6 +1283,7 @@
     },
     "00-0034827": {
       "event_ids": [
+        "news:0a71e07b959477cf08971733",
         "news:2d8e3d8a33e5b2eecc579683",
         "news:927719070a1ad86bcb7b72c7",
         "news:fc4b3703e352b13408a2fdee"
@@ -1291,6 +1292,7 @@
       "nfl_team": "BUF",
       "nflverse_id": "00-0034827",
       "primary_event_ids": [
+        "news:0a71e07b959477cf08971733",
         "news:2d8e3d8a33e5b2eecc579683",
         "news:927719070a1ad86bcb7b72c7"
       ],
