@@ -51,6 +51,7 @@
     },
     "00-0028171": {
       "event_ids": [
+        "news:0241d79d697dfc845320b27e",
         "news:11a993edce3943ec0de56eca",
         "news:322740cd8ad79ba067ae6dea",
         "news:539f223c83c7e1e635bf5698"
@@ -60,6 +61,7 @@
       "nflverse_id": "00-0028171",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0241d79d697dfc845320b27e",
         "news:11a993edce3943ec0de56eca",
         "news:322740cd8ad79ba067ae6dea",
         "news:539f223c83c7e1e635bf5698"
@@ -3451,6 +3453,7 @@
     },
     "00-0037838": {
       "event_ids": [
+        "news:0241d79d697dfc845320b27e",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0be066d0322c1c4e569b2f60",
         "news:169a17bb9a2fb0774de2f48d",
@@ -3482,6 +3485,7 @@
         "news:e25fc6fe0048b0523bbcd494"
       ],
       "related_event_ids": [
+        "news:0241d79d697dfc845320b27e",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0be066d0322c1c4e569b2f60",
         "news:169a17bb9a2fb0774de2f48d",
@@ -4697,6 +4701,7 @@
     },
     "00-0039139": {
       "event_ids": [
+        "news:0241d79d697dfc845320b27e",
         "news:45093062d22ad8db8740bdc4",
         "news:7ec39a2a7880df7475334bb1",
         "news:88e2ad43a6ea9ba32f5f4872",
@@ -4706,6 +4711,7 @@
       "nfl_team": "DET",
       "nflverse_id": "00-0039139",
       "primary_event_ids": [
+        "news:0241d79d697dfc845320b27e",
         "news:45093062d22ad8db8740bdc4",
         "news:7ec39a2a7880df7475334bb1",
         "news:88e2ad43a6ea9ba32f5f4872",
@@ -4954,6 +4960,18 @@
         "news:2a11b3acf9923cc7e9416b2e",
         "news:4310348df99c73936b308aae",
         "news:54c5bb83b779f6e3600f6268"
+      ]
+    },
+    "00-0039364": {
+      "event_ids": [
+        "news:0241d79d697dfc845320b27e"
+      ],
+      "name": "Sione Vaki",
+      "nfl_team": "DET",
+      "nflverse_id": "00-0039364",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:0241d79d697dfc845320b27e"
       ]
     },
     "00-0039365": {
