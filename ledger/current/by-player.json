@@ -3234,6 +3234,7 @@
     "00-0037431": {
       "event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
+        "news:e090dd3e374a879595578cf3",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ],
       "name": "Kingsley Jonathan",
@@ -3242,6 +3243,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
+        "news:e090dd3e374a879595578cf3",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ]
     },
@@ -6198,7 +6200,8 @@
         "news:4663ba36d2455ae5cd0ef638",
         "news:a334aaa5082249aad68f8760",
         "news:bbb6735c8179bd12cc8ccba1",
-        "news:d5051843b8dab93714386be4"
+        "news:d5051843b8dab93714386be4",
+        "news:e090dd3e374a879595578cf3"
       ],
       "name": "Jaylin Noel",
       "nfl_team": "HOU",
@@ -6206,7 +6209,8 @@
       "primary_event_ids": [
         "news:4663ba36d2455ae5cd0ef638",
         "news:a334aaa5082249aad68f8760",
-        "news:bbb6735c8179bd12cc8ccba1"
+        "news:bbb6735c8179bd12cc8ccba1",
+        "news:e090dd3e374a879595578cf3"
       ],
       "related_event_ids": [
         "news:d5051843b8dab93714386be4"
