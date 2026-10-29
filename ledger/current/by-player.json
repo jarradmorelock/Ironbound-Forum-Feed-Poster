@@ -1702,6 +1702,18 @@
         "news:e528f25814b3c5542b10d122"
       ]
     },
+    "00-0035643": {
+      "event_ids": [
+        "news:2e88fc3f61bcec7f8b6223c1"
+      ],
+      "name": "Jeffery Simmons",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0035643",
+      "primary_event_ids": [
+        "news:2e88fc3f61bcec7f8b6223c1"
+      ],
+      "related_event_ids": []
+    },
     "00-0035644": {
       "event_ids": [
         "news:52128213dbb39a944ce47ede",
