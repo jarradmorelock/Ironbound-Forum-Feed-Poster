@@ -812,6 +812,7 @@
         "news:93bcdeaf829debd9084c1f7d",
         "news:9ea2ef2f26a6ed18ebffa852",
         "news:b2e0fa8cb758ee3ca2445dbb",
+        "news:c39981e4d490056406d3fa02",
         "news:ccbbe5c90291eece8a3cc46e"
       ],
       "name": "Aaron Jones",
@@ -823,6 +824,7 @@
         "news:93bcdeaf829debd9084c1f7d",
         "news:9ea2ef2f26a6ed18ebffa852",
         "news:b2e0fa8cb758ee3ca2445dbb",
+        "news:c39981e4d490056406d3fa02",
         "news:ccbbe5c90291eece8a3cc46e"
       ],
       "related_event_ids": []
@@ -3304,7 +3306,8 @@
         "news:8e0bdb0762a2aeae81037f9a",
         "news:93bcdeaf829debd9084c1f7d",
         "news:9ea2ef2f26a6ed18ebffa852",
-        "news:b2e0fa8cb758ee3ca2445dbb"
+        "news:b2e0fa8cb758ee3ca2445dbb",
+        "news:c39981e4d490056406d3fa02"
       ],
       "name": "Jordan Mason",
       "nfl_team": "MIN",
@@ -3317,7 +3320,8 @@
       "related_event_ids": [
         "news:93bcdeaf829debd9084c1f7d",
         "news:9ea2ef2f26a6ed18ebffa852",
-        "news:b2e0fa8cb758ee3ca2445dbb"
+        "news:b2e0fa8cb758ee3ca2445dbb",
+        "news:c39981e4d490056406d3fa02"
       ]
     },
     "00-0037545": {
