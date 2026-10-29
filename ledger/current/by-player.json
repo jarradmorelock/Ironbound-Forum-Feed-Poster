@@ -310,6 +310,18 @@
         "news:f578056da7a35ecc5c91839e"
       ]
     },
+    "00-0031177": {
+      "event_ids": [
+        "news:93bce5eb947aabcf5cd03fbb"
+      ],
+      "name": "Brent Urban",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0031177",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:93bce5eb947aabcf5cd03fbb"
+      ]
+    },
     "00-0031235": {
       "event_ids": [
         "news:af55d8f8727f260f6031e745"
@@ -4054,6 +4066,7 @@
     "00-0038559": {
       "event_ids": [
         "news:83d617efa24a34fc6e66221d",
+        "news:93bce5eb947aabcf5cd03fbb",
         "news:9ea42a072de10917953088b9",
         "news:a0a2fbf046e1657bf21ec8d6"
       ],
@@ -4061,6 +4074,7 @@
       "nfl_team": "ARI",
       "nflverse_id": "00-0038559",
       "primary_event_ids": [
+        "news:93bce5eb947aabcf5cd03fbb",
         "news:9ea42a072de10917953088b9",
         "news:a0a2fbf046e1657bf21ec8d6"
       ],
