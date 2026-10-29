@@ -1791,6 +1791,7 @@
         "news:27c186337471ffbb5ce54660",
         "news:5d94a93383862e92e7716b14",
         "news:6c52af439db2df36c39101c3",
+        "news:8aa5bb784751431617a76083",
         "news:9616105769bb91c0758bc14b",
         "news:dcf317127a4ab3d31a017b1a",
         "news:ff5418956ffeafa32142ddbf"
@@ -1805,6 +1806,7 @@
         "news:27c186337471ffbb5ce54660",
         "news:5d94a93383862e92e7716b14",
         "news:6c52af439db2df36c39101c3",
+        "news:8aa5bb784751431617a76083",
         "news:9616105769bb91c0758bc14b",
         "news:dcf317127a4ab3d31a017b1a",
         "news:ff5418956ffeafa32142ddbf"
@@ -4228,6 +4230,7 @@
     },
     "00-0038621": {
       "event_ids": [
+        "news:8aa5bb784751431617a76083",
         "news:f578056da7a35ecc5c91839e"
       ],
       "name": "DeMario Douglas",
@@ -4235,6 +4238,7 @@
       "nflverse_id": "00-0038621",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:8aa5bb784751431617a76083",
         "news:f578056da7a35ecc5c91839e"
       ]
     },
@@ -6226,6 +6230,7 @@
     },
     "00-0040131": {
       "event_ids": [
+        "news:8aa5bb784751431617a76083",
         "news:f578056da7a35ecc5c91839e"
       ],
       "name": "Kyle Williams",
@@ -6233,6 +6238,7 @@
       "nflverse_id": "00-0040131",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:8aa5bb784751431617a76083",
         "news:f578056da7a35ecc5c91839e"
       ]
     },
@@ -6622,6 +6628,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:ee4d079180ee110f314f6f54"
+      ]
+    },
+    "00-0040563": {
+      "event_ids": [
+        "news:8aa5bb784751431617a76083"
+      ],
+      "name": "Efton Chism III",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0040563",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:8aa5bb784751431617a76083"
       ]
     },
     "00-0040579": {
