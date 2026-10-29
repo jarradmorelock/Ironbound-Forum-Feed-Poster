@@ -1358,6 +1358,7 @@
         "news:6986cc8e6c232e7cdb4bbd25",
         "news:7c4d367c082e39cc6293451d",
         "news:b2b894b8fd2c91ac78b585a9",
+        "news:cf60a0a4c3fd8f564108f112",
         "news:d9298aba647019266bcb6de0",
         "news:ded630e561fbc4a793ada303"
       ],
@@ -1373,6 +1374,7 @@
         "news:6986cc8e6c232e7cdb4bbd25",
         "news:7c4d367c082e39cc6293451d",
         "news:b2b894b8fd2c91ac78b585a9",
+        "news:cf60a0a4c3fd8f564108f112",
         "news:d9298aba647019266bcb6de0",
         "news:ded630e561fbc4a793ada303"
       ],
@@ -2469,6 +2471,7 @@
     },
     "00-0036567": {
       "event_ids": [
+        "news:cf60a0a4c3fd8f564108f112",
         "news:ded630e561fbc4a793ada303"
       ],
       "name": "Elijah Mitchell",
@@ -2476,6 +2479,7 @@
       "nflverse_id": "00-0036567",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:cf60a0a4c3fd8f564108f112",
         "news:ded630e561fbc4a793ada303"
       ]
     },
@@ -3123,6 +3127,7 @@
         "news:6986cc8e6c232e7cdb4bbd25",
         "news:9c783e8d19bf34e6ab72d3d4",
         "news:c3a4c248a65f80cf1730fce2",
+        "news:cf60a0a4c3fd8f564108f112",
         "news:d9298aba647019266bcb6de0",
         "news:ded630e561fbc4a793ada303",
         "news:e5895bf19e27c967de0506e2",
@@ -3143,6 +3148,7 @@
       "related_event_ids": [
         "news:64b0b8be152ab1fea5afb0a2",
         "news:6986cc8e6c232e7cdb4bbd25",
+        "news:cf60a0a4c3fd8f564108f112",
         "news:d9298aba647019266bcb6de0",
         "news:ded630e561fbc4a793ada303",
         "news:e5895bf19e27c967de0506e2"
@@ -5055,6 +5061,7 @@
         "news:b8f091131c65b6be254ee9b5",
         "news:ce8f2fdd75f4e147bc459a66",
         "news:ceb52b707132734d5d90f661",
+        "news:cf60a0a4c3fd8f564108f112",
         "news:d8b6331c93cfd902c116075b",
         "news:dcf317127a4ab3d31a017b1a",
         "news:e64dcb5a5997838f7c452f8b",
@@ -5101,6 +5108,7 @@
         "news:b8f091131c65b6be254ee9b5",
         "news:ce8f2fdd75f4e147bc459a66",
         "news:ceb52b707132734d5d90f661",
+        "news:cf60a0a4c3fd8f564108f112",
         "news:d8b6331c93cfd902c116075b",
         "news:dcf317127a4ab3d31a017b1a",
         "news:e64dcb5a5997838f7c452f8b",
@@ -6640,6 +6648,7 @@
     "00-0040586": {
       "event_ids": [
         "news:64b0b8be152ab1fea5afb0a2",
+        "news:cf60a0a4c3fd8f564108f112",
         "news:e64dcb5a5997838f7c452f8b"
       ],
       "name": "Jaydon Blue",
@@ -6648,6 +6657,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:64b0b8be152ab1fea5afb0a2",
+        "news:cf60a0a4c3fd8f564108f112",
         "news:e64dcb5a5997838f7c452f8b"
       ]
     },
