@@ -612,6 +612,7 @@
         "news:ab8cdf43b311cbcdbfe6d74a",
         "news:bb80700d7240c9391b0b35de",
         "news:cb54c29e7a6316b028ee327e",
+        "news:d307a1b1b0372233bafbc380",
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:e4937fe20d6150579bcafd69",
         "news:e54c2dbb508b79240a754253",
@@ -643,6 +644,7 @@
         "news:ab8cdf43b311cbcdbfe6d74a",
         "news:bb80700d7240c9391b0b35de",
         "news:cb54c29e7a6316b028ee327e",
+        "news:d307a1b1b0372233bafbc380",
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:e4937fe20d6150579bcafd69",
         "news:e54c2dbb508b79240a754253",
@@ -2781,7 +2783,8 @@
         "news:12bcc6dda921cf348152a193",
         "news:14806592fcdcd629e87eec35",
         "news:8eef59dca729ea5c5092c935",
-        "news:a912d77b39be5798fbbde512"
+        "news:a912d77b39be5798fbbde512",
+        "news:d307a1b1b0372233bafbc380"
       ],
       "name": "Amon-Ra St. Brown",
       "nfl_team": "DET",
@@ -2790,7 +2793,8 @@
         "news:093ff451a1968e81d9e43e03",
         "news:12bcc6dda921cf348152a193",
         "news:14806592fcdcd629e87eec35",
-        "news:a912d77b39be5798fbbde512"
+        "news:a912d77b39be5798fbbde512",
+        "news:d307a1b1b0372233bafbc380"
       ],
       "related_event_ids": [
         "news:8eef59dca729ea5c5092c935"
