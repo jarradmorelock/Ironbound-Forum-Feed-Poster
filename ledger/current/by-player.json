@@ -1069,6 +1069,18 @@
         "news:e90a9a6f2630d49747063230"
       ]
     },
+    "00-0034177": {
+      "event_ids": [
+        "news:ea3f899019fafb2ba32b8843"
+      ],
+      "name": "Tim Boyle",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0034177",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ea3f899019fafb2ba32b8843"
+      ]
+    },
     "00-0034272": {
       "event_ids": [
         "news:7fa453d2ef249eed23b9399e",
@@ -4863,6 +4875,7 @@
         "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b",
+        "news:ea3f899019fafb2ba32b8843",
         "news:f7b47abf4dbbd785c3c41bf4"
       ],
       "name": "Zach Charbonnet",
@@ -4873,6 +4886,7 @@
         "news:45fd1d42414d9527bbc36bf0",
         "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f",
+        "news:ea3f899019fafb2ba32b8843",
         "news:f7b47abf4dbbd785c3c41bf4"
       ],
       "related_event_ids": [
