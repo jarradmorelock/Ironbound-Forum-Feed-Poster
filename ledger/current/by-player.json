@@ -459,6 +459,7 @@
         "news:793b434a9f32abab1f8f25ed",
         "news:a61f4cd6af556475f634c077",
         "news:ade9d8326066f2a16b61faa4",
+        "news:db38960359056f5128b2b51c",
         "news:fae09d9c983e2d0bca1bf60e"
       ],
       "name": "Stefon Diggs",
@@ -471,6 +472,7 @@
         "news:793b434a9f32abab1f8f25ed",
         "news:a61f4cd6af556475f634c077",
         "news:ade9d8326066f2a16b61faa4",
+        "news:db38960359056f5128b2b51c",
         "news:fae09d9c983e2d0bca1bf60e"
       ],
       "related_event_ids": [
@@ -3433,6 +3435,18 @@
         "news:6dd134d3c33d117fa38113b0"
       ]
     },
+    "00-0037742": {
+      "event_ids": [
+        "news:db38960359056f5128b2b51c"
+      ],
+      "name": "Treylon Burks",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0037742",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:db38960359056f5128b2b51c"
+      ]
+    },
     "00-0037744": {
       "event_ids": [
         "news:15872ce67a491edcdb038a7d",
@@ -5801,14 +5815,16 @@
     },
     "00-0039841": {
       "event_ids": [
-        "news:793b434a9f32abab1f8f25ed"
+        "news:793b434a9f32abab1f8f25ed",
+        "news:db38960359056f5128b2b51c"
       ],
       "name": "Cooper DeJean",
       "nfl_team": "PHI",
       "nflverse_id": "00-0039841",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:793b434a9f32abab1f8f25ed"
+        "news:793b434a9f32abab1f8f25ed",
+        "news:db38960359056f5128b2b51c"
       ]
     },
     "00-0039849": {
