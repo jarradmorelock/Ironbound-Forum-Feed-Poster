@@ -1083,6 +1083,7 @@
     },
     "00-0034177": {
       "event_ids": [
+        "news:e842cc673f0673d3fdf66bae",
         "news:ea3f899019fafb2ba32b8843"
       ],
       "name": "Tim Boyle",
@@ -1090,6 +1091,7 @@
       "nflverse_id": "00-0034177",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:e842cc673f0673d3fdf66bae",
         "news:ea3f899019fafb2ba32b8843"
       ]
     },
@@ -4965,6 +4967,7 @@
         "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b",
+        "news:e842cc673f0673d3fdf66bae",
         "news:ea3f899019fafb2ba32b8843",
         "news:f7b47abf4dbbd785c3c41bf4"
       ],
@@ -4976,6 +4979,7 @@
         "news:45fd1d42414d9527bbc36bf0",
         "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f",
+        "news:e842cc673f0673d3fdf66bae",
         "news:ea3f899019fafb2ba32b8843",
         "news:f7b47abf4dbbd785c3c41bf4"
       ],
