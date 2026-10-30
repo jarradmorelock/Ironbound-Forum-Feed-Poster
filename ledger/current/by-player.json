@@ -2761,6 +2761,7 @@
         "news:0203963a0744637b06e379f1",
         "news:066b789341d82c6dc2a0d840",
         "news:1766b5593266c383852662aa",
+        "news:298f7204a6bc476807f87f0a",
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:4725595db1184d0dfaf4b04b",
@@ -2799,6 +2800,7 @@
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:0203963a0744637b06e379f1",
+        "news:298f7204a6bc476807f87f0a",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
@@ -3935,6 +3937,7 @@
       "event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:1766b5593266c383852662aa",
+        "news:298f7204a6bc476807f87f0a",
         "news:51abe3839f0337583e293415",
         "news:539f223c83c7e1e635bf5698",
         "news:5c9d6f1da561a0376369bec7",
@@ -3959,6 +3962,7 @@
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:1766b5593266c383852662aa",
+        "news:298f7204a6bc476807f87f0a",
         "news:539f223c83c7e1e635bf5698",
         "news:5c9d6f1da561a0376369bec7",
         "news:64154dc95e33a4c602675a2d",
@@ -7377,6 +7381,7 @@
       "event_ids": [
         "news:00c503483783fa1ebca89065",
         "news:1766b5593266c383852662aa",
+        "news:298f7204a6bc476807f87f0a",
         "news:49951f62639582588c9f44ff",
         "news:4e9d9031ae5c8e7ac6c7abcb",
         "news:5c9d6f1da561a0376369bec7",
@@ -7390,6 +7395,7 @@
       "nfl_team": "PHI",
       "nflverse_id": "00-0040867",
       "primary_event_ids": [
+        "news:298f7204a6bc476807f87f0a",
         "news:49951f62639582588c9f44ff",
         "news:4e9d9031ae5c8e7ac6c7abcb",
         "news:962ec5d6fb79c98b21adba3a"
@@ -7804,6 +7810,7 @@
         "news:0203963a0744637b06e379f1",
         "news:066b789341d82c6dc2a0d840",
         "news:1766b5593266c383852662aa",
+        "news:298f7204a6bc476807f87f0a",
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:4725595db1184d0dfaf4b04b",
@@ -7831,6 +7838,7 @@
         "news:0203963a0744637b06e379f1",
         "news:066b789341d82c6dc2a0d840",
         "news:1766b5593266c383852662aa",
+        "news:298f7204a6bc476807f87f0a",
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:4725595db1184d0dfaf4b04b",
