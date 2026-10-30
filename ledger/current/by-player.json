@@ -2,6 +2,7 @@
   "players": {
     "00-0022531": {
       "event_ids": [
+        "news:1c1830b640b7b33b8b39fa44",
         "news:b2e0fa8cb758ee3ca2445dbb"
       ],
       "name": "Jason Peters",
@@ -9,6 +10,7 @@
       "nflverse_id": "00-0022531",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:1c1830b640b7b33b8b39fa44",
         "news:b2e0fa8cb758ee3ca2445dbb"
       ]
     },
@@ -819,6 +821,7 @@
       "event_ids": [
         "news:154e0f1a33d510aa5c79701c",
         "news:1a30d471e2de5e85169bd1d7",
+        "news:1c1830b640b7b33b8b39fa44",
         "news:80cf64acdbd9a7576e54f450",
         "news:93bcdeaf829debd9084c1f7d",
         "news:9ea2ef2f26a6ed18ebffa852",
@@ -839,7 +842,9 @@
         "news:c39981e4d490056406d3fa02",
         "news:ccbbe5c90291eece8a3cc46e"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:1c1830b640b7b33b8b39fa44"
+      ]
     },
     "00-0033303": {
       "event_ids": [
@@ -3381,6 +3386,7 @@
     },
     "00-0037525": {
       "event_ids": [
+        "news:1c1830b640b7b33b8b39fa44",
         "news:45534b8591ba8dd7d6b4f9ca",
         "news:6ba716a9fc8e828800ac01e5",
         "news:8e0bdb0762a2aeae81037f9a",
@@ -3393,6 +3399,7 @@
       "nfl_team": "MIN",
       "nflverse_id": "00-0037525",
       "primary_event_ids": [
+        "news:1c1830b640b7b33b8b39fa44",
         "news:45534b8591ba8dd7d6b4f9ca",
         "news:6ba716a9fc8e828800ac01e5",
         "news:8e0bdb0762a2aeae81037f9a"
