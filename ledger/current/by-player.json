@@ -201,6 +201,7 @@
         "news:b6f2bbeacca56635d187ec1a",
         "news:b8737b620023593a43048ea6",
         "news:bdcbe7e4c4b988bdde4e3f18",
+        "news:d3af947a78d7bb1ff36cf86e",
         "news:de277db931bca0ec40c8f556",
         "news:e5ed47203eac93b2660f95bb",
         "news:f3dd8c914a34d927bc360636"
@@ -230,6 +231,7 @@
         "news:b6f2bbeacca56635d187ec1a",
         "news:b8737b620023593a43048ea6",
         "news:bdcbe7e4c4b988bdde4e3f18",
+        "news:d3af947a78d7bb1ff36cf86e",
         "news:de277db931bca0ec40c8f556",
         "news:e5ed47203eac93b2660f95bb",
         "news:f3dd8c914a34d927bc360636"
@@ -3283,6 +3285,7 @@
         "news:17c551fda1a7fb40e2eb8696",
         "news:1864197da8d2538477fcc554",
         "news:d348a973539ed4794a253993",
+        "news:d3af947a78d7bb1ff36cf86e",
         "news:fdb76c7cc006322288f24f91"
       ],
       "name": "Tyler Allgeier",
@@ -3296,7 +3299,8 @@
       "related_event_ids": [
         "news:118d7c64477a0af9d8c4d94d",
         "news:1864197da8d2538477fcc554",
-        "news:d348a973539ed4794a253993"
+        "news:d348a973539ed4794a253993",
+        "news:d3af947a78d7bb1ff36cf86e"
       ]
     },
     "00-0037291": {
@@ -5709,6 +5713,7 @@
         "news:bbb6735c8179bd12cc8ccba1",
         "news:c0a239e118819ba647927f76",
         "news:c3a76898753d48a25d69bd8a",
+        "news:d3af947a78d7bb1ff36cf86e",
         "news:d54619e249e1073482a4c77b",
         "news:d7ab48d8bdae70a90ff03499",
         "news:db1c231cef034c581c53237e",
@@ -5807,6 +5812,7 @@
         "news:bbb6735c8179bd12cc8ccba1",
         "news:c0a239e118819ba647927f76",
         "news:c3a76898753d48a25d69bd8a",
+        "news:d3af947a78d7bb1ff36cf86e",
         "news:d54619e249e1073482a4c77b",
         "news:d7ab48d8bdae70a90ff03499",
         "news:db1c231cef034c581c53237e",
@@ -7463,6 +7469,7 @@
         "news:617c7c7be6a2cdc9cf999866",
         "news:b1e0c3b7ff5eedc3218d9d31",
         "news:d348a973539ed4794a253993",
+        "news:d3af947a78d7bb1ff36cf86e",
         "news:e54c2dbb508b79240a754253",
         "news:fdb76c7cc006322288f24f91"
       ],
@@ -7479,6 +7486,7 @@
         "news:5d2e3f717520f9969bad3c65",
         "news:617c7c7be6a2cdc9cf999866",
         "news:b1e0c3b7ff5eedc3218d9d31",
+        "news:d3af947a78d7bb1ff36cf86e",
         "news:e54c2dbb508b79240a754253"
       ],
       "related_event_ids": [
