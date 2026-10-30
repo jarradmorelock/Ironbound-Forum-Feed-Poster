@@ -1813,6 +1813,7 @@
         "news:27c186337471ffbb5ce54660",
         "news:5d94a93383862e92e7716b14",
         "news:6c52af439db2df36c39101c3",
+        "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
         "news:9616105769bb91c0758bc14b",
         "news:af7077f7c11920f441df8312",
@@ -1829,6 +1830,7 @@
         "news:27c186337471ffbb5ce54660",
         "news:5d94a93383862e92e7716b14",
         "news:6c52af439db2df36c39101c3",
+        "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
         "news:9616105769bb91c0758bc14b",
         "news:af7077f7c11920f441df8312",
@@ -4280,6 +4282,7 @@
     },
     "00-0038621": {
       "event_ids": [
+        "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
         "news:f578056da7a35ecc5c91839e"
       ],
@@ -4288,6 +4291,7 @@
       "nflverse_id": "00-0038621",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
         "news:f578056da7a35ecc5c91839e"
       ]
@@ -6307,6 +6311,7 @@
     },
     "00-0040131": {
       "event_ids": [
+        "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
         "news:f578056da7a35ecc5c91839e"
       ],
@@ -6315,6 +6320,7 @@
       "nflverse_id": "00-0040131",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
         "news:f578056da7a35ecc5c91839e"
       ]
@@ -6713,6 +6719,7 @@
     },
     "00-0040563": {
       "event_ids": [
+        "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083"
       ],
       "name": "Efton Chism III",
@@ -6720,6 +6727,7 @@
       "nflverse_id": "00-0040563",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083"
       ]
     },
