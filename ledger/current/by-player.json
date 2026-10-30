@@ -1491,12 +1491,15 @@
     },
     "00-0034960": {
       "event_ids": [
-        "news:67670716dd18eafea21589c3"
+        "news:67670716dd18eafea21589c3",
+        "news:a0ec4ccbe8ef51b4a7e1201f"
       ],
       "name": "Jakobi Meyers",
       "nfl_team": "JAX",
       "nflverse_id": "00-0034960",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:a0ec4ccbe8ef51b4a7e1201f"
+      ],
       "related_event_ids": [
         "news:67670716dd18eafea21589c3"
       ]
@@ -5980,7 +5983,8 @@
     "00-0039893": {
       "event_ids": [
         "news:6700f949c79ad71512a82285",
-        "news:67670716dd18eafea21589c3"
+        "news:67670716dd18eafea21589c3",
+        "news:a0ec4ccbe8ef51b4a7e1201f"
       ],
       "name": "Brian Thomas Jr.",
       "nfl_team": "JAX",
@@ -5989,7 +5993,8 @@
         "news:6700f949c79ad71512a82285"
       ],
       "related_event_ids": [
-        "news:67670716dd18eafea21589c3"
+        "news:67670716dd18eafea21589c3",
+        "news:a0ec4ccbe8ef51b4a7e1201f"
       ]
     },
     "00-0039894": {
@@ -7098,6 +7103,18 @@
         "news:f3d2231038470716e33b1b8e"
       ]
     },
+    "00-0040718": {
+      "event_ids": [
+        "news:a0ec4ccbe8ef51b4a7e1201f"
+      ],
+      "name": "Travis Hunter",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0040718",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:a0ec4ccbe8ef51b4a7e1201f"
+      ]
+    },
     "00-0040719": {
       "event_ids": [
         "news:8f05113c5b0bc31d1cd9f229",
@@ -7683,7 +7700,8 @@
     "00-0041100": {
       "event_ids": [
         "news:3219329299073c6b6d83c2c2",
-        "news:67670716dd18eafea21589c3"
+        "news:67670716dd18eafea21589c3",
+        "news:a0ec4ccbe8ef51b4a7e1201f"
       ],
       "name": "Josh Cameron",
       "nfl_team": "JAX",
@@ -7692,7 +7710,8 @@
         "news:67670716dd18eafea21589c3"
       ],
       "related_event_ids": [
-        "news:3219329299073c6b6d83c2c2"
+        "news:3219329299073c6b6d83c2c2",
+        "news:a0ec4ccbe8ef51b4a7e1201f"
       ]
     },
     "00-0041104": {
