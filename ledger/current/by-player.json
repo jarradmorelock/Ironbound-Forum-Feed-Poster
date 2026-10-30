@@ -316,6 +316,7 @@
     },
     "00-0031177": {
       "event_ids": [
+        "news:300b75527cd31896998252fc",
         "news:93bce5eb947aabcf5cd03fbb"
       ],
       "name": "Brent Urban",
@@ -323,6 +324,7 @@
       "nflverse_id": "00-0031177",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:300b75527cd31896998252fc",
         "news:93bce5eb947aabcf5cd03fbb"
       ]
     },
@@ -7352,6 +7354,7 @@
         "news:1864197da8d2538477fcc554",
         "news:20aad95aa5e1b84b1026d26b",
         "news:294371b5bb632ce4479d31f3",
+        "news:300b75527cd31896998252fc",
         "news:4df3c6911f07aeb06075306e",
         "news:50601319dd6c4364a1ff9139",
         "news:5d2e3f717520f9969bad3c65",
@@ -7368,6 +7371,7 @@
         "news:118d7c64477a0af9d8c4d94d",
         "news:20aad95aa5e1b84b1026d26b",
         "news:294371b5bb632ce4479d31f3",
+        "news:300b75527cd31896998252fc",
         "news:4df3c6911f07aeb06075306e",
         "news:50601319dd6c4364a1ff9139",
         "news:5d2e3f717520f9969bad3c65",
