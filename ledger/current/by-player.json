@@ -5688,6 +5688,7 @@
         "news:b478f9f4df3759ce3761b2a7",
         "news:b590708c7d321edff5e01f58",
         "news:b5f4de95b4cc15206a461f02",
+        "news:b94f8dfa0f1f0cefc64887d4",
         "news:bbb6735c8179bd12cc8ccba1",
         "news:c0a239e118819ba647927f76",
         "news:c3a76898753d48a25d69bd8a",
@@ -5784,6 +5785,7 @@
         "news:b478f9f4df3759ce3761b2a7",
         "news:b590708c7d321edff5e01f58",
         "news:b5f4de95b4cc15206a461f02",
+        "news:b94f8dfa0f1f0cefc64887d4",
         "news:bbb6735c8179bd12cc8ccba1",
         "news:c0a239e118819ba647927f76",
         "news:c3a76898753d48a25d69bd8a",
@@ -6311,7 +6313,8 @@
         "news:50fb80cecfadf520a46d86ce",
         "news:54bab30f6ccd21ee50dec7e8",
         "news:7df545a15b8e8b40aabf0420",
-        "news:b22fbc156bee6535b4695f6e"
+        "news:b22fbc156bee6535b4695f6e",
+        "news:b94f8dfa0f1f0cefc64887d4"
       ],
       "name": "Tyler Warren",
       "nfl_team": "IND",
@@ -6323,7 +6326,8 @@
         "news:50c3a448be04998cf69323ba",
         "news:54bab30f6ccd21ee50dec7e8",
         "news:7df545a15b8e8b40aabf0420",
-        "news:b22fbc156bee6535b4695f6e"
+        "news:b22fbc156bee6535b4695f6e",
+        "news:b94f8dfa0f1f0cefc64887d4"
       ],
       "related_event_ids": [
         "news:2ae86ca2f1bec9de3f2c08df",
