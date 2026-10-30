@@ -2736,6 +2736,7 @@
         "news:00c503483783fa1ebca89065",
         "news:0203963a0744637b06e379f1",
         "news:066b789341d82c6dc2a0d840",
+        "news:1766b5593266c383852662aa",
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:4725595db1184d0dfaf4b04b",
@@ -2759,6 +2760,7 @@
       "nflverse_id": "00-0036912",
       "primary_event_ids": [
         "news:066b789341d82c6dc2a0d840",
+        "news:1766b5593266c383852662aa",
         "news:3a1582e55f0f550fab552bc6",
         "news:4725595db1184d0dfaf4b04b",
         "news:539f223c83c7e1e635bf5698",
@@ -3890,6 +3892,7 @@
     "00-0038393": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:1766b5593266c383852662aa",
         "news:51abe3839f0337583e293415",
         "news:539f223c83c7e1e635bf5698",
         "news:5c9d6f1da561a0376369bec7",
@@ -3913,6 +3916,7 @@
       ],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:1766b5593266c383852662aa",
         "news:539f223c83c7e1e635bf5698",
         "news:5c9d6f1da561a0376369bec7",
         "news:64154dc95e33a4c602675a2d",
@@ -6153,6 +6157,7 @@
     "00-0040024": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:1766b5593266c383852662aa",
         "news:5c9d6f1da561a0376369bec7",
         "news:75c729e2909b2695469c436d",
         "news:c9e38a1e6bb17df529d73207",
@@ -6169,6 +6174,7 @@
         "news:c9e38a1e6bb17df529d73207"
       ],
       "related_event_ids": [
+        "news:1766b5593266c383852662aa",
         "news:5c9d6f1da561a0376369bec7",
         "news:75c729e2909b2695469c436d",
         "news:d9dbcc99d2dacdfdb1216a02",
@@ -7282,6 +7288,7 @@
     "00-0040867": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:1766b5593266c383852662aa",
         "news:49951f62639582588c9f44ff",
         "news:4e9d9031ae5c8e7ac6c7abcb",
         "news:5c9d6f1da561a0376369bec7",
@@ -7301,6 +7308,7 @@
       ],
       "related_event_ids": [
         "news:00c503483783fa1ebca89065",
+        "news:1766b5593266c383852662aa",
         "news:5c9d6f1da561a0376369bec7",
         "news:75c729e2909b2695469c436d",
         "news:d9dbcc99d2dacdfdb1216a02",
@@ -7701,6 +7709,7 @@
         "news:00c503483783fa1ebca89065",
         "news:0203963a0744637b06e379f1",
         "news:066b789341d82c6dc2a0d840",
+        "news:1766b5593266c383852662aa",
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:4725595db1184d0dfaf4b04b",
@@ -7727,6 +7736,7 @@
         "news:00c503483783fa1ebca89065",
         "news:0203963a0744637b06e379f1",
         "news:066b789341d82c6dc2a0d840",
+        "news:1766b5593266c383852662aa",
         "news:3a1582e55f0f550fab552bc6",
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:4725595db1184d0dfaf4b04b",
