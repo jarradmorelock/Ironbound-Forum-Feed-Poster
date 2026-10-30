@@ -2226,7 +2226,8 @@
     },
     "00-0036290": {
       "event_ids": [
-        "news:206b4f9337a4e959df9f3783"
+        "news:206b4f9337a4e959df9f3783",
+        "news:9c3ccaab151d5df3e227380f"
       ],
       "name": "Cole Kmet",
       "nfl_team": "CHI",
@@ -2234,7 +2235,9 @@
       "primary_event_ids": [
         "news:206b4f9337a4e959df9f3783"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:9c3ccaab151d5df3e227380f"
+      ]
     },
     "00-0036309": {
       "event_ids": [
@@ -4999,7 +5002,8 @@
         "news:12bcc6dda921cf348152a193",
         "news:206b4f9337a4e959df9f3783",
         "news:50299468aa0ba0c31e5e489c",
-        "news:7a110410b9058fa2e27ed661"
+        "news:7a110410b9058fa2e27ed661",
+        "news:9c3ccaab151d5df3e227380f"
       ],
       "name": "Andre' Sam",
       "nfl_team": "PHI",
@@ -5009,7 +5013,8 @@
         "news:12bcc6dda921cf348152a193",
         "news:206b4f9337a4e959df9f3783",
         "news:50299468aa0ba0c31e5e489c",
-        "news:7a110410b9058fa2e27ed661"
+        "news:7a110410b9058fa2e27ed661",
+        "news:9c3ccaab151d5df3e227380f"
       ]
     },
     "00-0039299": {
@@ -6292,6 +6297,7 @@
         "news:0a8b7e20cfad00354a35c828",
         "news:114aeb78cf039e810375d594",
         "news:6a076e28f3a904a7e07ccd4a",
+        "news:9c3ccaab151d5df3e227380f",
         "news:c07e2b1562a10dd9501d41b2"
       ],
       "name": "Colston Loveland",
@@ -6301,6 +6307,7 @@
         "news:0a8b7e20cfad00354a35c828",
         "news:114aeb78cf039e810375d594",
         "news:6a076e28f3a904a7e07ccd4a",
+        "news:9c3ccaab151d5df3e227380f",
         "news:c07e2b1562a10dd9501d41b2"
       ],
       "related_event_ids": []
@@ -8094,14 +8101,16 @@
     },
     "00-0041558": {
       "event_ids": [
-        "news:206b4f9337a4e959df9f3783"
+        "news:206b4f9337a4e959df9f3783",
+        "news:9c3ccaab151d5df3e227380f"
       ],
       "name": "Sam Roush",
       "nfl_team": "CHI",
       "nflverse_id": "00-0041558",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:206b4f9337a4e959df9f3783"
+        "news:206b4f9337a4e959df9f3783",
+        "news:9c3ccaab151d5df3e227380f"
       ]
     },
     "00-0041562": {
