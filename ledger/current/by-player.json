@@ -2774,6 +2774,7 @@
       "event_ids": [
         "news:54c5bb83b779f6e3600f6268",
         "news:7ba76116081501cde014ea7e",
+        "news:d9bca6721cec39309d067c41",
         "news:e14211cc79107fe2eca035da"
       ],
       "name": "Kenny Gainwell",
@@ -2781,7 +2782,8 @@
       "nflverse_id": "00-0036919",
       "primary_event_ids": [
         "news:54c5bb83b779f6e3600f6268",
-        "news:7ba76116081501cde014ea7e"
+        "news:7ba76116081501cde014ea7e",
+        "news:d9bca6721cec39309d067c41"
       ],
       "related_event_ids": [
         "news:e14211cc79107fe2eca035da"
