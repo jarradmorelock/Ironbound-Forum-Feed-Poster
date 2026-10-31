@@ -2850,12 +2850,14 @@
     },
     "00-0036932": {
       "event_ids": [
+        "news:74e1d7e2399c1460e48c53ea",
         "news:a1b1077de91a3dee0f0c9a2c"
       ],
       "name": "Micah Parsons",
       "nfl_team": "GB",
       "nflverse_id": "00-0036932",
       "primary_event_ids": [
+        "news:74e1d7e2399c1460e48c53ea",
         "news:a1b1077de91a3dee0f0c9a2c"
       ],
       "related_event_ids": []
