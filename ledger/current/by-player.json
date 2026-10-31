@@ -1841,6 +1841,7 @@
         "news:6c52af439db2df36c39101c3",
         "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:9616105769bb91c0758bc14b",
         "news:af7077f7c11920f441df8312",
         "news:dcf317127a4ab3d31a017b1a",
@@ -1858,6 +1859,7 @@
         "news:6c52af439db2df36c39101c3",
         "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:9616105769bb91c0758bc14b",
         "news:af7077f7c11920f441df8312",
         "news:dcf317127a4ab3d31a017b1a",
@@ -2664,6 +2666,7 @@
         "news:13706ce1d35499b7e2a3d22c",
         "news:6104a3a334df42b931c67835",
         "news:78d94942bb0e8cbbe77b4d39",
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:a2ad869648121b95d813699b",
         "news:ee4d079180ee110f314f6f54",
         "news:f08fe2bb9baba85b1f0f3d19"
@@ -2679,6 +2682,7 @@
         "news:f08fe2bb9baba85b1f0f3d19"
       ],
       "related_event_ids": [
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:ee4d079180ee110f314f6f54"
       ]
     },
@@ -4367,6 +4371,7 @@
       "event_ids": [
         "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:f578056da7a35ecc5c91839e"
       ],
       "name": "DeMario Douglas",
@@ -4376,6 +4381,7 @@
       "related_event_ids": [
         "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:f578056da7a35ecc5c91839e"
       ]
     },
@@ -5727,6 +5733,7 @@
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89cdc9dd54fb98692f66730a",
         "news:8bfcc5f42e63e50c195b278e",
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:8e1c21ea36a33d520d6416cb",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
@@ -5827,6 +5834,7 @@
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89cdc9dd54fb98692f66730a",
         "news:8bfcc5f42e63e50c195b278e",
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:8e1c21ea36a33d520d6416cb",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
@@ -6834,6 +6842,7 @@
     },
     "00-0040556": {
       "event_ids": [
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:ee4d079180ee110f314f6f54"
       ],
       "name": "Corey Kiner",
@@ -6841,6 +6850,7 @@
       "nflverse_id": "00-0040556",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:ee4d079180ee110f314f6f54"
       ]
     },
@@ -7254,6 +7264,7 @@
         "news:7889f88bb18d838394b7a33e",
         "news:7c559872831dcb67748baa23",
         "news:869269be4966f11fb9fc51e9",
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:a38e16967f606f4c748fc8a1",
         "news:cfd42cbb70424138fd682f80",
         "news:ee4d079180ee110f314f6f54",
@@ -7277,6 +7288,7 @@
       ],
       "related_event_ids": [
         "news:6104a3a334df42b931c67835",
+        "news:8c80c3c8b7d563afcf71c52b",
         "news:f08fe2bb9baba85b1f0f3d19"
       ]
     },
