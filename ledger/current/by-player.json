@@ -886,6 +886,7 @@
       "event_ids": [
         "news:22547b2f90419acd100b2898",
         "news:3981e3d5a400199aa4d7aaa9",
+        "news:c8c5d4a207b5100fe87b5c1f",
         "news:d041252f381bfa03a546a7fc",
         "news:e90a9a6f2630d49747063230"
       ],
@@ -896,6 +897,7 @@
       "related_event_ids": [
         "news:22547b2f90419acd100b2898",
         "news:3981e3d5a400199aa4d7aaa9",
+        "news:c8c5d4a207b5100fe87b5c1f",
         "news:d041252f381bfa03a546a7fc",
         "news:e90a9a6f2630d49747063230"
       ]
@@ -2154,7 +2156,8 @@
         "news:2a9f5d31fc5a879c165f7958",
         "news:3c9c989b7f8b450611154b89",
         "news:4874a1bee65888671372d44b",
-        "news:4c25ef588374d6e7b428df17"
+        "news:4c25ef588374d6e7b428df17",
+        "news:c8c5d4a207b5100fe87b5c1f"
       ],
       "name": "Jonathan Taylor",
       "nfl_team": "IND",
@@ -2163,7 +2166,8 @@
         "news:2a9f5d31fc5a879c165f7958",
         "news:3c9c989b7f8b450611154b89",
         "news:4874a1bee65888671372d44b",
-        "news:4c25ef588374d6e7b428df17"
+        "news:4c25ef588374d6e7b428df17",
+        "news:c8c5d4a207b5100fe87b5c1f"
       ],
       "related_event_ids": []
     },
@@ -3385,6 +3389,7 @@
     "00-0037431": {
       "event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
+        "news:c8c5d4a207b5100fe87b5c1f",
         "news:e090dd3e374a879595578cf3",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ],
@@ -3394,6 +3399,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
+        "news:c8c5d4a207b5100fe87b5c1f",
         "news:e090dd3e374a879595578cf3",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ]
@@ -3653,6 +3659,7 @@
         "news:b22f5a905d63a713ecc777fb",
         "news:bb80700d7240c9391b0b35de",
         "news:c8754452636392d432b83335",
+        "news:c8c5d4a207b5100fe87b5c1f",
         "news:ce3e51627516baf78633b05f",
         "news:d7ab48d8bdae70a90ff03499",
         "news:d9e943bd280b4c695fce45d7",
@@ -3687,6 +3694,7 @@
         "news:b22f5a905d63a713ecc777fb",
         "news:bb80700d7240c9391b0b35de",
         "news:c8754452636392d432b83335",
+        "news:c8c5d4a207b5100fe87b5c1f",
         "news:ce3e51627516baf78633b05f",
         "news:d7ab48d8bdae70a90ff03499",
         "news:d9e943bd280b4c695fce45d7",
@@ -5257,6 +5265,7 @@
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
         "news:b8f091131c65b6be254ee9b5",
+        "news:c8c5d4a207b5100fe87b5c1f",
         "news:ce8f2fdd75f4e147bc459a66",
         "news:ceb52b707132734d5d90f661",
         "news:cf60a0a4c3fd8f564108f112",
@@ -5307,6 +5316,7 @@
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
         "news:b8f091131c65b6be254ee9b5",
+        "news:c8c5d4a207b5100fe87b5c1f",
         "news:ce8f2fdd75f4e147bc459a66",
         "news:ceb52b707132734d5d90f661",
         "news:cf60a0a4c3fd8f564108f112",
