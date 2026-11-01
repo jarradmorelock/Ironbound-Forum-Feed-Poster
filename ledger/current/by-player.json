@@ -4489,6 +4489,7 @@
         "news:0e931cb92b103231188e94c2",
         "news:1c447870c8cbc3dc21381426",
         "news:50299468aa0ba0c31e5e489c",
+        "news:53a54c84dafef5769cb346d2",
         "news:80007ef73885136616e6356f",
         "news:81649ea69ee16a01a008368c",
         "news:8ed71a1053ce0713f164456e",
@@ -4509,6 +4510,7 @@
         "news:0e931cb92b103231188e94c2",
         "news:1c447870c8cbc3dc21381426",
         "news:50299468aa0ba0c31e5e489c",
+        "news:53a54c84dafef5769cb346d2",
         "news:80007ef73885136616e6356f",
         "news:8ed71a1053ce0713f164456e",
         "news:d54619e249e1073482a4c77b"
@@ -5003,6 +5005,7 @@
         "news:0e931cb92b103231188e94c2",
         "news:1c447870c8cbc3dc21381426",
         "news:45fd1d42414d9527bbc36bf0",
+        "news:53a54c84dafef5769cb346d2",
         "news:757102e0541f7c9f38c2b05f",
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b",
@@ -5024,6 +5027,7 @@
       ],
       "related_event_ids": [
         "news:1c447870c8cbc3dc21381426",
+        "news:53a54c84dafef5769cb346d2",
         "news:d54619e249e1073482a4c77b"
       ]
     },
@@ -5732,6 +5736,7 @@
         "news:4fd9cf01a31cff8269afbc22",
         "news:50601319dd6c4364a1ff9139",
         "news:52c4bbe4441aa67811994dfd",
+        "news:53a54c84dafef5769cb346d2",
         "news:564c385f363808520e4eef65",
         "news:57271c233f7079bd228f10a0",
         "news:5a6ebcdbee14648c1e9b2bdc",
@@ -5834,6 +5839,7 @@
         "news:4fd9cf01a31cff8269afbc22",
         "news:50601319dd6c4364a1ff9139",
         "news:52c4bbe4441aa67811994dfd",
+        "news:53a54c84dafef5769cb346d2",
         "news:564c385f363808520e4eef65",
         "news:57271c233f7079bd228f10a0",
         "news:5a6ebcdbee14648c1e9b2bdc",
@@ -8121,6 +8127,7 @@
     "00-0041512": {
       "event_ids": [
         "news:442ef4eaae94fdc00fcbc6a1",
+        "news:53a54c84dafef5769cb346d2",
         "news:80007ef73885136616e6356f",
         "news:9b6ca5b0c11b34e5e59220db",
         "news:d54619e249e1073482a4c77b",
@@ -8132,6 +8139,7 @@
       "nflverse_id": "00-0041512",
       "primary_event_ids": [
         "news:442ef4eaae94fdc00fcbc6a1",
+        "news:53a54c84dafef5769cb346d2",
         "news:9b6ca5b0c11b34e5e59220db",
         "news:e3e44cc5f1af0a74c63da1dc"
       ],
