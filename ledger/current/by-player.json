@@ -755,7 +755,8 @@
       "event_ids": [
         "news:2c52ffddebd46a36a7f1ef89",
         "news:42f2f7febf62952f1ca4dcef",
-        "news:aeb0aa6933ec4e64b39a8056"
+        "news:aeb0aa6933ec4e64b39a8056",
+        "news:ba7d5066dbd7695a7b26b311"
       ],
       "name": "Jacoby Brissett",
       "nfl_team": "ARI",
@@ -763,7 +764,8 @@
       "primary_event_ids": [
         "news:2c52ffddebd46a36a7f1ef89",
         "news:42f2f7febf62952f1ca4dcef",
-        "news:aeb0aa6933ec4e64b39a8056"
+        "news:aeb0aa6933ec4e64b39a8056",
+        "news:ba7d5066dbd7695a7b26b311"
       ],
       "related_event_ids": []
     },
@@ -1728,6 +1730,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:13f4ae4c378aaa27b9a29889"
+      ]
+    },
+    "00-0035289": {
+      "event_ids": [
+        "news:ba7d5066dbd7695a7b26b311"
+      ],
+      "name": "Gardner Minshew",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0035289",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ba7d5066dbd7695a7b26b311"
       ]
     },
     "00-0035308": {
@@ -5542,6 +5556,7 @@
     "00-0039387": {
       "event_ids": [
         "news:6f354d5a9d71cc2842d7a2e8",
+        "news:ba7d5066dbd7695a7b26b311",
         "news:e5895bf19e27c967de0506e2"
       ],
       "name": "Caelen Carson",
@@ -5550,6 +5565,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:6f354d5a9d71cc2842d7a2e8",
+        "news:ba7d5066dbd7695a7b26b311",
         "news:e5895bf19e27c967de0506e2"
       ]
     },
@@ -6445,6 +6461,18 @@
         "news:e8b9c46b6f7c20665052ca43",
         "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c"
+      ]
+    },
+    "00-0040026": {
+      "event_ids": [
+        "news:ba7d5066dbd7695a7b26b311"
+      ],
+      "name": "Maxen Hook",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0040026",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ba7d5066dbd7695a7b26b311"
       ]
     },
     "00-0040087": {
@@ -8454,6 +8482,18 @@
       "related_event_ids": [
         "news:206b4f9337a4e959df9f3783",
         "news:9c3ccaab151d5df3e227380f"
+      ]
+    },
+    "00-0041561": {
+      "event_ids": [
+        "news:ba7d5066dbd7695a7b26b311"
+      ],
+      "name": "Carson Beck",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0041561",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ba7d5066dbd7695a7b26b311"
       ]
     },
     "00-0041562": {
