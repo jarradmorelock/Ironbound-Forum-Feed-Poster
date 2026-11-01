@@ -7774,12 +7774,15 @@
     "00-0040981": {
       "event_ids": [
         "news:17a6e73500e6a4564079fcc0",
-        "news:29ae953892ce9de6f582aaca"
+        "news:29ae953892ce9de6f582aaca",
+        "news:9ab652d200f75e1982c6a5a6"
       ],
       "name": "Joe Fagnano",
       "nfl_team": "BAL",
       "nflverse_id": "00-0040981",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:9ab652d200f75e1982c6a5a6"
+      ],
       "related_event_ids": [
         "news:17a6e73500e6a4564079fcc0",
         "news:29ae953892ce9de6f582aaca"
