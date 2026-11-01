@@ -2972,6 +2972,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0036990": {
+      "event_ids": [
+        "news:ee00020e8ab8fee3d91d980a"
+      ],
+      "name": "Divine Deablo",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0036990",
+      "primary_event_ids": [
+        "news:ee00020e8ab8fee3d91d980a"
+      ],
+      "related_event_ids": []
+    },
     "00-0036992": {
       "event_ids": [
         "news:9c547095459f998d356ab8be"
@@ -7768,6 +7780,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:dfce9a32dc480679e13c3da3"
+      ]
+    },
+    "00-0041066": {
+      "event_ids": [
+        "news:ee00020e8ab8fee3d91d980a"
+      ],
+      "name": "Kendal Daniels",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0041066",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ee00020e8ab8fee3d91d980a"
       ]
     },
     "00-0041069": {
