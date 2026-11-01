@@ -628,6 +628,7 @@
         "news:997c9b83441ddc406347ca71",
         "news:a56559875d9edfa1cb8342ef",
         "news:ab8cdf43b311cbcdbfe6d74a",
+        "news:b3f2e0cfb9398aaf9a813154",
         "news:bb80700d7240c9391b0b35de",
         "news:cb54c29e7a6316b028ee327e",
         "news:d307a1b1b0372233bafbc380",
@@ -660,6 +661,7 @@
         "news:997c9b83441ddc406347ca71",
         "news:a56559875d9edfa1cb8342ef",
         "news:ab8cdf43b311cbcdbfe6d74a",
+        "news:b3f2e0cfb9398aaf9a813154",
         "news:bb80700d7240c9391b0b35de",
         "news:cb54c29e7a6316b028ee327e",
         "news:d307a1b1b0372233bafbc380",
@@ -1642,6 +1644,18 @@
         "news:f64b96c7cd20c4314a8ec146"
       ]
     },
+    "00-0035248": {
+      "event_ids": [
+        "news:b3f2e0cfb9398aaf9a813154"
+      ],
+      "name": "Zach Allen",
+      "nfl_team": "DEN",
+      "nflverse_id": "00-0035248",
+      "primary_event_ids": [
+        "news:b3f2e0cfb9398aaf9a813154"
+      ],
+      "related_event_ids": []
+    },
     "00-0035249": {
       "event_ids": [
         "news:316b4dd4d719cdc7015b080d"
@@ -2193,6 +2207,18 @@
         "news:6d62f574c57f8fafe7ab3f14"
       ],
       "related_event_ids": []
+    },
+    "00-0036221": {
+      "event_ids": [
+        "news:b3f2e0cfb9398aaf9a813154"
+      ],
+      "name": "Brandon Jones",
+      "nfl_team": "DEN",
+      "nflverse_id": "00-0036221",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:b3f2e0cfb9398aaf9a813154"
+      ]
     },
     "00-0036223": {
       "event_ids": [
