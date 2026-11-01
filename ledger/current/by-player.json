@@ -871,13 +871,15 @@
     "00-0033307": {
       "event_ids": [
         "news:0e49a6e82e57f4b0706fc2d5",
-        "news:83d617efa24a34fc6e66221d"
+        "news:83d617efa24a34fc6e66221d",
+        "news:a365a2bcf50ea8ff2d602a91"
       ],
       "name": "Kendrick Bourne",
       "nfl_team": "ARI",
       "nflverse_id": "00-0033307",
       "primary_event_ids": [
-        "news:0e49a6e82e57f4b0706fc2d5"
+        "news:0e49a6e82e57f4b0706fc2d5",
+        "news:a365a2bcf50ea8ff2d602a91"
       ],
       "related_event_ids": [
         "news:83d617efa24a34fc6e66221d"
@@ -3799,14 +3801,16 @@
     },
     "00-0037842": {
       "event_ids": [
-        "news:83d617efa24a34fc6e66221d"
+        "news:83d617efa24a34fc6e66221d",
+        "news:a365a2bcf50ea8ff2d602a91"
       ],
       "name": "Derion Kendrick",
       "nfl_team": "DAL",
       "nflverse_id": "00-0037842",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:83d617efa24a34fc6e66221d"
+        "news:83d617efa24a34fc6e66221d",
+        "news:a365a2bcf50ea8ff2d602a91"
       ]
     },
     "00-0038041": {
