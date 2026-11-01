@@ -1180,6 +1180,7 @@
     "00-0034348": {
       "event_ids": [
         "news:ced7fa6f65d8368ec64a3ee0",
+        "news:f85a7193edf775b92015a222",
         "news:fe306a2820df3bd86b1acbea"
       ],
       "name": "Courtland Sutton",
@@ -1187,6 +1188,7 @@
       "nflverse_id": "00-0034348",
       "primary_event_ids": [
         "news:ced7fa6f65d8368ec64a3ee0",
+        "news:f85a7193edf775b92015a222",
         "news:fe306a2820df3bd86b1acbea"
       ],
       "related_event_ids": []
@@ -8221,14 +8223,16 @@
     },
     "00-0041182": {
       "event_ids": [
-        "news:6bf1b374e4aed9812e1e4f0d"
+        "news:6bf1b374e4aed9812e1e4f0d",
+        "news:f85a7193edf775b92015a222"
       ],
       "name": "Drew Stevens",
       "nfl_team": "WAS",
       "nflverse_id": "00-0041182",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:6bf1b374e4aed9812e1e4f0d"
+        "news:6bf1b374e4aed9812e1e4f0d",
+        "news:f85a7193edf775b92015a222"
       ]
     },
     "00-0041251": {
