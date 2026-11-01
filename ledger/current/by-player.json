@@ -2846,6 +2846,7 @@
         "news:246a5a786e5fa4904c89da16",
         "news:54c5bb83b779f6e3600f6268",
         "news:7ba76116081501cde014ea7e",
+        "news:c8c1ab82e4d9145e7bba2d07",
         "news:d9bca6721cec39309d067c41",
         "news:e14211cc79107fe2eca035da"
       ],
@@ -2856,6 +2857,7 @@
         "news:246a5a786e5fa4904c89da16",
         "news:54c5bb83b779f6e3600f6268",
         "news:7ba76116081501cde014ea7e",
+        "news:c8c1ab82e4d9145e7bba2d07",
         "news:d9bca6721cec39309d067c41"
       ],
       "related_event_ids": [
@@ -4536,14 +4538,16 @@
     },
     "00-0038807": {
       "event_ids": [
-        "news:265b96a6d5b429b2598e9c2f"
+        "news:265b96a6d5b429b2598e9c2f",
+        "news:c8c1ab82e4d9145e7bba2d07"
       ],
       "name": "Ivan Pace Jr.",
       "nfl_team": "MIN",
       "nflverse_id": "00-0038807",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:265b96a6d5b429b2598e9c2f"
+        "news:265b96a6d5b429b2598e9c2f",
+        "news:c8c1ab82e4d9145e7bba2d07"
       ]
     },
     "00-0038839": {
@@ -5213,6 +5217,7 @@
         "news:475c5bba8f8720011bb146ac",
         "news:54c5bb83b779f6e3600f6268",
         "news:5a6ebcdbee14648c1e9b2bdc",
+        "news:c8c1ab82e4d9145e7bba2d07",
         "news:ec3fb719b4ca5131873e0e9e"
       ],
       "name": "Bucky Irving",
@@ -5228,7 +5233,8 @@
       "related_event_ids": [
         "news:2a11b3acf9923cc7e9416b2e",
         "news:4310348df99c73936b308aae",
-        "news:54c5bb83b779f6e3600f6268"
+        "news:54c5bb83b779f6e3600f6268",
+        "news:c8c1ab82e4d9145e7bba2d07"
       ]
     },
     "00-0039364": {
