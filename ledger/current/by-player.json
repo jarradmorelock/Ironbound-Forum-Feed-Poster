@@ -7445,6 +7445,7 @@
     },
     "00-0040719": {
       "event_ids": [
+        "news:8e93acbefd8e2bb3c9abfbee",
         "news:8f05113c5b0bc31d1cd9f229",
         "news:94697422354eb0b83b45bdb9",
         "news:ab8cdf43b311cbcdbfe6d74a"
@@ -7453,6 +7454,7 @@
       "nfl_team": "JAX",
       "nflverse_id": "00-0040719",
       "primary_event_ids": [
+        "news:8e93acbefd8e2bb3c9abfbee",
         "news:8f05113c5b0bc31d1cd9f229",
         "news:94697422354eb0b83b45bdb9",
         "news:ab8cdf43b311cbcdbfe6d74a"
