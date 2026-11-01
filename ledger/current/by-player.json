@@ -189,6 +189,7 @@
         "news:074d2c36e2cb4d4889b22677",
         "news:167e4084e2ee9adca6ab8874",
         "news:28b7361c13bd494daded084d",
+        "news:29ae953892ce9de6f582aaca",
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:33b14f67af587bf24658a11a",
         "news:3ee980249f53a8fa31d9247e",
@@ -219,6 +220,7 @@
         "news:074d2c36e2cb4d4889b22677",
         "news:167e4084e2ee9adca6ab8874",
         "news:28b7361c13bd494daded084d",
+        "news:29ae953892ce9de6f582aaca",
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:33b14f67af587bf24658a11a",
         "news:3ee980249f53a8fa31d9247e",
@@ -1294,6 +1296,7 @@
         "news:01bf8b012c0f27c3ff11a6e5",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
+        "news:29ae953892ce9de6f582aaca",
         "news:35596191bece4e59a0bbc14a",
         "news:473346279cfc9dfe07d88a82",
         "news:4b4e92d2ad21dfbc2b3e7872",
@@ -1332,6 +1335,7 @@
         "news:fb5d63b84a43c6a9e2110ab0"
       ],
       "related_event_ids": [
+        "news:29ae953892ce9de6f582aaca",
         "news:736c97ba1ce80770232bf6c5",
         "news:eaaa5489714a1283c5ce341c"
       ]
@@ -2025,6 +2029,7 @@
     "00-0035993": {
       "event_ids": [
         "news:03c3a62cab4d3b425f7fe2f4",
+        "news:29ae953892ce9de6f582aaca",
         "news:5ed096c865c22a8a68e0eba6",
         "news:6f9443806a273f670197ad98",
         "news:8233edc43b0a760bf3e7fd24",
@@ -2037,6 +2042,7 @@
       "nfl_team": "BAL",
       "nflverse_id": "00-0035993",
       "primary_event_ids": [
+        "news:29ae953892ce9de6f582aaca",
         "news:5ed096c865c22a8a68e0eba6",
         "news:6f9443806a273f670197ad98",
         "news:c724f6ec74bd28302a54eacd"
@@ -2103,6 +2109,7 @@
         "news:01bf8b012c0f27c3ff11a6e5",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
+        "news:29ae953892ce9de6f582aaca",
         "news:35596191bece4e59a0bbc14a",
         "news:473346279cfc9dfe07d88a82",
         "news:4b4e92d2ad21dfbc2b3e7872",
@@ -2127,6 +2134,7 @@
         "news:01bf8b012c0f27c3ff11a6e5",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0ce6ef192700353addbc374b",
+        "news:29ae953892ce9de6f582aaca",
         "news:35596191bece4e59a0bbc14a",
         "news:473346279cfc9dfe07d88a82",
         "news:4b4e92d2ad21dfbc2b3e7872",
@@ -7638,6 +7646,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:ade9d8326066f2a16b61faa4"
+      ]
+    },
+    "00-0040981": {
+      "event_ids": [
+        "news:29ae953892ce9de6f582aaca"
+      ],
+      "name": "Joe Fagnano",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0040981",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:29ae953892ce9de6f582aaca"
       ]
     },
     "00-0041027": {
