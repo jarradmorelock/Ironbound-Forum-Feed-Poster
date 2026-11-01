@@ -3760,6 +3760,7 @@
         "news:7357949b722c67bec65b0c06",
         "news:89723b322e532fcb9d0b3956",
         "news:96876f79e962acd6bf5d5dca",
+        "news:b07e67f293de6bd8716ca502",
         "news:fb64eeb5cfdb26e371686882"
       ],
       "name": "Cade York",
@@ -3775,6 +3776,7 @@
         "news:7357949b722c67bec65b0c06",
         "news:89723b322e532fcb9d0b3956",
         "news:96876f79e962acd6bf5d5dca",
+        "news:b07e67f293de6bd8716ca502",
         "news:fb64eeb5cfdb26e371686882"
       ]
     },
@@ -3867,6 +3869,7 @@
         "news:69787ba2db0f5947336b6115",
         "news:69d828f18184355601ae9633",
         "news:96876f79e962acd6bf5d5dca",
+        "news:b07e67f293de6bd8716ca502",
         "news:b0817cdc22f8c12b2e0278e2",
         "news:c54d21770d3503d75e4ad6e4",
         "news:c8f254130ef4002c100e2f63",
@@ -3892,7 +3895,8 @@
       ],
       "related_event_ids": [
         "news:06b8df54b03da4fe95d7daf4",
-        "news:44ee7f5d74c2ff52f40e29cd"
+        "news:44ee7f5d74c2ff52f40e29cd",
+        "news:b07e67f293de6bd8716ca502"
       ]
     },
     "00-0038121": {
@@ -5654,6 +5658,7 @@
         "news:57eea2f68c592274a1ad428e",
         "news:69787ba2db0f5947336b6115",
         "news:69d828f18184355601ae9633",
+        "news:b07e67f293de6bd8716ca502",
         "news:e9db674a6ef7f0fc4f29c50b"
       ],
       "name": "Braelon Allen",
@@ -5662,6 +5667,7 @@
       "primary_event_ids": [
         "news:06b8df54b03da4fe95d7daf4",
         "news:44ee7f5d74c2ff52f40e29cd",
+        "news:b07e67f293de6bd8716ca502",
         "news:e9db674a6ef7f0fc4f29c50b"
       ],
       "related_event_ids": [
