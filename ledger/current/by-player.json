@@ -3098,6 +3098,7 @@
       "event_ids": [
         "news:118d7c64477a0af9d8c4d94d",
         "news:1864197da8d2538477fcc554",
+        "news:bc7ef8afb92fd69a90adb6c8",
         "news:d348a973539ed4794a253993"
       ],
       "name": "Bam Knight",
@@ -3105,6 +3106,7 @@
       "nflverse_id": "00-0037157",
       "primary_event_ids": [
         "news:1864197da8d2538477fcc554",
+        "news:bc7ef8afb92fd69a90adb6c8",
         "news:d348a973539ed4794a253993"
       ],
       "related_event_ids": [
