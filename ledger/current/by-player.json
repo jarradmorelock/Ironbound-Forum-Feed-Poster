@@ -2100,6 +2100,7 @@
         "news:5ed096c865c22a8a68e0eba6",
         "news:6f9443806a273f670197ad98",
         "news:8233edc43b0a760bf3e7fd24",
+        "news:8d86f027438a359736c9ada0",
         "news:b6f2bbeacca56635d187ec1a",
         "news:c724f6ec74bd28302a54eacd",
         "news:c8b861b541bf3aacc7e50414",
@@ -2113,6 +2114,7 @@
         "news:29ae953892ce9de6f582aaca",
         "news:5ed096c865c22a8a68e0eba6",
         "news:6f9443806a273f670197ad98",
+        "news:8d86f027438a359736c9ada0",
         "news:c724f6ec74bd28302a54eacd"
       ],
       "related_event_ids": [
@@ -7789,6 +7791,7 @@
       "event_ids": [
         "news:17a6e73500e6a4564079fcc0",
         "news:29ae953892ce9de6f582aaca",
+        "news:8d86f027438a359736c9ada0",
         "news:9ab652d200f75e1982c6a5a6"
       ],
       "name": "Joe Fagnano",
@@ -7799,7 +7802,8 @@
       ],
       "related_event_ids": [
         "news:17a6e73500e6a4564079fcc0",
-        "news:29ae953892ce9de6f582aaca"
+        "news:29ae953892ce9de6f582aaca",
+        "news:8d86f027438a359736c9ada0"
       ]
     },
     "00-0041027": {
