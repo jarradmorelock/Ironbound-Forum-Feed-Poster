@@ -7777,6 +7777,18 @@
         "news:f809c90b8f96700e2f8cffe8"
       ]
     },
+    "00-0041044": {
+      "event_ids": [
+        "news:f16e219b9a6ae8de1c3ac64b"
+      ],
+      "name": "Zachariah Branch",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0041044",
+      "primary_event_ids": [
+        "news:f16e219b9a6ae8de1c3ac64b"
+      ],
+      "related_event_ids": []
+    },
     "00-0041046": {
       "event_ids": [
         "news:422095401f0568abd0f833ec",
