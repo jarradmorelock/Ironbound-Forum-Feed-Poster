@@ -2468,6 +2468,7 @@
     },
     "00-0036425": {
       "event_ids": [
+        "news:01e65313c44320bbae12fd3a",
         "news:0203963a0744637b06e379f1",
         "news:34031c4ca8e242017da37732",
         "news:3cee59ea0f35ec0b4ae11eab",
@@ -2489,6 +2490,7 @@
       "nflverse_id": "00-0036425",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:01e65313c44320bbae12fd3a",
         "news:0203963a0744637b06e379f1",
         "news:34031c4ca8e242017da37732",
         "news:3cee59ea0f35ec0b4ae11eab",
@@ -3778,12 +3780,14 @@
     },
     "00-0038041": {
       "event_ids": [
+        "news:01e65313c44320bbae12fd3a",
         "news:a257a6d95df19b4733af78b6"
       ],
       "name": "Jake Ferguson",
       "nfl_team": "DAL",
       "nflverse_id": "00-0038041",
       "primary_event_ids": [
+        "news:01e65313c44320bbae12fd3a",
         "news:a257a6d95df19b4733af78b6"
       ],
       "related_event_ids": []
@@ -4225,6 +4229,18 @@
         "news:88f7c86eb3aec9c75aeeb1c0",
         "news:ecb4e677e80dc4d94a534a62",
         "news:fc1f1382c660ab08ade0b8c9"
+      ]
+    },
+    "00-0038547": {
+      "event_ids": [
+        "news:01e65313c44320bbae12fd3a"
+      ],
+      "name": "Luke Schoonmaker",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0038547",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:01e65313c44320bbae12fd3a"
       ]
     },
     "00-0038551": {
@@ -5572,6 +5588,7 @@
     },
     "00-0039530": {
       "event_ids": [
+        "news:01e65313c44320bbae12fd3a",
         "news:a257a6d95df19b4733af78b6"
       ],
       "name": "Brevyn Spann-Ford",
@@ -5579,6 +5596,7 @@
       "nflverse_id": "00-0039530",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:01e65313c44320bbae12fd3a",
         "news:a257a6d95df19b4733af78b6"
       ]
     },
