@@ -3866,14 +3866,16 @@
     "00-0038041": {
       "event_ids": [
         "news:01e65313c44320bbae12fd3a",
-        "news:a257a6d95df19b4733af78b6"
+        "news:a257a6d95df19b4733af78b6",
+        "news:ccbb6db373db266fc7a236c8"
       ],
       "name": "Jake Ferguson",
       "nfl_team": "DAL",
       "nflverse_id": "00-0038041",
       "primary_event_ids": [
         "news:01e65313c44320bbae12fd3a",
-        "news:a257a6d95df19b4733af78b6"
+        "news:a257a6d95df19b4733af78b6",
+        "news:ccbb6db373db266fc7a236c8"
       ],
       "related_event_ids": []
     },
