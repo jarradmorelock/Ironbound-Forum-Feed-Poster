@@ -7270,6 +7270,7 @@
         "news:074d2c36e2cb4d4889b22677",
         "news:2c9499d23f7f3de50f526b5c",
         "news:7d7dfbf1c3a7cdfffec4187a",
+        "news:96d2cda019fc12fc69ab86dc",
         "news:c3a76898753d48a25d69bd8a"
       ],
       "name": "Harold Fannin Jr.",
@@ -7278,7 +7279,8 @@
       "primary_event_ids": [
         "news:074d2c36e2cb4d4889b22677",
         "news:2c9499d23f7f3de50f526b5c",
-        "news:7d7dfbf1c3a7cdfffec4187a"
+        "news:7d7dfbf1c3a7cdfffec4187a",
+        "news:96d2cda019fc12fc69ab86dc"
       ],
       "related_event_ids": [
         "news:c3a76898753d48a25d69bd8a"
