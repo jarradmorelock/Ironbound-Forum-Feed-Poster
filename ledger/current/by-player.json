@@ -6979,6 +6979,7 @@
     },
     "00-0040162": {
       "event_ids": [
+        "news:2550c3898eae8c156f19364b",
         "news:967a082278902767213af092",
         "news:a239e2f5159e2a1230e435c8",
         "news:c6fcd8282640881e233c2014",
@@ -6990,6 +6991,7 @@
       "nfl_team": "CLE",
       "nflverse_id": "00-0040162",
       "primary_event_ids": [
+        "news:2550c3898eae8c156f19364b",
         "news:967a082278902767213af092",
         "news:a239e2f5159e2a1230e435c8",
         "news:df0887b74c0c909ad4d8358c"
@@ -7902,6 +7904,7 @@
     },
     "00-0040784": {
       "event_ids": [
+        "news:2550c3898eae8c156f19364b",
         "news:2a359f50bef122df69bffef6",
         "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
@@ -7924,7 +7927,9 @@
         "news:e7b9b06a20c76b591c7d1a07",
         "news:fe871ef4e6d888ce24d12409"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:2550c3898eae8c156f19364b"
+      ]
     },
     "00-0040785": {
       "event_ids": [
