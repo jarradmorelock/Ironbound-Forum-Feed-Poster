@@ -2330,7 +2330,8 @@
         "news:3c9c989b7f8b450611154b89",
         "news:4874a1bee65888671372d44b",
         "news:4c25ef588374d6e7b428df17",
-        "news:c8c5d4a207b5100fe87b5c1f"
+        "news:c8c5d4a207b5100fe87b5c1f",
+        "news:c935723d18fc114b33f4716e"
       ],
       "name": "Jonathan Taylor",
       "nfl_team": "IND",
@@ -2340,7 +2341,8 @@
         "news:3c9c989b7f8b450611154b89",
         "news:4874a1bee65888671372d44b",
         "news:4c25ef588374d6e7b428df17",
-        "news:c8c5d4a207b5100fe87b5c1f"
+        "news:c8c5d4a207b5100fe87b5c1f",
+        "news:c935723d18fc114b33f4716e"
       ],
       "related_event_ids": []
     },
@@ -3635,6 +3637,7 @@
       "event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
         "news:c8c5d4a207b5100fe87b5c1f",
+        "news:c935723d18fc114b33f4716e",
         "news:e090dd3e374a879595578cf3",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ],
@@ -3645,6 +3648,7 @@
       "related_event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
         "news:c8c5d4a207b5100fe87b5c1f",
+        "news:c935723d18fc114b33f4716e",
         "news:e090dd3e374a879595578cf3",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ]
@@ -6962,6 +6966,18 @@
         "news:514e56ea8fcae8b5d8ed18e9"
       ]
     },
+    "00-0040179": {
+      "event_ids": [
+        "news:c935723d18fc114b33f4716e"
+      ],
+      "name": "DJ Giddens",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0040179",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:c935723d18fc114b33f4716e"
+      ]
+    },
     "00-0040187": {
       "event_ids": [
         "news:e4937fe20d6150579bcafd69"
@@ -8310,6 +8326,18 @@
         "news:15c12b09c0c206a73220046d"
       ],
       "related_event_ids": []
+    },
+    "00-0041125": {
+      "event_ids": [
+        "news:c935723d18fc114b33f4716e"
+      ],
+      "name": "Seth McGowan",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0041125",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:c935723d18fc114b33f4716e"
+      ]
     },
     "00-0041129": {
       "event_ids": [
