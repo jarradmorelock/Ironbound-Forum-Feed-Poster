@@ -1423,6 +1423,7 @@
         "news:d9e943bd280b4c695fce45d7",
         "news:eaaa5489714a1283c5ce341c",
         "news:ecedde8756b5e29e431e3615",
+        "news:f79f806f40724bb9e5a592ee",
         "news:fb5d63b84a43c6a9e2110ab0"
       ],
       "name": "Lamar Jackson",
@@ -1452,7 +1453,8 @@
         "news:29ae953892ce9de6f582aaca",
         "news:736c97ba1ce80770232bf6c5",
         "news:a07e75b5a85d0035430cf6ad",
-        "news:eaaa5489714a1283c5ce341c"
+        "news:eaaa5489714a1283c5ce341c",
+        "news:f79f806f40724bb9e5a592ee"
       ]
     },
     "00-0034817": {
@@ -2224,7 +2226,8 @@
         "news:b6f2bbeacca56635d187ec1a",
         "news:c724f6ec74bd28302a54eacd",
         "news:c8b861b541bf3aacc7e50414",
-        "news:d9e943bd280b4c695fce45d7"
+        "news:d9e943bd280b4c695fce45d7",
+        "news:f79f806f40724bb9e5a592ee"
       ],
       "name": "Tyler Huntley",
       "nfl_team": "BAL",
@@ -2244,7 +2247,8 @@
         "news:a07e75b5a85d0035430cf6ad",
         "news:b6f2bbeacca56635d187ec1a",
         "news:c8b861b541bf3aacc7e50414",
-        "news:d9e943bd280b4c695fce45d7"
+        "news:d9e943bd280b4c695fce45d7",
+        "news:f79f806f40724bb9e5a592ee"
       ]
     },
     "00-0036040": {
@@ -2319,6 +2323,7 @@
         "news:d9e943bd280b4c695fce45d7",
         "news:eaaa5489714a1283c5ce341c",
         "news:ecedde8756b5e29e431e3615",
+        "news:f79f806f40724bb9e5a592ee",
         "news:fb5d63b84a43c6a9e2110ab0"
       ],
       "name": "Lamar Jackson",
@@ -2347,6 +2352,7 @@
         "news:d9e943bd280b4c695fce45d7",
         "news:eaaa5489714a1283c5ce341c",
         "news:ecedde8756b5e29e431e3615",
+        "news:f79f806f40724bb9e5a592ee",
         "news:fb5d63b84a43c6a9e2110ab0"
       ]
     },
@@ -2753,7 +2759,8 @@
         "news:d0b67ad80d76f1dd27c3e776",
         "news:d16bd97eb7ba858a037438df",
         "news:e2a7341774ab6f106f174459",
-        "news:e64dcb5a5997838f7c452f8b"
+        "news:e64dcb5a5997838f7c452f8b",
+        "news:f79f806f40724bb9e5a592ee"
       ],
       "name": "DeeJay Dallas",
       "nfl_team": "MIN",
@@ -2781,7 +2788,8 @@
         "news:d0b67ad80d76f1dd27c3e776",
         "news:d16bd97eb7ba858a037438df",
         "news:e2a7341774ab6f106f174459",
-        "news:e64dcb5a5997838f7c452f8b"
+        "news:e64dcb5a5997838f7c452f8b",
+        "news:f79f806f40724bb9e5a592ee"
       ]
     },
     "00-0036442": {
@@ -6008,6 +6016,18 @@
         "news:0547b66729af0d9d59a7ec08"
       ]
     },
+    "00-0039464": {
+      "event_ids": [
+        "news:f79f806f40724bb9e5a592ee"
+      ],
+      "name": "Austin Reed",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0039464",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f79f806f40724bb9e5a592ee"
+      ]
+    },
     "00-0039465": {
       "event_ids": [
         "news:475c5bba8f8720011bb146ac"
@@ -8255,13 +8275,15 @@
         "news:29ae953892ce9de6f582aaca",
         "news:8d86f027438a359736c9ada0",
         "news:9ab652d200f75e1982c6a5a6",
-        "news:a07e75b5a85d0035430cf6ad"
+        "news:a07e75b5a85d0035430cf6ad",
+        "news:f79f806f40724bb9e5a592ee"
       ],
       "name": "Joe Fagnano",
       "nfl_team": "BAL",
       "nflverse_id": "00-0040981",
       "primary_event_ids": [
-        "news:9ab652d200f75e1982c6a5a6"
+        "news:9ab652d200f75e1982c6a5a6",
+        "news:f79f806f40724bb9e5a592ee"
       ],
       "related_event_ids": [
         "news:17a6e73500e6a4564079fcc0",
