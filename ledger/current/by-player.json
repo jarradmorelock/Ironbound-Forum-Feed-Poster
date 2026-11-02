@@ -780,6 +780,7 @@
     "00-0033110": {
       "event_ids": [
         "news:4fd9cf01a31cff8269afbc22",
+        "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
         "news:c0a239e118819ba647927f76",
         "news:d96a0f1e456c2d77344a5a96"
@@ -787,7 +788,9 @@
       "name": "Tyler Higbee",
       "nfl_team": "LAR",
       "nflverse_id": "00-0033110",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:8007eddfe81f7234844aa576"
+      ],
       "related_event_ids": [
         "news:4fd9cf01a31cff8269afbc22",
         "news:968988a756c659036e1a5465",
@@ -2368,6 +2371,7 @@
       "event_ids": [
         "news:4fd9cf01a31cff8269afbc22",
         "news:5fcf42085be1bbf2be83dbd4",
+        "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
         "news:c0a239e118819ba647927f76"
       ],
@@ -2380,6 +2384,7 @@
         "news:968988a756c659036e1a5465"
       ],
       "related_event_ids": [
+        "news:8007eddfe81f7234844aa576",
         "news:c0a239e118819ba647927f76"
       ]
     },
@@ -7249,6 +7254,7 @@
       "event_ids": [
         "news:4fd9cf01a31cff8269afbc22",
         "news:5fcf42085be1bbf2be83dbd4",
+        "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
         "news:c0a239e118819ba647927f76"
       ],
@@ -7259,6 +7265,7 @@
       "related_event_ids": [
         "news:4fd9cf01a31cff8269afbc22",
         "news:5fcf42085be1bbf2be83dbd4",
+        "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
         "news:c0a239e118819ba647927f76"
       ]
