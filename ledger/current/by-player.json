@@ -16,13 +16,15 @@
     },
     "00-0023459": {
       "event_ids": [
-        "news:04e7e3ed4d1f5d520e22aee1"
+        "news:04e7e3ed4d1f5d520e22aee1",
+        "news:07bd2e88765ed5335aadd849"
       ],
       "name": "Aaron Rodgers",
       "nfl_team": "PIT",
       "nflverse_id": "00-0023459",
       "primary_event_ids": [
-        "news:04e7e3ed4d1f5d520e22aee1"
+        "news:04e7e3ed4d1f5d520e22aee1",
+        "news:07bd2e88765ed5335aadd849"
       ],
       "related_event_ids": []
     },
