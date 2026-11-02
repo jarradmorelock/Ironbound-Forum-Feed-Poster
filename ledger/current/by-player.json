@@ -722,12 +722,14 @@
     },
     "00-0033090": {
       "event_ids": [
+        "news:2ea10855d3888bc6efa8f345",
         "news:3079c7e5a9c9886bf9c846e4"
       ],
       "name": "Hunter Henry",
       "nfl_team": "NE",
       "nflverse_id": "00-0033090",
       "primary_event_ids": [
+        "news:2ea10855d3888bc6efa8f345",
         "news:3079c7e5a9c9886bf9c846e4"
       ],
       "related_event_ids": []
