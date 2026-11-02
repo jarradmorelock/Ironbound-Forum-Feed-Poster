@@ -939,6 +939,7 @@
     "00-0033307": {
       "event_ids": [
         "news:0e49a6e82e57f4b0706fc2d5",
+        "news:26abdde5171014dfc5159e07",
         "news:83d617efa24a34fc6e66221d",
         "news:a365a2bcf50ea8ff2d602a91"
       ],
@@ -947,6 +948,7 @@
       "nflverse_id": "00-0033307",
       "primary_event_ids": [
         "news:0e49a6e82e57f4b0706fc2d5",
+        "news:26abdde5171014dfc5159e07",
         "news:a365a2bcf50ea8ff2d602a91"
       ],
       "related_event_ids": [
@@ -1108,6 +1110,18 @@
         "news:7ae52063cfe74450b522d9cd"
       ],
       "related_event_ids": []
+    },
+    "00-0033891": {
+      "event_ids": [
+        "news:26abdde5171014dfc5159e07"
+      ],
+      "name": "Zay Jones",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0033891",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:26abdde5171014dfc5159e07"
+      ]
     },
     "00-0033897": {
       "event_ids": [
@@ -2560,6 +2574,18 @@
         "news:93c9bdb7d3cc5250b3ef7a55"
       ]
     },
+    "00-0036331": {
+      "event_ids": [
+        "news:26abdde5171014dfc5159e07"
+      ],
+      "name": "Devin Duvernay",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0036331",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:26abdde5171014dfc5159e07"
+      ]
+    },
     "00-0036355": {
       "event_ids": [
         "news:50299468aa0ba0c31e5e489c",
@@ -2899,6 +2925,18 @@
       "related_event_ids": [
         "news:328e6807e1740fc2e13d034f",
         "news:ced7fa6f65d8368ec64a3ee0"
+      ]
+    },
+    "00-0036646": {
+      "event_ids": [
+        "news:26abdde5171014dfc5159e07"
+      ],
+      "name": "Simi Fehoko",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0036646",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:26abdde5171014dfc5159e07"
       ]
     },
     "00-0036775": {
@@ -3891,6 +3929,7 @@
     "00-0037744": {
       "event_ids": [
         "news:15872ce67a491edcdb038a7d",
+        "news:26abdde5171014dfc5159e07",
         "news:3d488b36598defbc67d59020",
         "news:83d617efa24a34fc6e66221d",
         "news:8ffb3f30b97a5d72f2323fe4",
@@ -3910,6 +3949,7 @@
         "news:dd9f111d60978f25ece66441"
       ],
       "related_event_ids": [
+        "news:26abdde5171014dfc5159e07",
         "news:83d617efa24a34fc6e66221d"
       ]
     },
@@ -4122,6 +4162,7 @@
     },
     "00-0037842": {
       "event_ids": [
+        "news:26abdde5171014dfc5159e07",
         "news:83d617efa24a34fc6e66221d",
         "news:a365a2bcf50ea8ff2d602a91"
       ],
@@ -4130,6 +4171,7 @@
       "nflverse_id": "00-0037842",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:26abdde5171014dfc5159e07",
         "news:83d617efa24a34fc6e66221d",
         "news:a365a2bcf50ea8ff2d602a91"
       ]
@@ -4688,6 +4730,7 @@
     },
     "00-0038559": {
       "event_ids": [
+        "news:26abdde5171014dfc5159e07",
         "news:7cc653750878686730810896",
         "news:83d617efa24a34fc6e66221d",
         "news:93bce5eb947aabcf5cd03fbb",
@@ -4706,6 +4749,7 @@
         "news:d0f42a5c6eb1b65763348386"
       ],
       "related_event_ids": [
+        "news:26abdde5171014dfc5159e07",
         "news:83d617efa24a34fc6e66221d"
       ]
     },
@@ -4862,6 +4906,7 @@
     },
     "00-0038640": {
       "event_ids": [
+        "news:26abdde5171014dfc5159e07",
         "news:83d617efa24a34fc6e66221d"
       ],
       "name": "Jalen Brooks",
@@ -4870,7 +4915,9 @@
       "primary_event_ids": [
         "news:83d617efa24a34fc6e66221d"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:26abdde5171014dfc5159e07"
+      ]
     },
     "00-0038685": {
       "event_ids": [
@@ -6447,6 +6494,7 @@
     },
     "00-0039849": {
       "event_ids": [
+        "news:26abdde5171014dfc5159e07",
         "news:37e02e92c6ca16fb937017bc",
         "news:3c3fc084845f3844af89e7f4",
         "news:4663ba36d2455ae5cd0ef638",
@@ -6465,6 +6513,7 @@
         "news:f559d299870d8094e2503bf4"
       ],
       "related_event_ids": [
+        "news:26abdde5171014dfc5159e07",
         "news:4663ba36d2455ae5cd0ef638",
         "news:83d617efa24a34fc6e66221d",
         "news:d5051843b8dab93714386be4"
@@ -8474,6 +8523,7 @@
     },
     "00-0041070": {
       "event_ids": [
+        "news:26abdde5171014dfc5159e07",
         "news:83d617efa24a34fc6e66221d"
       ],
       "name": "Reggie Virgil",
@@ -8481,6 +8531,7 @@
       "nflverse_id": "00-0041070",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:26abdde5171014dfc5159e07",
         "news:83d617efa24a34fc6e66221d"
       ]
     },
@@ -8722,6 +8773,18 @@
       "related_event_ids": [
         "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
+      ]
+    },
+    "00-0041368": {
+      "event_ids": [
+        "news:26abdde5171014dfc5159e07"
+      ],
+      "name": "Harrison Wallace III",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0041368",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:26abdde5171014dfc5159e07"
       ]
     },
     "00-0041395": {
