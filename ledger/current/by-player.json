@@ -1278,6 +1278,7 @@
       "event_ids": [
         "news:5daea1a6708ca59602ad0c93",
         "news:af55d8f8727f260f6031e745",
+        "news:b56a02a300ca5cc2327d4adb",
         "news:bb4e97f85bdcb9b1cfb12380"
       ],
       "name": "Dalton Schultz",
@@ -1288,7 +1289,8 @@
         "news:bb4e97f85bdcb9b1cfb12380"
       ],
       "related_event_ids": [
-        "news:af55d8f8727f260f6031e745"
+        "news:af55d8f8727f260f6031e745",
+        "news:b56a02a300ca5cc2327d4adb"
       ]
     },
     "00-0034487": {
@@ -2428,6 +2430,18 @@
       "related_event_ids": [
         "news:88de2296c7b4f1bc0fcf3832"
       ]
+    },
+    "00-0036261": {
+      "event_ids": [
+        "news:b56a02a300ca5cc2327d4adb"
+      ],
+      "name": "Brandon Aiyuk",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0036261",
+      "primary_event_ids": [
+        "news:b56a02a300ca5cc2327d4adb"
+      ],
+      "related_event_ids": []
     },
     "00-0036264": {
       "event_ids": [
