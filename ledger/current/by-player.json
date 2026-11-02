@@ -206,6 +206,7 @@
         "news:5b58c75e540f50514f533d8b",
         "news:6c146d141dd8e18084e6efa4",
         "news:72fdce09b9649c7a25cc74f5",
+        "news:7a27484a8892963f148f3df6",
         "news:8ccddc3d55a86dca7e96e461",
         "news:8ed71a1053ce0713f164456e",
         "news:8f5df405e98573eb45f51499",
@@ -240,6 +241,7 @@
         "news:5b58c75e540f50514f533d8b",
         "news:6c146d141dd8e18084e6efa4",
         "news:72fdce09b9649c7a25cc74f5",
+        "news:7a27484a8892963f148f3df6",
         "news:8ccddc3d55a86dca7e96e461",
         "news:8ed71a1053ce0713f164456e",
         "news:8f5df405e98573eb45f51499",
@@ -8219,12 +8221,15 @@
     },
     "00-0041040": {
       "event_ids": [
-        "news:197bd25b2e08e22adf5d2f2b"
+        "news:197bd25b2e08e22adf5d2f2b",
+        "news:7a27484a8892963f148f3df6"
       ],
       "name": "Antonio Williams",
       "nfl_team": "WAS",
       "nflverse_id": "00-0041040",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:7a27484a8892963f148f3df6"
+      ],
       "related_event_ids": [
         "news:197bd25b2e08e22adf5d2f2b"
       ]
