@@ -4664,12 +4664,15 @@
         "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
         "news:8c80c3c8b7d563afcf71c52b",
+        "news:d19d735f7ed1849b94fbf903",
         "news:f578056da7a35ecc5c91839e"
       ],
       "name": "DeMario Douglas",
       "nfl_team": "NE",
       "nflverse_id": "00-0038621",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:d19d735f7ed1849b94fbf903"
+      ],
       "related_event_ids": [
         "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
@@ -6092,6 +6095,7 @@
         "news:bbb6735c8179bd12cc8ccba1",
         "news:c0a239e118819ba647927f76",
         "news:c3a76898753d48a25d69bd8a",
+        "news:d19d735f7ed1849b94fbf903",
         "news:d3af947a78d7bb1ff36cf86e",
         "news:d54619e249e1073482a4c77b",
         "news:d7ab48d8bdae70a90ff03499",
@@ -6197,6 +6201,7 @@
         "news:bbb6735c8179bd12cc8ccba1",
         "news:c0a239e118819ba647927f76",
         "news:c3a76898753d48a25d69bd8a",
+        "news:d19d735f7ed1849b94fbf903",
         "news:d3af947a78d7bb1ff36cf86e",
         "news:d54619e249e1073482a4c77b",
         "news:d7ab48d8bdae70a90ff03499",
