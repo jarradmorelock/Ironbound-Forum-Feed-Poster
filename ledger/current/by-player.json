@@ -6536,6 +6536,7 @@
     },
     "00-0039910": {
       "event_ids": [
+        "news:23479c887b20d9d681464176",
         "news:34031c4ca8e242017da37732",
         "news:385b115560d7787e97cd3d07",
         "news:39dcd4c01fbb2f74da489855",
@@ -6548,6 +6549,7 @@
       "nfl_team": "WAS",
       "nflverse_id": "00-0039910",
       "primary_event_ids": [
+        "news:23479c887b20d9d681464176",
         "news:34031c4ca8e242017da37732",
         "news:385b115560d7787e97cd3d07",
         "news:39dcd4c01fbb2f74da489855",
