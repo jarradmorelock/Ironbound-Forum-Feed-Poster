@@ -1390,6 +1390,7 @@
         "news:736c97ba1ce80770232bf6c5",
         "news:8233edc43b0a760bf3e7fd24",
         "news:9eeec5feb6bdad2f41c9f2e0",
+        "news:a07e75b5a85d0035430cf6ad",
         "news:a522a9c8ac5c2af170a7f5f4",
         "news:ae555815f3d98671c9ac95d7",
         "news:c40cf4919b2263bf0590f448",
@@ -1426,6 +1427,7 @@
       "related_event_ids": [
         "news:29ae953892ce9de6f582aaca",
         "news:736c97ba1ce80770232bf6c5",
+        "news:a07e75b5a85d0035430cf6ad",
         "news:eaaa5489714a1283c5ce341c"
       ]
     },
@@ -2186,6 +2188,7 @@
         "news:6f9443806a273f670197ad98",
         "news:8233edc43b0a760bf3e7fd24",
         "news:8d86f027438a359736c9ada0",
+        "news:a07e75b5a85d0035430cf6ad",
         "news:b6f2bbeacca56635d187ec1a",
         "news:c724f6ec74bd28302a54eacd",
         "news:c8b861b541bf3aacc7e50414",
@@ -2206,6 +2209,7 @@
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:17a6e73500e6a4564079fcc0",
         "news:8233edc43b0a760bf3e7fd24",
+        "news:a07e75b5a85d0035430cf6ad",
         "news:b6f2bbeacca56635d187ec1a",
         "news:c8b861b541bf3aacc7e50414",
         "news:d9e943bd280b4c695fce45d7"
@@ -2274,6 +2278,7 @@
         "news:736c97ba1ce80770232bf6c5",
         "news:8233edc43b0a760bf3e7fd24",
         "news:9eeec5feb6bdad2f41c9f2e0",
+        "news:a07e75b5a85d0035430cf6ad",
         "news:a522a9c8ac5c2af170a7f5f4",
         "news:ae555815f3d98671c9ac95d7",
         "news:c40cf4919b2263bf0590f448",
@@ -2301,6 +2306,7 @@
         "news:736c97ba1ce80770232bf6c5",
         "news:8233edc43b0a760bf3e7fd24",
         "news:9eeec5feb6bdad2f41c9f2e0",
+        "news:a07e75b5a85d0035430cf6ad",
         "news:a522a9c8ac5c2af170a7f5f4",
         "news:ae555815f3d98671c9ac95d7",
         "news:c40cf4919b2263bf0590f448",
@@ -5223,6 +5229,7 @@
         "news:250427755c25b79de29d963c",
         "news:83ff9900f63da7cafd64880a",
         "news:883bb1fbd083b00d79745721",
+        "news:a07e75b5a85d0035430cf6ad",
         "news:a84f755cc2b65c6a5cedc6ff",
         "news:b6f2bbeacca56635d187ec1a",
         "news:c8ad8aca26ddbc29802e0974",
@@ -5240,6 +5247,7 @@
         "news:250427755c25b79de29d963c",
         "news:83ff9900f63da7cafd64880a",
         "news:883bb1fbd083b00d79745721",
+        "news:a07e75b5a85d0035430cf6ad",
         "news:b6f2bbeacca56635d187ec1a",
         "news:c8ad8aca26ddbc29802e0974",
         "news:c8b861b541bf3aacc7e50414",
@@ -8161,7 +8169,8 @@
         "news:17a6e73500e6a4564079fcc0",
         "news:29ae953892ce9de6f582aaca",
         "news:8d86f027438a359736c9ada0",
-        "news:9ab652d200f75e1982c6a5a6"
+        "news:9ab652d200f75e1982c6a5a6",
+        "news:a07e75b5a85d0035430cf6ad"
       ],
       "name": "Joe Fagnano",
       "nfl_team": "BAL",
@@ -8172,7 +8181,8 @@
       "related_event_ids": [
         "news:17a6e73500e6a4564079fcc0",
         "news:29ae953892ce9de6f582aaca",
-        "news:8d86f027438a359736c9ada0"
+        "news:8d86f027438a359736c9ada0",
+        "news:a07e75b5a85d0035430cf6ad"
       ]
     },
     "00-0041027": {
