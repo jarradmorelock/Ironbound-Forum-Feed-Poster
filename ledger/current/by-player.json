@@ -3192,6 +3192,18 @@
         "news:b91c05d65cd9e192b57fcd46"
       ]
     },
+    "00-0036973": {
+      "event_ids": [
+        "news:c609e7fe67c0c7c29d074ada"
+      ],
+      "name": "Travis Etienne",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0036973",
+      "primary_event_ids": [
+        "news:c609e7fe67c0c7c29d074ada"
+      ],
+      "related_event_ids": []
+    },
     "00-0036980": {
       "event_ids": [
         "news:fac0c1ec37a88fbbd9c5500c"
