@@ -202,6 +202,7 @@
         "news:33b14f67af587bf24658a11a",
         "news:3ee980249f53a8fa31d9247e",
         "news:3f049ac6e932ebd27ca5e7e2",
+        "news:49048d9f1fb646fb7bebf8e0",
         "news:5b58c75e540f50514f533d8b",
         "news:6c146d141dd8e18084e6efa4",
         "news:72fdce09b9649c7a25cc74f5",
@@ -233,6 +234,7 @@
         "news:33b14f67af587bf24658a11a",
         "news:3ee980249f53a8fa31d9247e",
         "news:3f049ac6e932ebd27ca5e7e2",
+        "news:49048d9f1fb646fb7bebf8e0",
         "news:5b58c75e540f50514f533d8b",
         "news:6c146d141dd8e18084e6efa4",
         "news:72fdce09b9649c7a25cc74f5",
@@ -3106,6 +3108,7 @@
     },
     "00-0036971": {
       "event_ids": [
+        "news:49048d9f1fb646fb7bebf8e0",
         "news:52b8520bbb27ec21ff889a47",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:822a6216da81a9142b967a7a",
@@ -3116,6 +3119,7 @@
       "nfl_team": "JAX",
       "nflverse_id": "00-0036971",
       "primary_event_ids": [
+        "news:49048d9f1fb646fb7bebf8e0",
         "news:52b8520bbb27ec21ff889a47",
         "news:822a6216da81a9142b967a7a",
         "news:a7b13977fee7edff1744812f",
@@ -6989,6 +6993,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040234": {
+      "event_ids": [
+        "news:49048d9f1fb646fb7bebf8e0"
+      ],
+      "name": "Quinn Ewers",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0040234",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:49048d9f1fb646fb7bebf8e0"
+      ]
+    },
     "00-0040236": {
       "event_ids": [
         "news:322740cd8ad79ba067ae6dea",
@@ -7894,6 +7910,7 @@
     },
     "00-0040947": {
       "event_ids": [
+        "news:49048d9f1fb646fb7bebf8e0",
         "news:ade9d8326066f2a16b61faa4"
       ],
       "name": "TJ Quinn",
@@ -7901,6 +7918,7 @@
       "nflverse_id": "00-0040947",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:49048d9f1fb646fb7bebf8e0",
         "news:ade9d8326066f2a16b61faa4"
       ]
     },
