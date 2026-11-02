@@ -5077,12 +5077,14 @@
     "00-0039065": {
       "event_ids": [
         "news:12bcc6dda921cf348152a193",
+        "news:8cc069694e127bac6deb014d",
         "news:ea7b71e352d87e85ceb73a9b"
       ],
       "name": "Sam LaPorta",
       "nfl_team": "DET",
       "nflverse_id": "00-0039065",
       "primary_event_ids": [
+        "news:8cc069694e127bac6deb014d",
         "news:ea7b71e352d87e85ceb73a9b"
       ],
       "related_event_ids": [
