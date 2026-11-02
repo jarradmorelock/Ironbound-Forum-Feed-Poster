@@ -1152,6 +1152,18 @@
         "news:e90a9a6f2630d49747063230"
       ]
     },
+    "00-0033955": {
+      "event_ids": [
+        "news:f0d388577310e8c9fb22ca0e"
+      ],
+      "name": "Jeremy McNichols",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0033955",
+      "primary_event_ids": [
+        "news:f0d388577310e8c9fb22ca0e"
+      ],
+      "related_event_ids": []
+    },
     "00-0034177": {
       "event_ids": [
         "news:9b6ca5b0c11b34e5e59220db",
