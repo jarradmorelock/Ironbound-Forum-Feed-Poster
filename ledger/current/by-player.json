@@ -1813,6 +1813,7 @@
       "event_ids": [
         "news:aa3c293704e79143d28d6006",
         "news:ba7d5066dbd7695a7b26b311",
+        "news:d0f42a5c6eb1b65763348386",
         "news:d16bd97eb7ba858a037438df"
       ],
       "name": "Gardner Minshew",
@@ -1823,6 +1824,7 @@
       ],
       "related_event_ids": [
         "news:ba7d5066dbd7695a7b26b311",
+        "news:d0f42a5c6eb1b65763348386",
         "news:d16bd97eb7ba858a037438df"
       ]
     },
@@ -4552,7 +4554,8 @@
         "news:83d617efa24a34fc6e66221d",
         "news:93bce5eb947aabcf5cd03fbb",
         "news:9ea42a072de10917953088b9",
-        "news:a0a2fbf046e1657bf21ec8d6"
+        "news:a0a2fbf046e1657bf21ec8d6",
+        "news:d0f42a5c6eb1b65763348386"
       ],
       "name": "Michael Wilson",
       "nfl_team": "ARI",
@@ -4561,7 +4564,8 @@
         "news:7cc653750878686730810896",
         "news:93bce5eb947aabcf5cd03fbb",
         "news:9ea42a072de10917953088b9",
-        "news:a0a2fbf046e1657bf21ec8d6"
+        "news:a0a2fbf046e1657bf21ec8d6",
+        "news:d0f42a5c6eb1b65763348386"
       ],
       "related_event_ids": [
         "news:83d617efa24a34fc6e66221d"
