@@ -4052,6 +4052,7 @@
     "00-0038117": {
       "event_ids": [
         "news:5eeee4ff394aa729205765c0",
+        "news:6f818678c225a065752692f8",
         "news:77a7f3be3a4ffd5cbcdb00cc",
         "news:b14739b96df1c76a63cf6b5d",
         "news:f99e688c8436790e65a46da0",
@@ -4065,6 +4066,7 @@
       ],
       "related_event_ids": [
         "news:5eeee4ff394aa729205765c0",
+        "news:6f818678c225a065752692f8",
         "news:b14739b96df1c76a63cf6b5d",
         "news:f99e688c8436790e65a46da0",
         "news:ffd5d01a9aa25669f6b14fea"
@@ -7245,6 +7247,18 @@
         "news:ff8a5801f5a00a64f90f51ad"
       ]
     },
+    "00-0040584": {
+      "event_ids": [
+        "news:6f818678c225a065752692f8"
+      ],
+      "name": "Gunnar Helm",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0040584",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:6f818678c225a065752692f8"
+      ]
+    },
     "00-0040586": {
       "event_ids": [
         "news:64b0b8be152ab1fea5afb0a2",
@@ -7408,6 +7422,7 @@
         "news:30c204820a825c9553e063b6",
         "news:59aaae2da7c278f0258036aa",
         "news:6e3f6c94b4f3607bf007a5dc",
+        "news:6f818678c225a065752692f8",
         "news:c12323bbdeb48798f08cb315",
         "news:f9ea9875dbf4f11badb6a9f1"
       ],
@@ -7424,7 +7439,8 @@
         "news:f9ea9875dbf4f11badb6a9f1"
       ],
       "related_event_ids": [
-        "news:6e3f6c94b4f3607bf007a5dc"
+        "news:6e3f6c94b4f3607bf007a5dc",
+        "news:6f818678c225a065752692f8"
       ]
     },
     "00-0040685": {
@@ -7462,6 +7478,18 @@
       "related_event_ids": [
         "news:6bf1b374e4aed9812e1e4f0d"
       ]
+    },
+    "00-0040705": {
+      "event_ids": [
+        "news:6f818678c225a065752692f8"
+      ],
+      "name": "Chimere Dike",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0040705",
+      "primary_event_ids": [
+        "news:6f818678c225a065752692f8"
+      ],
+      "related_event_ids": []
     },
     "00-0040715": {
       "event_ids": [
@@ -8356,6 +8384,7 @@
         "news:2e78d5089b68d762b8813b72",
         "news:558ed254f47f8da7abfe7301",
         "news:5eeee4ff394aa729205765c0",
+        "news:6f818678c225a065752692f8",
         "news:76e7b47db814a4e5a52ae9bb",
         "news:77a7f3be3a4ffd5cbcdb00cc",
         "news:a4bac224229053ea2a3f814c",
@@ -8383,6 +8412,7 @@
       ],
       "related_event_ids": [
         "news:5eeee4ff394aa729205765c0",
+        "news:6f818678c225a065752692f8",
         "news:77a7f3be3a4ffd5cbcdb00cc"
       ]
     },
