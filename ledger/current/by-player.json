@@ -783,7 +783,8 @@
         "news:42f2f7febf62952f1ca4dcef",
         "news:aa3c293704e79143d28d6006",
         "news:aeb0aa6933ec4e64b39a8056",
-        "news:ba7d5066dbd7695a7b26b311"
+        "news:ba7d5066dbd7695a7b26b311",
+        "news:d16bd97eb7ba858a037438df"
       ],
       "name": "Jacoby Brissett",
       "nfl_team": "ARI",
@@ -792,7 +793,8 @@
         "news:2c52ffddebd46a36a7f1ef89",
         "news:42f2f7febf62952f1ca4dcef",
         "news:aeb0aa6933ec4e64b39a8056",
-        "news:ba7d5066dbd7695a7b26b311"
+        "news:ba7d5066dbd7695a7b26b311",
+        "news:d16bd97eb7ba858a037438df"
       ],
       "related_event_ids": [
         "news:aa3c293704e79143d28d6006"
@@ -1776,7 +1778,8 @@
     "00-0035289": {
       "event_ids": [
         "news:aa3c293704e79143d28d6006",
-        "news:ba7d5066dbd7695a7b26b311"
+        "news:ba7d5066dbd7695a7b26b311",
+        "news:d16bd97eb7ba858a037438df"
       ],
       "name": "Gardner Minshew",
       "nfl_team": "ARI",
@@ -1785,7 +1788,8 @@
         "news:aa3c293704e79143d28d6006"
       ],
       "related_event_ids": [
-        "news:ba7d5066dbd7695a7b26b311"
+        "news:ba7d5066dbd7695a7b26b311",
+        "news:d16bd97eb7ba858a037438df"
       ]
     },
     "00-0035308": {
@@ -2603,6 +2607,7 @@
         "news:aa0ce302217e3d4a05b6faf0",
         "news:aa3c293704e79143d28d6006",
         "news:d0b67ad80d76f1dd27c3e776",
+        "news:d16bd97eb7ba858a037438df",
         "news:e2a7341774ab6f106f174459",
         "news:e64dcb5a5997838f7c452f8b"
       ],
@@ -2629,6 +2634,7 @@
         "news:aa0ce302217e3d4a05b6faf0",
         "news:aa3c293704e79143d28d6006",
         "news:d0b67ad80d76f1dd27c3e776",
+        "news:d16bd97eb7ba858a037438df",
         "news:e2a7341774ab6f106f174459",
         "news:e64dcb5a5997838f7c452f8b"
       ]
