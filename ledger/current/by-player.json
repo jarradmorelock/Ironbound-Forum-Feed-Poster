@@ -1447,6 +1447,18 @@
         "news:fc4b3703e352b13408a2fdee"
       ]
     },
+    "00-0034829": {
+      "event_ids": [
+        "news:6278d89b7685101e81091510"
+      ],
+      "name": "Mike Gesicki",
+      "nfl_team": "CIN",
+      "nflverse_id": "00-0034829",
+      "primary_event_ids": [
+        "news:6278d89b7685101e81091510"
+      ],
+      "related_event_ids": []
+    },
     "00-0034837": {
       "event_ids": [
         "news:5eeee4ff394aa729205765c0",
