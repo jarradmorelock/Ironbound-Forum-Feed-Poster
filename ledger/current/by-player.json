@@ -1706,6 +1706,7 @@
     },
     "00-0035228": {
       "event_ids": [
+        "news:0f7c9a1f2689faef2396548f",
         "news:188cda76a04dfd4c04a83210",
         "news:3ae66500bfbb93be743e5245",
         "news:605b36d0e134a4d3e6959c83",
@@ -1717,6 +1718,7 @@
       "nfl_team": "MIN",
       "nflverse_id": "00-0035228",
       "primary_event_ids": [
+        "news:0f7c9a1f2689faef2396548f",
         "news:188cda76a04dfd4c04a83210",
         "news:3ae66500bfbb93be743e5245",
         "news:605b36d0e134a4d3e6959c83",
