@@ -630,6 +630,7 @@
         "news:0213701c3d05aa8dfc30f55a",
         "news:0230ede58f08ec745722fd04",
         "news:08bc4fa7692c9a7c714915b7",
+        "news:09d7b91c595a77da55ec5ef2",
         "news:0ce6ef192700353addbc374b",
         "news:2a359f50bef122df69bffef6",
         "news:30712850611f1ae1035deb38",
@@ -663,6 +664,7 @@
         "news:0213701c3d05aa8dfc30f55a",
         "news:0230ede58f08ec745722fd04",
         "news:08bc4fa7692c9a7c714915b7",
+        "news:09d7b91c595a77da55ec5ef2",
         "news:0ce6ef192700353addbc374b",
         "news:2a359f50bef122df69bffef6",
         "news:30712850611f1ae1035deb38",
@@ -3358,6 +3360,7 @@
     },
     "00-0037238": {
       "event_ids": [
+        "news:09d7b91c595a77da55ec5ef2",
         "news:3c8976c67f20cc4e5801d235",
         "news:be7c2b26fd2b99b67a558435",
         "news:e2f8dba728d97e6cb30e0a73"
@@ -3370,7 +3373,9 @@
         "news:be7c2b26fd2b99b67a558435",
         "news:e2f8dba728d97e6cb30e0a73"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:09d7b91c595a77da55ec5ef2"
+      ]
     },
     "00-0037239": {
       "event_ids": [
@@ -3750,6 +3755,18 @@
       "related_event_ids": [
         "news:6dd134d3c33d117fa38113b0"
       ]
+    },
+    "00-0037741": {
+      "event_ids": [
+        "news:09d7b91c595a77da55ec5ef2"
+      ],
+      "name": "Jahan Dotson",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0037741",
+      "primary_event_ids": [
+        "news:09d7b91c595a77da55ec5ef2"
+      ],
+      "related_event_ids": []
     },
     "00-0037742": {
       "event_ids": [
@@ -6544,6 +6561,7 @@
     },
     "00-0039917": {
       "event_ids": [
+        "news:09d7b91c595a77da55ec5ef2",
         "news:239837ab85a1ad6d0d3b3a3b",
         "news:64c68e4da8839ca8acbdf338",
         "news:6d62f574c57f8fafe7ab3f14",
@@ -6561,6 +6579,7 @@
         "news:a17fecd758c204ad952309aa"
       ],
       "related_event_ids": [
+        "news:09d7b91c595a77da55ec5ef2",
         "news:6d62f574c57f8fafe7ab3f14",
         "news:ce8f2fdd75f4e147bc459a66"
       ]
