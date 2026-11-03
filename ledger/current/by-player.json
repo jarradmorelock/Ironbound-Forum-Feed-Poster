@@ -5344,6 +5344,7 @@
     },
     "00-0039064": {
       "event_ids": [
+        "news:2428d06dac0d34870cb216c7",
         "news:250427755c25b79de29d963c",
         "news:83ff9900f63da7cafd64880a",
         "news:883bb1fbd083b00d79745721",
@@ -5376,6 +5377,7 @@
         "news:f7ec5f82b14943002670f644"
       ],
       "related_event_ids": [
+        "news:2428d06dac0d34870cb216c7",
         "news:a84f755cc2b65c6a5cedc6ff"
       ]
     },
@@ -6061,6 +6063,7 @@
     },
     "00-0039464": {
       "event_ids": [
+        "news:2428d06dac0d34870cb216c7",
         "news:f79f806f40724bb9e5a592ee"
       ],
       "name": "Austin Reed",
@@ -6068,6 +6071,7 @@
       "nflverse_id": "00-0039464",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:2428d06dac0d34870cb216c7",
         "news:f79f806f40724bb9e5a592ee"
       ]
     },
@@ -6139,6 +6143,18 @@
       "related_event_ids": [
         "news:01e65313c44320bbae12fd3a",
         "news:a257a6d95df19b4733af78b6"
+      ]
+    },
+    "00-0039577": {
+      "event_ids": [
+        "news:2428d06dac0d34870cb216c7"
+      ],
+      "name": "Kedon Slovis",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0039577",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:2428d06dac0d34870cb216c7"
       ]
     },
     "00-0039732": {
@@ -8344,6 +8360,7 @@
     "00-0040981": {
       "event_ids": [
         "news:17a6e73500e6a4564079fcc0",
+        "news:2428d06dac0d34870cb216c7",
         "news:29ae953892ce9de6f582aaca",
         "news:8d86f027438a359736c9ada0",
         "news:9ab652d200f75e1982c6a5a6",
@@ -8354,6 +8371,7 @@
       "nfl_team": "BAL",
       "nflverse_id": "00-0040981",
       "primary_event_ids": [
+        "news:2428d06dac0d34870cb216c7",
         "news:9ab652d200f75e1982c6a5a6",
         "news:f79f806f40724bb9e5a592ee"
       ],
