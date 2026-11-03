@@ -4883,12 +4883,15 @@
     },
     "00-0038611": {
       "event_ids": [
-        "news:94697422354eb0b83b45bdb9"
+        "news:94697422354eb0b83b45bdb9",
+        "news:b7739d08b271ac605f2cde38"
       ],
       "name": "Chris Rodriguez Jr.",
       "nfl_team": "JAX",
       "nflverse_id": "00-0038611",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:b7739d08b271ac605f2cde38"
+      ],
       "related_event_ids": [
         "news:94697422354eb0b83b45bdb9"
       ]
