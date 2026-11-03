@@ -209,6 +209,7 @@
         "news:5b58c75e540f50514f533d8b",
         "news:6c146d141dd8e18084e6efa4",
         "news:72fdce09b9649c7a25cc74f5",
+        "news:73368515690ab2b81b85f148",
         "news:7a27484a8892963f148f3df6",
         "news:8ccddc3d55a86dca7e96e461",
         "news:8ed71a1053ce0713f164456e",
@@ -246,6 +247,7 @@
         "news:5b58c75e540f50514f533d8b",
         "news:6c146d141dd8e18084e6efa4",
         "news:72fdce09b9649c7a25cc74f5",
+        "news:73368515690ab2b81b85f148",
         "news:7a27484a8892963f148f3df6",
         "news:8ccddc3d55a86dca7e96e461",
         "news:8ed71a1053ce0713f164456e",
@@ -4583,14 +4585,16 @@
     },
     "00-0038502": {
       "event_ids": [
-        "news:206b4f9337a4e959df9f3783"
+        "news:206b4f9337a4e959df9f3783",
+        "news:73368515690ab2b81b85f148"
       ],
       "name": "T.J. Luther",
       "nfl_team": "CAR",
       "nflverse_id": "00-0038502",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:206b4f9337a4e959df9f3783"
+        "news:206b4f9337a4e959df9f3783",
+        "news:73368515690ab2b81b85f148"
       ]
     },
     "00-0038542": {
@@ -7065,6 +7069,7 @@
         "news:114aeb78cf039e810375d594",
         "news:20091d33c5d49595676b85c0",
         "news:6a076e28f3a904a7e07ccd4a",
+        "news:73368515690ab2b81b85f148",
         "news:9c3ccaab151d5df3e227380f",
         "news:c07e2b1562a10dd9501d41b2",
         "news:ce99d32d910fd2d50a447306"
@@ -7077,6 +7082,7 @@
         "news:114aeb78cf039e810375d594",
         "news:20091d33c5d49595676b85c0",
         "news:6a076e28f3a904a7e07ccd4a",
+        "news:73368515690ab2b81b85f148",
         "news:9c3ccaab151d5df3e227380f",
         "news:c07e2b1562a10dd9501d41b2",
         "news:ce99d32d910fd2d50a447306"
@@ -8092,6 +8098,7 @@
     "00-0040735": {
       "event_ids": [
         "news:206b4f9337a4e959df9f3783",
+        "news:73368515690ab2b81b85f148",
         "news:a39764b6f03e4b5cdcc3ccb3",
         "news:dc24fa08aa77a0d9eb5179e4"
       ],
@@ -8103,7 +8110,8 @@
         "news:dc24fa08aa77a0d9eb5179e4"
       ],
       "related_event_ids": [
-        "news:206b4f9337a4e959df9f3783"
+        "news:206b4f9337a4e959df9f3783",
+        "news:73368515690ab2b81b85f148"
       ]
     },
     "00-0040736": {
