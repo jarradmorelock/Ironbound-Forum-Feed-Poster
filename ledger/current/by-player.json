@@ -4763,6 +4763,18 @@
         "news:83d617efa24a34fc6e66221d"
       ]
     },
+    "00-0038562": {
+      "event_ids": [
+        "news:937393f6a6cde6f381f264b0"
+      ],
+      "name": "Jake Moody",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0038562",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:937393f6a6cde6f381f264b0"
+      ]
+    },
     "00-0038563": {
       "event_ids": [
         "news:4bcbbf5f52b1ff63e09eae51",
@@ -4957,7 +4969,8 @@
       "event_ids": [
         "news:118d7c64477a0af9d8c4d94d",
         "news:1f5c8e663230131bcd2fdc93",
-        "news:474f5bda26e65732d7e7dc0e"
+        "news:474f5bda26e65732d7e7dc0e",
+        "news:937393f6a6cde6f381f264b0"
       ],
       "name": "Isaiah Land",
       "nfl_team": "DAL",
@@ -4966,7 +4979,8 @@
       "related_event_ids": [
         "news:118d7c64477a0af9d8c4d94d",
         "news:1f5c8e663230131bcd2fdc93",
-        "news:474f5bda26e65732d7e7dc0e"
+        "news:474f5bda26e65732d7e7dc0e",
+        "news:937393f6a6cde6f381f264b0"
       ]
     },
     "00-0038794": {
@@ -6345,6 +6359,7 @@
         "news:8bfcc5f42e63e50c195b278e",
         "news:8c80c3c8b7d563afcf71c52b",
         "news:8e1c21ea36a33d520d6416cb",
+        "news:937393f6a6cde6f381f264b0",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
@@ -6454,6 +6469,7 @@
         "news:8bfcc5f42e63e50c195b278e",
         "news:8c80c3c8b7d563afcf71c52b",
         "news:8e1c21ea36a33d520d6416cb",
+        "news:937393f6a6cde6f381f264b0",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
@@ -6925,6 +6941,18 @@
       "related_event_ids": [
         "news:ba7d5066dbd7695a7b26b311"
       ]
+    },
+    "00-0040074": {
+      "event_ids": [
+        "news:937393f6a6cde6f381f264b0"
+      ],
+      "name": "Tyler Loop",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0040074",
+      "primary_event_ids": [
+        "news:937393f6a6cde6f381f264b0"
+      ],
+      "related_event_ids": []
     },
     "00-0040087": {
       "event_ids": [
