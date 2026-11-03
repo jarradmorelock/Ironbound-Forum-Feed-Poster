@@ -4586,7 +4586,8 @@
     "00-0038502": {
       "event_ids": [
         "news:206b4f9337a4e959df9f3783",
-        "news:73368515690ab2b81b85f148"
+        "news:73368515690ab2b81b85f148",
+        "news:f0b2b8dfdeaa2ca57c4ceb4c"
       ],
       "name": "T.J. Luther",
       "nfl_team": "CAR",
@@ -4594,7 +4595,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:206b4f9337a4e959df9f3783",
-        "news:73368515690ab2b81b85f148"
+        "news:73368515690ab2b81b85f148",
+        "news:f0b2b8dfdeaa2ca57c4ceb4c"
       ]
     },
     "00-0038542": {
@@ -7074,7 +7076,8 @@
         "news:73368515690ab2b81b85f148",
         "news:9c3ccaab151d5df3e227380f",
         "news:c07e2b1562a10dd9501d41b2",
-        "news:ce99d32d910fd2d50a447306"
+        "news:ce99d32d910fd2d50a447306",
+        "news:f0b2b8dfdeaa2ca57c4ceb4c"
       ],
       "name": "Colston Loveland",
       "nfl_team": "CHI",
@@ -7089,7 +7092,9 @@
         "news:c07e2b1562a10dd9501d41b2",
         "news:ce99d32d910fd2d50a447306"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:f0b2b8dfdeaa2ca57c4ceb4c"
+      ]
     },
     "00-0040128": {
       "event_ids": [
@@ -8102,14 +8107,16 @@
         "news:206b4f9337a4e959df9f3783",
         "news:73368515690ab2b81b85f148",
         "news:a39764b6f03e4b5cdcc3ccb3",
-        "news:dc24fa08aa77a0d9eb5179e4"
+        "news:dc24fa08aa77a0d9eb5179e4",
+        "news:f0b2b8dfdeaa2ca57c4ceb4c"
       ],
       "name": "Luther Burden III",
       "nfl_team": "CHI",
       "nflverse_id": "00-0040735",
       "primary_event_ids": [
         "news:a39764b6f03e4b5cdcc3ccb3",
-        "news:dc24fa08aa77a0d9eb5179e4"
+        "news:dc24fa08aa77a0d9eb5179e4",
+        "news:f0b2b8dfdeaa2ca57c4ceb4c"
       ],
       "related_event_ids": [
         "news:206b4f9337a4e959df9f3783",
