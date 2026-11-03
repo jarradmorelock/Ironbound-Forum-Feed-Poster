@@ -8088,13 +8088,15 @@
     "00-0040735": {
       "event_ids": [
         "news:206b4f9337a4e959df9f3783",
-        "news:a39764b6f03e4b5cdcc3ccb3"
+        "news:a39764b6f03e4b5cdcc3ccb3",
+        "news:dc24fa08aa77a0d9eb5179e4"
       ],
       "name": "Luther Burden III",
       "nfl_team": "CHI",
       "nflverse_id": "00-0040735",
       "primary_event_ids": [
-        "news:a39764b6f03e4b5cdcc3ccb3"
+        "news:a39764b6f03e4b5cdcc3ccb3",
+        "news:dc24fa08aa77a0d9eb5179e4"
       ],
       "related_event_ids": [
         "news:206b4f9337a4e959df9f3783"
