@@ -1038,6 +1038,7 @@
     },
     "00-0033699": {
       "event_ids": [
+        "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
         "news:17905655664514b19ca5674e",
         "news:ea7d53dcc4ae950825ecd20d"
@@ -1047,6 +1048,7 @@
       "nflverse_id": "00-0033699",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
         "news:17905655664514b19ca5674e",
         "news:ea7d53dcc4ae950825ecd20d"
@@ -1193,12 +1195,14 @@
     },
     "00-0033955": {
       "event_ids": [
+        "news:094a9fa986a9eeeebee53ea0",
         "news:f0d388577310e8c9fb22ca0e"
       ],
       "name": "Jeremy McNichols",
       "nfl_team": "WAS",
       "nflverse_id": "00-0033955",
       "primary_event_ids": [
+        "news:094a9fa986a9eeeebee53ea0",
         "news:f0d388577310e8c9fb22ca0e"
       ],
       "related_event_ids": []
@@ -3626,6 +3630,7 @@
     },
     "00-0037256": {
       "event_ids": [
+        "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
         "news:17905655664514b19ca5674e",
         "news:2f190019b4651bab297f196c",
@@ -3648,6 +3653,7 @@
         "news:f3b1c0d20229cc3020c0e3c5"
       ],
       "related_event_ids": [
+        "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
         "news:2f190019b4651bab297f196c",
         "news:ea7d53dcc4ae950825ecd20d"
@@ -5805,6 +5811,7 @@
     "00-0039366": {
       "event_ids": [
         "news:01bf8b012c0f27c3ff11a6e5",
+        "news:094a9fa986a9eeeebee53ea0",
         "news:12a51c2387660bdf1bc7a399",
         "news:1e953f2140e37a2fb498f931",
         "news:206b4f9337a4e959df9f3783",
@@ -5856,6 +5863,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:01bf8b012c0f27c3ff11a6e5",
+        "news:094a9fa986a9eeeebee53ea0",
         "news:12a51c2387660bdf1bc7a399",
         "news:1e953f2140e37a2fb498f931",
         "news:206b4f9337a4e959df9f3783",
@@ -7421,6 +7429,7 @@
     },
     "00-0040242": {
       "event_ids": [
+        "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
         "news:2f190019b4651bab297f196c",
         "news:5b01f570751b4e393889f327",
@@ -7441,6 +7450,7 @@
         "news:ebb465783605b9d9ecbd7663"
       ],
       "related_event_ids": [
+        "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
         "news:79ca6aa7df0311a87a23c70f",
         "news:b8737b620023593a43048ea6"
