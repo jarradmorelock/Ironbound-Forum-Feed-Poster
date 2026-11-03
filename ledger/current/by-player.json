@@ -9030,6 +9030,7 @@
     },
     "00-0041512": {
       "event_ids": [
+        "news:1e59c05906d4fba738821c9e",
         "news:442ef4eaae94fdc00fcbc6a1",
         "news:4acc5f305ba5b097d6d4da34",
         "news:53a54c84dafef5769cb346d2",
@@ -9043,6 +9044,7 @@
       "nfl_team": "SEA",
       "nflverse_id": "00-0041512",
       "primary_event_ids": [
+        "news:1e59c05906d4fba738821c9e",
         "news:442ef4eaae94fdc00fcbc6a1",
         "news:4acc5f305ba5b097d6d4da34",
         "news:53a54c84dafef5769cb346d2",
