@@ -6849,6 +6849,7 @@
       "event_ids": [
         "news:058bb5fae341293acc150b06",
         "news:1e953f2140e37a2fb498f931",
+        "news:23fbc7d5e6f1ea7b6dbb815c",
         "news:3ff74b402112c29508d75cf7",
         "news:46ed5e3854b99ac8d6900f03",
         "news:64a08678d16b6d2040e65081",
@@ -6863,6 +6864,7 @@
       "nflverse_id": "00-0039918",
       "primary_event_ids": [
         "news:1e953f2140e37a2fb498f931",
+        "news:23fbc7d5e6f1ea7b6dbb815c",
         "news:3ff74b402112c29508d75cf7",
         "news:46ed5e3854b99ac8d6900f03",
         "news:64a08678d16b6d2040e65081",
