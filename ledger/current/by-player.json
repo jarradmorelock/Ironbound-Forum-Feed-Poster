@@ -5310,6 +5310,18 @@
         "news:7e8d80e70af763822ed0e972"
       ]
     },
+    "00-0039018": {
+      "event_ids": [
+        "news:cb38120c2e7a477a2d82393e"
+      ],
+      "name": "Jack Campbell",
+      "nfl_team": "DET",
+      "nflverse_id": "00-0039018",
+      "primary_event_ids": [
+        "news:cb38120c2e7a477a2d82393e"
+      ],
+      "related_event_ids": []
+    },
     "00-0039021": {
       "event_ids": [
         "news:322740cd8ad79ba067ae6dea"
