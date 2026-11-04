@@ -1666,6 +1666,7 @@
         "news:1cc455f8863b09a6e2d086b1",
         "news:4a4d598d9a5c0e40a80c0760",
         "news:50299468aa0ba0c31e5e489c",
+        "news:79b8d372d2edc792249379f7",
         "news:f5777dd0e586af8b82152599"
       ],
       "name": "Sam Darnold",
@@ -1675,6 +1676,7 @@
         "news:04a32a28f7c0167f3915bfc3",
         "news:4a4d598d9a5c0e40a80c0760",
         "news:50299468aa0ba0c31e5e489c",
+        "news:79b8d372d2edc792249379f7",
         "news:f5777dd0e586af8b82152599"
       ],
       "related_event_ids": [
@@ -2178,6 +2180,7 @@
     "00-0035704": {
       "event_ids": [
         "news:64b0b8be152ab1fea5afb0a2",
+        "news:79b8d372d2edc792249379f7",
         "news:d6db9404987194ab355f5b04"
       ],
       "name": "Drew Lock",
@@ -2187,7 +2190,8 @@
         "news:d6db9404987194ab355f5b04"
       ],
       "related_event_ids": [
-        "news:64b0b8be152ab1fea5afb0a2"
+        "news:64b0b8be152ab1fea5afb0a2",
+        "news:79b8d372d2edc792249379f7"
       ]
     },
     "00-0035710": {
@@ -5705,6 +5709,7 @@
         "news:206b4f9337a4e959df9f3783",
         "news:50299468aa0ba0c31e5e489c",
         "news:780798275e808d7f52df2f8b",
+        "news:79b8d372d2edc792249379f7",
         "news:7a110410b9058fa2e27ed661",
         "news:9c3ccaab151d5df3e227380f"
       ],
@@ -5718,6 +5723,7 @@
         "news:206b4f9337a4e959df9f3783",
         "news:50299468aa0ba0c31e5e489c",
         "news:780798275e808d7f52df2f8b",
+        "news:79b8d372d2edc792249379f7",
         "news:7a110410b9058fa2e27ed661",
         "news:9c3ccaab151d5df3e227380f"
       ]
