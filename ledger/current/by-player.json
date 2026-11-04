@@ -761,14 +761,16 @@
     "00-0033090": {
       "event_ids": [
         "news:2ea10855d3888bc6efa8f345",
-        "news:3079c7e5a9c9886bf9c846e4"
+        "news:3079c7e5a9c9886bf9c846e4",
+        "news:8c9d46d73d345daa122f8abe"
       ],
       "name": "Hunter Henry",
       "nfl_team": "NE",
       "nflverse_id": "00-0033090",
       "primary_event_ids": [
         "news:2ea10855d3888bc6efa8f345",
-        "news:3079c7e5a9c9886bf9c846e4"
+        "news:3079c7e5a9c9886bf9c846e4",
+        "news:8c9d46d73d345daa122f8abe"
       ],
       "related_event_ids": []
     },
@@ -4158,6 +4160,7 @@
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
         "news:86f2098221edc5a2512651a6",
+        "news:8c9d46d73d345daa122f8abe",
         "news:a01d37964bbb31eeb277a63a",
         "news:a522a9c8ac5c2af170a7f5f4",
         "news:a8f49316ff9fdc834e34986c",
@@ -4194,6 +4197,7 @@
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
         "news:86f2098221edc5a2512651a6",
+        "news:8c9d46d73d345daa122f8abe",
         "news:a01d37964bbb31eeb277a63a",
         "news:a522a9c8ac5c2af170a7f5f4",
         "news:a8f49316ff9fdc834e34986c",
@@ -5936,6 +5940,7 @@
         "news:7c559872831dcb67748baa23",
         "news:8291262d1afc3be901df158e",
         "news:8354d59a411a6665e71f4f5b",
+        "news:8c9d46d73d345daa122f8abe",
         "news:8eed84627f54a101edf74c50",
         "news:8eef59dca729ea5c5092c935",
         "news:97aa607eb16de384c08de908",
@@ -5988,6 +5993,7 @@
         "news:7c559872831dcb67748baa23",
         "news:8291262d1afc3be901df158e",
         "news:8354d59a411a6665e71f4f5b",
+        "news:8c9d46d73d345daa122f8abe",
         "news:8eed84627f54a101edf74c50",
         "news:8eef59dca729ea5c5092c935",
         "news:97aa607eb16de384c08de908",
@@ -9049,14 +9055,16 @@
     },
     "00-0041395": {
       "event_ids": [
-        "news:3079c7e5a9c9886bf9c846e4"
+        "news:3079c7e5a9c9886bf9c846e4",
+        "news:8c9d46d73d345daa122f8abe"
       ],
       "name": "Eli Raridon",
       "nfl_team": "NE",
       "nflverse_id": "00-0041395",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:3079c7e5a9c9886bf9c846e4"
+        "news:3079c7e5a9c9886bf9c846e4",
+        "news:8c9d46d73d345daa122f8abe"
       ]
     },
     "00-0041438": {
