@@ -734,6 +734,7 @@
     "00-0033077": {
       "event_ids": [
         "news:48f32b8b50b3cdc9700b0244",
+        "news:7b117c7c1e057da5673f9e93",
         "news:8ccddc3d55a86dca7e96e461",
         "news:933226d72cd2cac73d284582",
         "news:f1ab35c6d9a82781c04f561a",
@@ -751,6 +752,7 @@
         "news:f822913d0a66bc63d5a72a96"
       ],
       "related_event_ids": [
+        "news:7b117c7c1e057da5673f9e93",
         "news:8ccddc3d55a86dca7e96e461"
       ]
     },
@@ -4536,6 +4538,7 @@
         "news:4ef5c77f9830f2656c79cc32",
         "news:539f223c83c7e1e635bf5698",
         "news:78d44510f6398460ffda354e",
+        "news:7b117c7c1e057da5673f9e93",
         "news:a68251fe5b8edd6bf58c73ec",
         "news:bee5aad2cf2d2a3a1968e6b3",
         "news:d9298aba647019266bcb6de0"
@@ -4551,6 +4554,7 @@
       "related_event_ids": [
         "news:4ef5c77f9830f2656c79cc32",
         "news:539f223c83c7e1e635bf5698",
+        "news:7b117c7c1e057da5673f9e93",
         "news:d9298aba647019266bcb6de0"
       ]
     },
@@ -6073,6 +6077,18 @@
         "news:e70bac08437671eb546d2cba"
       ]
     },
+    "00-0039398": {
+      "event_ids": [
+        "news:7b117c7c1e057da5673f9e93"
+      ],
+      "name": "Joe Milton III",
+      "nfl_team": "PHI",
+      "nflverse_id": "00-0039398",
+      "primary_event_ids": [
+        "news:7b117c7c1e057da5673f9e93"
+      ],
+      "related_event_ids": []
+    },
     "00-0039405": {
       "event_ids": [
         "news:32a290545f5b14bb06086c2b",
@@ -6664,6 +6680,7 @@
       "event_ids": [
         "news:4414680b44c6bcfea04e8799",
         "news:5d94a93383862e92e7716b14",
+        "news:7b117c7c1e057da5673f9e93",
         "news:98c4ce6ab5c5a8e906f1e9fb",
         "news:caf17030ed3d873925f91087",
         "news:d27f2546a72260e8bca16801"
@@ -6678,7 +6695,8 @@
         "news:d27f2546a72260e8bca16801"
       ],
       "related_event_ids": [
-        "news:5d94a93383862e92e7716b14"
+        "news:5d94a93383862e92e7716b14",
+        "news:7b117c7c1e057da5673f9e93"
       ]
     },
     "00-0039868": {
