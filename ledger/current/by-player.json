@@ -1007,6 +1007,7 @@
     },
     "00-0033537": {
       "event_ids": [
+        "news:2c9cd361623a5bdffae70d3f",
         "news:42555320f3a86cbc75aa6922",
         "news:4759a2152bae9fb83c382707",
         "news:4926d42747c4d2a958609900",
@@ -1018,6 +1019,7 @@
       "nfl_team": "CLE",
       "nflverse_id": "00-0033537",
       "primary_event_ids": [
+        "news:2c9cd361623a5bdffae70d3f",
         "news:42555320f3a86cbc75aa6922",
         "news:4926d42747c4d2a958609900",
         "news:678625af7af0c2fa56fcf894",
