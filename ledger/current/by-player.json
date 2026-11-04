@@ -673,7 +673,8 @@
         "news:e54c2dbb508b79240a754253",
         "news:e7292ebae4a604c14d09cd38",
         "news:e8b20af7ca1f9bd7dc0337f0",
-        "news:f1d41083d5143d00c18f8953"
+        "news:f1d41083d5143d00c18f8953",
+        "news:f651c53584710fbba6f51101"
       ],
       "name": "Sheldon Day",
       "nfl_team": "WAS",
@@ -708,7 +709,8 @@
         "news:e54c2dbb508b79240a754253",
         "news:e7292ebae4a604c14d09cd38",
         "news:e8b20af7ca1f9bd7dc0337f0",
-        "news:f1d41083d5143d00c18f8953"
+        "news:f1d41083d5143d00c18f8953",
+        "news:f651c53584710fbba6f51101"
       ]
     },
     "00-0033040": {
@@ -3921,7 +3923,8 @@
         "news:6dd134d3c33d117fa38113b0",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
-        "news:f0a4295ff923a7218b517fb9"
+        "news:f0a4295ff923a7218b517fb9",
+        "news:f651c53584710fbba6f51101"
       ],
       "name": "Garrett Wilson",
       "nfl_team": "NYJ",
@@ -3930,7 +3933,8 @@
         "news:1cb9b26dbd535ef847780088",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
-        "news:f0a4295ff923a7218b517fb9"
+        "news:f0a4295ff923a7218b517fb9",
+        "news:f651c53584710fbba6f51101"
       ],
       "related_event_ids": [
         "news:6dd134d3c33d117fa38113b0"
