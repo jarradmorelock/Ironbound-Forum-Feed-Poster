@@ -338,6 +338,7 @@
     },
     "00-0031040": {
       "event_ids": [
+        "news:9cfa1217f81d73acf0af5f7d",
         "news:f578056da7a35ecc5c91839e"
       ],
       "name": "Khalil Mack",
@@ -345,6 +346,7 @@
       "nflverse_id": "00-0031040",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:9cfa1217f81d73acf0af5f7d",
         "news:f578056da7a35ecc5c91839e"
       ]
     },
@@ -1027,6 +1029,7 @@
     "00-0033555": {
       "event_ids": [
         "news:136acc9c41ce361c1da28d96",
+        "news:9cfa1217f81d73acf0af5f7d",
         "news:f578056da7a35ecc5c91839e"
       ],
       "name": "Mack Hollins",
@@ -1034,6 +1037,7 @@
       "nflverse_id": "00-0033555",
       "primary_event_ids": [
         "news:136acc9c41ce361c1da28d96",
+        "news:9cfa1217f81d73acf0af5f7d",
         "news:f578056da7a35ecc5c91839e"
       ],
       "related_event_ids": []
@@ -2064,6 +2068,7 @@
         "news:8aa5bb784751431617a76083",
         "news:8c80c3c8b7d563afcf71c52b",
         "news:9616105769bb91c0758bc14b",
+        "news:9cfa1217f81d73acf0af5f7d",
         "news:af7077f7c11920f441df8312",
         "news:dcf317127a4ab3d31a017b1a",
         "news:ff5418956ffeafa32142ddbf"
@@ -2087,7 +2092,9 @@
         "news:dcf317127a4ab3d31a017b1a",
         "news:ff5418956ffeafa32142ddbf"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:9cfa1217f81d73acf0af5f7d"
+      ]
     },
     "00-0035685": {
       "event_ids": [
@@ -4059,6 +4066,7 @@
     "00-0037816": {
       "event_ids": [
         "news:10bc6d490f9afafc54364deb",
+        "news:9cfa1217f81d73acf0af5f7d",
         "news:cb00091216738b65f37f4268",
         "news:ec1fa64765c8340383c91ceb",
         "news:f578056da7a35ecc5c91839e"
@@ -4072,6 +4080,7 @@
         "news:ec1fa64765c8340383c91ceb"
       ],
       "related_event_ids": [
+        "news:9cfa1217f81d73acf0af5f7d",
         "news:f578056da7a35ecc5c91839e"
       ]
     },
