@@ -2793,6 +2793,7 @@
         "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
         "news:5a35a11f40883efc2deda1c3",
+        "news:5a4df72198e643d6fd2b1395",
         "news:60f84ca03fcefdddd2f2f0b0",
         "news:7cc653750878686730810896",
         "news:7dd859216b3bba49d57c92ab",
@@ -2822,6 +2823,7 @@
         "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
         "news:5a35a11f40883efc2deda1c3",
+        "news:5a4df72198e643d6fd2b1395",
         "news:60f84ca03fcefdddd2f2f0b0",
         "news:7cc653750878686730810896",
         "news:7dd859216b3bba49d57c92ab",
@@ -4249,6 +4251,7 @@
     "00-0038041": {
       "event_ids": [
         "news:01e65313c44320bbae12fd3a",
+        "news:5a4df72198e643d6fd2b1395",
         "news:a257a6d95df19b4733af78b6",
         "news:ccbb6db373db266fc7a236c8"
       ],
@@ -4257,6 +4260,7 @@
       "nflverse_id": "00-0038041",
       "primary_event_ids": [
         "news:01e65313c44320bbae12fd3a",
+        "news:5a4df72198e643d6fd2b1395",
         "news:a257a6d95df19b4733af78b6",
         "news:ccbb6db373db266fc7a236c8"
       ],
@@ -6214,6 +6218,7 @@
     "00-0039530": {
       "event_ids": [
         "news:01e65313c44320bbae12fd3a",
+        "news:5a4df72198e643d6fd2b1395",
         "news:a257a6d95df19b4733af78b6"
       ],
       "name": "Brevyn Spann-Ford",
@@ -6222,6 +6227,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:01e65313c44320bbae12fd3a",
+        "news:5a4df72198e643d6fd2b1395",
         "news:a257a6d95df19b4733af78b6"
       ]
     },
