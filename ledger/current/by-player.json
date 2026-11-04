@@ -2525,13 +2525,15 @@
     },
     "00-0036261": {
       "event_ids": [
-        "news:b56a02a300ca5cc2327d4adb"
+        "news:b56a02a300ca5cc2327d4adb",
+        "news:f675bf2563d04df96fa94565"
       ],
       "name": "Brandon Aiyuk",
       "nfl_team": "SF",
       "nflverse_id": "00-0036261",
       "primary_event_ids": [
-        "news:b56a02a300ca5cc2327d4adb"
+        "news:b56a02a300ca5cc2327d4adb",
+        "news:f675bf2563d04df96fa94565"
       ],
       "related_event_ids": []
     },
