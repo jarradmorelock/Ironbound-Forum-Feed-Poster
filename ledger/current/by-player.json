@@ -6257,6 +6257,7 @@
         "news:af16cbcf0b483f34f3c5512b",
         "news:bc9625d1d43c2f4181d82cfe",
         "news:ced7fa6f65d8368ec64a3ee0",
+        "news:e163afad5ae2d9cf3654659a",
         "news:fc501e4a7afb56f35f736d77",
         "news:fcf1f6a2d779b4d9d581d08d"
       ],
@@ -6275,6 +6276,7 @@
         "news:278219c3b30fdc6850cd0273",
         "news:7ae52063cfe74450b522d9cd",
         "news:ced7fa6f65d8368ec64a3ee0",
+        "news:e163afad5ae2d9cf3654659a",
         "news:fc501e4a7afb56f35f736d77"
       ]
     },
@@ -7302,14 +7304,16 @@
       "event_ids": [
         "news:0fc715cd580046ffde8c9d55",
         "news:3801fdb89a26fc166dacffe7",
-        "news:ced7fa6f65d8368ec64a3ee0"
+        "news:ced7fa6f65d8368ec64a3ee0",
+        "news:e163afad5ae2d9cf3654659a"
       ],
       "name": "Pat Bryant",
       "nfl_team": "DEN",
       "nflverse_id": "00-0040134",
       "primary_event_ids": [
         "news:0fc715cd580046ffde8c9d55",
-        "news:3801fdb89a26fc166dacffe7"
+        "news:3801fdb89a26fc166dacffe7",
+        "news:e163afad5ae2d9cf3654659a"
       ],
       "related_event_ids": [
         "news:ced7fa6f65d8368ec64a3ee0"
