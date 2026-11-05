@@ -647,6 +647,18 @@
         "news:94fa663aa3ef96665fdeb7d3"
       ]
     },
+    "00-0032950": {
+      "event_ids": [
+        "news:c4a7d10464dba60d73f99799"
+      ],
+      "name": "Carson Wentz",
+      "nfl_team": "MIN",
+      "nflverse_id": "00-0032950",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:c4a7d10464dba60d73f99799"
+      ]
+    },
     "00-0032951": {
       "event_ids": [
         "news:50fb80cecfadf520a46d86ce",
@@ -1792,6 +1804,7 @@
         "news:605b36d0e134a4d3e6959c83",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:93c9bdb7d3cc5250b3ef7a55",
+        "news:c4a7d10464dba60d73f99799",
         "news:d7762da42fb3aab14b69df89"
       ],
       "name": "Kyler Murray",
@@ -1803,6 +1816,7 @@
         "news:3ae66500bfbb93be743e5245",
         "news:605b36d0e134a4d3e6959c83",
         "news:93c9bdb7d3cc5250b3ef7a55",
+        "news:c4a7d10464dba60d73f99799",
         "news:d7762da42fb3aab14b69df89"
       ],
       "related_event_ids": [
@@ -4193,6 +4207,7 @@
         "news:a8f49316ff9fdc834e34986c",
         "news:b22f5a905d63a713ecc777fb",
         "news:bb80700d7240c9391b0b35de",
+        "news:c4a7d10464dba60d73f99799",
         "news:c8754452636392d432b83335",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:ce3e51627516baf78633b05f",
@@ -4231,6 +4246,7 @@
         "news:a8f49316ff9fdc834e34986c",
         "news:b22f5a905d63a713ecc777fb",
         "news:bb80700d7240c9391b0b35de",
+        "news:c4a7d10464dba60d73f99799",
         "news:c8754452636392d432b83335",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:ce3e51627516baf78633b05f",
@@ -6119,6 +6135,7 @@
       "event_ids": [
         "news:6f354d5a9d71cc2842d7a2e8",
         "news:ba7d5066dbd7695a7b26b311",
+        "news:c4a7d10464dba60d73f99799",
         "news:ccea94471cd7f7df6f700320",
         "news:e5895bf19e27c967de0506e2"
       ],
@@ -6129,6 +6146,7 @@
       "related_event_ids": [
         "news:6f354d5a9d71cc2842d7a2e8",
         "news:ba7d5066dbd7695a7b26b311",
+        "news:c4a7d10464dba60d73f99799",
         "news:ccea94471cd7f7df6f700320",
         "news:e5895bf19e27c967de0506e2"
       ]
