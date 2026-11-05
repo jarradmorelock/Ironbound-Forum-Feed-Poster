@@ -651,12 +651,15 @@
     },
     "00-0032950": {
       "event_ids": [
+        "news:6b2566d15ab2b563c0d43ee6",
         "news:c4a7d10464dba60d73f99799"
       ],
       "name": "Carson Wentz",
       "nfl_team": "MIN",
       "nflverse_id": "00-0032950",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:6b2566d15ab2b563c0d43ee6"
+      ],
       "related_event_ids": [
         "news:c4a7d10464dba60d73f99799"
       ]
