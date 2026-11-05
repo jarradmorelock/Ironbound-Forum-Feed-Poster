@@ -216,6 +216,7 @@
         "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:933226d72cd2cac73d284582",
+        "news:94fa663aa3ef96665fdeb7d3",
         "news:a0a2fbf046e1657bf21ec8d6",
         "news:b6f2bbeacca56635d187ec1a",
         "news:b8737b620023593a43048ea6",
@@ -254,6 +255,7 @@
         "news:8f5df405e98573eb45f51499",
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:933226d72cd2cac73d284582",
+        "news:94fa663aa3ef96665fdeb7d3",
         "news:a0a2fbf046e1657bf21ec8d6",
         "news:b6f2bbeacca56635d187ec1a",
         "news:b8737b620023593a43048ea6",
@@ -448,6 +450,7 @@
         "news:5ce6adeb848e382070bcc043",
         "news:832e5dbeef7d0eb2e228f107",
         "news:88d2236120e657d740d949f4",
+        "news:94fa663aa3ef96665fdeb7d3",
         "news:b590708c7d321edff5e01f58",
         "news:ee2900c04bc3e5753192fe29",
         "news:f3f82b69cae54a4e536c374a",
@@ -464,6 +467,7 @@
         "news:5ce6adeb848e382070bcc043",
         "news:832e5dbeef7d0eb2e228f107",
         "news:88d2236120e657d740d949f4",
+        "news:94fa663aa3ef96665fdeb7d3",
         "news:b590708c7d321edff5e01f58",
         "news:ee2900c04bc3e5753192fe29",
         "news:f3f82b69cae54a4e536c374a",
@@ -629,6 +633,18 @@
       ],
       "related_event_ids": [
         "news:4e16ba7d9610528fb7d4b7a1"
+      ]
+    },
+    "00-0032775": {
+      "event_ids": [
+        "news:94fa663aa3ef96665fdeb7d3"
+      ],
+      "name": "Demarcus Robinson",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0032775",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:94fa663aa3ef96665fdeb7d3"
       ]
     },
     "00-0032951": {
@@ -2248,6 +2264,7 @@
         "news:8df0412418b7fb36ed6cc4db",
         "news:8f5df405e98573eb45f51499",
         "news:922f4d581c3bc3723a94e4f9",
+        "news:94fa663aa3ef96665fdeb7d3",
         "news:ee2900c04bc3e5753192fe29"
       ],
       "name": "Deebo Samuel Sr.",
@@ -2263,6 +2280,7 @@
       ],
       "related_event_ids": [
         "news:514e56ea8fcae8b5d8ed18e9",
+        "news:94fa663aa3ef96665fdeb7d3",
         "news:ee2900c04bc3e5753192fe29"
       ]
     },
@@ -4169,6 +4187,7 @@
         "news:504a1ced2f08d075810baa07",
         "news:86f2098221edc5a2512651a6",
         "news:8c9d46d73d345daa122f8abe",
+        "news:94fa663aa3ef96665fdeb7d3",
         "news:a01d37964bbb31eeb277a63a",
         "news:a522a9c8ac5c2af170a7f5f4",
         "news:a8f49316ff9fdc834e34986c",
@@ -4206,6 +4225,7 @@
         "news:504a1ced2f08d075810baa07",
         "news:86f2098221edc5a2512651a6",
         "news:8c9d46d73d345daa122f8abe",
+        "news:94fa663aa3ef96665fdeb7d3",
         "news:a01d37964bbb31eeb277a63a",
         "news:a522a9c8ac5c2af170a7f5f4",
         "news:a8f49316ff9fdc834e34986c",
@@ -5954,6 +5974,7 @@
         "news:8c9d46d73d345daa122f8abe",
         "news:8eed84627f54a101edf74c50",
         "news:8eef59dca729ea5c5092c935",
+        "news:94fa663aa3ef96665fdeb7d3",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
         "news:b8f091131c65b6be254ee9b5",
@@ -6008,6 +6029,7 @@
         "news:8c9d46d73d345daa122f8abe",
         "news:8eed84627f54a101edf74c50",
         "news:8eef59dca729ea5c5092c935",
+        "news:94fa663aa3ef96665fdeb7d3",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
         "news:b8f091131c65b6be254ee9b5",
