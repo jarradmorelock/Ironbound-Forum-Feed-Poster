@@ -6626,6 +6626,7 @@
         "news:e14211cc79107fe2eca035da",
         "news:e17be22e451e6584c5be8b26",
         "news:e2a38d7e3da2993c4b934d6c",
+        "news:e41309749591b36db148513d",
         "news:e4937fe20d6150579bcafd69",
         "news:e7826bd17053debee2775935",
         "news:e7b9b06a20c76b591c7d1a07",
@@ -6739,6 +6740,7 @@
         "news:e14211cc79107fe2eca035da",
         "news:e17be22e451e6584c5be8b26",
         "news:e2a38d7e3da2993c4b934d6c",
+        "news:e41309749591b36db148513d",
         "news:e4937fe20d6150579bcafd69",
         "news:e7826bd17053debee2775935",
         "news:e7b9b06a20c76b591c7d1a07",
@@ -8254,7 +8256,8 @@
         "news:8e93acbefd8e2bb3c9abfbee",
         "news:8f05113c5b0bc31d1cd9f229",
         "news:94697422354eb0b83b45bdb9",
-        "news:ab8cdf43b311cbcdbfe6d74a"
+        "news:ab8cdf43b311cbcdbfe6d74a",
+        "news:e41309749591b36db148513d"
       ],
       "name": "Bhayshul Tuten",
       "nfl_team": "JAX",
@@ -8265,7 +8268,8 @@
         "news:8e93acbefd8e2bb3c9abfbee",
         "news:8f05113c5b0bc31d1cd9f229",
         "news:94697422354eb0b83b45bdb9",
-        "news:ab8cdf43b311cbcdbfe6d74a"
+        "news:ab8cdf43b311cbcdbfe6d74a",
+        "news:e41309749591b36db148513d"
       ],
       "related_event_ids": []
     },
@@ -8627,6 +8631,7 @@
         "news:8d86f027438a359736c9ada0",
         "news:9ab652d200f75e1982c6a5a6",
         "news:a07e75b5a85d0035430cf6ad",
+        "news:e41309749591b36db148513d",
         "news:f79f806f40724bb9e5a592ee"
       ],
       "name": "Joe Fagnano",
@@ -8642,7 +8647,8 @@
         "news:29ae953892ce9de6f582aaca",
         "news:4d24a4e785ee478bc0110cf1",
         "news:8d86f027438a359736c9ada0",
-        "news:a07e75b5a85d0035430cf6ad"
+        "news:a07e75b5a85d0035430cf6ad",
+        "news:e41309749591b36db148513d"
       ]
     },
     "00-0041027": {
