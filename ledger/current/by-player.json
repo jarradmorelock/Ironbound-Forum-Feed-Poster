@@ -1882,6 +1882,7 @@
         "news:65a0aba312b6e5e595e1a067",
         "news:854945f444ef1d40c599fdf0",
         "news:89723b322e532fcb9d0b3956",
+        "news:9ef96d3ad1311721b95a8df7",
         "news:c48b924587468abc8956799a"
       ],
       "name": "Devin Singletary",
@@ -1895,6 +1896,7 @@
         "news:65a0aba312b6e5e595e1a067",
         "news:854945f444ef1d40c599fdf0",
         "news:89723b322e532fcb9d0b3956",
+        "news:9ef96d3ad1311721b95a8df7",
         "news:c48b924587468abc8956799a"
       ]
     },
@@ -4341,6 +4343,7 @@
         "news:7357949b722c67bec65b0c06",
         "news:89723b322e532fcb9d0b3956",
         "news:96876f79e962acd6bf5d5dca",
+        "news:9ef96d3ad1311721b95a8df7",
         "news:b07e67f293de6bd8716ca502",
         "news:fb64eeb5cfdb26e371686882"
       ],
@@ -4359,6 +4362,7 @@
         "news:7357949b722c67bec65b0c06",
         "news:89723b322e532fcb9d0b3956",
         "news:96876f79e962acd6bf5d5dca",
+        "news:9ef96d3ad1311721b95a8df7",
         "news:b07e67f293de6bd8716ca502",
         "news:fb64eeb5cfdb26e371686882"
       ]
@@ -4621,6 +4625,18 @@
         "news:2ae86ca2f1bec9de3f2c08df"
       ],
       "related_event_ids": []
+    },
+    "00-0038396": {
+      "event_ids": [
+        "news:9ef96d3ad1311721b95a8df7"
+      ],
+      "name": "Eric Gray",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0038396",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9ef96d3ad1311721b95a8df7"
+      ]
     },
     "00-0038400": {
       "event_ids": [
@@ -7129,6 +7145,18 @@
         "news:f28516b7018e19a46293acad"
       ]
     },
+    "00-0040021": {
+      "event_ids": [
+        "news:9ef96d3ad1311721b95a8df7"
+      ],
+      "name": "Phil Mafah",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0040021",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9ef96d3ad1311721b95a8df7"
+      ]
+    },
     "00-0040024": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
@@ -7762,6 +7790,18 @@
         "news:39429ed7142b5384d324f3e6"
       ]
     },
+    "00-0040371": {
+      "event_ids": [
+        "news:9ef96d3ad1311721b95a8df7"
+      ],
+      "name": "Eric Gregory",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0040371",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9ef96d3ad1311721b95a8df7"
+      ]
+    },
     "00-0040394": {
       "event_ids": [
         "news:1de429e205d2b92520f5c6dd"
@@ -8167,6 +8207,7 @@
         "news:7fc08786a7c8202b3f4547cc",
         "news:854945f444ef1d40c599fdf0",
         "news:89723b322e532fcb9d0b3956",
+        "news:9ef96d3ad1311721b95a8df7",
         "news:a399a9dd46c94fa1476e4186",
         "news:b78541a08dabf31d051d8340",
         "news:c48b924587468abc8956799a",
@@ -8181,6 +8222,7 @@
         "news:6cc81f38d30fbdf86adc2e3d",
         "news:7fc08786a7c8202b3f4547cc",
         "news:854945f444ef1d40c599fdf0",
+        "news:9ef96d3ad1311721b95a8df7",
         "news:a399a9dd46c94fa1476e4186",
         "news:c48b924587468abc8956799a"
       ],
@@ -9134,6 +9176,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:26abdde5171014dfc5159e07"
+      ]
+    },
+    "00-0041376": {
+      "event_ids": [
+        "news:9ef96d3ad1311721b95a8df7"
+      ],
+      "name": "Gregory Desrosiers",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0041376",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9ef96d3ad1311721b95a8df7"
       ]
     },
     "00-0041395": {
