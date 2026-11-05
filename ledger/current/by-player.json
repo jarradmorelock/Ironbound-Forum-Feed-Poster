@@ -5559,6 +5559,7 @@
         "news:c06d338f137d69630d1af83d",
         "news:c0a239e118819ba647927f76",
         "news:c4b76f3ca6b2a67c50f9068f",
+        "news:ebf502507b3637e684b095cb",
         "news:f7f33662cad1320714fb0a05"
       ],
       "name": "Puka Nacua",
@@ -5578,7 +5579,8 @@
         "news:0d6e90509e44e61d90b288ee",
         "news:23b438c84374010e1a201958",
         "news:c06d338f137d69630d1af83d",
-        "news:c0a239e118819ba647927f76"
+        "news:c0a239e118819ba647927f76",
+        "news:ebf502507b3637e684b095cb"
       ]
     },
     "00-0039139": {
@@ -8298,14 +8300,16 @@
     "00-0040737": {
       "event_ids": [
         "news:50eef1803a2c7aa9f656122c",
-        "news:d96a0f1e456c2d77344a5a96"
+        "news:d96a0f1e456c2d77344a5a96",
+        "news:ebf502507b3637e684b095cb"
       ],
       "name": "Terrance Ferguson",
       "nfl_team": "LAR",
       "nflverse_id": "00-0040737",
       "primary_event_ids": [
         "news:50eef1803a2c7aa9f656122c",
-        "news:d96a0f1e456c2d77344a5a96"
+        "news:d96a0f1e456c2d77344a5a96",
+        "news:ebf502507b3637e684b095cb"
       ],
       "related_event_ids": []
     },
