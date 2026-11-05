@@ -7736,6 +7736,7 @@
     },
     "00-0040319": {
       "event_ids": [
+        "news:0887527b9f2b9cfeeab40979",
         "news:70bf5e9aab77f85357ce7fac",
         "news:927f4d2cdb6a1ee11ac2c476"
       ],
@@ -7744,6 +7745,7 @@
       "nflverse_id": "00-0040319",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0887527b9f2b9cfeeab40979",
         "news:70bf5e9aab77f85357ce7fac",
         "news:927f4d2cdb6a1ee11ac2c476"
       ]
@@ -8002,6 +8004,7 @@
     },
     "00-0040666": {
       "event_ids": [
+        "news:0887527b9f2b9cfeeab40979",
         "news:3ef07368afb10c3e787cfbaa",
         "news:4ecff04141773b985126e391",
         "news:759dac8b62bec249b282836e",
@@ -8013,6 +8016,7 @@
       "nfl_team": "LAC",
       "nflverse_id": "00-0040666",
       "primary_event_ids": [
+        "news:0887527b9f2b9cfeeab40979",
         "news:3ef07368afb10c3e787cfbaa",
         "news:4ecff04141773b985126e391",
         "news:927f4d2cdb6a1ee11ac2c476",
