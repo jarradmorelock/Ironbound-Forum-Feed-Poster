@@ -3381,6 +3381,7 @@
         "news:49048d9f1fb646fb7bebf8e0",
         "news:52b8520bbb27ec21ff889a47",
         "news:5b3f3588f0ca8f0a33627ddf",
+        "news:8154dd7bb6d1d623d3dbb846",
         "news:822a6216da81a9142b967a7a",
         "news:a7b13977fee7edff1744812f",
         "news:b91c05d65cd9e192b57fcd46",
@@ -3392,6 +3393,7 @@
       "primary_event_ids": [
         "news:49048d9f1fb646fb7bebf8e0",
         "news:52b8520bbb27ec21ff889a47",
+        "news:8154dd7bb6d1d623d3dbb846",
         "news:822a6216da81a9142b967a7a",
         "news:a7b13977fee7edff1744812f",
         "news:f41fbd7e98f23b904a40ddd2"
@@ -5032,6 +5034,7 @@
     "00-0038606": {
       "event_ids": [
         "news:5b3f3588f0ca8f0a33627ddf",
+        "news:8154dd7bb6d1d623d3dbb846",
         "news:a91be86b465333c628438998",
         "news:b91c05d65cd9e192b57fcd46",
         "news:bc971d998e12bacee9b711c3",
@@ -5050,6 +5053,7 @@
         "news:ed41013f24e0e81f981824fb"
       ],
       "related_event_ids": [
+        "news:8154dd7bb6d1d623d3dbb846",
         "news:b91c05d65cd9e192b57fcd46",
         "news:f41fbd7e98f23b904a40ddd2"
       ]
@@ -9344,6 +9348,18 @@
         "news:e7292ebae4a604c14d09cd38"
       ],
       "related_event_ids": []
+    },
+    "00-0041503": {
+      "event_ids": [
+        "news:8154dd7bb6d1d623d3dbb846"
+      ],
+      "name": "Nate Boerkircher",
+      "nfl_team": "JAX",
+      "nflverse_id": "00-0041503",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:8154dd7bb6d1d623d3dbb846"
+      ]
     },
     "00-0041511": {
       "event_ids": [
