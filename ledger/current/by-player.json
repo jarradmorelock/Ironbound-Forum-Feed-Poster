@@ -801,6 +801,7 @@
       "event_ids": [
         "news:2ea10855d3888bc6efa8f345",
         "news:3079c7e5a9c9886bf9c846e4",
+        "news:49da654c343bad4666b597c4",
         "news:8c9d46d73d345daa122f8abe"
       ],
       "name": "Hunter Henry",
@@ -809,6 +810,7 @@
       "primary_event_ids": [
         "news:2ea10855d3888bc6efa8f345",
         "news:3079c7e5a9c9886bf9c846e4",
+        "news:49da654c343bad4666b597c4",
         "news:8c9d46d73d345daa122f8abe"
       ],
       "related_event_ids": []
@@ -9330,6 +9332,7 @@
     "00-0041395": {
       "event_ids": [
         "news:3079c7e5a9c9886bf9c846e4",
+        "news:49da654c343bad4666b597c4",
         "news:8c9d46d73d345daa122f8abe"
       ],
       "name": "Eli Raridon",
@@ -9338,6 +9341,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:3079c7e5a9c9886bf9c846e4",
+        "news:49da654c343bad4666b597c4",
         "news:8c9d46d73d345daa122f8abe"
       ]
     },
