@@ -902,7 +902,8 @@
         "news:278e6b2e26a4c0d99ae0a009",
         "news:a7b1b55a415e283360ad2b5f",
         "news:ba740bd3a95cb84d54674576",
-        "news:e69ef093852ca6acfbe8b358"
+        "news:e69ef093852ca6acfbe8b358",
+        "news:ecb4c30419f497ca0de5b1e2"
       ],
       "name": "Christian McCaffrey",
       "nfl_team": "SF",
@@ -914,7 +915,8 @@
         "news:175d56f1df43b9b9f631f9e5",
         "news:278e6b2e26a4c0d99ae0a009",
         "news:a7b1b55a415e283360ad2b5f",
-        "news:ba740bd3a95cb84d54674576"
+        "news:ba740bd3a95cb84d54674576",
+        "news:ecb4c30419f497ca0de5b1e2"
       ],
       "related_event_ids": [
         "news:1bcb74f69b95906591a80360",
@@ -1538,6 +1540,7 @@
         "news:c12aa2f13f47cf52a0faca6f",
         "news:de277db931bca0ec40c8f556",
         "news:e69ef093852ca6acfbe8b358",
+        "news:ecb4c30419f497ca0de5b1e2",
         "news:f3f82b69cae54a4e536c374a"
       ],
       "name": "Geron Christian",
@@ -1559,6 +1562,7 @@
         "news:c12aa2f13f47cf52a0faca6f",
         "news:de277db931bca0ec40c8f556",
         "news:e69ef093852ca6acfbe8b358",
+        "news:ecb4c30419f497ca0de5b1e2",
         "news:f3f82b69cae54a4e536c374a"
       ]
     },
