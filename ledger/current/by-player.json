@@ -1138,6 +1138,7 @@
     },
     "00-0033868": {
       "event_ids": [
+        "news:2b4f72031392950dcb358809",
         "news:422095401f0568abd0f833ec",
         "news:6dd134d3c33d117fa38113b0",
         "news:85d77b8fb439d35ed4138bc2",
@@ -1153,6 +1154,7 @@
         "news:85d77b8fb439d35ed4138bc2"
       ],
       "related_event_ids": [
+        "news:2b4f72031392950dcb358809",
         "news:6dd134d3c33d117fa38113b0",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
@@ -4037,6 +4039,7 @@
     "00-0037740": {
       "event_ids": [
         "news:1cb9b26dbd535ef847780088",
+        "news:2b4f72031392950dcb358809",
         "news:6dd134d3c33d117fa38113b0",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
@@ -4056,6 +4059,7 @@
         "news:f651c53584710fbba6f51101"
       ],
       "related_event_ids": [
+        "news:2b4f72031392950dcb358809",
         "news:6dd134d3c33d117fa38113b0"
       ]
     },
@@ -6947,6 +6951,7 @@
     },
     "00-0039890": {
       "event_ids": [
+        "news:2b4f72031392950dcb358809",
         "news:564c385f363808520e4eef65",
         "news:62e9ddffedc89ce4924e4fc3",
         "news:6c385098c5dca7b62498c7f1",
@@ -6959,6 +6964,7 @@
       "nfl_team": "NYJ",
       "nflverse_id": "00-0039890",
       "primary_event_ids": [
+        "news:2b4f72031392950dcb358809",
         "news:564c385f363808520e4eef65",
         "news:62e9ddffedc89ce4924e4fc3",
         "news:6dd134d3c33d117fa38113b0",
@@ -9417,6 +9423,7 @@
     "00-0041511": {
       "event_ids": [
         "news:19fb149c74b647eb834af91c",
+        "news:2b4f72031392950dcb358809",
         "news:564c385f363808520e4eef65",
         "news:6c385098c5dca7b62498c7f1",
         "news:7357949b722c67bec65b0c06",
@@ -9432,6 +9439,7 @@
         "news:fb64eeb5cfdb26e371686882"
       ],
       "related_event_ids": [
+        "news:2b4f72031392950dcb358809",
         "news:564c385f363808520e4eef65",
         "news:7357949b722c67bec65b0c06",
         "news:da979a495bf7b05e29352e70"
