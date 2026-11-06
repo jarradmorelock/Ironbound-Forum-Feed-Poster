@@ -8549,6 +8549,7 @@
       "event_ids": [
         "news:50eef1803a2c7aa9f656122c",
         "news:9554ed0a5414641b7e77d1d2",
+        "news:b888072c6bdf7d93f0e5384a",
         "news:d96a0f1e456c2d77344a5a96",
         "news:ebf502507b3637e684b095cb"
       ],
@@ -8558,6 +8559,7 @@
       "primary_event_ids": [
         "news:50eef1803a2c7aa9f656122c",
         "news:9554ed0a5414641b7e77d1d2",
+        "news:b888072c6bdf7d93f0e5384a",
         "news:d96a0f1e456c2d77344a5a96",
         "news:ebf502507b3637e684b095cb"
       ],
@@ -9106,7 +9108,8 @@
         "news:0f083ef0b4c3ca0dc810f8dd",
         "news:3219329299073c6b6d83c2c2",
         "news:67670716dd18eafea21589c3",
-        "news:a0ec4ccbe8ef51b4a7e1201f"
+        "news:a0ec4ccbe8ef51b4a7e1201f",
+        "news:b888072c6bdf7d93f0e5384a"
       ],
       "name": "Josh Cameron",
       "nfl_team": "JAX",
@@ -9117,7 +9120,8 @@
       "related_event_ids": [
         "news:0f083ef0b4c3ca0dc810f8dd",
         "news:3219329299073c6b6d83c2c2",
-        "news:a0ec4ccbe8ef51b4a7e1201f"
+        "news:a0ec4ccbe8ef51b4a7e1201f",
+        "news:b888072c6bdf7d93f0e5384a"
       ]
     },
     "00-0041104": {
