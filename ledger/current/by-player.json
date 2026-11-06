@@ -1133,7 +1133,8 @@
         "news:6dd134d3c33d117fa38113b0",
         "news:85d77b8fb439d35ed4138bc2",
         "news:b455c48a909561577f23684b",
-        "news:b647c351b944f6004d628754"
+        "news:b647c351b944f6004d628754",
+        "news:da979a495bf7b05e29352e70"
       ],
       "name": "Myles Garrett",
       "nfl_team": "LAR",
@@ -1145,7 +1146,8 @@
       "related_event_ids": [
         "news:6dd134d3c33d117fa38113b0",
         "news:b455c48a909561577f23684b",
-        "news:b647c351b944f6004d628754"
+        "news:b647c351b944f6004d628754",
+        "news:da979a495bf7b05e29352e70"
       ]
     },
     "00-0033873": {
@@ -4021,6 +4023,7 @@
         "news:6dd134d3c33d117fa38113b0",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
+        "news:da979a495bf7b05e29352e70",
         "news:f0a4295ff923a7218b517fb9",
         "news:f651c53584710fbba6f51101"
       ],
@@ -4031,6 +4034,7 @@
         "news:1cb9b26dbd535ef847780088",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
+        "news:da979a495bf7b05e29352e70",
         "news:f0a4295ff923a7218b517fb9",
         "news:f651c53584710fbba6f51101"
       ],
@@ -6925,6 +6929,7 @@
         "news:6c385098c5dca7b62498c7f1",
         "news:6dd134d3c33d117fa38113b0",
         "news:7357949b722c67bec65b0c06",
+        "news:da979a495bf7b05e29352e70",
         "news:dd5dc956172bc996276f66c8"
       ],
       "name": "Adonai Mitchell",
@@ -6938,7 +6943,8 @@
         "news:dd5dc956172bc996276f66c8"
       ],
       "related_event_ids": [
-        "news:6c385098c5dca7b62498c7f1"
+        "news:6c385098c5dca7b62498c7f1",
+        "news:da979a495bf7b05e29352e70"
       ]
     },
     "00-0039893": {
@@ -9375,6 +9381,7 @@
         "news:564c385f363808520e4eef65",
         "news:6c385098c5dca7b62498c7f1",
         "news:7357949b722c67bec65b0c06",
+        "news:da979a495bf7b05e29352e70",
         "news:fb64eeb5cfdb26e371686882"
       ],
       "name": "Omar Cooper Jr.",
@@ -9387,7 +9394,8 @@
       ],
       "related_event_ids": [
         "news:564c385f363808520e4eef65",
-        "news:7357949b722c67bec65b0c06"
+        "news:7357949b722c67bec65b0c06",
+        "news:da979a495bf7b05e29352e70"
       ]
     },
     "00-0041512": {
