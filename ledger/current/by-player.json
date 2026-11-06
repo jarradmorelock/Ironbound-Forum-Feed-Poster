@@ -3209,7 +3209,8 @@
       "event_ids": [
         "news:1b4958d2900deb0d24d6ad1e",
         "news:4c0bbd9c88f4be6ce7f30ead",
-        "news:62a19a04848b9cd7edc4c352"
+        "news:62a19a04848b9cd7edc4c352",
+        "news:ce81510c172743a547d8a3bb"
       ],
       "name": "Khalil Herbert",
       "nfl_team": "ATL",
@@ -3218,7 +3219,8 @@
       "related_event_ids": [
         "news:1b4958d2900deb0d24d6ad1e",
         "news:4c0bbd9c88f4be6ce7f30ead",
-        "news:62a19a04848b9cd7edc4c352"
+        "news:62a19a04848b9cd7edc4c352",
+        "news:ce81510c172743a547d8a3bb"
       ]
     },
     "00-0036912": {
@@ -4110,7 +4112,8 @@
         "news:1b4958d2900deb0d24d6ad1e",
         "news:4c0bbd9c88f4be6ce7f30ead",
         "news:578c3bdd73c20d4460bcf8d5",
-        "news:6c146d141dd8e18084e6efa4"
+        "news:6c146d141dd8e18084e6efa4",
+        "news:ce81510c172743a547d8a3bb"
       ],
       "name": "Brian Robinson",
       "nfl_team": "ATL",
@@ -4119,7 +4122,8 @@
         "news:1b4958d2900deb0d24d6ad1e",
         "news:4c0bbd9c88f4be6ce7f30ead",
         "news:578c3bdd73c20d4460bcf8d5",
-        "news:6c146d141dd8e18084e6efa4"
+        "news:6c146d141dd8e18084e6efa4",
+        "news:ce81510c172743a547d8a3bb"
       ],
       "related_event_ids": []
     },
@@ -4764,6 +4768,7 @@
         "news:a1fb0482c4e73430428f7d2b",
         "news:bdcbe7e4c4b988bdde4e3f18",
         "news:ca0f2dc023e1c2aa0624108a",
+        "news:ce81510c172743a547d8a3bb",
         "news:ce8f2fdd75f4e147bc459a66"
       ],
       "name": "Bijan Robinson",
@@ -4782,7 +4787,8 @@
         "news:1b4958d2900deb0d24d6ad1e",
         "news:4c0bbd9c88f4be6ce7f30ead",
         "news:5a382e948d38177f1a19175e",
-        "news:6c146d141dd8e18084e6efa4"
+        "news:6c146d141dd8e18084e6efa4",
+        "news:ce81510c172743a547d8a3bb"
       ]
     },
     "00-0038543": {
