@@ -1220,6 +1220,7 @@
         "news:0547b66729af0d9d59a7ec08",
         "news:21d672797933ee5b372daed8",
         "news:2242e22878905e40d13738ec",
+        "news:29091d427ea5992e62fc43dc",
         "news:9610b229b4ddbdc08cb593af",
         "news:b478f9f4df3759ce3761b2a7",
         "news:b93b9c6b7f4926fba8b4048f",
@@ -1243,7 +1244,8 @@
         "news:d9d44fae78ee4df237681836"
       ],
       "related_event_ids": [
-        "news:0547b66729af0d9d59a7ec08"
+        "news:0547b66729af0d9d59a7ec08",
+        "news:29091d427ea5992e62fc43dc"
       ]
     },
     "00-0033921": {
@@ -3432,12 +3434,14 @@
     },
     "00-0036973": {
       "event_ids": [
+        "news:29091d427ea5992e62fc43dc",
         "news:c609e7fe67c0c7c29d074ada"
       ],
       "name": "Travis Etienne",
       "nfl_team": "NO",
       "nflverse_id": "00-0036973",
       "primary_event_ids": [
+        "news:29091d427ea5992e62fc43dc",
         "news:c609e7fe67c0c7c29d074ada"
       ],
       "related_event_ids": []
@@ -4890,6 +4894,7 @@
     "00-0038551": {
       "event_ids": [
         "news:0547b66729af0d9d59a7ec08",
+        "news:29091d427ea5992e62fc43dc",
         "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ],
@@ -4899,6 +4904,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0547b66729af0d9d59a7ec08",
+        "news:29091d427ea5992e62fc43dc",
         "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ]
@@ -6160,6 +6166,7 @@
     },
     "00-0039373": {
       "event_ids": [
+        "news:29091d427ea5992e62fc43dc",
         "news:52c4bbe4441aa67811994dfd",
         "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
@@ -6170,6 +6177,7 @@
       "nflverse_id": "00-0039373",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:29091d427ea5992e62fc43dc",
         "news:52c4bbe4441aa67811994dfd",
         "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
@@ -6620,6 +6628,7 @@
         "news:207f600049b7694e4a93e372",
         "news:250427755c25b79de29d963c",
         "news:278e6b2e26a4c0d99ae0a009",
+        "news:29091d427ea5992e62fc43dc",
         "news:2a11b3acf9923cc7e9416b2e",
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:331bdb61ab2c20cd8bbf7311",
@@ -6737,6 +6746,7 @@
         "news:207f600049b7694e4a93e372",
         "news:250427755c25b79de29d963c",
         "news:278e6b2e26a4c0d99ae0a009",
+        "news:29091d427ea5992e62fc43dc",
         "news:2a11b3acf9923cc7e9416b2e",
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:331bdb61ab2c20cd8bbf7311",
@@ -9253,6 +9263,7 @@
     },
     "00-0041326": {
       "event_ids": [
+        "news:29091d427ea5992e62fc43dc",
         "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ],
@@ -9261,6 +9272,7 @@
       "nflverse_id": "00-0041326",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:29091d427ea5992e62fc43dc",
         "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ]
