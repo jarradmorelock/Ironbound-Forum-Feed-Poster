@@ -51,7 +51,7 @@ class HeadlineAttributionTests(unittest.TestCase):
         self.assertEqual(presentation.player.display_name, "Woody Marks")
         self.assertEqual(
             presentation.headline,
-            "Woody Marks Set for Bell-Cow Role With Montgomery Out",
+            "Woody Marks Set for Lead Role With Montgomery Out",
         )
         self.assertNotIn("Marks Ruled Out", presentation.thread_title)
 
