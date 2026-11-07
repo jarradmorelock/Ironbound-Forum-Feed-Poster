@@ -319,8 +319,23 @@ def _expanded_role_headline(
     if unavailable_teammate is None:
         return None
 
+    bell_cow_evidence = _phrase_applies_to_player(
+        text,
+        (
+            "bulk of the snaps",
+            "bulk of snaps",
+            "bulk of the touches",
+            "bulk of touches",
+            "bell cow",
+            "bell-cow",
+            "workhorse",
+        ),
+        player,
+        related_players,
+    )
+    role = "Bell-Cow" if bell_cow_evidence else "Lead"
     return (
-        f"{player.display_name} Set for Lead Role With "
+        f"{player.display_name} Set for {role} Role With "
         f"{unavailable_teammate.last_name} Out"
     )
 
