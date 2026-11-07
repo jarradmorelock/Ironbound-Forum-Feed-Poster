@@ -1155,6 +1155,7 @@
         "news:85d77b8fb439d35ed4138bc2",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
+        "news:c0301eedaddbd1486333f0f1",
         "news:da979a495bf7b05e29352e70"
       ],
       "name": "Myles Garrett",
@@ -1163,7 +1164,8 @@
       "primary_event_ids": [
         "news:422095401f0568abd0f833ec",
         "news:5914d788985684aca1d9a1bf",
-        "news:85d77b8fb439d35ed4138bc2"
+        "news:85d77b8fb439d35ed4138bc2",
+        "news:c0301eedaddbd1486333f0f1"
       ],
       "related_event_ids": [
         "news:2b4f72031392950dcb358809",
