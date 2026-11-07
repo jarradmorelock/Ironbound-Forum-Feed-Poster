@@ -1235,6 +1235,7 @@
         "news:21d672797933ee5b372daed8",
         "news:2242e22878905e40d13738ec",
         "news:29091d427ea5992e62fc43dc",
+        "news:5922f4673e0a05c7e72bcd6a",
         "news:9610b229b4ddbdc08cb593af",
         "news:b478f9f4df3759ce3761b2a7",
         "news:b93b9c6b7f4926fba8b4048f",
@@ -1259,7 +1260,8 @@
       ],
       "related_event_ids": [
         "news:0547b66729af0d9d59a7ec08",
-        "news:29091d427ea5992e62fc43dc"
+        "news:29091d427ea5992e62fc43dc",
+        "news:5922f4673e0a05c7e72bcd6a"
       ]
     },
     "00-0033921": {
@@ -3466,6 +3468,7 @@
     "00-0036973": {
       "event_ids": [
         "news:29091d427ea5992e62fc43dc",
+        "news:5922f4673e0a05c7e72bcd6a",
         "news:c609e7fe67c0c7c29d074ada"
       ],
       "name": "Travis Etienne",
@@ -3475,7 +3478,9 @@
         "news:29091d427ea5992e62fc43dc",
         "news:c609e7fe67c0c7c29d074ada"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:5922f4673e0a05c7e72bcd6a"
+      ]
     },
     "00-0036980": {
       "event_ids": [
@@ -4393,6 +4398,18 @@
         "news:a365a2bcf50ea8ff2d602a91"
       ]
     },
+    "00-0038040": {
+      "event_ids": [
+        "news:5922f4673e0a05c7e72bcd6a"
+      ],
+      "name": "Zamir White",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0038040",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:5922f4673e0a05c7e72bcd6a"
+      ]
+    },
     "00-0038041": {
       "event_ids": [
         "news:01e65313c44320bbae12fd3a",
@@ -4928,13 +4945,16 @@
       "event_ids": [
         "news:0547b66729af0d9d59a7ec08",
         "news:29091d427ea5992e62fc43dc",
+        "news:5922f4673e0a05c7e72bcd6a",
         "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ],
       "name": "Kendre Miller",
       "nfl_team": "NO",
       "nflverse_id": "00-0038551",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:5922f4673e0a05c7e72bcd6a"
+      ],
       "related_event_ids": [
         "news:0547b66729af0d9d59a7ec08",
         "news:29091d427ea5992e62fc43dc",
@@ -6116,6 +6136,7 @@
         "news:4e24d60a709b8cbd3d9828c0",
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
+        "news:5922f4673e0a05c7e72bcd6a",
         "news:602be39b2e760488ea053500",
         "news:64355f6f1ee34bf11b527855",
         "news:69d828f18184355601ae9633",
@@ -6171,6 +6192,7 @@
         "news:4e24d60a709b8cbd3d9828c0",
         "news:52348d293ed1eaf305235013",
         "news:536395cc5c2f30b9af7087fd",
+        "news:5922f4673e0a05c7e72bcd6a",
         "news:602be39b2e760488ea053500",
         "news:64355f6f1ee34bf11b527855",
         "news:69d828f18184355601ae9633",
@@ -6205,6 +6227,7 @@
       "event_ids": [
         "news:29091d427ea5992e62fc43dc",
         "news:52c4bbe4441aa67811994dfd",
+        "news:5922f4673e0a05c7e72bcd6a",
         "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
@@ -6216,6 +6239,7 @@
       "related_event_ids": [
         "news:29091d427ea5992e62fc43dc",
         "news:52c4bbe4441aa67811994dfd",
+        "news:5922f4673e0a05c7e72bcd6a",
         "news:861af8d722f1e28b50664228",
         "news:9c06100e5c0c3df4816f6df7",
         "news:c6fcd8282640881e233c2014"
@@ -8326,6 +8350,18 @@
         "news:d573fd29419a4595a79fe5b4"
       ]
     },
+    "00-0040692": {
+      "event_ids": [
+        "news:5922f4673e0a05c7e72bcd6a"
+      ],
+      "name": "Jarquez Hunter",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0040692",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:5922f4673e0a05c7e72bcd6a"
+      ]
+    },
     "00-0040704": {
       "event_ids": [
         "news:6bf1b374e4aed9812e1e4f0d"
@@ -9333,6 +9369,7 @@
     "00-0041326": {
       "event_ids": [
         "news:29091d427ea5992e62fc43dc",
+        "news:5922f4673e0a05c7e72bcd6a",
         "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ],
@@ -9342,6 +9379,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:29091d427ea5992e62fc43dc",
+        "news:5922f4673e0a05c7e72bcd6a",
         "news:c054c05a3c01071391612126",
         "news:c4668ca57a6792521ae67419"
       ]
