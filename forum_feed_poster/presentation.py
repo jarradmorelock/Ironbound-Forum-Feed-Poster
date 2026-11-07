@@ -294,6 +294,8 @@ def _expanded_role_headline(
         "featured role",
         "feature back",
         "workhorse",
+        "rb1 work",
+        "clear rb1",
     )
     if not _phrase_applies_to_player(
         text, workload_phrases, player, related_players
@@ -305,7 +307,7 @@ def _expanded_role_headline(
         (
             candidate
             for candidate in related_players
-            if _phrase_applies_to_player(
+            if _status_phrase_applies_to_player(
                 text,
                 OUT_PHRASES,
                 candidate,
@@ -317,8 +319,23 @@ def _expanded_role_headline(
     if unavailable_teammate is None:
         return None
 
+    bell_cow_evidence = _phrase_applies_to_player(
+        text,
+        (
+            "bulk of the snaps",
+            "bulk of snaps",
+            "bulk of the touches",
+            "bulk of touches",
+            "bell cow",
+            "bell-cow",
+            "workhorse",
+        ),
+        player,
+        related_players,
+    )
+    role = "Bell-Cow" if bell_cow_evidence else "Lead"
     return (
-        f"{player.display_name} Set for Bell-Cow Role With "
+        f"{player.display_name} Set for {role} Role With "
         f"{unavailable_teammate.last_name} Out"
     )
 
@@ -335,16 +352,16 @@ def _availability_headline(
     week_match = re.search(r"\bweek\s+([0-9]{1,2})\b", text)
     week_suffix = f" Week {week_match.group(1)}" if week_match else ""
 
-    if _phrase_applies_to_player(text, OUT_PHRASES, player, related_players):
+    if _status_phrase_applies_to_player(text, OUT_PHRASES, player, related_players):
         return f"{player.display_name} Ruled Out{' for' if week_suffix else ''}{week_suffix}"
 
     for status, label in (("doubtful", "Doubtful"), ("questionable", "Questionable")):
-        if _phrase_applies_to_player(
+        if _status_phrase_applies_to_player(
             text, (status,), player, related_players
         ):
             return f"{player.display_name} {label}{' for' if week_suffix else ''}{week_suffix}"
 
-    expected_to_play = _phrase_applies_to_player(
+    expected_to_play = _status_phrase_applies_to_player(
         text,
         (
             "will play",
@@ -413,6 +430,61 @@ def _phrase_applies_to_player(
                     ),
                 )
                 if nearest[2] == player.key:
+                    return True
+    return False
+
+
+def _status_phrase_applies_to_player(
+    text: str,
+    phrases: tuple[str, ...],
+    player: PlayerProfile,
+    other_players: tuple[PlayerProfile, ...],
+) -> bool:
+    """Attribute an availability claim to its preceding named subject.
+
+    Proximity alone is unsafe: "With Montgomery ruled out, Marks starts"
+    places "Marks" close to "ruled out" without ruling Marks out. Require
+    a named player *before* the status phrase and do not infer availability
+    from conditional or negated language. Ambiguous reports keep their
+    original feed headline rather than claiming a confirmed status.
+    """
+    profiles = (player, *other_players)
+    for sentence in re.split(r"(?<=[.!?;])\s+", text):
+        normalized = _normalize(sentence)
+        mentions: list[tuple[int, int, str]] = []
+        for profile in profiles:
+            terms = {*profile.aliases, _normalize(profile.last_name)}
+            for term in terms:
+                if not term:
+                    continue
+                for match in re.finditer(
+                    rf"\b{re.escape(term)}\b", normalized
+                ):
+                    mentions.append((match.start(), match.end(), profile.key))
+
+        for phrase in phrases:
+            normalized_phrase = _normalize(phrase)
+            for match in re.finditer(
+                rf"\b{re.escape(normalized_phrase)}\b", normalized
+            ):
+                lead_in = normalized[max(0, match.start() - 40):match.start()]
+                if re.search(
+                    r"\b(?:may|might|could|not|never)\b(?:\s+\w+){0,5}\s*$",
+                    lead_in,
+                ):
+                    continue
+
+                preceding = [
+                    mention for mention in mentions
+                    if mention[1] <= match.start()
+                    and match.start() - mention[1] <= 90
+                ]
+                if not preceding:
+                    continue
+
+                # A later-mentioned teammate cannot steal the status.
+                subject = max(preceding, key=lambda mention: mention[1])
+                if subject[2] == player.key:
                     return True
     return False
 
