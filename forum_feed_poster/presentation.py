@@ -320,7 +320,7 @@ def _expanded_role_headline(
         return None
 
     return (
-        f"{player.display_name} Set for Bell-Cow Role With "
+        f"{player.display_name} Set for Lead Role With "
         f"{unavailable_teammate.last_name} Out"
     )
 
