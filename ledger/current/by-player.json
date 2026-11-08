@@ -2290,7 +2290,8 @@
         "news:a494b59eb7aafdf48c752702",
         "news:ac5a6e6fcff183d8b037e1b0",
         "news:b00fe500928b6ba176035c17",
-        "news:ea51dbc83506a6560b64db48"
+        "news:ea51dbc83506a6560b64db48",
+        "news:ea67d00c295a1edc55d673d7"
       ],
       "name": "Josh Jacobs",
       "nfl_team": "GB",
@@ -2306,7 +2307,8 @@
         "news:ea51dbc83506a6560b64db48"
       ],
       "related_event_ids": [
-        "news:17d4b60aaf75bb71c939adb3"
+        "news:17d4b60aaf75bb71c939adb3",
+        "news:ea67d00c295a1edc55d673d7"
       ]
     },
     "00-0035704": {
@@ -4539,7 +4541,8 @@
     "00-0038098": {
       "event_ids": [
         "news:52348d293ed1eaf305235013",
-        "news:55f0ddd3bcf55475132e328a"
+        "news:55f0ddd3bcf55475132e328a",
+        "news:ea67d00c295a1edc55d673d7"
       ],
       "name": "Pierre Strong",
       "nfl_team": "GB",
@@ -4547,7 +4550,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:52348d293ed1eaf305235013",
-        "news:55f0ddd3bcf55475132e328a"
+        "news:55f0ddd3bcf55475132e328a",
+        "news:ea67d00c295a1edc55d673d7"
       ]
     },
     "00-0038104": {
@@ -6745,7 +6749,8 @@
         "news:47eebc0ee517f55496edbc8f",
         "news:52348d293ed1eaf305235013",
         "news:55f0ddd3bcf55475132e328a",
-        "news:ae3ace98b22da3a1508191e2"
+        "news:ae3ace98b22da3a1508191e2",
+        "news:ea67d00c295a1edc55d673d7"
       ],
       "name": "MarShawn Lloyd",
       "nfl_team": "GB",
@@ -6753,7 +6758,8 @@
       "primary_event_ids": [
         "news:17d4b60aaf75bb71c939adb3",
         "news:47eebc0ee517f55496edbc8f",
-        "news:ae3ace98b22da3a1508191e2"
+        "news:ae3ace98b22da3a1508191e2",
+        "news:ea67d00c295a1edc55d673d7"
       ],
       "related_event_ids": [
         "news:52348d293ed1eaf305235013",
@@ -7724,7 +7730,8 @@
     "00-0040142": {
       "event_ids": [
         "news:52348d293ed1eaf305235013",
-        "news:8a04d508618a5eb5e4a0227d"
+        "news:8a04d508618a5eb5e4a0227d",
+        "news:ea67d00c295a1edc55d673d7"
       ],
       "name": "Kaleb Johnson",
       "nfl_team": "GB",
@@ -7733,7 +7740,8 @@
         "news:8a04d508618a5eb5e4a0227d"
       ],
       "related_event_ids": [
-        "news:52348d293ed1eaf305235013"
+        "news:52348d293ed1eaf305235013",
+        "news:ea67d00c295a1edc55d673d7"
       ]
     },
     "00-0040154": {
