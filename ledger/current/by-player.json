@@ -1770,6 +1770,7 @@
         "news:4a4d598d9a5c0e40a80c0760",
         "news:50299468aa0ba0c31e5e489c",
         "news:79b8d372d2edc792249379f7",
+        "news:a2fa5e03bedd4193180f2463",
         "news:f5777dd0e586af8b82152599"
       ],
       "name": "Sam Darnold",
@@ -1780,6 +1781,7 @@
         "news:4a4d598d9a5c0e40a80c0760",
         "news:50299468aa0ba0c31e5e489c",
         "news:79b8d372d2edc792249379f7",
+        "news:a2fa5e03bedd4193180f2463",
         "news:f5777dd0e586af8b82152599"
       ],
       "related_event_ids": [
@@ -2304,6 +2306,7 @@
         "news:278e6b2e26a4c0d99ae0a009",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:79b8d372d2edc792249379f7",
+        "news:a2fa5e03bedd4193180f2463",
         "news:d6db9404987194ab355f5b04"
       ],
       "name": "Drew Lock",
@@ -2315,7 +2318,8 @@
       "related_event_ids": [
         "news:278e6b2e26a4c0d99ae0a009",
         "news:64b0b8be152ab1fea5afb0a2",
-        "news:79b8d372d2edc792249379f7"
+        "news:79b8d372d2edc792249379f7",
+        "news:a2fa5e03bedd4193180f2463"
       ]
     },
     "00-0035710": {
@@ -5953,7 +5957,8 @@
         "news:780798275e808d7f52df2f8b",
         "news:79b8d372d2edc792249379f7",
         "news:7a110410b9058fa2e27ed661",
-        "news:9c3ccaab151d5df3e227380f"
+        "news:9c3ccaab151d5df3e227380f",
+        "news:a2fa5e03bedd4193180f2463"
       ],
       "name": "Andre' Sam",
       "nfl_team": "PHI",
@@ -5967,7 +5972,8 @@
         "news:780798275e808d7f52df2f8b",
         "news:79b8d372d2edc792249379f7",
         "news:7a110410b9058fa2e27ed661",
-        "news:9c3ccaab151d5df3e227380f"
+        "news:9c3ccaab151d5df3e227380f",
+        "news:a2fa5e03bedd4193180f2463"
       ]
     },
     "00-0039299": {
