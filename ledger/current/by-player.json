@@ -2291,6 +2291,7 @@
     "00-0035700": {
       "event_ids": [
         "news:17d4b60aaf75bb71c939adb3",
+        "news:3760cacab4bf83c22f7fcc22",
         "news:437fdbf35139ac1d1b4bb4a7",
         "news:50c0f73dd46a5dee7420ce27",
         "news:55f0ddd3bcf55475132e328a",
@@ -2305,6 +2306,7 @@
       "nfl_team": "GB",
       "nflverse_id": "00-0035700",
       "primary_event_ids": [
+        "news:3760cacab4bf83c22f7fcc22",
         "news:437fdbf35139ac1d1b4bb4a7",
         "news:50c0f73dd46a5dee7420ce27",
         "news:55f0ddd3bcf55475132e328a",
@@ -4552,6 +4554,7 @@
     },
     "00-0038098": {
       "event_ids": [
+        "news:3760cacab4bf83c22f7fcc22",
         "news:52348d293ed1eaf305235013",
         "news:55f0ddd3bcf55475132e328a",
         "news:ea67d00c295a1edc55d673d7"
@@ -4561,6 +4564,7 @@
       "nflverse_id": "00-0038098",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:3760cacab4bf83c22f7fcc22",
         "news:52348d293ed1eaf305235013",
         "news:55f0ddd3bcf55475132e328a",
         "news:ea67d00c295a1edc55d673d7"
@@ -6758,6 +6762,7 @@
     "00-0039811": {
       "event_ids": [
         "news:17d4b60aaf75bb71c939adb3",
+        "news:3760cacab4bf83c22f7fcc22",
         "news:47eebc0ee517f55496edbc8f",
         "news:52348d293ed1eaf305235013",
         "news:55f0ddd3bcf55475132e328a",
@@ -6774,6 +6779,7 @@
         "news:ea67d00c295a1edc55d673d7"
       ],
       "related_event_ids": [
+        "news:3760cacab4bf83c22f7fcc22",
         "news:52348d293ed1eaf305235013",
         "news:55f0ddd3bcf55475132e328a"
       ]
@@ -7751,6 +7757,7 @@
     },
     "00-0040142": {
       "event_ids": [
+        "news:3760cacab4bf83c22f7fcc22",
         "news:52348d293ed1eaf305235013",
         "news:8a04d508618a5eb5e4a0227d",
         "news:ea67d00c295a1edc55d673d7"
@@ -7762,6 +7769,7 @@
         "news:8a04d508618a5eb5e4a0227d"
       ],
       "related_event_ids": [
+        "news:3760cacab4bf83c22f7fcc22",
         "news:52348d293ed1eaf305235013",
         "news:ea67d00c295a1edc55d673d7"
       ]
