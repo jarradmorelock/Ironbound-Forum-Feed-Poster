@@ -6450,12 +6450,14 @@
     },
     "00-0039398": {
       "event_ids": [
+        "news:5e09d78c7212d0337938b59f",
         "news:7b117c7c1e057da5673f9e93"
       ],
       "name": "Joe Milton III",
       "nfl_team": "PHI",
       "nflverse_id": "00-0039398",
       "primary_event_ids": [
+        "news:5e09d78c7212d0337938b59f",
         "news:7b117c7c1e057da5673f9e93"
       ],
       "related_event_ids": []
