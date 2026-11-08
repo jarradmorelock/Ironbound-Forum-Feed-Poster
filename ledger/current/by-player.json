@@ -168,6 +168,18 @@
         "news:e17be22e451e6584c5be8b26"
       ]
     },
+    "00-0029692": {
+      "event_ids": [
+        "news:eb714bbe0139926f4f2c330a"
+      ],
+      "name": "Bryan Anger",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0029692",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:eb714bbe0139926f4f2c330a"
+      ]
+    },
     "00-0029822": {
       "event_ids": [
         "news:20f70971854b11a551d3fe86",
@@ -9741,6 +9753,7 @@
         "news:6c385098c5dca7b62498c7f1",
         "news:7357949b722c67bec65b0c06",
         "news:da979a495bf7b05e29352e70",
+        "news:eb714bbe0139926f4f2c330a",
         "news:fb64eeb5cfdb26e371686882"
       ],
       "name": "Omar Cooper Jr.",
@@ -9749,6 +9762,7 @@
       "primary_event_ids": [
         "news:19fb149c74b647eb834af91c",
         "news:6c385098c5dca7b62498c7f1",
+        "news:eb714bbe0139926f4f2c330a",
         "news:fb64eeb5cfdb26e371686882"
       ],
       "related_event_ids": [
