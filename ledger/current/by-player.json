@@ -1112,6 +1112,7 @@
       "event_ids": [
         "news:136acc9c41ce361c1da28d96",
         "news:207f600049b7694e4a93e372",
+        "news:9a40407106e4cbd0c3e21bba",
         "news:9cfa1217f81d73acf0af5f7d",
         "news:f578056da7a35ecc5c91839e"
       ],
@@ -1120,6 +1121,7 @@
       "nflverse_id": "00-0033555",
       "primary_event_ids": [
         "news:136acc9c41ce361c1da28d96",
+        "news:9a40407106e4cbd0c3e21bba",
         "news:9cfa1217f81d73acf0af5f7d",
         "news:f578056da7a35ecc5c91839e"
       ],
