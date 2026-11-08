@@ -645,12 +645,15 @@
     },
     "00-0032775": {
       "event_ids": [
+        "news:1d1218d36b5a2c564d53cda8",
         "news:94fa663aa3ef96665fdeb7d3"
       ],
       "name": "Demarcus Robinson",
       "nfl_team": "SF",
       "nflverse_id": "00-0032775",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:1d1218d36b5a2c564d53cda8"
+      ],
       "related_event_ids": [
         "news:94fa663aa3ef96665fdeb7d3"
       ]
@@ -1455,6 +1458,7 @@
     },
     "00-0034775": {
       "event_ids": [
+        "news:1d1218d36b5a2c564d53cda8",
         "news:253cfe541bb838400006109b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817",
@@ -1476,6 +1480,7 @@
         "news:b4baed26b531b1ebb43ea175"
       ],
       "related_event_ids": [
+        "news:1d1218d36b5a2c564d53cda8",
         "news:253cfe541bb838400006109b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817",
@@ -1562,6 +1567,7 @@
         "news:0bd2ba0f783289b4c9bc8b7f",
         "news:175d56f1df43b9b9f631f9e5",
         "news:1bcb74f69b95906591a80360",
+        "news:1d1218d36b5a2c564d53cda8",
         "news:278e6b2e26a4c0d99ae0a009",
         "news:28b7361c13bd494daded084d",
         "news:514e56ea8fcae8b5d8ed18e9",
@@ -1586,6 +1592,7 @@
         "news:0bd2ba0f783289b4c9bc8b7f",
         "news:175d56f1df43b9b9f631f9e5",
         "news:1bcb74f69b95906591a80360",
+        "news:1d1218d36b5a2c564d53cda8",
         "news:278e6b2e26a4c0d99ae0a009",
         "news:28b7361c13bd494daded084d",
         "news:514e56ea8fcae8b5d8ed18e9",
