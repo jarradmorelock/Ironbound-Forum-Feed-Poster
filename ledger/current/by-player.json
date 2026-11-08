@@ -2800,6 +2800,7 @@
     "00-0036358": {
       "event_ids": [
         "news:0e2cc388ed240e323e147049",
+        "news:175001c51902cb5ddf881422",
         "news:3b2627c868a5346a9c04eef6",
         "news:504a1ced2f08d075810baa07",
         "news:61365726821aa092bf0a8eb1",
@@ -2823,7 +2824,9 @@
         "news:e63652ffb5831955b87e73b9",
         "news:efbc025b69db0ba73653584f"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:175001c51902cb5ddf881422"
+      ]
     },
     "00-0036389": {
       "event_ids": [
@@ -3785,6 +3788,7 @@
       "event_ids": [
         "news:08cb226742cc2f76b932f550",
         "news:0d6cc835d0cd057907ddbde6",
+        "news:175001c51902cb5ddf881422",
         "news:2ac512e98d9f0971aabef215",
         "news:2dc04c262336640932eaff96",
         "news:72fdce09b9649c7a25cc74f5",
@@ -3796,6 +3800,7 @@
       "primary_event_ids": [
         "news:08cb226742cc2f76b932f550",
         "news:0d6cc835d0cd057907ddbde6",
+        "news:175001c51902cb5ddf881422",
         "news:2ac512e98d9f0971aabef215",
         "news:2dc04c262336640932eaff96",
         "news:72fdce09b9649c7a25cc74f5",
@@ -6392,6 +6397,18 @@
         "news:f155a70f6a8be534de3d5cb6"
       ]
     },
+    "00-0039410": {
+      "event_ids": [
+        "news:175001c51902cb5ddf881422"
+      ],
+      "name": "Ryan Flournoy",
+      "nfl_team": "DAL",
+      "nflverse_id": "00-0039410",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:175001c51902cb5ddf881422"
+      ]
+    },
     "00-0039424": {
       "event_ids": [
         "news:0547b66729af0d9d59a7ec08",
@@ -7411,6 +7428,7 @@
       "event_ids": [
         "news:0d6cc835d0cd057907ddbde6",
         "news:0e931cb92b103231188e94c2",
+        "news:175001c51902cb5ddf881422",
         "news:1bcb74f69b95906591a80360",
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
@@ -7429,6 +7447,7 @@
       "related_event_ids": [
         "news:0d6cc835d0cd057907ddbde6",
         "news:0e931cb92b103231188e94c2",
+        "news:175001c51902cb5ddf881422",
         "news:1bcb74f69b95906591a80360",
         "news:1c447870c8cbc3dc21381426",
         "news:2ac512e98d9f0971aabef215",
@@ -9294,6 +9313,7 @@
     },
     "00-0041131": {
       "event_ids": [
+        "news:175001c51902cb5ddf881422",
         "news:50c0f73dd46a5dee7420ce27",
         "news:64e82a8ec1eae802d572f82e",
         "news:eae832cb642745efc7b25afa"
@@ -9303,6 +9323,7 @@
       "nflverse_id": "00-0041131",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:175001c51902cb5ddf881422",
         "news:50c0f73dd46a5dee7420ce27",
         "news:64e82a8ec1eae802d572f82e",
         "news:eae832cb642745efc7b25afa"
