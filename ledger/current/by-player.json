@@ -94,6 +94,7 @@
     "00-0029562": {
       "event_ids": [
         "news:32a290545f5b14bb06086c2b",
+        "news:44284b0e1ed23c8351ea193b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:7337b3ae6e3fd0c4d6a6aff8",
         "news:89cdc9dd54fb98692f66730a",
@@ -111,6 +112,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:32a290545f5b14bb06086c2b",
+        "news:44284b0e1ed23c8351ea193b",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:7337b3ae6e3fd0c4d6a6aff8",
         "news:89cdc9dd54fb98692f66730a",
@@ -206,6 +208,7 @@
         "news:33b14f67af587bf24658a11a",
         "news:3ee980249f53a8fa31d9247e",
         "news:3f049ac6e932ebd27ca5e7e2",
+        "news:44284b0e1ed23c8351ea193b",
         "news:49048d9f1fb646fb7bebf8e0",
         "news:5a35a11f40883efc2deda1c3",
         "news:5b58c75e540f50514f533d8b",
@@ -245,6 +248,7 @@
         "news:33b14f67af587bf24658a11a",
         "news:3ee980249f53a8fa31d9247e",
         "news:3f049ac6e932ebd27ca5e7e2",
+        "news:44284b0e1ed23c8351ea193b",
         "news:49048d9f1fb646fb7bebf8e0",
         "news:5a35a11f40883efc2deda1c3",
         "news:5b58c75e540f50514f533d8b",
@@ -1181,6 +1185,7 @@
     "00-0033873": {
       "event_ids": [
         "news:21365f16b4e003b9ab47afca",
+        "news:44284b0e1ed23c8351ea193b",
         "news:7e7f3bd3dbfc76cbc2b937b8",
         "news:c932d569c3b08a0e4d12019c"
       ],
@@ -1189,6 +1194,7 @@
       "nflverse_id": "00-0033873",
       "primary_event_ids": [
         "news:21365f16b4e003b9ab47afca",
+        "news:44284b0e1ed23c8351ea193b",
         "news:7e7f3bd3dbfc76cbc2b937b8",
         "news:c932d569c3b08a0e4d12019c"
       ],
@@ -3422,6 +3428,18 @@
         "news:a1b1077de91a3dee0f0c9a2c"
       ],
       "related_event_ids": []
+    },
+    "00-0036945": {
+      "event_ids": [
+        "news:44284b0e1ed23c8351ea193b"
+      ],
+      "name": "Justin Fields",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0036945",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:44284b0e1ed23c8351ea193b"
+      ]
     },
     "00-0036963": {
       "event_ids": [
@@ -8927,6 +8945,18 @@
         "news:8d86f027438a359736c9ada0",
         "news:a07e75b5a85d0035430cf6ad",
         "news:e41309749591b36db148513d"
+      ]
+    },
+    "00-0041026": {
+      "event_ids": [
+        "news:44284b0e1ed23c8351ea193b"
+      ],
+      "name": "David Bailey",
+      "nfl_team": "NYJ",
+      "nflverse_id": "00-0041026",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:44284b0e1ed23c8351ea193b"
       ]
     },
     "00-0041027": {
