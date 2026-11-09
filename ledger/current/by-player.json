@@ -3027,6 +3027,18 @@
         "news:edcc6e97cc2d3e76efb28f60"
       ]
     },
+    "00-0036415": {
+      "event_ids": [
+        "news:348f6c1166ff3c768c54d609"
+      ],
+      "name": "Van Jefferson",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0036415",
+      "primary_event_ids": [
+        "news:348f6c1166ff3c768c54d609"
+      ],
+      "related_event_ids": []
+    },
     "00-0036418": {
       "event_ids": [
         "news:9e65e49a5297f21db4bc8217"
