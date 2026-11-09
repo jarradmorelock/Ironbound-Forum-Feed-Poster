@@ -742,6 +742,7 @@
         "news:ab8cdf43b311cbcdbfe6d74a",
         "news:b3f2e0cfb9398aaf9a813154",
         "news:bb80700d7240c9391b0b35de",
+        "news:bc80943a23b2022ff233ded4",
         "news:cb54c29e7a6316b028ee327e",
         "news:d307a1b1b0372233bafbc380",
         "news:e12892a87f9c84cf5b6fcbf6",
@@ -778,6 +779,7 @@
         "news:ab8cdf43b311cbcdbfe6d74a",
         "news:b3f2e0cfb9398aaf9a813154",
         "news:bb80700d7240c9391b0b35de",
+        "news:bc80943a23b2022ff233ded4",
         "news:cb54c29e7a6316b028ee327e",
         "news:d307a1b1b0372233bafbc380",
         "news:e12892a87f9c84cf5b6fcbf6",
@@ -2636,6 +2638,7 @@
         "news:4874a1bee65888671372d44b",
         "news:4c25ef588374d6e7b428df17",
         "news:7424e31b354ddaa5d2e91e74",
+        "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:c935723d18fc114b33f4716e"
       ],
@@ -2648,6 +2651,7 @@
         "news:4874a1bee65888671372d44b",
         "news:4c25ef588374d6e7b428df17",
         "news:7424e31b354ddaa5d2e91e74",
+        "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:c935723d18fc114b33f4716e"
       ],
@@ -4135,6 +4139,7 @@
       "event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
         "news:ac7e41d3cbdc08610ce8fce3",
+        "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:c935723d18fc114b33f4716e",
         "news:e090dd3e374a879595578cf3",
@@ -4147,6 +4152,7 @@
       "related_event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
         "news:ac7e41d3cbdc08610ce8fce3",
+        "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:c935723d18fc114b33f4716e",
         "news:e090dd3e374a879595578cf3",
@@ -9575,6 +9581,7 @@
     },
     "00-0041125": {
       "event_ids": [
+        "news:bc80943a23b2022ff233ded4",
         "news:c935723d18fc114b33f4716e"
       ],
       "name": "Seth McGowan",
@@ -9582,6 +9589,7 @@
       "nflverse_id": "00-0041125",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:bc80943a23b2022ff233ded4",
         "news:c935723d18fc114b33f4716e"
       ]
     },
