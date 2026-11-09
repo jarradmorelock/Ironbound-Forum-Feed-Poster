@@ -6450,6 +6450,7 @@
         "news:ce8f2fdd75f4e147bc459a66",
         "news:ceb52b707132734d5d90f661",
         "news:cf60a0a4c3fd8f564108f112",
+        "news:d23c6c68650a00383c4d67dc",
         "news:d7ab48d8bdae70a90ff03499",
         "news:d8b6331c93cfd902c116075b",
         "news:dcf317127a4ab3d31a017b1a",
@@ -6509,6 +6510,7 @@
         "news:ce8f2fdd75f4e147bc459a66",
         "news:ceb52b707132734d5d90f661",
         "news:cf60a0a4c3fd8f564108f112",
+        "news:d23c6c68650a00383c4d67dc",
         "news:d7ab48d8bdae70a90ff03499",
         "news:d8b6331c93cfd902c116075b",
         "news:dcf317127a4ab3d31a017b1a",
@@ -7601,7 +7603,8 @@
         "news:8354d59a411a6665e71f4f5b",
         "news:8d56f938536ea89fcdd3df69",
         "news:9313fe0fe29ef943dc92427f",
-        "news:c5c9df569a08e02b41aefa7a"
+        "news:c5c9df569a08e02b41aefa7a",
+        "news:d23c6c68650a00383c4d67dc"
       ],
       "name": "Caleb Williams",
       "nfl_team": "CHI",
@@ -7616,7 +7619,8 @@
         "news:8354d59a411a6665e71f4f5b",
         "news:8d56f938536ea89fcdd3df69",
         "news:9313fe0fe29ef943dc92427f",
-        "news:c5c9df569a08e02b41aefa7a"
+        "news:c5c9df569a08e02b41aefa7a",
+        "news:d23c6c68650a00383c4d67dc"
       ],
       "related_event_ids": [
         "news:058bb5fae341293acc150b06"
