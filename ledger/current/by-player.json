@@ -1173,12 +1173,15 @@
         "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
         "news:17905655664514b19ca5674e",
+        "news:d2330fcad3b0d124ab50a03e",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
       "name": "Austin Ekeler",
       "nfl_team": "WAS",
       "nflverse_id": "00-0033699",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:d2330fcad3b0d124ab50a03e"
+      ],
       "related_event_ids": [
         "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
