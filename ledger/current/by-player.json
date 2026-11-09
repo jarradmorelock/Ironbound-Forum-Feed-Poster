@@ -6394,6 +6394,7 @@
     "00-0039344": {
       "event_ids": [
         "news:5c5a85385b6aaf44dac6fa8c",
+        "news:a3a0407f3be305cace0ed5cb",
         "news:e3b93b0ea68fb9497fb8d200"
       ],
       "name": "Jonathon Brooks",
@@ -6401,6 +6402,7 @@
       "nflverse_id": "00-0039344",
       "primary_event_ids": [
         "news:5c5a85385b6aaf44dac6fa8c",
+        "news:a3a0407f3be305cace0ed5cb",
         "news:e3b93b0ea68fb9497fb8d200"
       ],
       "related_event_ids": []
