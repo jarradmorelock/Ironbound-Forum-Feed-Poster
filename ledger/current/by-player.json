@@ -6911,6 +6911,7 @@
         "news:1977b81cef5fddabb38ef3f2",
         "news:1a30d471e2de5e85169bd1d7",
         "news:1aa92babf2af0c3446f67e4d",
+        "news:1b35cdc1d7d2f6e8b59d14c2",
         "news:1c447870c8cbc3dc21381426",
         "news:1cc455f8863b09a6e2d086b1",
         "news:206b4f9337a4e959df9f3783",
@@ -7035,6 +7036,7 @@
         "news:1977b81cef5fddabb38ef3f2",
         "news:1a30d471e2de5e85169bd1d7",
         "news:1aa92babf2af0c3446f67e4d",
+        "news:1b35cdc1d7d2f6e8b59d14c2",
         "news:1c447870c8cbc3dc21381426",
         "news:1cc455f8863b09a6e2d086b1",
         "news:206b4f9337a4e959df9f3783",
@@ -9938,6 +9940,7 @@
     },
     "00-0041512": {
       "event_ids": [
+        "news:1b35cdc1d7d2f6e8b59d14c2",
         "news:1e59c05906d4fba738821c9e",
         "news:442ef4eaae94fdc00fcbc6a1",
         "news:4acc5f305ba5b097d6d4da34",
@@ -9952,6 +9955,7 @@
       "nfl_team": "SEA",
       "nflverse_id": "00-0041512",
       "primary_event_ids": [
+        "news:1b35cdc1d7d2f6e8b59d14c2",
         "news:1e59c05906d4fba738821c9e",
         "news:442ef4eaae94fdc00fcbc6a1",
         "news:4acc5f305ba5b097d6d4da34",
