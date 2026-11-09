@@ -2061,6 +2061,7 @@
     },
     "00-0035289": {
       "event_ids": [
+        "news:13423a940648c31a1ec0b9fd",
         "news:aa3c293704e79143d28d6006",
         "news:ba7d5066dbd7695a7b26b311",
         "news:ccea94471cd7f7df6f700320",
@@ -2071,6 +2072,7 @@
       "nfl_team": "ARI",
       "nflverse_id": "00-0035289",
       "primary_event_ids": [
+        "news:13423a940648c31a1ec0b9fd",
         "news:aa3c293704e79143d28d6006"
       ],
       "related_event_ids": [
