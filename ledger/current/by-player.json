@@ -5374,6 +5374,7 @@
         "news:7943055159e1ad23f6c8a74a",
         "news:8aa5bb784751431617a76083",
         "news:8c80c3c8b7d563afcf71c52b",
+        "news:bfb1f5c636dad88eb8197c89",
         "news:d19d735f7ed1849b94fbf903",
         "news:f578056da7a35ecc5c91839e"
       ],
@@ -5381,6 +5382,7 @@
       "nfl_team": "NE",
       "nflverse_id": "00-0038621",
       "primary_event_ids": [
+        "news:bfb1f5c636dad88eb8197c89",
         "news:d19d735f7ed1849b94fbf903"
       ],
       "related_event_ids": [
