@@ -5318,6 +5318,18 @@
         "news:f41fbd7e98f23b904a40ddd2"
       ]
     },
+    "00-0038608": {
+      "event_ids": [
+        "news:f0d890b142950085e33607d3"
+      ],
+      "name": "Kayshon Boutte",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0038608",
+      "primary_event_ids": [
+        "news:f0d890b142950085e33607d3"
+      ],
+      "related_event_ids": []
+    },
     "00-0038611": {
       "event_ids": [
         "news:1977b81cef5fddabb38ef3f2",
