@@ -2417,6 +2417,7 @@
         "news:278e6b2e26a4c0d99ae0a009",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:79b8d372d2edc792249379f7",
+        "news:84caab201fe7e7a5274c010d",
         "news:9430870e9a2c9f307feccdd5",
         "news:a2fa5e03bedd4193180f2463",
         "news:d6db9404987194ab355f5b04",
@@ -2434,6 +2435,7 @@
         "news:278e6b2e26a4c0d99ae0a009",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:79b8d372d2edc792249379f7",
+        "news:84caab201fe7e7a5274c010d",
         "news:a2fa5e03bedd4193180f2463"
       ]
     },
@@ -6973,12 +6975,15 @@
     },
     "00-0039793": {
       "event_ids": [
+        "news:84caab201fe7e7a5274c010d",
         "news:9430870e9a2c9f307feccdd5"
       ],
       "name": "AJ Barner",
       "nfl_team": "SEA",
       "nflverse_id": "00-0039793",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:84caab201fe7e7a5274c010d"
+      ],
       "related_event_ids": [
         "news:9430870e9a2c9f307feccdd5"
       ]
