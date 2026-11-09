@@ -518,6 +518,7 @@
         "news:0be066d0322c1c4e569b2f60",
         "news:27e4b099e012785fc6d7a517",
         "news:37df5f5ac2d61d6130900c62",
+        "news:3bc51ab6efac3d2572b86e63",
         "news:7500647429fe62ee92cd2bb7",
         "news:d573fd29419a4595a79fe5b4",
         "news:f28516b7018e19a46293acad"
@@ -533,6 +534,7 @@
       "related_event_ids": [
         "news:0be066d0322c1c4e569b2f60",
         "news:37df5f5ac2d61d6130900c62",
+        "news:3bc51ab6efac3d2572b86e63",
         "news:7500647429fe62ee92cd2bb7"
       ]
     },
@@ -4455,6 +4457,7 @@
         "news:2a359f50bef122df69bffef6",
         "news:2f190019b4651bab297f196c",
         "news:37e02e92c6ca16fb937017bc",
+        "news:3bc51ab6efac3d2572b86e63",
         "news:4663ba36d2455ae5cd0ef638",
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
@@ -4484,6 +4487,7 @@
       "nfl_team": "NYG",
       "nflverse_id": "00-0037838",
       "primary_event_ids": [
+        "news:3bc51ab6efac3d2572b86e63",
         "news:db3e642a6c70f2809524a2c0",
         "news:e25fc6fe0048b0523bbcd494"
       ],
@@ -6205,6 +6209,7 @@
         "news:0a357e79942a2a6029cbdd2c",
         "news:0be066d0322c1c4e569b2f60",
         "news:38b9b6d3def68d9787da37ba",
+        "news:3bc51ab6efac3d2572b86e63",
         "news:53246160a60085bc643d5475",
         "news:58b14ce1a255b696f7a608b1",
         "news:714e38ffa56d0638fca8e1c6",
@@ -6226,7 +6231,8 @@
         "news:fb2deb9af52a89e8ab226d11"
       ],
       "related_event_ids": [
-        "news:0be066d0322c1c4e569b2f60"
+        "news:0be066d0322c1c4e569b2f60",
+        "news:3bc51ab6efac3d2572b86e63"
       ]
     },
     "00-0039338": {
@@ -7554,6 +7560,7 @@
         "news:0be066d0322c1c4e569b2f60",
         "news:1dc67573a4a23d3f17adbc09",
         "news:37df5f5ac2d61d6130900c62",
+        "news:3bc51ab6efac3d2572b86e63",
         "news:7500647429fe62ee92cd2bb7",
         "news:763439aaadfe38a0d21ab332",
         "news:97f1d0f9e0ce3f01ef3d9a6e",
@@ -7571,6 +7578,7 @@
         "news:97f1d0f9e0ce3f01ef3d9a6e"
       ],
       "related_event_ids": [
+        "news:3bc51ab6efac3d2572b86e63",
         "news:763439aaadfe38a0d21ab332",
         "news:e528f25814b3c5542b10d122",
         "news:f28516b7018e19a46293acad"
