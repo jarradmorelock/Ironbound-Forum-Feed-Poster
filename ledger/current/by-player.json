@@ -3475,6 +3475,7 @@
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:9b95f4f13afa501db06b4b02",
+        "news:a5170c5864dea718adc86fc4",
         "news:c9a77856d3d382d0988ad751",
         "news:d9dbcc99d2dacdfdb1216a02",
         "news:e8b9c46b6f7c20665052ca43",
@@ -3511,6 +3512,7 @@
         "news:536395cc5c2f30b9af7087fd",
         "news:7dd859216b3bba49d57c92ab",
         "news:9b95f4f13afa501db06b4b02",
+        "news:a5170c5864dea718adc86fc4",
         "news:c9a77856d3d382d0988ad751",
         "news:fa98c3a4d37de2dc41931a57",
         "news:fac0c1ec37a88fbbd9c5500c"
@@ -4943,6 +4945,7 @@
         "news:75c729e2909b2695469c436d",
         "news:8e4f11b0abbff97f7d999bfb",
         "news:9b95f4f13afa501db06b4b02",
+        "news:a5170c5864dea718adc86fc4",
         "news:bf31d29f06b16efd793b4920",
         "news:c9a77856d3d382d0988ad751",
         "news:d9dbcc99d2dacdfdb1216a02",
@@ -4968,6 +4971,7 @@
         "news:64154dc95e33a4c602675a2d",
         "news:75c729e2909b2695469c436d",
         "news:9b95f4f13afa501db06b4b02",
+        "news:a5170c5864dea718adc86fc4",
         "news:c9a77856d3d382d0988ad751",
         "news:d9dbcc99d2dacdfdb1216a02",
         "news:e8b9c46b6f7c20665052ca43"
@@ -6644,7 +6648,8 @@
       "event_ids": [
         "news:51adea6fc5a54078c4320956",
         "news:5e09d78c7212d0337938b59f",
-        "news:7b117c7c1e057da5673f9e93"
+        "news:7b117c7c1e057da5673f9e93",
+        "news:a5170c5864dea718adc86fc4"
       ],
       "name": "Joe Milton III",
       "nfl_team": "PHI",
@@ -6654,7 +6659,9 @@
         "news:5e09d78c7212d0337938b59f",
         "news:7b117c7c1e057da5673f9e93"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:a5170c5864dea718adc86fc4"
+      ]
     },
     "00-0039405": {
       "event_ids": [
@@ -7095,6 +7102,7 @@
         "news:a334aaa5082249aad68f8760",
         "news:a39764b6f03e4b5cdcc3ccb3",
         "news:a494b59eb7aafdf48c752702",
+        "news:a5170c5864dea718adc86fc4",
         "news:a7b1b55a415e283360ad2b5f",
         "news:aa53a7b5683715d09ac647be",
         "news:b00fe500928b6ba176035c17",
@@ -7225,6 +7233,7 @@
         "news:a334aaa5082249aad68f8760",
         "news:a39764b6f03e4b5cdcc3ccb3",
         "news:a494b59eb7aafdf48c752702",
+        "news:a5170c5864dea718adc86fc4",
         "news:a7b1b55a415e283360ad2b5f",
         "news:aa53a7b5683715d09ac647be",
         "news:b00fe500928b6ba176035c17",
@@ -7703,6 +7712,7 @@
         "news:4216eeb422639790f5e7e748",
         "news:5c9d6f1da561a0376369bec7",
         "news:75c729e2909b2695469c436d",
+        "news:a5170c5864dea718adc86fc4",
         "news:c9e38a1e6bb17df529d73207",
         "news:d9dbcc99d2dacdfdb1216a02",
         "news:e8b9c46b6f7c20665052ca43",
@@ -7721,6 +7731,7 @@
         "news:4216eeb422639790f5e7e748",
         "news:5c9d6f1da561a0376369bec7",
         "news:75c729e2909b2695469c436d",
+        "news:a5170c5864dea718adc86fc4",
         "news:d9dbcc99d2dacdfdb1216a02",
         "news:e8b9c46b6f7c20665052ca43",
         "news:fa98c3a4d37de2dc41931a57",
@@ -9218,6 +9229,7 @@
         "news:5c9d6f1da561a0376369bec7",
         "news:75c729e2909b2695469c436d",
         "news:962ec5d6fb79c98b21adba3a",
+        "news:a5170c5864dea718adc86fc4",
         "news:c9a77856d3d382d0988ad751",
         "news:d9dbcc99d2dacdfdb1216a02",
         "news:e8b9c46b6f7c20665052ca43",
@@ -9231,6 +9243,7 @@
         "news:49951f62639582588c9f44ff",
         "news:4e9d9031ae5c8e7ac6c7abcb",
         "news:962ec5d6fb79c98b21adba3a",
+        "news:a5170c5864dea718adc86fc4",
         "news:c9a77856d3d382d0988ad751"
       ],
       "related_event_ids": [
@@ -9834,6 +9847,7 @@
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:9b95f4f13afa501db06b4b02",
+        "news:a5170c5864dea718adc86fc4",
         "news:c9a77856d3d382d0988ad751",
         "news:d9dbcc99d2dacdfdb1216a02",
         "news:e8b9c46b6f7c20665052ca43",
@@ -9865,6 +9879,7 @@
         "news:75c729e2909b2695469c436d",
         "news:7dd859216b3bba49d57c92ab",
         "news:9b95f4f13afa501db06b4b02",
+        "news:a5170c5864dea718adc86fc4",
         "news:c9a77856d3d382d0988ad751",
         "news:d9dbcc99d2dacdfdb1216a02",
         "news:e8b9c46b6f7c20665052ca43",
