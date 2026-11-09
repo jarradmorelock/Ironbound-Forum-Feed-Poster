@@ -64,7 +64,8 @@
         "news:322740cd8ad79ba067ae6dea",
         "news:539f223c83c7e1e635bf5698",
         "news:d9dbcc99d2dacdfdb1216a02",
-        "news:e2702b9ea8cf1291d0b42039"
+        "news:e2702b9ea8cf1291d0b42039",
+        "news:f395071e7cb09c106972cb76"
       ],
       "name": "Lawrence Guy",
       "nfl_team": "CIN",
@@ -76,7 +77,8 @@
         "news:322740cd8ad79ba067ae6dea",
         "news:539f223c83c7e1e635bf5698",
         "news:d9dbcc99d2dacdfdb1216a02",
-        "news:e2702b9ea8cf1291d0b42039"
+        "news:e2702b9ea8cf1291d0b42039",
+        "news:f395071e7cb09c106972cb76"
       ]
     },
     "00-0028986": {
@@ -1803,6 +1805,7 @@
         "news:50299468aa0ba0c31e5e489c",
         "news:79b8d372d2edc792249379f7",
         "news:a2fa5e03bedd4193180f2463",
+        "news:f395071e7cb09c106972cb76",
         "news:f5777dd0e586af8b82152599"
       ],
       "name": "Sam Darnold",
@@ -1817,7 +1820,8 @@
         "news:f5777dd0e586af8b82152599"
       ],
       "related_event_ids": [
-        "news:1cc455f8863b09a6e2d086b1"
+        "news:1cc455f8863b09a6e2d086b1",
+        "news:f395071e7cb09c106972cb76"
       ]
     },
     "00-0034960": {
@@ -2345,13 +2349,15 @@
         "news:64b0b8be152ab1fea5afb0a2",
         "news:79b8d372d2edc792249379f7",
         "news:a2fa5e03bedd4193180f2463",
-        "news:d6db9404987194ab355f5b04"
+        "news:d6db9404987194ab355f5b04",
+        "news:f395071e7cb09c106972cb76"
       ],
       "name": "Drew Lock",
       "nfl_team": "SEA",
       "nflverse_id": "00-0035704",
       "primary_event_ids": [
-        "news:d6db9404987194ab355f5b04"
+        "news:d6db9404987194ab355f5b04",
+        "news:f395071e7cb09c106972cb76"
       ],
       "related_event_ids": [
         "news:278e6b2e26a4c0d99ae0a009",
@@ -6069,7 +6075,8 @@
         "news:79b8d372d2edc792249379f7",
         "news:7a110410b9058fa2e27ed661",
         "news:9c3ccaab151d5df3e227380f",
-        "news:a2fa5e03bedd4193180f2463"
+        "news:a2fa5e03bedd4193180f2463",
+        "news:f395071e7cb09c106972cb76"
       ],
       "name": "Andre' Sam",
       "nfl_team": "PHI",
@@ -6084,7 +6091,8 @@
         "news:79b8d372d2edc792249379f7",
         "news:7a110410b9058fa2e27ed661",
         "news:9c3ccaab151d5df3e227380f",
-        "news:a2fa5e03bedd4193180f2463"
+        "news:a2fa5e03bedd4193180f2463",
+        "news:f395071e7cb09c106972cb76"
       ]
     },
     "00-0039299": {
@@ -8519,6 +8527,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:12bcc6dda921cf348152a193"
+      ]
+    },
+    "00-0040673": {
+      "event_ids": [
+        "news:f395071e7cb09c106972cb76"
+      ],
+      "name": "Jalen Milroe",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0040673",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f395071e7cb09c106972cb76"
       ]
     },
     "00-0040676": {
