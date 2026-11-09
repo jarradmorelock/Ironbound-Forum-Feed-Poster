@@ -2771,6 +2771,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0036265": {
+      "event_ids": [
+        "news:8fda59ea86ac425566a35b93"
+      ],
+      "name": "AJ Dillon",
+      "nfl_team": "CAR",
+      "nflverse_id": "00-0036265",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:8fda59ea86ac425566a35b93"
+      ]
+    },
     "00-0036275": {
       "event_ids": [
         "news:2be2dcb15dafc9c0499df221",
@@ -3167,7 +3179,8 @@
         "news:1de429e205d2b92520f5c6dd",
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:30712850611f1ae1035deb38",
-        "news:5367a61960458cf0508627ea"
+        "news:5367a61960458cf0508627ea",
+        "news:8fda59ea86ac425566a35b93"
       ],
       "name": "Chuba Hubbard",
       "nfl_team": "CAR",
@@ -3176,7 +3189,8 @@
         "news:1de429e205d2b92520f5c6dd",
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:30712850611f1ae1035deb38",
-        "news:5367a61960458cf0508627ea"
+        "news:5367a61960458cf0508627ea",
+        "news:8fda59ea86ac425566a35b93"
       ],
       "related_event_ids": []
     },
@@ -8555,7 +8569,8 @@
     "00-0040644": {
       "event_ids": [
         "news:1de429e205d2b92520f5c6dd",
-        "news:30712850611f1ae1035deb38"
+        "news:30712850611f1ae1035deb38",
+        "news:8fda59ea86ac425566a35b93"
       ],
       "name": "Trevor Etienne",
       "nfl_team": "CAR",
@@ -8563,7 +8578,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:1de429e205d2b92520f5c6dd",
-        "news:30712850611f1ae1035deb38"
+        "news:30712850611f1ae1035deb38",
+        "news:8fda59ea86ac425566a35b93"
       ]
     },
     "00-0040648": {
