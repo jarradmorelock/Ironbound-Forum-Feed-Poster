@@ -1989,6 +1989,7 @@
       "event_ids": [
         "news:025182746c0db01c3df65d23",
         "news:050a8a38d8d97c3a9e29d2e3",
+        "news:4bc8684eeb60bdcfe2a37890",
         "news:65a0aba312b6e5e595e1a067",
         "news:668b4697efad844d60f829cf",
         "news:854945f444ef1d40c599fdf0",
@@ -2003,6 +2004,7 @@
       "nflverse_id": "00-0035250",
       "primary_event_ids": [
         "news:025182746c0db01c3df65d23",
+        "news:4bc8684eeb60bdcfe2a37890",
         "news:9d197bb4c15917cabe5abf41"
       ],
       "related_event_ids": [
@@ -2791,6 +2793,7 @@
     },
     "00-0036309": {
       "event_ids": [
+        "news:4bc8684eeb60bdcfe2a37890",
         "news:e66204750d3e868e226ee6d0"
       ],
       "name": "Darnell Mooney",
@@ -2799,7 +2802,9 @@
       "primary_event_ids": [
         "news:e66204750d3e868e226ee6d0"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:4bc8684eeb60bdcfe2a37890"
+      ]
     },
     "00-0036322": {
       "event_ids": [
@@ -6948,6 +6953,7 @@
         "news:3ff74b402112c29508d75cf7",
         "news:4216eeb422639790f5e7e748",
         "news:4842cedec233a1ee1c2771bb",
+        "news:4bc8684eeb60bdcfe2a37890",
         "news:4de7b483ed967484671f85f3",
         "news:4e279ea65b9630a86016748f",
         "news:4fd9cf01a31cff8269afbc22",
@@ -7074,6 +7080,7 @@
         "news:3ff74b402112c29508d75cf7",
         "news:4216eeb422639790f5e7e748",
         "news:4842cedec233a1ee1c2771bb",
+        "news:4bc8684eeb60bdcfe2a37890",
         "news:4de7b483ed967484671f85f3",
         "news:4e279ea65b9630a86016748f",
         "news:4fd9cf01a31cff8269afbc22",
@@ -9396,6 +9403,18 @@
       "related_event_ids": [
         "news:52128213dbb39a944ce47ede",
         "news:f809c90b8f96700e2f8cffe8"
+      ]
+    },
+    "00-0041042": {
+      "event_ids": [
+        "news:4bc8684eeb60bdcfe2a37890"
+      ],
+      "name": "Malachi Fields",
+      "nfl_team": "NYG",
+      "nflverse_id": "00-0041042",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:4bc8684eeb60bdcfe2a37890"
       ]
     },
     "00-0041044": {
