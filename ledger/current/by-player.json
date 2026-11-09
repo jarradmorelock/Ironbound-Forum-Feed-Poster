@@ -1193,6 +1193,18 @@
         "news:b1e8a38de049a328620a52be"
       ]
     },
+    "00-0033858": {
+      "event_ids": [
+        "news:9b9de5975b14a32001dc12d4"
+      ],
+      "name": "Jonnu Smith",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0033858",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9b9de5975b14a32001dc12d4"
+      ]
+    },
     "00-0033868": {
       "event_ids": [
         "news:2b4f72031392950dcb358809",
@@ -5718,6 +5730,7 @@
         "news:31eafbec59bd8a2c71c2cb7e",
         "news:3bbca9a1b36ea92945f1d796",
         "news:5a88184cb8543a790d0f4bf4",
+        "news:9b9de5975b14a32001dc12d4",
         "news:f8e8e3976cdd0847a661fe4e"
       ],
       "name": "Tucker Kraft",
@@ -5727,6 +5740,7 @@
         "news:31eafbec59bd8a2c71c2cb7e",
         "news:3bbca9a1b36ea92945f1d796",
         "news:5a88184cb8543a790d0f4bf4",
+        "news:9b9de5975b14a32001dc12d4",
         "news:f8e8e3976cdd0847a661fe4e"
       ],
       "related_event_ids": []
@@ -8491,6 +8505,18 @@
         "news:a8f49316ff9fdc834e34986c"
       ]
     },
+    "00-0040598": {
+      "event_ids": [
+        "news:9b9de5975b14a32001dc12d4"
+      ],
+      "name": "Mark Redman",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0040598",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9b9de5975b14a32001dc12d4"
+      ]
+    },
     "00-0040611": {
       "event_ids": [
         "news:168b56f3260a44995e74a30d",
@@ -8594,6 +8620,7 @@
         "news:3f049ac6e932ebd27ca5e7e2",
         "news:488e94c6339513cbf7fe6e5c",
         "news:5a51cb802807127f1932f83b",
+        "news:9b9de5975b14a32001dc12d4",
         "news:dba3a5186d9a80c93511ffdd",
         "news:f03e74498d869f85e3951bf5",
         "news:f6c404682538b81e411c3191"
@@ -8613,7 +8640,9 @@
         "news:f03e74498d869f85e3951bf5",
         "news:f6c404682538b81e411c3191"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:9b9de5975b14a32001dc12d4"
+      ]
     },
     "00-0040668": {
       "event_ids": [
