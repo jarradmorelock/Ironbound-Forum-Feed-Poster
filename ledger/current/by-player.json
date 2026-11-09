@@ -6188,6 +6188,7 @@
         "news:7e8711ab7f56237e1fe96487",
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b",
+        "news:dc3c2c2523291b4e313c7c99",
         "news:e842cc673f0673d3fdf66bae",
         "news:ea3f899019fafb2ba32b8843",
         "news:f7b47abf4dbbd785c3c41bf4"
@@ -6201,6 +6202,7 @@
         "news:757102e0541f7c9f38c2b05f",
         "news:7e8711ab7f56237e1fe96487",
         "news:80007ef73885136616e6356f",
+        "news:dc3c2c2523291b4e313c7c99",
         "news:e842cc673f0673d3fdf66bae",
         "news:ea3f899019fafb2ba32b8843",
         "news:f7b47abf4dbbd785c3c41bf4"
@@ -10231,6 +10233,7 @@
         "news:9b6ca5b0c11b34e5e59220db",
         "news:d54619e249e1073482a4c77b",
         "news:d7b4005ee2803b39b1aead49",
+        "news:dc3c2c2523291b4e313c7c99",
         "news:e3e44cc5f1af0a74c63da1dc"
       ],
       "name": "Jadarian Price",
@@ -10248,7 +10251,8 @@
       "related_event_ids": [
         "news:80007ef73885136616e6356f",
         "news:d54619e249e1073482a4c77b",
-        "news:d7b4005ee2803b39b1aead49"
+        "news:d7b4005ee2803b39b1aead49",
+        "news:dc3c2c2523291b4e313c7c99"
       ]
     },
     "00-0041523": {
