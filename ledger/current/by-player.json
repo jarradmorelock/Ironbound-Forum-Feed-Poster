@@ -213,6 +213,7 @@
       "event_ids": [
         "news:0547b66729af0d9d59a7ec08",
         "news:074d2c36e2cb4d4889b22677",
+        "news:1442fdda41eca1c16c06fc3d",
         "news:167e4084e2ee9adca6ab8874",
         "news:28b7361c13bd494daded084d",
         "news:29ae953892ce9de6f582aaca",
@@ -254,6 +255,7 @@
       "related_event_ids": [
         "news:0547b66729af0d9d59a7ec08",
         "news:074d2c36e2cb4d4889b22677",
+        "news:1442fdda41eca1c16c06fc3d",
         "news:167e4084e2ee9adca6ab8874",
         "news:28b7361c13bd494daded084d",
         "news:29ae953892ce9de6f582aaca",
@@ -2810,6 +2812,7 @@
     },
     "00-0036355": {
       "event_ids": [
+        "news:1442fdda41eca1c16c06fc3d",
         "news:50299468aa0ba0c31e5e489c",
         "news:5ba8ebf69f4bead029eb2f01",
         "news:70bf5e9aab77f85357ce7fac",
@@ -2822,6 +2825,7 @@
       "nfl_team": "LAC",
       "nflverse_id": "00-0036355",
       "primary_event_ids": [
+        "news:1442fdda41eca1c16c06fc3d",
         "news:5ba8ebf69f4bead029eb2f01",
         "news:70bf5e9aab77f85357ce7fac",
         "news:c5d6f2c7a19e60c1480eee6c",
@@ -5020,6 +5024,7 @@
     },
     "00-0038544": {
       "event_ids": [
+        "news:1442fdda41eca1c16c06fc3d",
         "news:759dac8b62bec249b282836e",
         "news:7fa453d2ef249eed23b9399e",
         "news:88f7c86eb3aec9c75aeeb1c0",
@@ -5035,6 +5040,7 @@
         "news:a6b64c57797babbb8ad5ee7d"
       ],
       "related_event_ids": [
+        "news:1442fdda41eca1c16c06fc3d",
         "news:7fa453d2ef249eed23b9399e",
         "news:88f7c86eb3aec9c75aeeb1c0",
         "news:ecb4e677e80dc4d94a534a62",
@@ -8174,6 +8180,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:a1b1077de91a3dee0f0c9a2c"
+      ]
+    },
+    "00-0040464": {
+      "event_ids": [
+        "news:1442fdda41eca1c16c06fc3d"
+      ],
+      "name": "DJ Uiagalelei",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0040464",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:1442fdda41eca1c16c06fc3d"
       ]
     },
     "00-0040466": {
