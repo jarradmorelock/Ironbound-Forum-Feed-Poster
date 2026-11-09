@@ -5000,6 +5000,7 @@
     "00-0038400": {
       "event_ids": [
         "news:4ef5c77f9830f2656c79cc32",
+        "news:51adea6fc5a54078c4320956",
         "news:539f223c83c7e1e635bf5698",
         "news:78d44510f6398460ffda354e",
         "news:7b117c7c1e057da5673f9e93",
@@ -5017,6 +5018,7 @@
       ],
       "related_event_ids": [
         "news:4ef5c77f9830f2656c79cc32",
+        "news:51adea6fc5a54078c4320956",
         "news:539f223c83c7e1e635bf5698",
         "news:7b117c7c1e057da5673f9e93",
         "news:d9298aba647019266bcb6de0"
@@ -6640,6 +6642,7 @@
     },
     "00-0039398": {
       "event_ids": [
+        "news:51adea6fc5a54078c4320956",
         "news:5e09d78c7212d0337938b59f",
         "news:7b117c7c1e057da5673f9e93"
       ],
@@ -6647,6 +6650,7 @@
       "nfl_team": "PHI",
       "nflverse_id": "00-0039398",
       "primary_event_ids": [
+        "news:51adea6fc5a54078c4320956",
         "news:5e09d78c7212d0337938b59f",
         "news:7b117c7c1e057da5673f9e93"
       ],
