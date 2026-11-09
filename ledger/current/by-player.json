@@ -3678,13 +3678,15 @@
     },
     "00-0037120": {
       "event_ids": [
-        "news:265395d7673a4c5157ac7b43"
+        "news:265395d7673a4c5157ac7b43",
+        "news:d3853e92f2991532da9f71d5"
       ],
       "name": "Tyler Goodson",
       "nfl_team": "DAL",
       "nflverse_id": "00-0037120",
       "primary_event_ids": [
-        "news:265395d7673a4c5157ac7b43"
+        "news:265395d7673a4c5157ac7b43",
+        "news:d3853e92f2991532da9f71d5"
       ],
       "related_event_ids": []
     },
