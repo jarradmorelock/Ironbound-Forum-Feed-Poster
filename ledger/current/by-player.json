@@ -222,6 +222,7 @@
         "news:28b7361c13bd494daded084d",
         "news:29ae953892ce9de6f582aaca",
         "news:2bacdaaf8e1cbc9208f782d2",
+        "news:2ec4678a58c489157798989a",
         "news:33b14f67af587bf24658a11a",
         "news:3ee980249f53a8fa31d9247e",
         "news:3f049ac6e932ebd27ca5e7e2",
@@ -266,6 +267,7 @@
         "news:28b7361c13bd494daded084d",
         "news:29ae953892ce9de6f582aaca",
         "news:2bacdaaf8e1cbc9208f782d2",
+        "news:2ec4678a58c489157798989a",
         "news:33b14f67af587bf24658a11a",
         "news:3ee980249f53a8fa31d9247e",
         "news:3f049ac6e932ebd27ca5e7e2",
@@ -4461,12 +4463,14 @@
     },
     "00-0037809": {
       "event_ids": [
+        "news:2ec4678a58c489157798989a",
         "news:3330746cbd0f740ae557f0b8"
       ],
       "name": "Chig Okonkwo",
       "nfl_team": "WAS",
       "nflverse_id": "00-0037809",
       "primary_event_ids": [
+        "news:2ec4678a58c489157798989a",
         "news:3330746cbd0f740ae557f0b8"
       ],
       "related_event_ids": []
