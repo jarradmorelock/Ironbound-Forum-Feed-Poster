@@ -406,12 +406,14 @@
     },
     "00-0031235": {
       "event_ids": [
+        "news:2cb4d0734e3a6d4180d3c202",
         "news:af55d8f8727f260f6031e745"
       ],
       "name": "Odell Beckham Jr.",
       "nfl_team": "NYG",
       "nflverse_id": "00-0031235",
       "primary_event_ids": [
+        "news:2cb4d0734e3a6d4180d3c202",
         "news:af55d8f8727f260f6031e745"
       ],
       "related_event_ids": []
