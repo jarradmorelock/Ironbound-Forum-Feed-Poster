@@ -9087,6 +9087,7 @@
         "news:a01d37964bbb31eeb277a63a",
         "news:bc5cec98c39afb696910ebd0",
         "news:dd2c83f939b8dd92986bd909",
+        "news:deaf67d1d7cbe292e588f26f",
         "news:f809c90b8f96700e2f8cffe8"
       ],
       "name": "Tyler Shough",
@@ -9098,7 +9099,8 @@
         "news:2e8963cc000ebc9a50789f52",
         "news:a01d37964bbb31eeb277a63a",
         "news:bc5cec98c39afb696910ebd0",
-        "news:dd2c83f939b8dd92986bd909"
+        "news:dd2c83f939b8dd92986bd909",
+        "news:deaf67d1d7cbe292e588f26f"
       ],
       "related_event_ids": [
         "news:f809c90b8f96700e2f8cffe8"
@@ -9662,6 +9664,18 @@
         "news:ac348e7833a5f1cdbf04dd60"
       ],
       "related_event_ids": []
+    },
+    "00-0041099": {
+      "event_ids": [
+        "news:deaf67d1d7cbe292e588f26f"
+      ],
+      "name": "Barion Brown",
+      "nfl_team": "NO",
+      "nflverse_id": "00-0041099",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:deaf67d1d7cbe292e588f26f"
+      ]
     },
     "00-0041100": {
       "event_ids": [
