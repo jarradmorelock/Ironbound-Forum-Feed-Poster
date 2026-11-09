@@ -2415,6 +2415,7 @@
         "news:278e6b2e26a4c0d99ae0a009",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:79b8d372d2edc792249379f7",
+        "news:9430870e9a2c9f307feccdd5",
         "news:a2fa5e03bedd4193180f2463",
         "news:d6db9404987194ab355f5b04",
         "news:f395071e7cb09c106972cb76"
@@ -2423,6 +2424,7 @@
       "nfl_team": "SEA",
       "nflverse_id": "00-0035704",
       "primary_event_ids": [
+        "news:9430870e9a2c9f307feccdd5",
         "news:d6db9404987194ab355f5b04",
         "news:f395071e7cb09c106972cb76"
       ],
@@ -5168,6 +5170,7 @@
         "news:1cc455f8863b09a6e2d086b1",
         "news:4ef6ca358c7611c68ab0371a",
         "news:51259e47c73b594163845cea",
+        "news:9430870e9a2c9f307feccdd5",
         "news:b163e38af09821837028a2d6",
         "news:cce34793bb88de0f347eb037",
         "news:ec6ddb67de9521bc087d485c"
@@ -5184,7 +5187,9 @@
         "news:cce34793bb88de0f347eb037",
         "news:ec6ddb67de9521bc087d485c"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:9430870e9a2c9f307feccdd5"
+      ]
     },
     "00-0038544": {
       "event_ids": [
@@ -6958,6 +6963,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:1aa92babf2af0c3446f67e4d"
+      ]
+    },
+    "00-0039793": {
+      "event_ids": [
+        "news:9430870e9a2c9f307feccdd5"
+      ],
+      "name": "AJ Barner",
+      "nfl_team": "SEA",
+      "nflverse_id": "00-0039793",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:9430870e9a2c9f307feccdd5"
       ]
     },
     "00-0039794": {
