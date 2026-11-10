@@ -2215,6 +2215,18 @@
         "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
+    "00-0035632": {
+      "event_ids": [
+        "news:a59c09a842af497221ba2478"
+      ],
+      "name": "Amani Hooker",
+      "nfl_team": "TEN",
+      "nflverse_id": "00-0035632",
+      "primary_event_ids": [
+        "news:a59c09a842af497221ba2478"
+      ],
+      "related_event_ids": []
+    },
     "00-0035640": {
       "event_ids": [
         "news:014da0a09cd18c7b1c727590",
@@ -7256,6 +7268,7 @@
         "news:a39764b6f03e4b5cdcc3ccb3",
         "news:a494b59eb7aafdf48c752702",
         "news:a5170c5864dea718adc86fc4",
+        "news:a59c09a842af497221ba2478",
         "news:a7b1b55a415e283360ad2b5f",
         "news:aa53a7b5683715d09ac647be",
         "news:b00fe500928b6ba176035c17",
@@ -7391,6 +7404,7 @@
         "news:a39764b6f03e4b5cdcc3ccb3",
         "news:a494b59eb7aafdf48c752702",
         "news:a5170c5864dea718adc86fc4",
+        "news:a59c09a842af497221ba2478",
         "news:a7b1b55a415e283360ad2b5f",
         "news:aa53a7b5683715d09ac647be",
         "news:b00fe500928b6ba176035c17",
