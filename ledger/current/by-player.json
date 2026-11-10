@@ -3125,6 +3125,7 @@
         "news:b6f06797efaaa60e05315823",
         "news:cddc578ebf508d33b6e7af2f",
         "news:d0b67ad80d76f1dd27c3e776",
+        "news:d0e41825f8e1d00b191a7a42",
         "news:d16bd97eb7ba858a037438df",
         "news:d62b03ca13773a4f85a99fa3",
         "news:e2a7341774ab6f106f174459",
@@ -3158,6 +3159,7 @@
         "news:b6f06797efaaa60e05315823",
         "news:cddc578ebf508d33b6e7af2f",
         "news:d0b67ad80d76f1dd27c3e776",
+        "news:d0e41825f8e1d00b191a7a42",
         "news:d16bd97eb7ba858a037438df",
         "news:d62b03ca13773a4f85a99fa3",
         "news:e2a7341774ab6f106f174459",
@@ -4721,7 +4723,8 @@
         "news:a89f9fba8bb6bb42834666bc",
         "news:aff2e09b99d36cd8c910ddcc",
         "news:b6f06797efaaa60e05315823",
-        "news:ccbb6db373db266fc7a236c8"
+        "news:ccbb6db373db266fc7a236c8",
+        "news:d0e41825f8e1d00b191a7a42"
       ],
       "name": "Jake Ferguson",
       "nfl_team": "DAL",
@@ -4734,7 +4737,8 @@
         "news:a89f9fba8bb6bb42834666bc",
         "news:aff2e09b99d36cd8c910ddcc",
         "news:b6f06797efaaa60e05315823",
-        "news:ccbb6db373db266fc7a236c8"
+        "news:ccbb6db373db266fc7a236c8",
+        "news:d0e41825f8e1d00b191a7a42"
       ],
       "related_event_ids": [
         "news:5a014faee23e680dbc927577"
@@ -6876,7 +6880,8 @@
         "news:5a4df72198e643d6fd2b1395",
         "news:a257a6d95df19b4733af78b6",
         "news:aff2e09b99d36cd8c910ddcc",
-        "news:b6f06797efaaa60e05315823"
+        "news:b6f06797efaaa60e05315823",
+        "news:d0e41825f8e1d00b191a7a42"
       ],
       "name": "Brevyn Spann-Ford",
       "nfl_team": "DAL",
@@ -6887,7 +6892,8 @@
         "news:5a4df72198e643d6fd2b1395",
         "news:a257a6d95df19b4733af78b6",
         "news:aff2e09b99d36cd8c910ddcc",
-        "news:b6f06797efaaa60e05315823"
+        "news:b6f06797efaaa60e05315823",
+        "news:d0e41825f8e1d00b191a7a42"
       ]
     },
     "00-0039577": {
