@@ -1114,6 +1114,7 @@
     },
     "00-0033505": {
       "event_ids": [
+        "news:0d6fdad132811409af099b8a",
         "news:1424e16c6e03bb908413b725",
         "news:22547b2f90419acd100b2898",
         "news:3981e3d5a400199aa4d7aaa9",
@@ -1127,6 +1128,7 @@
       "nflverse_id": "00-0033505",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0d6fdad132811409af099b8a",
         "news:1424e16c6e03bb908413b725",
         "news:22547b2f90419acd100b2898",
         "news:3981e3d5a400199aa4d7aaa9",
@@ -5028,6 +5030,7 @@
     },
     "00-0038128": {
       "event_ids": [
+        "news:0d6fdad132811409af099b8a",
         "news:4246fb3b01c621901eb2f4d2",
         "news:4d3991d000eb595fbe2eff66",
         "news:6d0f439f922b7540bf6cad60",
@@ -5038,6 +5041,7 @@
       "nfl_team": "MIA",
       "nflverse_id": "00-0038128",
       "primary_event_ids": [
+        "news:0d6fdad132811409af099b8a",
         "news:4246fb3b01c621901eb2f4d2",
         "news:4d3991d000eb595fbe2eff66",
         "news:6d0f439f922b7540bf6cad60",
