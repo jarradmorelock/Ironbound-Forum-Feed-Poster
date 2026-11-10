@@ -4195,13 +4195,16 @@
     },
     "00-0037261": {
       "event_ids": [
+        "news:83207a6aa40194c3247d2854",
         "news:bf9a34aeebdaccc60f26f1f0",
         "news:fc4b3703e352b13408a2fdee"
       ],
       "name": "Khalil Shakir",
       "nfl_team": "BUF",
       "nflverse_id": "00-0037261",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:83207a6aa40194c3247d2854"
+      ],
       "related_event_ids": [
         "news:bf9a34aeebdaccc60f26f1f0",
         "news:fc4b3703e352b13408a2fdee"
@@ -7222,6 +7225,7 @@
         "news:7fa453d2ef249eed23b9399e",
         "news:8233edc43b0a760bf3e7fd24",
         "news:828e3d49c915b104a7d7663d",
+        "news:83207a6aa40194c3247d2854",
         "news:843ada56f66d94cd18c5ba41",
         "news:861af8d722f1e28b50664228",
         "news:88d2236120e657d740d949f4",
@@ -7356,6 +7360,7 @@
         "news:7fa453d2ef249eed23b9399e",
         "news:8233edc43b0a760bf3e7fd24",
         "news:828e3d49c915b104a7d7663d",
+        "news:83207a6aa40194c3247d2854",
         "news:843ada56f66d94cd18c5ba41",
         "news:861af8d722f1e28b50664228",
         "news:88d2236120e657d740d949f4",
