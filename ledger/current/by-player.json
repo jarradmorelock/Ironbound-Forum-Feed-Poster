@@ -3211,6 +3211,18 @@
         "news:f79f806f40724bb9e5a592ee"
       ]
     },
+    "00-0036428": {
+      "event_ids": [
+        "news:42fea96aec0ef8c40624ecca"
+      ],
+      "name": "Justin Strnad",
+      "nfl_team": "DEN",
+      "nflverse_id": "00-0036428",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:42fea96aec0ef8c40624ecca"
+      ]
+    },
     "00-0036442": {
       "event_ids": [
         "news:13504535435c71b17064196d",
@@ -4638,6 +4650,7 @@
         "news:37e02e92c6ca16fb937017bc",
         "news:3bc51ab6efac3d2572b86e63",
         "news:3f916341a0f8954e886dcfbf",
+        "news:42fea96aec0ef8c40624ecca",
         "news:4663ba36d2455ae5cd0ef638",
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
@@ -4682,6 +4695,7 @@
         "news:2f190019b4651bab297f196c",
         "news:37e02e92c6ca16fb937017bc",
         "news:3f916341a0f8954e886dcfbf",
+        "news:42fea96aec0ef8c40624ecca",
         "news:4663ba36d2455ae5cd0ef638",
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
@@ -5363,6 +5377,18 @@
       "related_event_ids": [
         "news:5901efaf2aa39c4da015df1b"
       ]
+    },
+    "00-0038553": {
+      "event_ids": [
+        "news:42fea96aec0ef8c40624ecca"
+      ],
+      "name": "Daiyan Henley",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0038553",
+      "primary_event_ids": [
+        "news:42fea96aec0ef8c40624ecca"
+      ],
+      "related_event_ids": []
     },
     "00-0038555": {
       "event_ids": [
