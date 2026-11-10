@@ -5044,7 +5044,8 @@
         "news:6d0f439f922b7540bf6cad60",
         "news:d3a8e6bc3263e656f695bbaf",
         "news:f55de1284e3ffa0b30067738",
-        "news:f850f80b541b98b00e6feffd"
+        "news:f850f80b541b98b00e6feffd",
+        "news:fc458321a7384c01df69c2ad"
       ],
       "name": "Malik Willis",
       "nfl_team": "MIA",
@@ -5058,7 +5059,8 @@
         "news:f55de1284e3ffa0b30067738"
       ],
       "related_event_ids": [
-        "news:f850f80b541b98b00e6feffd"
+        "news:f850f80b541b98b00e6feffd",
+        "news:fc458321a7384c01df69c2ad"
       ]
     },
     "00-0038134": {
@@ -7924,13 +7926,15 @@
     },
     "00-0040014": {
       "event_ids": [
-        "news:f850f80b541b98b00e6feffd"
+        "news:f850f80b541b98b00e6feffd",
+        "news:fc458321a7384c01df69c2ad"
       ],
       "name": "Kyle McCord",
       "nfl_team": "MIA",
       "nflverse_id": "00-0040014",
       "primary_event_ids": [
-        "news:f850f80b541b98b00e6feffd"
+        "news:f850f80b541b98b00e6feffd",
+        "news:fc458321a7384c01df69c2ad"
       ],
       "related_event_ids": []
     },
@@ -10029,7 +10033,8 @@
         "news:3219329299073c6b6d83c2c2",
         "news:67670716dd18eafea21589c3",
         "news:a0ec4ccbe8ef51b4a7e1201f",
-        "news:b888072c6bdf7d93f0e5384a"
+        "news:b888072c6bdf7d93f0e5384a",
+        "news:fc458321a7384c01df69c2ad"
       ],
       "name": "Josh Cameron",
       "nfl_team": "JAX",
@@ -10041,7 +10046,8 @@
         "news:0f083ef0b4c3ca0dc810f8dd",
         "news:3219329299073c6b6d83c2c2",
         "news:a0ec4ccbe8ef51b4a7e1201f",
-        "news:b888072c6bdf7d93f0e5384a"
+        "news:b888072c6bdf7d93f0e5384a",
+        "news:fc458321a7384c01df69c2ad"
       ]
     },
     "00-0041104": {
