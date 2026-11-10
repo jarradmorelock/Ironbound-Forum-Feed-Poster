@@ -4680,6 +4680,7 @@
         "news:db3e642a6c70f2809524a2c0",
         "news:e25fc6fe0048b0523bbcd494",
         "news:f155a70f6a8be534de3d5cb6",
+        "news:f850f80b541b98b00e6feffd",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:ff8a5801f5a00a64f90f51ad"
       ],
@@ -4723,6 +4724,7 @@
         "news:d7ab48d8bdae70a90ff03499",
         "news:d9e943bd280b4c695fce45d7",
         "news:f155a70f6a8be534de3d5cb6",
+        "news:f850f80b541b98b00e6feffd",
         "news:fac0c1ec37a88fbbd9c5500c",
         "news:ff8a5801f5a00a64f90f51ad"
       ]
@@ -5039,7 +5041,8 @@
         "news:4d3991d000eb595fbe2eff66",
         "news:6d0f439f922b7540bf6cad60",
         "news:d3a8e6bc3263e656f695bbaf",
-        "news:f55de1284e3ffa0b30067738"
+        "news:f55de1284e3ffa0b30067738",
+        "news:f850f80b541b98b00e6feffd"
       ],
       "name": "Malik Willis",
       "nfl_team": "MIA",
@@ -5052,7 +5055,9 @@
         "news:d3a8e6bc3263e656f695bbaf",
         "news:f55de1284e3ffa0b30067738"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:f850f80b541b98b00e6feffd"
+      ]
     },
     "00-0038134": {
       "event_ids": [
@@ -7911,6 +7916,18 @@
         "news:f28516b7018e19a46293acad"
       ]
     },
+    "00-0040014": {
+      "event_ids": [
+        "news:f850f80b541b98b00e6feffd"
+      ],
+      "name": "Kyle McCord",
+      "nfl_team": "MIA",
+      "nflverse_id": "00-0040014",
+      "primary_event_ids": [
+        "news:f850f80b541b98b00e6feffd"
+      ],
+      "related_event_ids": []
+    },
     "00-0040021": {
       "event_ids": [
         "news:668b4697efad844d60f829cf",
@@ -8634,6 +8651,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:1de429e205d2b92520f5c6dd"
+      ]
+    },
+    "00-0040398": {
+      "event_ids": [
+        "news:f850f80b541b98b00e6feffd"
+      ],
+      "name": "Brady Cook",
+      "nfl_team": "MIA",
+      "nflverse_id": "00-0040398",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f850f80b541b98b00e6feffd"
       ]
     },
     "00-0040408": {
