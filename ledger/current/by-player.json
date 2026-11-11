@@ -4560,6 +4560,7 @@
     },
     "00-0037742": {
       "event_ids": [
+        "news:22fcac5976efef0eba937736",
         "news:b57a98f2a73b7223027ab92d",
         "news:db38960359056f5128b2b51c"
       ],
@@ -4567,6 +4568,7 @@
       "nfl_team": "WAS",
       "nflverse_id": "00-0037742",
       "primary_event_ids": [
+        "news:22fcac5976efef0eba937736",
         "news:b57a98f2a73b7223027ab92d"
       ],
       "related_event_ids": [
