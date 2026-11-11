@@ -1962,6 +1962,7 @@
     },
     "00-0034960": {
       "event_ids": [
+        "news:1e98b72ae12b7f7046b7372a",
         "news:67670716dd18eafea21589c3",
         "news:99f8f2cea67da91cdc492ec6",
         "news:9ca2b98548ceb191dd26a579",
@@ -1972,6 +1973,7 @@
       "nfl_team": "JAX",
       "nflverse_id": "00-0034960",
       "primary_event_ids": [
+        "news:1e98b72ae12b7f7046b7372a",
         "news:99f8f2cea67da91cdc492ec6",
         "news:9ca2b98548ceb191dd26a579",
         "news:a0ec4ccbe8ef51b4a7e1201f"
@@ -10210,6 +10212,7 @@
     "00-0041131": {
       "event_ids": [
         "news:175001c51902cb5ddf881422",
+        "news:1e98b72ae12b7f7046b7372a",
         "news:50c0f73dd46a5dee7420ce27",
         "news:64e82a8ec1eae802d572f82e",
         "news:aa53a7b5683715d09ac647be",
@@ -10221,6 +10224,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:175001c51902cb5ddf881422",
+        "news:1e98b72ae12b7f7046b7372a",
         "news:50c0f73dd46a5dee7420ce27",
         "news:64e82a8ec1eae802d572f82e",
         "news:aa53a7b5683715d09ac647be",
