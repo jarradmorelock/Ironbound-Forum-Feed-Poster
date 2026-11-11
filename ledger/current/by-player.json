@@ -9417,6 +9417,7 @@
     },
     "00-0040734": {
       "event_ids": [
+        "news:0a3744c841a5676509d8aecc",
         "news:1728164621d49f31f39816c9",
         "news:1c024fb18035f81a8a4569e3",
         "news:28b3b537f5e9e17d36da21aa",
@@ -9440,6 +9441,7 @@
       "nfl_team": "NE",
       "nflverse_id": "00-0040734",
       "primary_event_ids": [
+        "news:0a3744c841a5676509d8aecc",
         "news:1728164621d49f31f39816c9",
         "news:1c024fb18035f81a8a4569e3",
         "news:28b3b537f5e9e17d36da21aa",
