@@ -3837,6 +3837,7 @@
     "00-0036973": {
       "event_ids": [
         "news:29091d427ea5992e62fc43dc",
+        "news:3877f0b50b40c37501ab26de",
         "news:5922f4673e0a05c7e72bcd6a",
         "news:c609e7fe67c0c7c29d074ada"
       ],
@@ -3845,6 +3846,7 @@
       "nflverse_id": "00-0036973",
       "primary_event_ids": [
         "news:29091d427ea5992e62fc43dc",
+        "news:3877f0b50b40c37501ab26de",
         "news:c609e7fe67c0c7c29d074ada"
       ],
       "related_event_ids": [
