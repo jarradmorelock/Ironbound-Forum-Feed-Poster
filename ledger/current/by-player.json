@@ -3520,6 +3520,7 @@
         "news:8c80c3c8b7d563afcf71c52b",
         "news:a2ad869648121b95d813699b",
         "news:dc59defb4ca5e0a74808c4da",
+        "news:ebd5511d70c6dd1e4c9df5aa",
         "news:ee4d079180ee110f314f6f54",
         "news:f08fe2bb9baba85b1f0f3d19",
         "news:f3808553e3168f3e62219396",
@@ -3541,6 +3542,7 @@
       "related_event_ids": [
         "news:1c024fb18035f81a8a4569e3",
         "news:8c80c3c8b7d563afcf71c52b",
+        "news:ebd5511d70c6dd1e4c9df5aa",
         "news:ee4d079180ee110f314f6f54"
       ]
     },
@@ -4762,6 +4764,7 @@
         "news:d9e943bd280b4c695fce45d7",
         "news:db3e642a6c70f2809524a2c0",
         "news:e25fc6fe0048b0523bbcd494",
+        "news:ebd5511d70c6dd1e4c9df5aa",
         "news:f155a70f6a8be534de3d5cb6",
         "news:f850f80b541b98b00e6feffd",
         "news:fac0c1ec37a88fbbd9c5500c",
@@ -4806,6 +4809,7 @@
         "news:d62b03ca13773a4f85a99fa3",
         "news:d7ab48d8bdae70a90ff03499",
         "news:d9e943bd280b4c695fce45d7",
+        "news:ebd5511d70c6dd1e4c9df5aa",
         "news:f155a70f6a8be534de3d5cb6",
         "news:f850f80b541b98b00e6feffd",
         "news:fac0c1ec37a88fbbd9c5500c",
@@ -8860,6 +8864,7 @@
         "news:339b1b58d010583685d4cb27",
         "news:8c80c3c8b7d563afcf71c52b",
         "news:dc59defb4ca5e0a74808c4da",
+        "news:ebd5511d70c6dd1e4c9df5aa",
         "news:ee4d079180ee110f314f6f54"
       ],
       "name": "Corey Kiner",
@@ -8872,6 +8877,7 @@
         "news:1c024fb18035f81a8a4569e3",
         "news:8c80c3c8b7d563afcf71c52b",
         "news:dc59defb4ca5e0a74808c4da",
+        "news:ebd5511d70c6dd1e4c9df5aa",
         "news:ee4d079180ee110f314f6f54"
       ]
     },
@@ -8893,14 +8899,16 @@
     },
     "00-0040568": {
       "event_ids": [
-        "news:dc59defb4ca5e0a74808c4da"
+        "news:dc59defb4ca5e0a74808c4da",
+        "news:ebd5511d70c6dd1e4c9df5aa"
       ],
       "name": "Lan Larison",
       "nfl_team": "NE",
       "nflverse_id": "00-0040568",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:dc59defb4ca5e0a74808c4da"
+        "news:dc59defb4ca5e0a74808c4da",
+        "news:ebd5511d70c6dd1e4c9df5aa"
       ]
     },
     "00-0040579": {
@@ -9437,6 +9445,7 @@
         "news:a38e16967f606f4c748fc8a1",
         "news:cfd42cbb70424138fd682f80",
         "news:dc59defb4ca5e0a74808c4da",
+        "news:ebd5511d70c6dd1e4c9df5aa",
         "news:ee4d079180ee110f314f6f54",
         "news:f08fe2bb9baba85b1f0f3d19",
         "news:f2e3ac2d219d657e959e86e8",
@@ -9458,6 +9467,7 @@
         "news:869269be4966f11fb9fc51e9",
         "news:a38e16967f606f4c748fc8a1",
         "news:cfd42cbb70424138fd682f80",
+        "news:ebd5511d70c6dd1e4c9df5aa",
         "news:ee4d079180ee110f314f6f54",
         "news:f2e3ac2d219d657e959e86e8"
       ],
