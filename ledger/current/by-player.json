@@ -323,6 +323,7 @@
         "news:25fbe22dd68d1fb8a0994eea",
         "news:50fb80cecfadf520a46d86ce",
         "news:6c938f124ba297c9726fa3b2",
+        "news:71456a74061018d702825f59",
         "news:79fa7956360c84c38d59aa9e",
         "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972",
@@ -347,6 +348,7 @@
       ],
       "related_event_ids": [
         "news:50fb80cecfadf520a46d86ce",
+        "news:71456a74061018d702825f59",
         "news:7df545a15b8e8b40aabf0420"
       ]
     },
@@ -754,6 +756,7 @@
     "00-0032951": {
       "event_ids": [
         "news:50fb80cecfadf520a46d86ce",
+        "news:71456a74061018d702825f59",
         "news:7e8d80e70af763822ed0e972"
       ],
       "name": "Laquon Treadwell",
@@ -762,6 +765,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:50fb80cecfadf520a46d86ce",
+        "news:71456a74061018d702825f59",
         "news:7e8d80e70af763822ed0e972"
       ]
     },
@@ -2009,6 +2013,7 @@
     },
     "00-0035021": {
       "event_ids": [
+        "news:71456a74061018d702825f59",
         "news:7e8d80e70af763822ed0e972"
       ],
       "name": "Ashton Dulin",
@@ -2016,6 +2021,7 @@
       "nflverse_id": "00-0035021",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:71456a74061018d702825f59",
         "news:7e8d80e70af763822ed0e972"
       ]
     },
@@ -2759,6 +2765,18 @@
         "news:a2c1246e1acc3b0c7fe8b334",
         "news:c8754452636392d432b83335",
         "news:e2e2eedaadec1189f4206dd7"
+      ]
+    },
+    "00-0036182": {
+      "event_ids": [
+        "news:71456a74061018d702825f59"
+      ],
+      "name": "Nick Westbrook-Ikhine",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0036182",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:71456a74061018d702825f59"
       ]
     },
     "00-0036212": {
@@ -4468,6 +4486,7 @@
       "event_ids": [
         "news:21b2c2a852a2953773c7d026",
         "news:6c7b6bc5d7a1ab2bb9959385",
+        "news:71456a74061018d702825f59",
         "news:bb80700d7240c9391b0b35de"
       ],
       "name": "Alec Pierce",
@@ -4476,6 +4495,7 @@
       "primary_event_ids": [
         "news:21b2c2a852a2953773c7d026",
         "news:6c7b6bc5d7a1ab2bb9959385",
+        "news:71456a74061018d702825f59",
         "news:bb80700d7240c9391b0b35de"
       ],
       "related_event_ids": []
@@ -6037,6 +6057,7 @@
         "news:50fb80cecfadf520a46d86ce",
         "news:5a3e244283b9d3ddc18cf0af",
         "news:6c938f124ba297c9726fa3b2",
+        "news:71456a74061018d702825f59",
         "news:797ffae66d09c7be5638ce78",
         "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972",
@@ -6056,6 +6077,7 @@
       ],
       "related_event_ids": [
         "news:6c938f124ba297c9726fa3b2",
+        "news:71456a74061018d702825f59",
         "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972"
       ]
@@ -6683,6 +6705,7 @@
         "news:69d828f18184355601ae9633",
         "news:6ba716a9fc8e828800ac01e5",
         "news:6e3f6c94b4f3607bf007a5dc",
+        "news:71456a74061018d702825f59",
         "news:7c559872831dcb67748baa23",
         "news:8291262d1afc3be901df158e",
         "news:8354d59a411a6665e71f4f5b",
@@ -6743,6 +6766,7 @@
         "news:69d828f18184355601ae9633",
         "news:6ba716a9fc8e828800ac01e5",
         "news:6e3f6c94b4f3607bf007a5dc",
+        "news:71456a74061018d702825f59",
         "news:7c559872831dcb67748baa23",
         "news:8291262d1afc3be901df158e",
         "news:8354d59a411a6665e71f4f5b",
@@ -7551,6 +7575,18 @@
         "news:fc501e4a7afb56f35f736d77"
       ]
     },
+    "00-0039816": {
+      "event_ids": [
+        "news:71456a74061018d702825f59"
+      ],
+      "name": "Anthony Gould",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0039816",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:71456a74061018d702825f59"
+      ]
+    },
     "00-0039841": {
       "event_ids": [
         "news:793b434a9f32abab1f8f25ed",
@@ -8196,6 +8232,7 @@
         "news:50c3a448be04998cf69323ba",
         "news:50fb80cecfadf520a46d86ce",
         "news:54bab30f6ccd21ee50dec7e8",
+        "news:71456a74061018d702825f59",
         "news:7df545a15b8e8b40aabf0420",
         "news:a851fd5d662bfa3bde70abf1",
         "news:a9924582ebbf84523897e5ba",
@@ -8219,6 +8256,7 @@
       "related_event_ids": [
         "news:2ae86ca2f1bec9de3f2c08df",
         "news:50fb80cecfadf520a46d86ce",
+        "news:71456a74061018d702825f59",
         "news:a851fd5d662bfa3bde70abf1"
       ]
     },
@@ -10174,6 +10212,18 @@
         "news:eae832cb642745efc7b25afa"
       ]
     },
+    "00-0041132": {
+      "event_ids": [
+        "news:71456a74061018d702825f59"
+      ],
+      "name": "Deion Burks",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0041132",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:71456a74061018d702825f59"
+      ]
+    },
     "00-0041153": {
       "event_ids": [
         "news:00c503483783fa1ebca89065",
@@ -10593,6 +10643,7 @@
         "news:25fbe22dd68d1fb8a0994eea",
         "news:50fb80cecfadf520a46d86ce",
         "news:6c938f124ba297c9726fa3b2",
+        "news:71456a74061018d702825f59",
         "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c",
@@ -10607,6 +10658,7 @@
         "news:25fbe22dd68d1fb8a0994eea",
         "news:50fb80cecfadf520a46d86ce",
         "news:6c938f124ba297c9726fa3b2",
+        "news:71456a74061018d702825f59",
         "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c",
