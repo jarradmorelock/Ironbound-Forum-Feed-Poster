@@ -3920,6 +3920,18 @@
         "news:90014f38488688f462774c0f"
       ]
     },
+    "00-0037075": {
+      "event_ids": [
+        "news:0a8579df28626c6a8fcc2a33"
+      ],
+      "name": "Devonte Wyatt",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0037075",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:0a8579df28626c6a8fcc2a33"
+      ]
+    },
     "00-0037085": {
       "event_ids": [
         "news:a2c1246e1acc3b0c7fe8b334"
@@ -10330,6 +10342,7 @@
     "00-0041438": {
       "event_ids": [
         "news:01549e8af838842f0dfe8f67",
+        "news:0a8579df28626c6a8fcc2a33",
         "news:2191a9981cb427c7f1b8fcfd",
         "news:2e78d5089b68d762b8813b72",
         "news:558ed254f47f8da7abfe7301",
@@ -10349,6 +10362,7 @@
       "nflverse_id": "00-0041438",
       "primary_event_ids": [
         "news:01549e8af838842f0dfe8f67",
+        "news:0a8579df28626c6a8fcc2a33",
         "news:2191a9981cb427c7f1b8fcfd",
         "news:2e78d5089b68d762b8813b72",
         "news:558ed254f47f8da7abfe7301",
