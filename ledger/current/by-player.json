@@ -316,6 +316,7 @@
         "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c",
         "news:8b44b9b9b3d2cce24af3c77a",
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:da5192497b1817e06e4ef92a"
       ],
       "name": "Keenan Allen",
@@ -329,6 +330,7 @@
         "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c",
         "news:8b44b9b9b3d2cce24af3c77a",
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:da5192497b1817e06e4ef92a"
       ],
       "related_event_ids": [
@@ -498,6 +500,7 @@
         "news:88d2236120e657d740d949f4",
         "news:8ce981d27a1c2bc44e6c0997",
         "news:94fa663aa3ef96665fdeb7d3",
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:b590708c7d321edff5e01f58",
         "news:ee2900c04bc3e5753192fe29",
         "news:f3f82b69cae54a4e536c374a",
@@ -521,7 +524,9 @@
         "news:f3f82b69cae54a4e536c374a",
         "news:f84b9d09908cda13b523c2a7"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:98054b2e4f8d13b9c2096ff2"
+      ]
     },
     "00-0031503": {
       "event_ids": [
@@ -1589,6 +1594,7 @@
         "news:5a04300dd162cdb97d19a817",
         "news:5b2695486c350ce35bc1290d",
         "news:83ee8e754d89253f0b80ddd1",
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:997c9b83441ddc406347ca71",
         "news:b4baed26b531b1ebb43ea175",
         "news:b8f091131c65b6be254ee9b5",
@@ -1612,6 +1618,7 @@
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:5a04300dd162cdb97d19a817",
         "news:5b2695486c350ce35bc1290d",
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:b8f091131c65b6be254ee9b5",
         "news:c0cc7b0f2654ea2601dabf79",
         "news:e17be22e451e6584c5be8b26",
@@ -1706,6 +1713,7 @@
         "news:7244e21428ec5b98fee2f9b7",
         "news:7659114061a2f09aa42d9f99",
         "news:8ba90222d7e9282a16fc36aa",
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:997c9b83441ddc406347ca71",
         "news:a7b1b55a415e283360ad2b5f",
         "news:b4baed26b531b1ebb43ea175",
@@ -1731,6 +1739,7 @@
         "news:7244e21428ec5b98fee2f9b7",
         "news:7659114061a2f09aa42d9f99",
         "news:8ba90222d7e9282a16fc36aa",
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:997c9b83441ddc406347ca71",
         "news:a7b1b55a415e283360ad2b5f",
         "news:b4baed26b531b1ebb43ea175",
@@ -2546,6 +2555,7 @@
         "news:8f5df405e98573eb45f51499",
         "news:922f4d581c3bc3723a94e4f9",
         "news:94fa663aa3ef96665fdeb7d3",
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:d62b03ca13773a4f85a99fa3",
         "news:ee2900c04bc3e5753192fe29"
       ],
@@ -2564,6 +2574,7 @@
       "related_event_ids": [
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:94fa663aa3ef96665fdeb7d3",
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:ee2900c04bc3e5753192fe29"
       ]
     },
@@ -2842,6 +2853,7 @@
     },
     "00-0036261": {
       "event_ids": [
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:b56a02a300ca5cc2327d4adb",
         "news:f675bf2563d04df96fa94565"
       ],
@@ -2852,7 +2864,9 @@
         "news:b56a02a300ca5cc2327d4adb",
         "news:f675bf2563d04df96fa94565"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:98054b2e4f8d13b9c2096ff2"
+      ]
     },
     "00-0036264": {
       "event_ids": [
@@ -9778,6 +9792,7 @@
     },
     "00-0041035": {
       "event_ids": [
+        "news:98054b2e4f8d13b9c2096ff2",
         "news:c45a0b43c4504133f91f61fb"
       ],
       "name": "De'Zhaun Stribling",
@@ -9786,7 +9801,9 @@
       "primary_event_ids": [
         "news:c45a0b43c4504133f91f61fb"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:98054b2e4f8d13b9c2096ff2"
+      ]
     },
     "00-0041037": {
       "event_ids": [
@@ -10536,7 +10553,8 @@
         "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c",
-        "news:8b44b9b9b3d2cce24af3c77a"
+        "news:8b44b9b9b3d2cce24af3c77a",
+        "news:98054b2e4f8d13b9c2096ff2"
       ],
       "name": "Tim Keenan III",
       "nfl_team": "LV",
@@ -10549,7 +10567,8 @@
         "news:7df545a15b8e8b40aabf0420",
         "news:7e8d80e70af763822ed0e972",
         "news:822540010d4645b8183f283c",
-        "news:8b44b9b9b3d2cce24af3c77a"
+        "news:8b44b9b9b3d2cce24af3c77a",
+        "news:98054b2e4f8d13b9c2096ff2"
       ]
     },
     "00-0041547": {
