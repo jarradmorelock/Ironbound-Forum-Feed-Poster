@@ -28,6 +28,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0025565": {
+      "event_ids": [
+        "news:6e855cd134e010a6540c795e"
+      ],
+      "name": "Nick Folk",
+      "nfl_team": "ATL",
+      "nflverse_id": "00-0025565",
+      "primary_event_ids": [
+        "news:6e855cd134e010a6540c795e"
+      ],
+      "related_event_ids": []
+    },
     "00-0026498": {
       "event_ids": [
         "news:0d6e90509e44e61d90b288ee",
@@ -5493,6 +5505,7 @@
     },
     "00-0038562": {
       "event_ids": [
+        "news:6e855cd134e010a6540c795e",
         "news:937393f6a6cde6f381f264b0"
       ],
       "name": "Jake Moody",
@@ -5500,6 +5513,7 @@
       "nflverse_id": "00-0038562",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:6e855cd134e010a6540c795e",
         "news:937393f6a6cde6f381f264b0"
       ]
     },
@@ -8013,6 +8027,7 @@
     },
     "00-0040074": {
       "event_ids": [
+        "news:6e855cd134e010a6540c795e",
         "news:937393f6a6cde6f381f264b0"
       ],
       "name": "Tyler Loop",
@@ -8021,7 +8036,9 @@
       "primary_event_ids": [
         "news:937393f6a6cde6f381f264b0"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:6e855cd134e010a6540c795e"
+      ]
     },
     "00-0040087": {
       "event_ids": [
