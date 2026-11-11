@@ -3365,7 +3365,8 @@
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:30712850611f1ae1035deb38",
         "news:5367a61960458cf0508627ea",
-        "news:8fda59ea86ac425566a35b93"
+        "news:8fda59ea86ac425566a35b93",
+        "news:92b48c6ecd6ee7e77c781c76"
       ],
       "name": "Chuba Hubbard",
       "nfl_team": "CAR",
@@ -3377,7 +3378,9 @@
         "news:5367a61960458cf0508627ea",
         "news:8fda59ea86ac425566a35b93"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:92b48c6ecd6ee7e77c781c76"
+      ]
     },
     "00-0036567": {
       "event_ids": [
@@ -6601,6 +6604,7 @@
     "00-0039344": {
       "event_ids": [
         "news:5c5a85385b6aaf44dac6fa8c",
+        "news:92b48c6ecd6ee7e77c781c76",
         "news:a3a0407f3be305cace0ed5cb",
         "news:e3b93b0ea68fb9497fb8d200"
       ],
@@ -6609,6 +6613,7 @@
       "nflverse_id": "00-0039344",
       "primary_event_ids": [
         "news:5c5a85385b6aaf44dac6fa8c",
+        "news:92b48c6ecd6ee7e77c781c76",
         "news:a3a0407f3be305cace0ed5cb",
         "news:e3b93b0ea68fb9497fb8d200"
       ],
