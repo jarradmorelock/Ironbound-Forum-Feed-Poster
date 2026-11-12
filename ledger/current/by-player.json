@@ -385,6 +385,7 @@
     "00-0030565": {
       "event_ids": [
         "news:29da31ae9849fe88823a6473",
+        "news:977be6f57b550a0772c8ea70",
         "news:edf34ad3ba8d192047cbb068",
         "news:ff4fc9558849696cf16bddd1"
       ],
@@ -393,6 +394,7 @@
       "nflverse_id": "00-0030565",
       "primary_event_ids": [
         "news:29da31ae9849fe88823a6473",
+        "news:977be6f57b550a0772c8ea70",
         "news:edf34ad3ba8d192047cbb068",
         "news:ff4fc9558849696cf16bddd1"
       ],
