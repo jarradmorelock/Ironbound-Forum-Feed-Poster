@@ -5516,13 +5516,15 @@
     },
     "00-0038553": {
       "event_ids": [
-        "news:42fea96aec0ef8c40624ecca"
+        "news:42fea96aec0ef8c40624ecca",
+        "news:c4b56328a010ef31b2b111fe"
       ],
       "name": "Daiyan Henley",
       "nfl_team": "LAC",
       "nflverse_id": "00-0038553",
       "primary_event_ids": [
-        "news:42fea96aec0ef8c40624ecca"
+        "news:42fea96aec0ef8c40624ecca",
+        "news:c4b56328a010ef31b2b111fe"
       ],
       "related_event_ids": []
     },
