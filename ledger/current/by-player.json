@@ -4493,7 +4493,8 @@
       "event_ids": [
         "news:41bfbf46f667e7a73eda6bea",
         "news:69c6961206a173434cebbdd0",
-        "news:bcabf8b8fd9d8fdbd300d510"
+        "news:bcabf8b8fd9d8fdbd300d510",
+        "news:de6f4fe0abcaaeb0ae7845ad"
       ],
       "name": "Rashid Shaheed",
       "nfl_team": "SEA",
@@ -4501,7 +4502,8 @@
       "primary_event_ids": [
         "news:41bfbf46f667e7a73eda6bea",
         "news:69c6961206a173434cebbdd0",
-        "news:bcabf8b8fd9d8fdbd300d510"
+        "news:bcabf8b8fd9d8fdbd300d510",
+        "news:de6f4fe0abcaaeb0ae7845ad"
       ],
       "related_event_ids": []
     },
@@ -7464,6 +7466,7 @@
         "news:d7ab48d8bdae70a90ff03499",
         "news:db1c231cef034c581c53237e",
         "news:de277db931bca0ec40c8f556",
+        "news:de6f4fe0abcaaeb0ae7845ad",
         "news:e125a604048ebb63c1481fc8",
         "news:e14211cc79107fe2eca035da",
         "news:e17be22e451e6584c5be8b26",
@@ -7602,6 +7605,7 @@
         "news:d7ab48d8bdae70a90ff03499",
         "news:db1c231cef034c581c53237e",
         "news:de277db931bca0ec40c8f556",
+        "news:de6f4fe0abcaaeb0ae7845ad",
         "news:e125a604048ebb63c1481fc8",
         "news:e14211cc79107fe2eca035da",
         "news:e17be22e451e6584c5be8b26",
