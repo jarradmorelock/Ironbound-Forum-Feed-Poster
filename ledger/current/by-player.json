@@ -1447,6 +1447,7 @@
       "event_ids": [
         "news:0429f5d2c32fafb122f7d446",
         "news:9b6ca5b0c11b34e5e59220db",
+        "news:d5be709c8daf4e6ccea49943",
         "news:e842cc673f0673d3fdf66bae",
         "news:ea3f899019fafb2ba32b8843"
       ],
@@ -1457,6 +1458,7 @@
       "related_event_ids": [
         "news:0429f5d2c32fafb122f7d446",
         "news:9b6ca5b0c11b34e5e59220db",
+        "news:d5be709c8daf4e6ccea49943",
         "news:e842cc673f0673d3fdf66bae",
         "news:ea3f899019fafb2ba32b8843"
       ]
@@ -4494,6 +4496,7 @@
         "news:41bfbf46f667e7a73eda6bea",
         "news:69c6961206a173434cebbdd0",
         "news:bcabf8b8fd9d8fdbd300d510",
+        "news:d5be709c8daf4e6ccea49943",
         "news:de6f4fe0abcaaeb0ae7845ad"
       ],
       "name": "Rashid Shaheed",
@@ -4503,6 +4506,7 @@
         "news:41bfbf46f667e7a73eda6bea",
         "news:69c6961206a173434cebbdd0",
         "news:bcabf8b8fd9d8fdbd300d510",
+        "news:d5be709c8daf4e6ccea49943",
         "news:de6f4fe0abcaaeb0ae7845ad"
       ],
       "related_event_ids": []
