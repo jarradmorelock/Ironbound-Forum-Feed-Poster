@@ -1445,6 +1445,7 @@
     },
     "00-0034177": {
       "event_ids": [
+        "news:0429f5d2c32fafb122f7d446",
         "news:9b6ca5b0c11b34e5e59220db",
         "news:e842cc673f0673d3fdf66bae",
         "news:ea3f899019fafb2ba32b8843"
@@ -1454,6 +1455,7 @@
       "nflverse_id": "00-0034177",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0429f5d2c32fafb122f7d446",
         "news:9b6ca5b0c11b34e5e59220db",
         "news:e842cc673f0673d3fdf66bae",
         "news:ea3f899019fafb2ba32b8843"
@@ -2531,6 +2533,7 @@
     },
     "00-0035704": {
       "event_ids": [
+        "news:0429f5d2c32fafb122f7d446",
         "news:278e6b2e26a4c0d99ae0a009",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:79b8d372d2edc792249379f7",
@@ -2544,6 +2547,7 @@
       "nfl_team": "SEA",
       "nflverse_id": "00-0035704",
       "primary_event_ids": [
+        "news:0429f5d2c32fafb122f7d446",
         "news:9430870e9a2c9f307feccdd5",
         "news:d6db9404987194ab355f5b04",
         "news:f395071e7cb09c106972cb76"
