@@ -7452,6 +7452,7 @@
         "news:3c6d60cedebd49a719058e2a",
         "news:3ff74b402112c29508d75cf7",
         "news:4216eeb422639790f5e7e748",
+        "news:45e04e83d2c7098760712ac7",
         "news:47cc370926b0858638e5673b",
         "news:4842cedec233a1ee1c2771bb",
         "news:4bc8684eeb60bdcfe2a37890",
@@ -7593,6 +7594,7 @@
         "news:3c6d60cedebd49a719058e2a",
         "news:3ff74b402112c29508d75cf7",
         "news:4216eeb422639790f5e7e748",
+        "news:45e04e83d2c7098760712ac7",
         "news:47cc370926b0858638e5673b",
         "news:4842cedec233a1ee1c2771bb",
         "news:4bc8684eeb60bdcfe2a37890",
@@ -9381,6 +9383,7 @@
     },
     "00-0040705": {
       "event_ids": [
+        "news:45e04e83d2c7098760712ac7",
         "news:6f818678c225a065752692f8"
       ],
       "name": "Chimere Dike",
@@ -9389,7 +9392,9 @@
       "primary_event_ids": [
         "news:6f818678c225a065752692f8"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:45e04e83d2c7098760712ac7"
+      ]
     },
     "00-0040715": {
       "event_ids": [
@@ -10560,6 +10565,7 @@
         "news:0a8579df28626c6a8fcc2a33",
         "news:2191a9981cb427c7f1b8fcfd",
         "news:2e78d5089b68d762b8813b72",
+        "news:45e04e83d2c7098760712ac7",
         "news:558ed254f47f8da7abfe7301",
         "news:5eeee4ff394aa729205765c0",
         "news:6f818678c225a065752692f8",
@@ -10581,6 +10587,7 @@
         "news:0a8579df28626c6a8fcc2a33",
         "news:2191a9981cb427c7f1b8fcfd",
         "news:2e78d5089b68d762b8813b72",
+        "news:45e04e83d2c7098760712ac7",
         "news:558ed254f47f8da7abfe7301",
         "news:76e7b47db814a4e5a52ae9bb",
         "news:a4bac224229053ea2a3f814c",
