@@ -1220,6 +1220,18 @@
         "news:ae7f25842ffae8a3caec79cc"
       ]
     },
+    "00-0033551": {
+      "event_ids": [
+        "news:862ba75bf952e53c4c71f35e"
+      ],
+      "name": "Rasul Douglas",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0033551",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:862ba75bf952e53c4c71f35e"
+      ]
+    },
     "00-0033555": {
       "event_ids": [
         "news:136acc9c41ce361c1da28d96",
@@ -2552,6 +2564,7 @@
         "news:64b0b8be152ab1fea5afb0a2",
         "news:79b8d372d2edc792249379f7",
         "news:84caab201fe7e7a5274c010d",
+        "news:862ba75bf952e53c4c71f35e",
         "news:9430870e9a2c9f307feccdd5",
         "news:a2fa5e03bedd4193180f2463",
         "news:d6db9404987194ab355f5b04",
@@ -2571,6 +2584,7 @@
         "news:64b0b8be152ab1fea5afb0a2",
         "news:79b8d372d2edc792249379f7",
         "news:84caab201fe7e7a5274c010d",
+        "news:862ba75bf952e53c4c71f35e",
         "news:a2fa5e03bedd4193180f2463"
       ]
     },
@@ -4790,6 +4804,7 @@
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
         "news:58ec4b86c43a17895652584e",
+        "news:862ba75bf952e53c4c71f35e",
         "news:86f2098221edc5a2512651a6",
         "news:8c9d46d73d345daa122f8abe",
         "news:94fa663aa3ef96665fdeb7d3",
@@ -4839,6 +4854,7 @@
         "news:4a16f9f22c858c2aa591ae27",
         "news:504a1ced2f08d075810baa07",
         "news:58ec4b86c43a17895652584e",
+        "news:862ba75bf952e53c4c71f35e",
         "news:86f2098221edc5a2512651a6",
         "news:8c9d46d73d345daa122f8abe",
         "news:94fa663aa3ef96665fdeb7d3",
@@ -6626,6 +6642,7 @@
         "news:53246160a60085bc643d5475",
         "news:58b14ce1a255b696f7a608b1",
         "news:714e38ffa56d0638fca8e1c6",
+        "news:862ba75bf952e53c4c71f35e",
         "news:93f861fdb12b32ee0cdd0345",
         "news:beb1db3ab52ce7b74839ed7b",
         "news:fb2deb9af52a89e8ab226d11"
@@ -6645,7 +6662,8 @@
       ],
       "related_event_ids": [
         "news:0be066d0322c1c4e569b2f60",
-        "news:3bc51ab6efac3d2572b86e63"
+        "news:3bc51ab6efac3d2572b86e63",
+        "news:862ba75bf952e53c4c71f35e"
       ]
     },
     "00-0039338": {
@@ -8080,6 +8098,7 @@
         "news:51319f1546f4abe2844c89d2",
         "news:7500647429fe62ee92cd2bb7",
         "news:763439aaadfe38a0d21ab332",
+        "news:862ba75bf952e53c4c71f35e",
         "news:97f1d0f9e0ce3f01ef3d9a6e",
         "news:e528f25814b3c5542b10d122",
         "news:f28516b7018e19a46293acad"
@@ -8093,6 +8112,7 @@
         "news:37df5f5ac2d61d6130900c62",
         "news:51319f1546f4abe2844c89d2",
         "news:7500647429fe62ee92cd2bb7",
+        "news:862ba75bf952e53c4c71f35e",
         "news:97f1d0f9e0ce3f01ef3d9a6e"
       ],
       "related_event_ids": [
@@ -9365,6 +9385,7 @@
         "news:6cc81f38d30fbdf86adc2e3d",
         "news:7fc08786a7c8202b3f4547cc",
         "news:854945f444ef1d40c599fdf0",
+        "news:862ba75bf952e53c4c71f35e",
         "news:89723b322e532fcb9d0b3956",
         "news:9d197bb4c15917cabe5abf41",
         "news:9ef96d3ad1311721b95a8df7",
@@ -9394,6 +9415,7 @@
       ],
       "related_event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
+        "news:862ba75bf952e53c4c71f35e",
         "news:89723b322e532fcb9d0b3956",
         "news:9d197bb4c15917cabe5abf41",
         "news:b78541a08dabf31d051d8340",
