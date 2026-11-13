@@ -5772,6 +5772,7 @@
     },
     "00-0038608": {
       "event_ids": [
+        "news:b1e40788b17357179b647f92",
         "news:f0d890b142950085e33607d3"
       ],
       "name": "Kayshon Boutte",
@@ -5780,7 +5781,9 @@
       "primary_event_ids": [
         "news:f0d890b142950085e33607d3"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:b1e40788b17357179b647f92"
+      ]
     },
     "00-0038611": {
       "event_ids": [
@@ -6100,6 +6103,7 @@
     "00-0038977": {
       "event_ids": [
         "news:21f89542142817c7403b24bc",
+        "news:b1e40788b17357179b647f92",
         "news:d5051843b8dab93714386be4",
         "news:e8b20af7ca1f9bd7dc0337f0",
         "news:eae832cb642745efc7b25afa"
@@ -6113,7 +6117,9 @@
         "news:e8b20af7ca1f9bd7dc0337f0",
         "news:eae832cb642745efc7b25afa"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:b1e40788b17357179b647f92"
+      ]
     },
     "00-0038994": {
       "event_ids": [
@@ -7741,6 +7747,7 @@
         "news:6f07d26fa50840718ac0ba37",
         "news:83d617efa24a34fc6e66221d",
         "news:95a33754cb09550225981611",
+        "news:b1e40788b17357179b647f92",
         "news:d5051843b8dab93714386be4",
         "news:f559d299870d8094e2503bf4"
       ],
@@ -7752,6 +7759,7 @@
         "news:3c3fc084845f3844af89e7f4",
         "news:6f07d26fa50840718ac0ba37",
         "news:95a33754cb09550225981611",
+        "news:b1e40788b17357179b647f92",
         "news:f559d299870d8094e2503bf4"
       ],
       "related_event_ids": [
