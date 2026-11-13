@@ -5229,6 +5229,7 @@
         "news:18fecc57fa643fded5eb6d50",
         "news:8a57f4e49574e754bcdced58",
         "news:b525fda2cf8838652e4acc01",
+        "news:c03d7b974d3ab9934fa952f1",
         "news:d12c9ce6bccdbdf301ca2915",
         "news:d7b4005ee2803b39b1aead49"
       ],
@@ -5239,6 +5240,7 @@
         "news:18fecc57fa643fded5eb6d50",
         "news:8a57f4e49574e754bcdced58",
         "news:b525fda2cf8838652e4acc01",
+        "news:c03d7b974d3ab9934fa952f1",
         "news:d12c9ce6bccdbdf301ca2915"
       ],
       "related_event_ids": [
@@ -9897,7 +9899,8 @@
     },
     "00-0041013": {
       "event_ids": [
-        "news:324a2fef4c2d9b6e9dfe64ce"
+        "news:324a2fef4c2d9b6e9dfe64ce",
+        "news:c03d7b974d3ab9934fa952f1"
       ],
       "name": "Emmett Johnson",
       "nfl_team": "KC",
@@ -9905,7 +9908,9 @@
       "primary_event_ids": [
         "news:324a2fef4c2d9b6e9dfe64ce"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:c03d7b974d3ab9934fa952f1"
+      ]
     },
     "00-0041026": {
       "event_ids": [
