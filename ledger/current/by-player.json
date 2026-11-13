@@ -7858,6 +7858,7 @@
     "00-0039880": {
       "event_ids": [
         "news:29556a2764440b47cb412a8a",
+        "news:3cc617f09540da3a63665473",
         "news:74dcee00f3673cba97c69310",
         "news:925e97d632616a34277551c3",
         "news:e0bfc7d112b0bd7f89535133"
@@ -7871,6 +7872,7 @@
         "news:e0bfc7d112b0bd7f89535133"
       ],
       "related_event_ids": [
+        "news:3cc617f09540da3a63665473",
         "news:74dcee00f3673cba97c69310"
       ]
     },
@@ -10801,6 +10803,7 @@
       "event_ids": [
         "news:0326676592c5f57f837b769b",
         "news:12ac6f536aa9797d502a34d4",
+        "news:3cc617f09540da3a63665473",
         "news:74dcee00f3673cba97c69310",
         "news:cb54c29e7a6316b028ee327e"
       ],
@@ -10813,16 +10816,21 @@
         "news:74dcee00f3673cba97c69310",
         "news:cb54c29e7a6316b028ee327e"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:3cc617f09540da3a63665473"
+      ]
     },
     "00-0041525": {
       "event_ids": [
+        "news:3cc617f09540da3a63665473",
         "news:74dcee00f3673cba97c69310"
       ],
       "name": "Chris Bell",
       "nfl_team": "MIA",
       "nflverse_id": "00-0041525",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:3cc617f09540da3a63665473"
+      ],
       "related_event_ids": [
         "news:74dcee00f3673cba97c69310"
       ]
