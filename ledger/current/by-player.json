@@ -1317,6 +1317,7 @@
         "news:85d77b8fb439d35ed4138bc2",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
+        "news:b6747700c47fcfe3b58401cc",
         "news:c0301eedaddbd1486333f0f1",
         "news:c848823913adb46ab578bd2d",
         "news:da979a495bf7b05e29352e70"
@@ -1336,6 +1337,7 @@
         "news:6dd134d3c33d117fa38113b0",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
+        "news:b6747700c47fcfe3b58401cc",
         "news:c848823913adb46ab578bd2d",
         "news:da979a495bf7b05e29352e70"
       ]
@@ -4621,6 +4623,7 @@
         "news:6dd134d3c33d117fa38113b0",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
+        "news:b6747700c47fcfe3b58401cc",
         "news:c848823913adb46ab578bd2d",
         "news:da979a495bf7b05e29352e70",
         "news:f0a4295ff923a7218b517fb9",
@@ -4635,6 +4638,7 @@
         "news:56e6fa71161c6978c33e1153",
         "news:b455c48a909561577f23684b",
         "news:b647c351b944f6004d628754",
+        "news:b6747700c47fcfe3b58401cc",
         "news:c848823913adb46ab578bd2d",
         "news:da979a495bf7b05e29352e70",
         "news:f0a4295ff923a7218b517fb9",
@@ -7932,6 +7936,7 @@
         "news:6c385098c5dca7b62498c7f1",
         "news:6dd134d3c33d117fa38113b0",
         "news:7357949b722c67bec65b0c06",
+        "news:b6747700c47fcfe3b58401cc",
         "news:bdf984eeff4e01eee01dd264",
         "news:da979a495bf7b05e29352e70",
         "news:dd5dc956172bc996276f66c8"
@@ -7951,6 +7956,7 @@
       "related_event_ids": [
         "news:56e6fa71161c6978c33e1153",
         "news:6c385098c5dca7b62498c7f1",
+        "news:b6747700c47fcfe3b58401cc",
         "news:da979a495bf7b05e29352e70"
       ]
     },
@@ -10802,6 +10808,7 @@
         "news:6c385098c5dca7b62498c7f1",
         "news:7357949b722c67bec65b0c06",
         "news:73fc8efb53d633fe193f33d1",
+        "news:b6747700c47fcfe3b58401cc",
         "news:da979a495bf7b05e29352e70",
         "news:eb714bbe0139926f4f2c330a",
         "news:fb64eeb5cfdb26e371686882"
@@ -10822,6 +10829,7 @@
         "news:564c385f363808520e4eef65",
         "news:56e6fa71161c6978c33e1153",
         "news:7357949b722c67bec65b0c06",
+        "news:b6747700c47fcfe3b58401cc",
         "news:da979a495bf7b05e29352e70"
       ]
     },
