@@ -5256,7 +5256,8 @@
         "news:b525fda2cf8838652e4acc01",
         "news:c03d7b974d3ab9934fa952f1",
         "news:d12c9ce6bccdbdf301ca2915",
-        "news:d7b4005ee2803b39b1aead49"
+        "news:d7b4005ee2803b39b1aead49",
+        "news:e697eb7758d94acaec5c2b60"
       ],
       "name": "Kenneth Walker III",
       "nfl_team": "KC",
@@ -5270,7 +5271,8 @@
         "news:d12c9ce6bccdbdf301ca2915"
       ],
       "related_event_ids": [
-        "news:d7b4005ee2803b39b1aead49"
+        "news:d7b4005ee2803b39b1aead49",
+        "news:e697eb7758d94acaec5c2b60"
       ]
     },
     "00-0038393": {
@@ -6882,6 +6884,7 @@
         "news:dcf317127a4ab3d31a017b1a",
         "news:de277db931bca0ec40c8f556",
         "news:e64dcb5a5997838f7c452f8b",
+        "news:e697eb7758d94acaec5c2b60",
         "news:ea51dbc83506a6560b64db48",
         "news:ec70a4001b4a0f57bcf3721d",
         "news:ecedde8756b5e29e431e3615",
@@ -6945,6 +6948,7 @@
         "news:dcf317127a4ab3d31a017b1a",
         "news:de277db931bca0ec40c8f556",
         "news:e64dcb5a5997838f7c452f8b",
+        "news:e697eb7758d94acaec5c2b60",
         "news:ea51dbc83506a6560b64db48",
         "news:ec70a4001b4a0f57bcf3721d",
         "news:ecedde8756b5e29e431e3615",
@@ -8872,7 +8876,8 @@
     "00-0040252": {
       "event_ids": [
         "news:625ec4b9a0058775beddc9c2",
-        "news:d3a8e6bc3263e656f695bbaf"
+        "news:d3a8e6bc3263e656f695bbaf",
+        "news:e697eb7758d94acaec5c2b60"
       ],
       "name": "Kobee Minor",
       "nfl_team": "NE",
@@ -8880,7 +8885,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:625ec4b9a0058775beddc9c2",
-        "news:d3a8e6bc3263e656f695bbaf"
+        "news:d3a8e6bc3263e656f695bbaf",
+        "news:e697eb7758d94acaec5c2b60"
       ]
     },
     "00-0040311": {
@@ -9962,13 +9968,15 @@
     "00-0041013": {
       "event_ids": [
         "news:324a2fef4c2d9b6e9dfe64ce",
-        "news:c03d7b974d3ab9934fa952f1"
+        "news:c03d7b974d3ab9934fa952f1",
+        "news:e697eb7758d94acaec5c2b60"
       ],
       "name": "Emmett Johnson",
       "nfl_team": "KC",
       "nflverse_id": "00-0041013",
       "primary_event_ids": [
-        "news:324a2fef4c2d9b6e9dfe64ce"
+        "news:324a2fef4c2d9b6e9dfe64ce",
+        "news:e697eb7758d94acaec5c2b60"
       ],
       "related_event_ids": [
         "news:c03d7b974d3ab9934fa952f1"
