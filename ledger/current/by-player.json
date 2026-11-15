@@ -364,6 +364,7 @@
       "event_ids": [
         "news:608f3c2d7d0292db85a3d1c7",
         "news:ae1426a2b90eb9240ba89d60",
+        "news:b90abb03c0066281295c3004",
         "news:bba76a446533692ed76d3d97"
       ],
       "name": "Travis Kelce",
@@ -372,6 +373,7 @@
       "primary_event_ids": [
         "news:608f3c2d7d0292db85a3d1c7",
         "news:ae1426a2b90eb9240ba89d60",
+        "news:b90abb03c0066281295c3004",
         "news:bba76a446533692ed76d3d97"
       ],
       "related_event_ids": []
