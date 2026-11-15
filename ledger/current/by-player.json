@@ -1950,6 +1950,7 @@
         "news:8d69c5547eb3adff08c43d61",
         "news:b0ad59b6a8ac0734e4de2e51",
         "news:bbf7cf1b08b85ee90cd07a53",
+        "news:c46f5ab42724e698dcba216e",
         "news:e90a9a6f2630d49747063230"
       ],
       "name": "Baker Mayfield",
@@ -1964,6 +1965,7 @@
         "news:7fb33da924183f0a54514754",
         "news:b0ad59b6a8ac0734e4de2e51",
         "news:bbf7cf1b08b85ee90cd07a53",
+        "news:c46f5ab42724e698dcba216e",
         "news:e90a9a6f2630d49747063230"
       ],
       "related_event_ids": [
@@ -10740,7 +10742,8 @@
         "news:70db6532958f1e615f3d0c8c",
         "news:8d69c5547eb3adff08c43d61",
         "news:9792625a08d9ec0a73d31340",
-        "news:b0ad59b6a8ac0734e4de2e51"
+        "news:b0ad59b6a8ac0734e4de2e51",
+        "news:c46f5ab42724e698dcba216e"
       ],
       "name": "Jalon Daniels",
       "nfl_team": "TB",
@@ -10752,7 +10755,8 @@
       "related_event_ids": [
         "news:70db6532958f1e615f3d0c8c",
         "news:8d69c5547eb3adff08c43d61",
-        "news:b0ad59b6a8ac0734e4de2e51"
+        "news:b0ad59b6a8ac0734e4de2e51",
+        "news:c46f5ab42724e698dcba216e"
       ]
     },
     "00-0041326": {
