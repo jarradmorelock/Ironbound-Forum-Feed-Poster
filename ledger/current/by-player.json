@@ -5455,6 +5455,18 @@
         "news:e70bac08437671eb546d2cba"
       ]
     },
+    "00-0038476": {
+      "event_ids": [
+        "news:ff12ef5a09de0d074e87b153"
+      ],
+      "name": "Tommy DeVito",
+      "nfl_team": "NE",
+      "nflverse_id": "00-0038476",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ff12ef5a09de0d074e87b153"
+      ]
+    },
     "00-0038482": {
       "event_ids": [
         "news:7dd859216b3bba49d57c92ab"
@@ -7904,7 +7916,8 @@
         "news:7f46e94a508408af15303f01",
         "news:98c4ce6ab5c5a8e906f1e9fb",
         "news:caf17030ed3d873925f91087",
-        "news:d27f2546a72260e8bca16801"
+        "news:d27f2546a72260e8bca16801",
+        "news:ff12ef5a09de0d074e87b153"
       ],
       "name": "Drake Maye",
       "nfl_team": "NE",
@@ -7914,7 +7927,8 @@
         "news:7f46e94a508408af15303f01",
         "news:98c4ce6ab5c5a8e906f1e9fb",
         "news:caf17030ed3d873925f91087",
-        "news:d27f2546a72260e8bca16801"
+        "news:d27f2546a72260e8bca16801",
+        "news:ff12ef5a09de0d074e87b153"
       ],
       "related_event_ids": [
         "news:5d94a93383862e92e7716b14",
