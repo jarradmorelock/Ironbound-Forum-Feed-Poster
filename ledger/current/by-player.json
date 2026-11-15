@@ -934,7 +934,8 @@
         "news:2ea10855d3888bc6efa8f345",
         "news:3079c7e5a9c9886bf9c846e4",
         "news:49da654c343bad4666b597c4",
-        "news:8c9d46d73d345daa122f8abe"
+        "news:8c9d46d73d345daa122f8abe",
+        "news:b116626ab60fae48c2926328"
       ],
       "name": "Hunter Henry",
       "nfl_team": "NE",
@@ -943,7 +944,8 @@
         "news:2ea10855d3888bc6efa8f345",
         "news:3079c7e5a9c9886bf9c846e4",
         "news:49da654c343bad4666b597c4",
-        "news:8c9d46d73d345daa122f8abe"
+        "news:8c9d46d73d345daa122f8abe",
+        "news:b116626ab60fae48c2926328"
       ],
       "related_event_ids": []
     },
@@ -8012,6 +8014,7 @@
         "news:7b117c7c1e057da5673f9e93",
         "news:7f46e94a508408af15303f01",
         "news:98c4ce6ab5c5a8e906f1e9fb",
+        "news:b116626ab60fae48c2926328",
         "news:caf17030ed3d873925f91087",
         "news:d27f2546a72260e8bca16801",
         "news:ff12ef5a09de0d074e87b153"
@@ -8029,7 +8032,8 @@
       ],
       "related_event_ids": [
         "news:5d94a93383862e92e7716b14",
-        "news:7b117c7c1e057da5673f9e93"
+        "news:7b117c7c1e057da5673f9e93",
+        "news:b116626ab60fae48c2926328"
       ]
     },
     "00-0039868": {
