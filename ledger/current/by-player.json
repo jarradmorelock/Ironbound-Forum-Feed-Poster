@@ -5069,6 +5069,7 @@
         "news:52348d293ed1eaf305235013",
         "news:55f0ddd3bcf55475132e328a",
         "news:5f05e273559c9f87b7d81612",
+        "news:92a3526575adb4427a9a156d",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
       ],
@@ -5081,6 +5082,7 @@
         "news:52348d293ed1eaf305235013",
         "news:55f0ddd3bcf55475132e328a",
         "news:5f05e273559c9f87b7d81612",
+        "news:92a3526575adb4427a9a156d",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
       ]
@@ -5910,13 +5912,15 @@
     "00-0038685": {
       "event_ids": [
         "news:52348d293ed1eaf305235013",
-        "news:5f05e273559c9f87b7d81612"
+        "news:5f05e273559c9f87b7d81612",
+        "news:92a3526575adb4427a9a156d"
       ],
       "name": "Chris Brooks",
       "nfl_team": "GB",
       "nflverse_id": "00-0038685",
       "primary_event_ids": [
-        "news:52348d293ed1eaf305235013"
+        "news:52348d293ed1eaf305235013",
+        "news:92a3526575adb4427a9a156d"
       ],
       "related_event_ids": [
         "news:5f05e273559c9f87b7d81612"
@@ -7466,6 +7470,7 @@
         "news:52348d293ed1eaf305235013",
         "news:55f0ddd3bcf55475132e328a",
         "news:5f05e273559c9f87b7d81612",
+        "news:92a3526575adb4427a9a156d",
         "news:98901a4417050a348bfb0d25",
         "news:ae3ace98b22da3a1508191e2",
         "news:ea67d00c295a1edc55d673d7",
@@ -7485,6 +7490,7 @@
         "news:52348d293ed1eaf305235013",
         "news:55f0ddd3bcf55475132e328a",
         "news:5f05e273559c9f87b7d81612",
+        "news:92a3526575adb4427a9a156d",
         "news:98901a4417050a348bfb0d25",
         "news:ff0b7800a79dd5d2a0d06b84"
       ]
@@ -8603,6 +8609,7 @@
         "news:52348d293ed1eaf305235013",
         "news:5f05e273559c9f87b7d81612",
         "news:8a04d508618a5eb5e4a0227d",
+        "news:92a3526575adb4427a9a156d",
         "news:98901a4417050a348bfb0d25",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
@@ -8618,6 +8625,7 @@
         "news:3760cacab4bf83c22f7fcc22",
         "news:52348d293ed1eaf305235013",
         "news:5f05e273559c9f87b7d81612",
+        "news:92a3526575adb4427a9a156d",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
       ]
