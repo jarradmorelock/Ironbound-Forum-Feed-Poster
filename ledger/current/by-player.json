@@ -2978,6 +2978,7 @@
     },
     "00-0036259": {
       "event_ids": [
+        "news:60539261ea94091926cabbce",
         "news:88de2296c7b4f1bc0fcf3832"
       ],
       "name": "Jauan Jennings",
@@ -2985,6 +2986,7 @@
       "nflverse_id": "00-0036259",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:60539261ea94091926cabbce",
         "news:88de2296c7b4f1bc0fcf3832"
       ]
     },
@@ -3099,6 +3101,7 @@
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
         "news:5e6f597c07d6d7fc7961f2ae",
+        "news:60539261ea94091926cabbce",
         "news:86f2098221edc5a2512651a6",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89c839b2bee424de14f9e01a",
@@ -3123,6 +3126,7 @@
       "related_event_ids": [
         "news:1e0a548b9d0c28f826e5c8f1",
         "news:2683d461c2bc57d4335cb663",
+        "news:60539261ea94091926cabbce",
         "news:86f2098221edc5a2512651a6",
         "news:93c9bdb7d3cc5250b3ef7a55"
       ]
@@ -6211,6 +6215,7 @@
         "news:2683d461c2bc57d4335cb663",
         "news:3463c2cd455f55cd48f85238",
         "news:46cde085e445143f0f5a9c74",
+        "news:60539261ea94091926cabbce",
         "news:98796c41dadf46960a129b42",
         "news:ce81993799dbe16c241323d5",
         "news:d3dd7bdb312b4fa0ead186cd",
@@ -6226,6 +6231,7 @@
         "news:2683d461c2bc57d4335cb663",
         "news:3463c2cd455f55cd48f85238",
         "news:46cde085e445143f0f5a9c74",
+        "news:60539261ea94091926cabbce",
         "news:98796c41dadf46960a129b42",
         "news:ce81993799dbe16c241323d5",
         "news:d3dd7bdb312b4fa0ead186cd",
@@ -7342,14 +7348,16 @@
     },
     "00-0039710": {
       "event_ids": [
-        "news:2683d461c2bc57d4335cb663"
+        "news:2683d461c2bc57d4335cb663",
+        "news:60539261ea94091926cabbce"
       ],
       "name": "Jeshaun Jones",
       "nfl_team": "MIN",
       "nflverse_id": "00-0039710",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:2683d461c2bc57d4335cb663"
+        "news:2683d461c2bc57d4335cb663",
+        "news:60539261ea94091926cabbce"
       ]
     },
     "00-0039732": {
@@ -8725,6 +8733,7 @@
     "00-0040154": {
       "event_ids": [
         "news:2683d461c2bc57d4335cb663",
+        "news:60539261ea94091926cabbce",
         "news:88de2296c7b4f1bc0fcf3832"
       ],
       "name": "Tai Felton",
@@ -8733,6 +8742,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:2683d461c2bc57d4335cb663",
+        "news:60539261ea94091926cabbce",
         "news:88de2296c7b4f1bc0fcf3832"
       ]
     },
@@ -9155,14 +9165,16 @@
     },
     "00-0040506": {
       "event_ids": [
-        "news:2683d461c2bc57d4335cb663"
+        "news:2683d461c2bc57d4335cb663",
+        "news:60539261ea94091926cabbce"
       ],
       "name": "Myles Price",
       "nfl_team": "MIN",
       "nflverse_id": "00-0040506",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:2683d461c2bc57d4335cb663"
+        "news:2683d461c2bc57d4335cb663",
+        "news:60539261ea94091926cabbce"
       ]
     },
     "00-0040509": {
@@ -10472,6 +10484,7 @@
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
         "news:5e6f597c07d6d7fc7961f2ae",
+        "news:60539261ea94091926cabbce",
         "news:86f2098221edc5a2512651a6",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89c839b2bee424de14f9e01a",
@@ -10490,6 +10503,7 @@
         "news:3981e3d5a400199aa4d7aaa9",
         "news:48db2a78679616083a10bce3",
         "news:5e6f597c07d6d7fc7961f2ae",
+        "news:60539261ea94091926cabbce",
         "news:86f2098221edc5a2512651a6",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89c839b2bee424de14f9e01a",
