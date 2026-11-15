@@ -4231,6 +4231,18 @@
         "news:e914929871226c57f7f548db"
       ]
     },
+    "00-0037236": {
+      "event_ids": [
+        "news:0c1066425c789303892ac911"
+      ],
+      "name": "Aidan Hutchinson",
+      "nfl_team": "DET",
+      "nflverse_id": "00-0037236",
+      "primary_event_ids": [
+        "news:0c1066425c789303892ac911"
+      ],
+      "related_event_ids": []
+    },
     "00-0037238": {
       "event_ids": [
         "news:09d7b91c595a77da55ec5ef2",
@@ -9336,6 +9348,7 @@
     },
     "00-0040586": {
       "event_ids": [
+        "news:0c1066425c789303892ac911",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:9eb60c05af3cb14438619ddc",
         "news:cf60a0a4c3fd8f564108f112",
@@ -9346,6 +9359,7 @@
       "nflverse_id": "00-0040586",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0c1066425c789303892ac911",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:9eb60c05af3cb14438619ddc",
         "news:cf60a0a4c3fd8f564108f112",
