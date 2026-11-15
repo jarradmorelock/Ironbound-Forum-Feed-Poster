@@ -1317,6 +1317,7 @@
     },
     "00-0033868": {
       "event_ids": [
+        "news:02e10dc9e2044113a094ddfd",
         "news:2b4f72031392950dcb358809",
         "news:422095401f0568abd0f833ec",
         "news:56e6fa71161c6978c33e1153",
@@ -1340,6 +1341,7 @@
         "news:c0301eedaddbd1486333f0f1"
       ],
       "related_event_ids": [
+        "news:02e10dc9e2044113a094ddfd",
         "news:2b4f72031392950dcb358809",
         "news:56e6fa71161c6978c33e1153",
         "news:6dd134d3c33d117fa38113b0",
@@ -4642,6 +4644,7 @@
     },
     "00-0037740": {
       "event_ids": [
+        "news:02e10dc9e2044113a094ddfd",
         "news:1cb9b26dbd535ef847780088",
         "news:2b4f72031392950dcb358809",
         "news:4977ef6a3cbfed923f314adc",
@@ -4659,6 +4662,7 @@
       "nfl_team": "NYJ",
       "nflverse_id": "00-0037740",
       "primary_event_ids": [
+        "news:02e10dc9e2044113a094ddfd",
         "news:1cb9b26dbd535ef847780088",
         "news:4977ef6a3cbfed923f314adc",
         "news:56e6fa71161c6978c33e1153",
@@ -8029,6 +8033,7 @@
     },
     "00-0039890": {
       "event_ids": [
+        "news:02e10dc9e2044113a094ddfd",
         "news:2b4f72031392950dcb358809",
         "news:564c385f363808520e4eef65",
         "news:56e6fa71161c6978c33e1153",
@@ -8054,6 +8059,7 @@
         "news:dd5dc956172bc996276f66c8"
       ],
       "related_event_ids": [
+        "news:02e10dc9e2044113a094ddfd",
         "news:56e6fa71161c6978c33e1153",
         "news:6c385098c5dca7b62498c7f1",
         "news:b6747700c47fcfe3b58401cc",
@@ -10936,6 +10942,7 @@
     },
     "00-0041511": {
       "event_ids": [
+        "news:02e10dc9e2044113a094ddfd",
         "news:118931e665c7dfd885611ac7",
         "news:19fb149c74b647eb834af91c",
         "news:2b4f72031392950dcb358809",
@@ -10961,6 +10968,7 @@
         "news:fb64eeb5cfdb26e371686882"
       ],
       "related_event_ids": [
+        "news:02e10dc9e2044113a094ddfd",
         "news:2b4f72031392950dcb358809",
         "news:564c385f363808520e4eef65",
         "news:56e6fa71161c6978c33e1153",
