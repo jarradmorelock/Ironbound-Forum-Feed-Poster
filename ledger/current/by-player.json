@@ -10224,6 +10224,7 @@
       "event_ids": [
         "news:058bb5fae341293acc150b06",
         "news:0a8b7e20cfad00354a35c828",
+        "news:23e8a4a9d882cb2b2d919695",
         "news:2eec615c542d1a935ff7f569",
         "news:3e1be4bd6ef1ae6b7b6276cc",
         "news:416e1969150511473e7b22c3",
@@ -10241,6 +10242,7 @@
       "nfl_team": "NO",
       "nflverse_id": "00-0041029",
       "primary_event_ids": [
+        "news:23e8a4a9d882cb2b2d919695",
         "news:2eec615c542d1a935ff7f569",
         "news:3e1be4bd6ef1ae6b7b6276cc",
         "news:416e1969150511473e7b22c3",
