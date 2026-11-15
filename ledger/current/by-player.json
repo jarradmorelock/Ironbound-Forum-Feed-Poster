@@ -394,6 +394,7 @@
     },
     "00-0030565": {
       "event_ids": [
+        "news:1b0e5301b8ada144aeaa1258",
         "news:29da31ae9849fe88823a6473",
         "news:56e6fa71161c6978c33e1153",
         "news:977be6f57b550a0772c8ea70",
@@ -404,6 +405,7 @@
       "nfl_team": "NYJ",
       "nflverse_id": "00-0030565",
       "primary_event_ids": [
+        "news:1b0e5301b8ada144aeaa1258",
         "news:29da31ae9849fe88823a6473",
         "news:977be6f57b550a0772c8ea70",
         "news:edf34ad3ba8d192047cbb068",
@@ -9349,6 +9351,7 @@
     "00-0040586": {
       "event_ids": [
         "news:0c1066425c789303892ac911",
+        "news:1b0e5301b8ada144aeaa1258",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:9eb60c05af3cb14438619ddc",
         "news:cf60a0a4c3fd8f564108f112",
@@ -9360,6 +9363,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0c1066425c789303892ac911",
+        "news:1b0e5301b8ada144aeaa1258",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:9eb60c05af3cb14438619ddc",
         "news:cf60a0a4c3fd8f564108f112",
