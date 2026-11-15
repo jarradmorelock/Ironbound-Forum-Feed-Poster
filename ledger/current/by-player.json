@@ -399,6 +399,7 @@
         "news:56e6fa71161c6978c33e1153",
         "news:977be6f57b550a0772c8ea70",
         "news:edf34ad3ba8d192047cbb068",
+        "news:f54202390cb74a9ddb030f1e",
         "news:ff4fc9558849696cf16bddd1"
       ],
       "name": "Geno Smith",
@@ -409,6 +410,7 @@
         "news:29da31ae9849fe88823a6473",
         "news:977be6f57b550a0772c8ea70",
         "news:edf34ad3ba8d192047cbb068",
+        "news:f54202390cb74a9ddb030f1e",
         "news:ff4fc9558849696cf16bddd1"
       ],
       "related_event_ids": [
@@ -10467,6 +10469,18 @@
       "related_event_ids": [
         "news:278e6b2e26a4c0d99ae0a009",
         "news:a7b1b55a415e283360ad2b5f"
+      ]
+    },
+    "00-0041056": {
+      "event_ids": [
+        "news:f54202390cb74a9ddb030f1e"
+      ],
+      "name": "Cade Klubnik",
+      "nfl_team": "NYJ",
+      "nflverse_id": "00-0041056",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:f54202390cb74a9ddb030f1e"
       ]
     },
     "00-0041062": {
