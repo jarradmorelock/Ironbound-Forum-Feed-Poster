@@ -5188,6 +5188,7 @@
         "news:6f818678c225a065752692f8",
         "news:77a7f3be3a4ffd5cbcdb00cc",
         "news:b14739b96df1c76a63cf6b5d",
+        "news:d2a400662bc854e49983910a",
         "news:f99e688c8436790e65a46da0",
         "news:ffd5d01a9aa25669f6b14fea"
       ],
@@ -5195,7 +5196,8 @@
       "nfl_team": "TEN",
       "nflverse_id": "00-0038117",
       "primary_event_ids": [
-        "news:77a7f3be3a4ffd5cbcdb00cc"
+        "news:77a7f3be3a4ffd5cbcdb00cc",
+        "news:d2a400662bc854e49983910a"
       ],
       "related_event_ids": [
         "news:5eeee4ff394aa729205765c0",
