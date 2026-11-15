@@ -1356,6 +1356,7 @@
         "news:757cd80a3e651e721f110b16",
         "news:7d8003a84a0ed91adfb5e24b",
         "news:7e7f3bd3dbfc76cbc2b937b8",
+        "news:93ed49c887b1d6a91bc51f12",
         "news:c932d569c3b08a0e4d12019c"
       ],
       "name": "Patrick Mahomes",
@@ -1368,6 +1369,7 @@
         "news:757cd80a3e651e721f110b16",
         "news:7d8003a84a0ed91adfb5e24b",
         "news:7e7f3bd3dbfc76cbc2b937b8",
+        "news:93ed49c887b1d6a91bc51f12",
         "news:c932d569c3b08a0e4d12019c"
       ],
       "related_event_ids": []
@@ -6901,6 +6903,7 @@
         "news:8c9d46d73d345daa122f8abe",
         "news:8eed84627f54a101edf74c50",
         "news:8eef59dca729ea5c5092c935",
+        "news:93ed49c887b1d6a91bc51f12",
         "news:94fa663aa3ef96665fdeb7d3",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
@@ -6966,6 +6969,7 @@
         "news:8c9d46d73d345daa122f8abe",
         "news:8eed84627f54a101edf74c50",
         "news:8eef59dca729ea5c5092c935",
+        "news:93ed49c887b1d6a91bc51f12",
         "news:94fa663aa3ef96665fdeb7d3",
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
@@ -7276,6 +7280,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:2428d06dac0d34870cb216c7"
+      ]
+    },
+    "00-0039652": {
+      "event_ids": [
+        "news:93ed49c887b1d6a91bc51f12"
+      ],
+      "name": "Jabari Small",
+      "nfl_team": "DET",
+      "nflverse_id": "00-0039652",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:93ed49c887b1d6a91bc51f12"
       ]
     },
     "00-0039710": {
@@ -7602,6 +7618,7 @@
         "news:8ce981d27a1c2bc44e6c0997",
         "news:8e1c21ea36a33d520d6416cb",
         "news:937393f6a6cde6f381f264b0",
+        "news:93ed49c887b1d6a91bc51f12",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
@@ -7747,6 +7764,7 @@
         "news:8ce981d27a1c2bc44e6c0997",
         "news:8e1c21ea36a33d520d6416cb",
         "news:937393f6a6cde6f381f264b0",
+        "news:93ed49c887b1d6a91bc51f12",
         "news:93fb5beeec4e95fa53e4a2e3",
         "news:94697422354eb0b83b45bdb9",
         "news:972e2bb1ade13ada0e79bcb5",
@@ -9308,6 +9326,18 @@
         "news:1de429e205d2b92520f5c6dd",
         "news:30712850611f1ae1035deb38",
         "news:8fda59ea86ac425566a35b93"
+      ]
+    },
+    "00-0040646": {
+      "event_ids": [
+        "news:93ed49c887b1d6a91bc51f12"
+      ],
+      "name": "Jalen Royals",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0040646",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:93ed49c887b1d6a91bc51f12"
       ]
     },
     "00-0040648": {
