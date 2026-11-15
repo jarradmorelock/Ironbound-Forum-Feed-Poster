@@ -5481,12 +5481,15 @@
     },
     "00-0038476": {
       "event_ids": [
+        "news:4fc4ac0521171425e99a9a3d",
         "news:ff12ef5a09de0d074e87b153"
       ],
       "name": "Tommy DeVito",
       "nfl_team": "NE",
       "nflverse_id": "00-0038476",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:4fc4ac0521171425e99a9a3d"
+      ],
       "related_event_ids": [
         "news:ff12ef5a09de0d074e87b153"
       ]
