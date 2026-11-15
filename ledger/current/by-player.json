@@ -824,6 +824,7 @@
         "news:bc80943a23b2022ff233ded4",
         "news:cb54c29e7a6316b028ee327e",
         "news:d307a1b1b0372233bafbc380",
+        "news:d41dc28e0d4ca07dd1627061",
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:e4937fe20d6150579bcafd69",
         "news:e54c2dbb508b79240a754253",
@@ -863,6 +864,7 @@
         "news:bc80943a23b2022ff233ded4",
         "news:cb54c29e7a6316b028ee327e",
         "news:d307a1b1b0372233bafbc380",
+        "news:d41dc28e0d4ca07dd1627061",
         "news:e12892a87f9c84cf5b6fcbf6",
         "news:e4937fe20d6150579bcafd69",
         "news:e54c2dbb508b79240a754253",
@@ -6509,6 +6511,18 @@
         "news:c0a239e118819ba647927f76",
         "news:ebf502507b3637e684b095cb"
       ]
+    },
+    "00-0039108": {
+      "event_ids": [
+        "news:d41dc28e0d4ca07dd1627061"
+      ],
+      "name": "Will Anderson Jr.",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0039108",
+      "primary_event_ids": [
+        "news:d41dc28e0d4ca07dd1627061"
+      ],
+      "related_event_ids": []
     },
     "00-0039139": {
       "event_ids": [
