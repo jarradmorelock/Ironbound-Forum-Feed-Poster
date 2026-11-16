@@ -5915,6 +5915,7 @@
     },
     "00-0038606": {
       "event_ids": [
+        "news:01797ecc923b752043330d6a",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:8154dd7bb6d1d623d3dbb846",
         "news:a91be86b465333c628438998",
@@ -5928,6 +5929,7 @@
       "nfl_team": "JAX",
       "nflverse_id": "00-0038606",
       "primary_event_ids": [
+        "news:01797ecc923b752043330d6a",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:a91be86b465333c628438998",
         "news:bc971d998e12bacee9b711c3",
