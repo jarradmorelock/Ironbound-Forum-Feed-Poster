@@ -1546,6 +1546,18 @@
         "news:fc1f1382c660ab08ade0b8c9"
       ]
     },
+    "00-0034277": {
+      "event_ids": [
+        "news:b31aa383775f83fb74d03292"
+      ],
+      "name": "DeShon Elliott",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0034277",
+      "primary_event_ids": [
+        "news:b31aa383775f83fb74d03292"
+      ],
+      "related_event_ids": []
+    },
     "00-0034344": {
       "event_ids": [
         "news:e7826bd17053debee2775935",
@@ -6388,6 +6400,7 @@
         "news:63a0c049f8b5b03cf42fb0a6",
         "news:9f3fcd183911144273d2d857",
         "news:b22f5a905d63a713ecc777fb",
+        "news:b31aa383775f83fb74d03292",
         "news:bc2254515540c0a643296201"
       ],
       "name": "Tyjae Spears",
@@ -6403,7 +6416,8 @@
       ],
       "related_event_ids": [
         "news:2895c73454026dda022593e1",
-        "news:54c67af945eff0eedfa01598"
+        "news:54c67af945eff0eedfa01598",
+        "news:b31aa383775f83fb74d03292"
       ]
     },
     "00-0039040": {
@@ -10918,6 +10932,18 @@
         "news:3079c7e5a9c9886bf9c846e4",
         "news:49da654c343bad4666b597c4",
         "news:8c9d46d73d345daa122f8abe"
+      ]
+    },
+    "00-0041401": {
+      "event_ids": [
+        "news:b31aa383775f83fb74d03292"
+      ],
+      "name": "Robert Spears-Jennings",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0041401",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:b31aa383775f83fb74d03292"
       ]
     },
     "00-0041438": {
