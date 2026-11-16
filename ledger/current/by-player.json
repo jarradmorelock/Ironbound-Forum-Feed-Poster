@@ -279,6 +279,7 @@
         "news:ccea94471cd7f7df6f700320",
         "news:d3af947a78d7bb1ff36cf86e",
         "news:de277db931bca0ec40c8f556",
+        "news:e15c83fe47868356e29f5851",
         "news:e5ed47203eac93b2660f95bb",
         "news:f3dd8c914a34d927bc360636",
         "news:ff0b7800a79dd5d2a0d06b84"
@@ -326,6 +327,7 @@
         "news:ccea94471cd7f7df6f700320",
         "news:d3af947a78d7bb1ff36cf86e",
         "news:de277db931bca0ec40c8f556",
+        "news:e15c83fe47868356e29f5851",
         "news:e5ed47203eac93b2660f95bb",
         "news:f3dd8c914a34d927bc360636",
         "news:ff0b7800a79dd5d2a0d06b84"
@@ -3471,7 +3473,8 @@
         "news:9d1967aaea04fe901cf8941e",
         "news:a56559875d9edfa1cb8342ef",
         "news:d4e998a309ac3345d219e197",
-        "news:def92612b0a0860c98400a3c"
+        "news:def92612b0a0860c98400a3c",
+        "news:e15c83fe47868356e29f5851"
       ],
       "name": "Joe Burrow",
       "nfl_team": "CIN",
@@ -3488,7 +3491,8 @@
       ],
       "related_event_ids": [
         "news:36ffdac61cfa16847987926b",
-        "news:a56559875d9edfa1cb8342ef"
+        "news:a56559875d9edfa1cb8342ef",
+        "news:e15c83fe47868356e29f5851"
       ]
     },
     "00-0036501": {
@@ -3787,6 +3791,7 @@
         "news:a56559875d9edfa1cb8342ef",
         "news:a5d9739ec393c9c96799a3e7",
         "news:b41e96a12017c8b29af9e56d",
+        "news:e15c83fe47868356e29f5851",
         "news:edcc6e97cc2d3e76efb28f60",
         "news:fa1c6ec308dfd5d14580640c"
       ],
@@ -3804,7 +3809,8 @@
       "related_event_ids": [
         "news:a56559875d9edfa1cb8342ef",
         "news:a5d9739ec393c9c96799a3e7",
-        "news:b41e96a12017c8b29af9e56d"
+        "news:b41e96a12017c8b29af9e56d",
+        "news:e15c83fe47868356e29f5851"
       ]
     },
     "00-0036906": {
@@ -5946,6 +5952,7 @@
         "news:a5d9739ec393c9c96799a3e7",
         "news:b1b0b61bf67ac8fe63c90218",
         "news:b41e96a12017c8b29af9e56d",
+        "news:e15c83fe47868356e29f5851",
         "news:e9f92bb976c914554ca83493"
       ],
       "name": "Chase Brown",
@@ -5959,6 +5966,7 @@
         "news:a5d9739ec393c9c96799a3e7",
         "news:b1b0b61bf67ac8fe63c90218",
         "news:b41e96a12017c8b29af9e56d",
+        "news:e15c83fe47868356e29f5851",
         "news:e9f92bb976c914554ca83493"
       ],
       "related_event_ids": []
