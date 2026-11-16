@@ -4276,6 +4276,7 @@
     },
     "00-0037228": {
       "event_ids": [
+        "news:1cb1a2d6934b8cf5e30322a2",
         "news:2d75de68f889d955b6b23f9d",
         "news:2fa71b4ca8dfea9b1580da87",
         "news:3e066f2fe2bcfa0a28991012",
@@ -4294,6 +4295,7 @@
       "nfl_team": "PIT",
       "nflverse_id": "00-0037228",
       "primary_event_ids": [
+        "news:1cb1a2d6934b8cf5e30322a2",
         "news:2d75de68f889d955b6b23f9d",
         "news:2fa71b4ca8dfea9b1580da87",
         "news:3e066f2fe2bcfa0a28991012",
