@@ -8140,6 +8140,7 @@
     "00-0039851": {
       "event_ids": [
         "news:10b0ba6e7e859a7dc3ff2e17",
+        "news:1a0c300385239ae0c89f08e2",
         "news:27d22d989779e3c7ff9074d0",
         "news:4414680b44c6bcfea04e8799",
         "news:5d94a93383862e92e7716b14",
@@ -8155,6 +8156,7 @@
       "nfl_team": "NE",
       "nflverse_id": "00-0039851",
       "primary_event_ids": [
+        "news:1a0c300385239ae0c89f08e2",
         "news:27d22d989779e3c7ff9074d0",
         "news:4414680b44c6bcfea04e8799",
         "news:7f46e94a508408af15303f01",
