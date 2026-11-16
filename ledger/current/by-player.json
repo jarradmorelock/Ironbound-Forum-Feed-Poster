@@ -4323,13 +4323,15 @@
     },
     "00-0037236": {
       "event_ids": [
-        "news:0c1066425c789303892ac911"
+        "news:0c1066425c789303892ac911",
+        "news:2c37bd5e3e1f81df194caa93"
       ],
       "name": "Aidan Hutchinson",
       "nfl_team": "DET",
       "nflverse_id": "00-0037236",
       "primary_event_ids": [
-        "news:0c1066425c789303892ac911"
+        "news:0c1066425c789303892ac911",
+        "news:2c37bd5e3e1f81df194caa93"
       ],
       "related_event_ids": []
     },
