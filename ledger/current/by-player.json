@@ -908,6 +908,7 @@
     },
     "00-0033077": {
       "event_ids": [
+        "news:08b9880627b7c16838eb0aee",
         "news:48f32b8b50b3cdc9700b0244",
         "news:5a014faee23e680dbc927577",
         "news:7b117c7c1e057da5673f9e93",
@@ -922,6 +923,7 @@
       "nfl_team": "DAL",
       "nflverse_id": "00-0033077",
       "primary_event_ids": [
+        "news:08b9880627b7c16838eb0aee",
         "news:48f32b8b50b3cdc9700b0244",
         "news:933226d72cd2cac73d284582",
         "news:f1ab35c6d9a82781c04f561a",
@@ -3374,6 +3376,7 @@
       "event_ids": [
         "news:01e65313c44320bbae12fd3a",
         "news:0203963a0744637b06e379f1",
+        "news:08b9880627b7c16838eb0aee",
         "news:0e49a6e82e57f4b0706fc2d5",
         "news:12eed5a68c5f8caed9ea27f1",
         "news:34031c4ca8e242017da37732",
@@ -3409,6 +3412,7 @@
       "related_event_ids": [
         "news:01e65313c44320bbae12fd3a",
         "news:0203963a0744637b06e379f1",
+        "news:08b9880627b7c16838eb0aee",
         "news:0e49a6e82e57f4b0706fc2d5",
         "news:12eed5a68c5f8caed9ea27f1",
         "news:34031c4ca8e242017da37732",
