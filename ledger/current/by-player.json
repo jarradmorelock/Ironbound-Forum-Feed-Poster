@@ -3203,14 +3203,16 @@
     },
     "00-0036331": {
       "event_ids": [
-        "news:26abdde5171014dfc5159e07"
+        "news:26abdde5171014dfc5159e07",
+        "news:f6bb28c9e3b84eb587e0a47a"
       ],
       "name": "Devin Duvernay",
       "nfl_team": "ARI",
       "nflverse_id": "00-0036331",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:26abdde5171014dfc5159e07"
+        "news:26abdde5171014dfc5159e07",
+        "news:f6bb28c9e3b84eb587e0a47a"
       ]
     },
     "00-0036355": {
@@ -7314,7 +7316,8 @@
         "news:ba7d5066dbd7695a7b26b311",
         "news:c4a7d10464dba60d73f99799",
         "news:ccea94471cd7f7df6f700320",
-        "news:e5895bf19e27c967de0506e2"
+        "news:e5895bf19e27c967de0506e2",
+        "news:f6bb28c9e3b84eb587e0a47a"
       ],
       "name": "Caelen Carson",
       "nfl_team": "DAL",
@@ -7328,7 +7331,8 @@
         "news:ba7d5066dbd7695a7b26b311",
         "news:c4a7d10464dba60d73f99799",
         "news:ccea94471cd7f7df6f700320",
-        "news:e5895bf19e27c967de0506e2"
+        "news:e5895bf19e27c967de0506e2",
+        "news:f6bb28c9e3b84eb587e0a47a"
       ]
     },
     "00-0039391": {
@@ -11494,13 +11498,15 @@
         "news:19e2b04a3c04550c4c11d5b2",
         "news:412bcf2b0d44e5b3a7a42921",
         "news:ba7d5066dbd7695a7b26b311",
-        "news:ccea94471cd7f7df6f700320"
+        "news:ccea94471cd7f7df6f700320",
+        "news:f6bb28c9e3b84eb587e0a47a"
       ],
       "name": "Carson Beck",
       "nfl_team": "ARI",
       "nflverse_id": "00-0041561",
       "primary_event_ids": [
-        "news:412bcf2b0d44e5b3a7a42921"
+        "news:412bcf2b0d44e5b3a7a42921",
+        "news:f6bb28c9e3b84eb587e0a47a"
       ],
       "related_event_ids": [
         "news:19e2b04a3c04550c4c11d5b2",
