@@ -1380,6 +1380,7 @@
     },
     "00-0033873": {
       "event_ids": [
+        "news:0d07b00fbcc0b4fa55287889",
         "news:21365f16b4e003b9ab47afca",
         "news:44284b0e1ed23c8351ea193b",
         "news:58ec4b86c43a17895652584e",
@@ -1394,6 +1395,7 @@
       "nfl_team": "KC",
       "nflverse_id": "00-0033873",
       "primary_event_ids": [
+        "news:0d07b00fbcc0b4fa55287889",
         "news:21365f16b4e003b9ab47afca",
         "news:44284b0e1ed23c8351ea193b",
         "news:58ec4b86c43a17895652584e",
@@ -6384,6 +6386,7 @@
     },
     "00-0038997": {
       "event_ids": [
+        "news:0d07b00fbcc0b4fa55287889",
         "news:39b523b76831c520c8e7117b",
         "news:50fb80cecfadf520a46d86ce",
         "news:5a3e244283b9d3ddc18cf0af",
@@ -6407,6 +6410,7 @@
         "news:a851fd5d662bfa3bde70abf1"
       ],
       "related_event_ids": [
+        "news:0d07b00fbcc0b4fa55287889",
         "news:6c938f124ba297c9726fa3b2",
         "news:71456a74061018d702825f59",
         "news:7df545a15b8e8b40aabf0420",
@@ -9189,6 +9193,18 @@
         "news:e697eb7758d94acaec5c2b60"
       ]
     },
+    "00-0040298": {
+      "event_ids": [
+        "news:0d07b00fbcc0b4fa55287889"
+      ],
+      "name": "Andrew Armstrong",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0040298",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:0d07b00fbcc0b4fa55287889"
+      ]
+    },
     "00-0040311": {
       "event_ids": [
         "news:7fa453d2ef249eed23b9399e",
@@ -10267,6 +10283,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0040890": {
+      "event_ids": [
+        "news:0d07b00fbcc0b4fa55287889"
+      ],
+      "name": "Cyrus Allen",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0040890",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:0d07b00fbcc0b4fa55287889"
+      ]
+    },
     "00-0040947": {
       "event_ids": [
         "news:49048d9f1fb646fb7bebf8e0",
@@ -10314,6 +10342,7 @@
     },
     "00-0041013": {
       "event_ids": [
+        "news:0d07b00fbcc0b4fa55287889",
         "news:324a2fef4c2d9b6e9dfe64ce",
         "news:c03d7b974d3ab9934fa952f1",
         "news:e697eb7758d94acaec5c2b60"
@@ -10326,6 +10355,7 @@
         "news:e697eb7758d94acaec5c2b60"
       ],
       "related_event_ids": [
+        "news:0d07b00fbcc0b4fa55287889",
         "news:c03d7b974d3ab9934fa952f1"
       ]
     },
