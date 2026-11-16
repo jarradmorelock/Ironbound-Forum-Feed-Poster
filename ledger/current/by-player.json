@@ -10747,13 +10747,16 @@
     },
     "00-0041125": {
       "event_ids": [
+        "news:57a6f9bb324339bfb3af60d7",
         "news:bc80943a23b2022ff233ded4",
         "news:c935723d18fc114b33f4716e"
       ],
       "name": "Seth McGowan",
       "nfl_team": "IND",
       "nflverse_id": "00-0041125",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:57a6f9bb324339bfb3af60d7"
+      ],
       "related_event_ids": [
         "news:bc80943a23b2022ff233ded4",
         "news:c935723d18fc114b33f4716e"
