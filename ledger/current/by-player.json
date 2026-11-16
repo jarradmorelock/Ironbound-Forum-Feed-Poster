@@ -9374,6 +9374,18 @@
         "news:316b4dd4d719cdc7015b080d"
       ]
     },
+    "00-0040547": {
+      "event_ids": [
+        "news:8356ff64046ba8084c4647ee"
+      ],
+      "name": "Nate Carter",
+      "nfl_team": "KC",
+      "nflverse_id": "00-0040547",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:8356ff64046ba8084c4647ee"
+      ]
+    },
     "00-0040556": {
       "event_ids": [
         "news:1c024fb18035f81a8a4569e3",
@@ -10354,6 +10366,7 @@
       "event_ids": [
         "news:0d07b00fbcc0b4fa55287889",
         "news:324a2fef4c2d9b6e9dfe64ce",
+        "news:8356ff64046ba8084c4647ee",
         "news:c03d7b974d3ab9934fa952f1",
         "news:e697eb7758d94acaec5c2b60"
       ],
@@ -10362,6 +10375,7 @@
       "nflverse_id": "00-0041013",
       "primary_event_ids": [
         "news:324a2fef4c2d9b6e9dfe64ce",
+        "news:8356ff64046ba8084c4647ee",
         "news:e697eb7758d94acaec5c2b60"
       ],
       "related_event_ids": [
