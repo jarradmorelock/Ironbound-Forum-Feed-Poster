@@ -4853,7 +4853,8 @@
         "news:a6b25ca9919de2eede36fd65",
         "news:aa0ce302217e3d4a05b6faf0",
         "news:b457898c706d76d02923def9",
-        "news:dd9f111d60978f25ece66441"
+        "news:dd9f111d60978f25ece66441",
+        "news:e06da0ba1bf709b77824619c"
       ],
       "name": "Trey McBride",
       "nfl_team": "ARI",
@@ -4866,7 +4867,8 @@
         "news:a6b25ca9919de2eede36fd65",
         "news:aa0ce302217e3d4a05b6faf0",
         "news:b457898c706d76d02923def9",
-        "news:dd9f111d60978f25ece66441"
+        "news:dd9f111d60978f25ece66441",
+        "news:e06da0ba1bf709b77824619c"
       ],
       "related_event_ids": [
         "news:26abdde5171014dfc5159e07",
@@ -7316,6 +7318,7 @@
         "news:ba7d5066dbd7695a7b26b311",
         "news:c4a7d10464dba60d73f99799",
         "news:ccea94471cd7f7df6f700320",
+        "news:e06da0ba1bf709b77824619c",
         "news:e5895bf19e27c967de0506e2",
         "news:f6bb28c9e3b84eb587e0a47a"
       ],
@@ -7331,6 +7334,7 @@
         "news:ba7d5066dbd7695a7b26b311",
         "news:c4a7d10464dba60d73f99799",
         "news:ccea94471cd7f7df6f700320",
+        "news:e06da0ba1bf709b77824619c",
         "news:e5895bf19e27c967de0506e2",
         "news:f6bb28c9e3b84eb587e0a47a"
       ]
@@ -11499,6 +11503,7 @@
         "news:412bcf2b0d44e5b3a7a42921",
         "news:ba7d5066dbd7695a7b26b311",
         "news:ccea94471cd7f7df6f700320",
+        "news:e06da0ba1bf709b77824619c",
         "news:f6bb28c9e3b84eb587e0a47a"
       ],
       "name": "Carson Beck",
@@ -11511,7 +11516,8 @@
       "related_event_ids": [
         "news:19e2b04a3c04550c4c11d5b2",
         "news:ba7d5066dbd7695a7b26b311",
-        "news:ccea94471cd7f7df6f700320"
+        "news:ccea94471cd7f7df6f700320",
+        "news:e06da0ba1bf709b77824619c"
       ]
     },
     "00-0041562": {
