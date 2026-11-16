@@ -4934,6 +4934,7 @@
         "news:071b381cb7b8b6c6ba2aa0e9",
         "news:36a659d8077a0ab5b55bf3ac",
         "news:6f097fb9b047d582b629a0be",
+        "news:b541792e311df20778d464b0",
         "news:ee2900c04bc3e5753192fe29"
       ],
       "name": "Brock Purdy",
@@ -4942,7 +4943,8 @@
       "primary_event_ids": [
         "news:071b381cb7b8b6c6ba2aa0e9",
         "news:36a659d8077a0ab5b55bf3ac",
-        "news:6f097fb9b047d582b629a0be"
+        "news:6f097fb9b047d582b629a0be",
+        "news:b541792e311df20778d464b0"
       ],
       "related_event_ids": [
         "news:ee2900c04bc3e5753192fe29"
