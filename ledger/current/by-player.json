@@ -3299,13 +3299,15 @@
     "00-0036407": {
       "event_ids": [
         "news:0230ede58f08ec745722fd04",
-        "news:77b1b416f55cbcb377515e5f"
+        "news:77b1b416f55cbcb377515e5f",
+        "news:8e492c65108b16f5c9bf86c9"
       ],
       "name": "Jerry Jeudy",
       "nfl_team": "CLE",
       "nflverse_id": "00-0036407",
       "primary_event_ids": [
-        "news:77b1b416f55cbcb377515e5f"
+        "news:77b1b416f55cbcb377515e5f",
+        "news:8e492c65108b16f5c9bf86c9"
       ],
       "related_event_ids": [
         "news:0230ede58f08ec745722fd04"
