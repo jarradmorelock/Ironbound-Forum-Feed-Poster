@@ -842,6 +842,7 @@
         "news:967a082278902767213af092",
         "news:97389f5760fa0c9ce9ac661f",
         "news:997c9b83441ddc406347ca71",
+        "news:a55118587f3fe963c96df05e",
         "news:a56559875d9edfa1cb8342ef",
         "news:ab8cdf43b311cbcdbfe6d74a",
         "news:b3f2e0cfb9398aaf9a813154",
@@ -883,6 +884,7 @@
         "news:967a082278902767213af092",
         "news:97389f5760fa0c9ce9ac661f",
         "news:997c9b83441ddc406347ca71",
+        "news:a55118587f3fe963c96df05e",
         "news:a56559875d9edfa1cb8342ef",
         "news:ab8cdf43b311cbcdbfe6d74a",
         "news:b3f2e0cfb9398aaf9a813154",
@@ -2149,6 +2151,18 @@
         "news:09e0122acbc9582226fc9c6c"
       ],
       "related_event_ids": []
+    },
+    "00-0034999": {
+      "event_ids": [
+        "news:a55118587f3fe963c96df05e"
+      ],
+      "name": "Ty Summers",
+      "nfl_team": "CHI",
+      "nflverse_id": "00-0034999",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:a55118587f3fe963c96df05e"
+      ]
     },
     "00-0035021": {
       "event_ids": [
@@ -7027,6 +7041,7 @@
         "news:6949bf30d00a8b2b9272ff7d",
         "news:7a110410b9058fa2e27ed661",
         "news:7d7361d50039cc944bb636d3",
+        "news:a55118587f3fe963c96df05e",
         "news:ca200e085972368c579ddd84"
       ],
       "name": "Brock Bowers",
@@ -7040,6 +7055,7 @@
         "news:6949bf30d00a8b2b9272ff7d",
         "news:7a110410b9058fa2e27ed661",
         "news:7d7361d50039cc944bb636d3",
+        "news:a55118587f3fe963c96df05e",
         "news:ca200e085972368c579ddd84"
       ],
       "related_event_ids": [
@@ -10978,6 +10994,7 @@
         "news:1e98b72ae12b7f7046b7372a",
         "news:50c0f73dd46a5dee7420ce27",
         "news:64e82a8ec1eae802d572f82e",
+        "news:a55118587f3fe963c96df05e",
         "news:aa53a7b5683715d09ac647be",
         "news:eae832cb642745efc7b25afa"
       ],
@@ -10990,6 +11007,7 @@
         "news:1e98b72ae12b7f7046b7372a",
         "news:50c0f73dd46a5dee7420ce27",
         "news:64e82a8ec1eae802d572f82e",
+        "news:a55118587f3fe963c96df05e",
         "news:aa53a7b5683715d09ac647be",
         "news:eae832cb642745efc7b25afa"
       ]
