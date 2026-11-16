@@ -3982,6 +3982,7 @@
     },
     "00-0036971": {
       "event_ids": [
+        "news:3b9d6414a1171fcc45c64129",
         "news:49048d9f1fb646fb7bebf8e0",
         "news:52b8520bbb27ec21ff889a47",
         "news:5b3f3588f0ca8f0a33627ddf",
@@ -3996,6 +3997,7 @@
       "nfl_team": "JAX",
       "nflverse_id": "00-0036971",
       "primary_event_ids": [
+        "news:3b9d6414a1171fcc45c64129",
         "news:49048d9f1fb646fb7bebf8e0",
         "news:52b8520bbb27ec21ff889a47",
         "news:8154dd7bb6d1d623d3dbb846",
