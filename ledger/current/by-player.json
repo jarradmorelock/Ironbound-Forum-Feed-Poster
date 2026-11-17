@@ -1299,6 +1299,18 @@
         "news:8c467bcd904f634d171326e0"
       ]
     },
+    "00-0033553": {
+      "event_ids": [
+        "news:24c209112213bb2988a2ce3b"
+      ],
+      "name": "James Conner",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0033553",
+      "primary_event_ids": [
+        "news:24c209112213bb2988a2ce3b"
+      ],
+      "related_event_ids": []
+    },
     "00-0033555": {
       "event_ids": [
         "news:10b0ba6e7e859a7dc3ff2e17",
