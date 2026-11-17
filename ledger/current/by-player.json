@@ -9128,13 +9128,15 @@
     "00-0040189": {
       "event_ids": [
         "news:6694d21e8c9ec5386edb48a5",
-        "news:7fa453d2ef249eed23b9399e"
+        "news:7fa453d2ef249eed23b9399e",
+        "news:f32d940911f3fa426419f0d5"
       ],
       "name": "Oronde Gadsden II",
       "nfl_team": "LAC",
       "nflverse_id": "00-0040189",
       "primary_event_ids": [
-        "news:6694d21e8c9ec5386edb48a5"
+        "news:6694d21e8c9ec5386edb48a5",
+        "news:f32d940911f3fa426419f0d5"
       ],
       "related_event_ids": [
         "news:7fa453d2ef249eed23b9399e"
