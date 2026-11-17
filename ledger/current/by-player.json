@@ -2202,6 +2202,18 @@
         "news:7e8d80e70af763822ed0e972"
       ]
     },
+    "00-0035166": {
+      "event_ids": [
+        "news:3f06b674108d5bad44a7eecc"
+      ],
+      "name": "Azeez Al-Shaair",
+      "nfl_team": "HOU",
+      "nflverse_id": "00-0035166",
+      "primary_event_ids": [
+        "news:3f06b674108d5bad44a7eecc"
+      ],
+      "related_event_ids": []
+    },
     "00-0035228": {
       "event_ids": [
         "news:0f7c9a1f2689faef2396548f",
