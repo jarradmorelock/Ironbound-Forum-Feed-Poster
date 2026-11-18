@@ -3140,6 +3140,7 @@
       "event_ids": [
         "news:98054b2e4f8d13b9c2096ff2",
         "news:b56a02a300ca5cc2327d4adb",
+        "news:d98d0ae223aa9265508d8d02",
         "news:f675bf2563d04df96fa94565"
       ],
       "name": "Brandon Aiyuk",
@@ -3147,6 +3148,7 @@
       "nflverse_id": "00-0036261",
       "primary_event_ids": [
         "news:b56a02a300ca5cc2327d4adb",
+        "news:d98d0ae223aa9265508d8d02",
         "news:f675bf2563d04df96fa94565"
       ],
       "related_event_ids": [
