@@ -7411,6 +7411,7 @@
         "news:ba7d5066dbd7695a7b26b311",
         "news:c4a7d10464dba60d73f99799",
         "news:ccea94471cd7f7df6f700320",
+        "news:de58f26a8c0920ad63acfbf5",
         "news:e06da0ba1bf709b77824619c",
         "news:e5895bf19e27c967de0506e2",
         "news:f6bb28c9e3b84eb587e0a47a"
@@ -7428,6 +7429,7 @@
         "news:ba7d5066dbd7695a7b26b311",
         "news:c4a7d10464dba60d73f99799",
         "news:ccea94471cd7f7df6f700320",
+        "news:de58f26a8c0920ad63acfbf5",
         "news:e06da0ba1bf709b77824619c",
         "news:e5895bf19e27c967de0506e2",
         "news:f6bb28c9e3b84eb587e0a47a"
@@ -9367,6 +9369,7 @@
       "event_ids": [
         "news:625ec4b9a0058775beddc9c2",
         "news:d3a8e6bc3263e656f695bbaf",
+        "news:de58f26a8c0920ad63acfbf5",
         "news:e697eb7758d94acaec5c2b60"
       ],
       "name": "Kobee Minor",
@@ -9376,6 +9379,7 @@
       "related_event_ids": [
         "news:625ec4b9a0058775beddc9c2",
         "news:d3a8e6bc3263e656f695bbaf",
+        "news:de58f26a8c0920ad63acfbf5",
         "news:e697eb7758d94acaec5c2b60"
       ]
     },
@@ -10558,6 +10562,7 @@
         "news:324a2fef4c2d9b6e9dfe64ce",
         "news:8356ff64046ba8084c4647ee",
         "news:c03d7b974d3ab9934fa952f1",
+        "news:de58f26a8c0920ad63acfbf5",
         "news:e697eb7758d94acaec5c2b60"
       ],
       "name": "Emmett Johnson",
@@ -10566,6 +10571,7 @@
       "primary_event_ids": [
         "news:324a2fef4c2d9b6e9dfe64ce",
         "news:8356ff64046ba8084c4647ee",
+        "news:de58f26a8c0920ad63acfbf5",
         "news:e697eb7758d94acaec5c2b60"
       ],
       "related_event_ids": [
@@ -11635,6 +11641,7 @@
         "news:412bcf2b0d44e5b3a7a42921",
         "news:ba7d5066dbd7695a7b26b311",
         "news:ccea94471cd7f7df6f700320",
+        "news:de58f26a8c0920ad63acfbf5",
         "news:e06da0ba1bf709b77824619c",
         "news:f6bb28c9e3b84eb587e0a47a"
       ],
@@ -11649,6 +11656,7 @@
         "news:19e2b04a3c04550c4c11d5b2",
         "news:ba7d5066dbd7695a7b26b311",
         "news:ccea94471cd7f7df6f700320",
+        "news:de58f26a8c0920ad63acfbf5",
         "news:e06da0ba1bf709b77824619c"
       ]
     },
