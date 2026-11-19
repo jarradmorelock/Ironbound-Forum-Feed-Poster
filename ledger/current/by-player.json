@@ -656,13 +656,15 @@
         "news:303c972e64ef85754c49f9df",
         "news:83c1fbc03829c88a880dd418",
         "news:90014f38488688f462774c0f",
+        "news:93f38174e7d6885f96ed1064",
         "news:e4937fe20d6150579bcafd69"
       ],
       "name": "Darren Waller",
       "nfl_team": "CAR",
       "nflverse_id": "00-0031610",
       "primary_event_ids": [
-        "news:90014f38488688f462774c0f"
+        "news:90014f38488688f462774c0f",
+        "news:93f38174e7d6885f96ed1064"
       ],
       "related_event_ids": [
         "news:303c972e64ef85754c49f9df",
@@ -4264,6 +4266,7 @@
     "00-0037005": {
       "event_ids": [
         "news:90014f38488688f462774c0f",
+        "news:93f38174e7d6885f96ed1064",
         "news:e4937fe20d6150579bcafd69"
       ],
       "name": "Tommy Tremble",
@@ -4273,7 +4276,8 @@
         "news:e4937fe20d6150579bcafd69"
       ],
       "related_event_ids": [
-        "news:90014f38488688f462774c0f"
+        "news:90014f38488688f462774c0f",
+        "news:93f38174e7d6885f96ed1064"
       ]
     },
     "00-0037075": {
