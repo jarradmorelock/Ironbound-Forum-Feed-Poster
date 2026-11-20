@@ -2826,6 +2826,7 @@
         "news:6f01e21d0163d719d2877e3b",
         "news:ac0f5b783e106fa472ccb883",
         "news:c6fd516e467b8f96471c7f56",
+        "news:ce1e9abd54a18b133acda32a",
         "news:e95843dbba719fa986e464b4"
       ],
       "name": "Daniel Jones",
@@ -2837,6 +2838,7 @@
         "news:6f01e21d0163d719d2877e3b",
         "news:ac0f5b783e106fa472ccb883",
         "news:c6fd516e467b8f96471c7f56",
+        "news:ce1e9abd54a18b133acda32a",
         "news:e95843dbba719fa986e464b4"
       ],
       "related_event_ids": [
@@ -6993,6 +6995,18 @@
       "related_event_ids": [
         "news:37e02e92c6ca16fb937017bc",
         "news:7dda0269bbe040f81762fbe9"
+      ]
+    },
+    "00-0039164": {
+      "event_ids": [
+        "news:ce1e9abd54a18b133acda32a"
+      ],
+      "name": "Anthony Richardson",
+      "nfl_team": "IND",
+      "nflverse_id": "00-0039164",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:ce1e9abd54a18b133acda32a"
       ]
     },
     "00-0039165": {
