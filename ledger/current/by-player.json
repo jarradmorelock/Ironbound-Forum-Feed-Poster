@@ -2822,6 +2822,7 @@
         "news:4e25cb368a8430bb0033e84c",
         "news:50fb80cecfadf520a46d86ce",
         "news:5b059c842ec4391fc1eaa5e0",
+        "news:692f47608006799d05ea5f15",
         "news:6c938f124ba297c9726fa3b2",
         "news:6f01e21d0163d719d2877e3b",
         "news:ac0f5b783e106fa472ccb883",
@@ -2845,6 +2846,7 @@
         "news:2ae86ca2f1bec9de3f2c08df",
         "news:50fb80cecfadf520a46d86ce",
         "news:5b059c842ec4391fc1eaa5e0",
+        "news:692f47608006799d05ea5f15",
         "news:6c938f124ba297c9726fa3b2"
       ]
     },
@@ -6999,12 +7001,15 @@
     },
     "00-0039164": {
       "event_ids": [
+        "news:692f47608006799d05ea5f15",
         "news:ce1e9abd54a18b133acda32a"
       ],
       "name": "Anthony Richardson",
       "nfl_team": "IND",
       "nflverse_id": "00-0039164",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:692f47608006799d05ea5f15"
+      ],
       "related_event_ids": [
         "news:ce1e9abd54a18b133acda32a"
       ]
