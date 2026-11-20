@@ -664,6 +664,7 @@
     "00-0031610": {
       "event_ids": [
         "news:303c972e64ef85754c49f9df",
+        "news:46be7615e447d9b7e700b6c5",
         "news:83c1fbc03829c88a880dd418",
         "news:90014f38488688f462774c0f",
         "news:93f38174e7d6885f96ed1064",
@@ -674,6 +675,7 @@
       "nfl_team": "CAR",
       "nflverse_id": "00-0031610",
       "primary_event_ids": [
+        "news:46be7615e447d9b7e700b6c5",
         "news:90014f38488688f462774c0f",
         "news:93f38174e7d6885f96ed1064",
         "news:be6ae8dc16e5c91330663264"
@@ -4289,6 +4291,7 @@
     },
     "00-0037005": {
       "event_ids": [
+        "news:46be7615e447d9b7e700b6c5",
         "news:90014f38488688f462774c0f",
         "news:93f38174e7d6885f96ed1064",
         "news:e4937fe20d6150579bcafd69"
@@ -4300,6 +4303,7 @@
         "news:e4937fe20d6150579bcafd69"
       ],
       "related_event_ids": [
+        "news:46be7615e447d9b7e700b6c5",
         "news:90014f38488688f462774c0f",
         "news:93f38174e7d6885f96ed1064"
       ]
