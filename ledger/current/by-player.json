@@ -3073,6 +3073,7 @@
         "news:4c25ef588374d6e7b428df17",
         "news:5ec87c15cbb828c3da950dd0",
         "news:7424e31b354ddaa5d2e91e74",
+        "news:8caaa09c2e67b5443e95b9c5",
         "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:c935723d18fc114b33f4716e"
@@ -3088,6 +3089,7 @@
         "news:4c25ef588374d6e7b428df17",
         "news:5ec87c15cbb828c3da950dd0",
         "news:7424e31b354ddaa5d2e91e74",
+        "news:8caaa09c2e67b5443e95b9c5",
         "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:c935723d18fc114b33f4716e"
@@ -4791,6 +4793,7 @@
       "event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
         "news:3c46b81fd56af8c5c5953492",
+        "news:8caaa09c2e67b5443e95b9c5",
         "news:ac7e41d3cbdc08610ce8fce3",
         "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
@@ -4805,6 +4808,7 @@
       "related_event_ids": [
         "news:239837ab85a1ad6d0d3b3a3b",
         "news:3c46b81fd56af8c5c5953492",
+        "news:8caaa09c2e67b5443e95b9c5",
         "news:ac7e41d3cbdc08610ce8fce3",
         "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
@@ -9231,6 +9235,7 @@
     },
     "00-0040179": {
       "event_ids": [
+        "news:8caaa09c2e67b5443e95b9c5",
         "news:c935723d18fc114b33f4716e"
       ],
       "name": "DJ Giddens",
@@ -9238,6 +9243,7 @@
       "nflverse_id": "00-0040179",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:8caaa09c2e67b5443e95b9c5",
         "news:c935723d18fc114b33f4716e"
       ]
     },
@@ -11128,6 +11134,7 @@
     "00-0041125": {
       "event_ids": [
         "news:57a6f9bb324339bfb3af60d7",
+        "news:8caaa09c2e67b5443e95b9c5",
         "news:bc80943a23b2022ff233ded4",
         "news:c935723d18fc114b33f4716e"
       ],
@@ -11138,6 +11145,7 @@
         "news:57a6f9bb324339bfb3af60d7"
       ],
       "related_event_ids": [
+        "news:8caaa09c2e67b5443e95b9c5",
         "news:bc80943a23b2022ff233ded4",
         "news:c935723d18fc114b33f4716e"
       ]
