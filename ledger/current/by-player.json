@@ -503,6 +503,7 @@
         "news:50eef1803a2c7aa9f656122c",
         "news:511abae8e8c3ec8722a3a477",
         "news:6ae5270ff8537e3c031e27b9",
+        "news:83d1b4ed2d74077ededa50d1",
         "news:98a08e420bde6125b8d7564c",
         "news:9e646fd38e82bfa527734fb6",
         "news:a8f49316ff9fdc834e34986c",
@@ -532,6 +533,7 @@
       "related_event_ids": [
         "news:3c5c5ca6dec173b19a326007",
         "news:50eef1803a2c7aa9f656122c",
+        "news:83d1b4ed2d74077ededa50d1",
         "news:9e646fd38e82bfa527734fb6",
         "news:a8f49316ff9fdc834e34986c",
         "news:c06d338f137d69630d1af83d",
@@ -6817,6 +6819,7 @@
         "news:6afb8db4391cf69830588672",
         "news:6f4a6a7d9c6ad6cc40a397f5",
         "news:8291262d1afc3be901df158e",
+        "news:83d1b4ed2d74077ededa50d1",
         "news:911a0897b81fab0b969f877f",
         "news:913c193c4cff7f8342a9eb4d",
         "news:9e646fd38e82bfa527734fb6",
@@ -6838,6 +6841,7 @@
         "news:6afb8db4391cf69830588672",
         "news:6f4a6a7d9c6ad6cc40a397f5",
         "news:8291262d1afc3be901df158e",
+        "news:83d1b4ed2d74077ededa50d1",
         "news:911a0897b81fab0b969f877f",
         "news:913c193c4cff7f8342a9eb4d",
         "news:a8f49316ff9fdc834e34986c",
@@ -8047,6 +8051,7 @@
         "news:8233edc43b0a760bf3e7fd24",
         "news:828e3d49c915b104a7d7663d",
         "news:83207a6aa40194c3247d2854",
+        "news:83d1b4ed2d74077ededa50d1",
         "news:843ada56f66d94cd18c5ba41",
         "news:861af8d722f1e28b50664228",
         "news:88d2236120e657d740d949f4",
@@ -8210,6 +8215,7 @@
         "news:8233edc43b0a760bf3e7fd24",
         "news:828e3d49c915b104a7d7663d",
         "news:83207a6aa40194c3247d2854",
+        "news:83d1b4ed2d74077ededa50d1",
         "news:843ada56f66d94cd18c5ba41",
         "news:861af8d722f1e28b50664228",
         "news:88d2236120e657d740d949f4",
@@ -10405,6 +10411,7 @@
       "event_ids": [
         "news:50eef1803a2c7aa9f656122c",
         "news:783727359ecbac555c2eeda9",
+        "news:83d1b4ed2d74077ededa50d1",
         "news:9554ed0a5414641b7e77d1d2",
         "news:b888072c6bdf7d93f0e5384a",
         "news:d96a0f1e456c2d77344a5a96",
@@ -10421,7 +10428,9 @@
         "news:d96a0f1e456c2d77344a5a96",
         "news:ebf502507b3637e684b095cb"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:83d1b4ed2d74077ededa50d1"
+      ]
     },
     "00-0040743": {
       "event_ids": [
