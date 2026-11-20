@@ -3261,6 +3261,7 @@
         "news:5c30216f8cd3681726b76524",
         "news:69a5d2f9161632304156d073",
         "news:9eb57c758e1284eb3228b89a",
+        "news:a828c941f84db1c8a56bdc03",
         "news:ab538bb9e0256b6932cbfa10",
         "news:b0049374b66a2d3d9a42519e"
       ],
@@ -3271,6 +3272,7 @@
         "news:322740cd8ad79ba067ae6dea",
         "news:5c30216f8cd3681726b76524",
         "news:9eb57c758e1284eb3228b89a",
+        "news:a828c941f84db1c8a56bdc03",
         "news:b0049374b66a2d3d9a42519e"
       ],
       "related_event_ids": [
@@ -6810,7 +6812,8 @@
     "00-0039066": {
       "event_ids": [
         "news:253cfe541bb838400006109b",
-        "news:5a04300dd162cdb97d19a817"
+        "news:5a04300dd162cdb97d19a817",
+        "news:a828c941f84db1c8a56bdc03"
       ],
       "name": "Michael Mayer",
       "nfl_team": "LV",
@@ -6819,7 +6822,8 @@
         "news:253cfe541bb838400006109b"
       ],
       "related_event_ids": [
-        "news:5a04300dd162cdb97d19a817"
+        "news:5a04300dd162cdb97d19a817",
+        "news:a828c941f84db1c8a56bdc03"
       ]
     },
     "00-0039067": {
@@ -9477,6 +9481,7 @@
         "news:5b1eaa671992c3525ba19550",
         "news:6943f187480d9ee5b38060ba",
         "news:69a5d2f9161632304156d073",
+        "news:a828c941f84db1c8a56bdc03",
         "news:ab538bb9e0256b6932cbfa10",
         "news:d2d8001f1be204f1d6f83d62",
         "news:d5ad702726b68238c7536749",
@@ -9501,7 +9506,8 @@
         "news:d8b6331c93cfd902c116075b"
       ],
       "related_event_ids": [
-        "news:322740cd8ad79ba067ae6dea"
+        "news:322740cd8ad79ba067ae6dea",
+        "news:a828c941f84db1c8a56bdc03"
       ]
     },
     "00-0040237": {
