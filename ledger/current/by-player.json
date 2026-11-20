@@ -11768,13 +11768,15 @@
     "00-0041525": {
       "event_ids": [
         "news:3cc617f09540da3a63665473",
-        "news:74dcee00f3673cba97c69310"
+        "news:74dcee00f3673cba97c69310",
+        "news:a499f718cfea4b07343569a2"
       ],
       "name": "Chris Bell",
       "nfl_team": "MIA",
       "nflverse_id": "00-0041525",
       "primary_event_ids": [
-        "news:3cc617f09540da3a63665473"
+        "news:3cc617f09540da3a63665473",
+        "news:a499f718cfea4b07343569a2"
       ],
       "related_event_ids": [
         "news:74dcee00f3673cba97c69310"
