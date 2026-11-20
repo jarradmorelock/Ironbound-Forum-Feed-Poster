@@ -5139,6 +5139,7 @@
         "news:0241d79d697dfc845320b27e",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0be066d0322c1c4e569b2f60",
+        "news:1375b2c00aa0252b8a83bd10",
         "news:169a17bb9a2fb0774de2f48d",
         "news:1b4958d2900deb0d24d6ad1e",
         "news:2a359f50bef122df69bffef6",
@@ -5182,6 +5183,7 @@
       "nfl_team": "NYG",
       "nflverse_id": "00-0037838",
       "primary_event_ids": [
+        "news:1375b2c00aa0252b8a83bd10",
         "news:3bc51ab6efac3d2572b86e63",
         "news:db3e642a6c70f2809524a2c0",
         "news:e25fc6fe0048b0523bbcd494",
