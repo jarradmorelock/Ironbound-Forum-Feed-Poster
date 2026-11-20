@@ -40,6 +40,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0026300": {
+      "event_ids": [
+        "news:c9ef0b7feb36ab9d70f92392"
+      ],
+      "name": "Josh Johnson",
+      "nfl_team": "ARI",
+      "nflverse_id": "00-0026300",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:c9ef0b7feb36ab9d70f92392"
+      ]
+    },
     "00-0026498": {
       "event_ids": [
         "news:0d6e90509e44e61d90b288ee",
@@ -456,7 +468,8 @@
     "00-0031177": {
       "event_ids": [
         "news:300b75527cd31896998252fc",
-        "news:93bce5eb947aabcf5cd03fbb"
+        "news:93bce5eb947aabcf5cd03fbb",
+        "news:c9ef0b7feb36ab9d70f92392"
       ],
       "name": "Brent Urban",
       "nfl_team": "BAL",
@@ -464,7 +477,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:300b75527cd31896998252fc",
-        "news:93bce5eb947aabcf5cd03fbb"
+        "news:93bce5eb947aabcf5cd03fbb",
+        "news:c9ef0b7feb36ab9d70f92392"
       ]
     },
     "00-0031235": {
@@ -7515,6 +7529,7 @@
         "news:a7cc68606e80733c87f2949d",
         "news:ba7d5066dbd7695a7b26b311",
         "news:c4a7d10464dba60d73f99799",
+        "news:c9ef0b7feb36ab9d70f92392",
         "news:ccea94471cd7f7df6f700320",
         "news:de58f26a8c0920ad63acfbf5",
         "news:e06da0ba1bf709b77824619c",
@@ -7534,6 +7549,7 @@
         "news:a7cc68606e80733c87f2949d",
         "news:ba7d5066dbd7695a7b26b311",
         "news:c4a7d10464dba60d73f99799",
+        "news:c9ef0b7feb36ab9d70f92392",
         "news:ccea94471cd7f7df6f700320",
         "news:de58f26a8c0920ad63acfbf5",
         "news:e06da0ba1bf709b77824619c",
@@ -11803,6 +11819,7 @@
         "news:412bcf2b0d44e5b3a7a42921",
         "news:589dd6e08b7924e15963456f",
         "news:ba7d5066dbd7695a7b26b311",
+        "news:c9ef0b7feb36ab9d70f92392",
         "news:ccea94471cd7f7df6f700320",
         "news:de58f26a8c0920ad63acfbf5",
         "news:e06da0ba1bf709b77824619c",
@@ -11814,6 +11831,7 @@
       "primary_event_ids": [
         "news:412bcf2b0d44e5b3a7a42921",
         "news:589dd6e08b7924e15963456f",
+        "news:c9ef0b7feb36ab9d70f92392",
         "news:f6bb28c9e3b84eb587e0a47a"
       ],
       "related_event_ids": [
