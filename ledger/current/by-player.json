@@ -3187,12 +3187,15 @@
     "00-0036259": {
       "event_ids": [
         "news:60539261ea94091926cabbce",
+        "news:72b66bcd784a37da472816d8",
         "news:88de2296c7b4f1bc0fcf3832"
       ],
       "name": "Jauan Jennings",
       "nfl_team": "MIN",
       "nflverse_id": "00-0036259",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:72b66bcd784a37da472816d8"
+      ],
       "related_event_ids": [
         "news:60539261ea94091926cabbce",
         "news:88de2296c7b4f1bc0fcf3832"
@@ -3314,6 +3317,7 @@
         "news:48db2a78679616083a10bce3",
         "news:5e6f597c07d6d7fc7961f2ae",
         "news:60539261ea94091926cabbce",
+        "news:72b66bcd784a37da472816d8",
         "news:86f2098221edc5a2512651a6",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89c839b2bee424de14f9e01a",
@@ -3339,6 +3343,7 @@
         "news:1e0a548b9d0c28f826e5c8f1",
         "news:2683d461c2bc57d4335cb663",
         "news:60539261ea94091926cabbce",
+        "news:72b66bcd784a37da472816d8",
         "news:86f2098221edc5a2512651a6",
         "news:93c9bdb7d3cc5250b3ef7a55"
       ]
@@ -9274,6 +9279,7 @@
       "event_ids": [
         "news:2683d461c2bc57d4335cb663",
         "news:60539261ea94091926cabbce",
+        "news:72b66bcd784a37da472816d8",
         "news:88de2296c7b4f1bc0fcf3832"
       ],
       "name": "Tai Felton",
@@ -9283,6 +9289,7 @@
       "related_event_ids": [
         "news:2683d461c2bc57d4335cb663",
         "news:60539261ea94091926cabbce",
+        "news:72b66bcd784a37da472816d8",
         "news:88de2296c7b4f1bc0fcf3832"
       ]
     },
@@ -9738,7 +9745,8 @@
     "00-0040506": {
       "event_ids": [
         "news:2683d461c2bc57d4335cb663",
-        "news:60539261ea94091926cabbce"
+        "news:60539261ea94091926cabbce",
+        "news:72b66bcd784a37da472816d8"
       ],
       "name": "Myles Price",
       "nfl_team": "MIN",
@@ -9746,7 +9754,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:2683d461c2bc57d4335cb663",
-        "news:60539261ea94091926cabbce"
+        "news:60539261ea94091926cabbce",
+        "news:72b66bcd784a37da472816d8"
       ]
     },
     "00-0040509": {
@@ -11152,6 +11161,7 @@
         "news:48db2a78679616083a10bce3",
         "news:5e6f597c07d6d7fc7961f2ae",
         "news:60539261ea94091926cabbce",
+        "news:72b66bcd784a37da472816d8",
         "news:86f2098221edc5a2512651a6",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89c839b2bee424de14f9e01a",
@@ -11171,6 +11181,7 @@
         "news:48db2a78679616083a10bce3",
         "news:5e6f597c07d6d7fc7961f2ae",
         "news:60539261ea94091926cabbce",
+        "news:72b66bcd784a37da472816d8",
         "news:86f2098221edc5a2512651a6",
         "news:88de2296c7b4f1bc0fcf3832",
         "news:89c839b2bee424de14f9e01a",
