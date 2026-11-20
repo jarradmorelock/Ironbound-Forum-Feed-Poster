@@ -2727,14 +2727,16 @@
     },
     "00-0035689": {
       "event_ids": [
-        "news:ab6df1f6093f58a6e20885b0"
+        "news:ab6df1f6093f58a6e20885b0",
+        "news:fe1df98940c691861f718c40"
       ],
       "name": "Dawson Knox",
       "nfl_team": "BUF",
       "nflverse_id": "00-0035689",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:ab6df1f6093f58a6e20885b0"
+        "news:ab6df1f6093f58a6e20885b0",
+        "news:fe1df98940c691861f718c40"
       ]
     },
     "00-0035700": {
@@ -6477,7 +6479,8 @@
         "news:be1dfef03bc5d869c82fffac",
         "news:c0441eef81b07cb7687a0c82",
         "news:cded60400ca8a416876dc381",
-        "news:e146120bc85e4a8b78bc0c10"
+        "news:e146120bc85e4a8b78bc0c10",
+        "news:fe1df98940c691861f718c40"
       ],
       "name": "Dalton Kincaid",
       "nfl_team": "BUF",
@@ -6493,7 +6496,8 @@
         "news:be1dfef03bc5d869c82fffac",
         "news:c0441eef81b07cb7687a0c82",
         "news:cded60400ca8a416876dc381",
-        "news:e146120bc85e4a8b78bc0c10"
+        "news:e146120bc85e4a8b78bc0c10",
+        "news:fe1df98940c691861f718c40"
       ],
       "related_event_ids": []
     },
@@ -7369,7 +7373,8 @@
         "news:ecedde8756b5e29e431e3615",
         "news:f1d9483082614076b9023f0a",
         "news:f3f56ad52d065880a1c5bae4",
-        "news:f7f33662cad1320714fb0a05"
+        "news:f7f33662cad1320714fb0a05",
+        "news:fe1df98940c691861f718c40"
       ],
       "name": "Tarheeb Still",
       "nfl_team": "LAC",
@@ -7443,7 +7448,8 @@
         "news:ecedde8756b5e29e431e3615",
         "news:f1d9483082614076b9023f0a",
         "news:f3f56ad52d065880a1c5bae4",
-        "news:f7f33662cad1320714fb0a05"
+        "news:f7f33662cad1320714fb0a05",
+        "news:fe1df98940c691861f718c40"
       ]
     },
     "00-0039373": {
