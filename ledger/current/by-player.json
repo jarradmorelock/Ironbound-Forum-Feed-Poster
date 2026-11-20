@@ -5207,6 +5207,7 @@
         "news:db3e642a6c70f2809524a2c0",
         "news:e25fc6fe0048b0523bbcd494",
         "news:ebd5511d70c6dd1e4c9df5aa",
+        "news:ec75139fc434d962c2a915be",
         "news:f155a70f6a8be534de3d5cb6",
         "news:f850f80b541b98b00e6feffd",
         "news:fac0c1ec37a88fbbd9c5500c",
@@ -5257,6 +5258,7 @@
         "news:d7ab48d8bdae70a90ff03499",
         "news:d9e943bd280b4c695fce45d7",
         "news:ebd5511d70c6dd1e4c9df5aa",
+        "news:ec75139fc434d962c2a915be",
         "news:f155a70f6a8be534de3d5cb6",
         "news:f850f80b541b98b00e6feffd",
         "news:fac0c1ec37a88fbbd9c5500c",
@@ -5625,7 +5627,8 @@
         "news:c03d7b974d3ab9934fa952f1",
         "news:d12c9ce6bccdbdf301ca2915",
         "news:d7b4005ee2803b39b1aead49",
-        "news:e697eb7758d94acaec5c2b60"
+        "news:e697eb7758d94acaec5c2b60",
+        "news:ec75139fc434d962c2a915be"
       ],
       "name": "Kenneth Walker III",
       "nfl_team": "KC",
@@ -5637,7 +5640,8 @@
         "news:8a57f4e49574e754bcdced58",
         "news:b525fda2cf8838652e4acc01",
         "news:c03d7b974d3ab9934fa952f1",
-        "news:d12c9ce6bccdbdf301ca2915"
+        "news:d12c9ce6bccdbdf301ca2915",
+        "news:ec75139fc434d962c2a915be"
       ],
       "related_event_ids": [
         "news:d7b4005ee2803b39b1aead49",
@@ -7116,6 +7120,7 @@
         "news:9885d87be456777f0da55d84",
         "news:9c3ccaab151d5df3e227380f",
         "news:a2fa5e03bedd4193180f2463",
+        "news:ec75139fc434d962c2a915be",
         "news:f395071e7cb09c106972cb76",
         "news:fa487a7c46e9de65537ee304"
       ],
@@ -7135,6 +7140,7 @@
         "news:9885d87be456777f0da55d84",
         "news:9c3ccaab151d5df3e227380f",
         "news:a2fa5e03bedd4193180f2463",
+        "news:ec75139fc434d962c2a915be",
         "news:f395071e7cb09c106972cb76",
         "news:fa487a7c46e9de65537ee304"
       ]
