@@ -4363,6 +4363,7 @@
     },
     "00-0037075": {
       "event_ids": [
+        "news:004dc6e9f8c0b3f91ddf3791",
         "news:0a8579df28626c6a8fcc2a33"
       ],
       "name": "Devonte Wyatt",
@@ -4370,6 +4371,7 @@
       "nflverse_id": "00-0037075",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:004dc6e9f8c0b3f91ddf3791",
         "news:0a8579df28626c6a8fcc2a33"
       ]
     },
@@ -6744,6 +6746,7 @@
     },
     "00-0039032": {
       "event_ids": [
+        "news:004dc6e9f8c0b3f91ddf3791",
         "news:265b96a6d5b429b2598e9c2f",
         "news:2895c73454026dda022593e1",
         "news:54c67af945eff0eedfa01598",
@@ -6758,6 +6761,7 @@
       "nfl_team": "TEN",
       "nflverse_id": "00-0039032",
       "primary_event_ids": [
+        "news:004dc6e9f8c0b3f91ddf3791",
         "news:265b96a6d5b429b2598e9c2f",
         "news:5c3a9480de4cf85d434eeac3",
         "news:63a0c049f8b5b03cf42fb0a6",
