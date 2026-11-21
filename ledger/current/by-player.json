@@ -2761,6 +2761,7 @@
         "news:5f05e273559c9f87b7d81612",
         "news:8e36d884882d4963eaaabe8a",
         "news:98901a4417050a348bfb0d25",
+        "news:a2dd3a54d75f9e8d80d543b2",
         "news:a494b59eb7aafdf48c752702",
         "news:ac5a6e6fcff183d8b037e1b0",
         "news:b00fe500928b6ba176035c17",
@@ -2780,6 +2781,7 @@
         "news:55f0ddd3bcf55475132e328a",
         "news:5f05e273559c9f87b7d81612",
         "news:8e36d884882d4963eaaabe8a",
+        "news:a2dd3a54d75f9e8d80d543b2",
         "news:a494b59eb7aafdf48c752702",
         "news:ac5a6e6fcff183d8b037e1b0",
         "news:b00fe500928b6ba176035c17",
@@ -2802,6 +2804,7 @@
         "news:862ba75bf952e53c4c71f35e",
         "news:9430870e9a2c9f307feccdd5",
         "news:9885d87be456777f0da55d84",
+        "news:a2dd3a54d75f9e8d80d543b2",
         "news:a2fa5e03bedd4193180f2463",
         "news:d6db9404987194ab355f5b04",
         "news:f395071e7cb09c106972cb76",
@@ -2823,6 +2826,7 @@
         "news:84caab201fe7e7a5274c010d",
         "news:862ba75bf952e53c4c71f35e",
         "news:9885d87be456777f0da55d84",
+        "news:a2dd3a54d75f9e8d80d543b2",
         "news:a2fa5e03bedd4193180f2463",
         "news:fa487a7c46e9de65537ee304"
       ]
@@ -5445,6 +5449,7 @@
         "news:55f0ddd3bcf55475132e328a",
         "news:5f05e273559c9f87b7d81612",
         "news:92a3526575adb4427a9a156d",
+        "news:a2dd3a54d75f9e8d80d543b2",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
       ],
@@ -5458,6 +5463,7 @@
         "news:55f0ddd3bcf55475132e328a",
         "news:5f05e273559c9f87b7d81612",
         "news:92a3526575adb4427a9a156d",
+        "news:a2dd3a54d75f9e8d80d543b2",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
       ]
@@ -6341,7 +6347,8 @@
       "event_ids": [
         "news:52348d293ed1eaf305235013",
         "news:5f05e273559c9f87b7d81612",
-        "news:92a3526575adb4427a9a156d"
+        "news:92a3526575adb4427a9a156d",
+        "news:a2dd3a54d75f9e8d80d543b2"
       ],
       "name": "Chris Brooks",
       "nfl_team": "GB",
@@ -6351,7 +6358,8 @@
         "news:92a3526575adb4427a9a156d"
       ],
       "related_event_ids": [
-        "news:5f05e273559c9f87b7d81612"
+        "news:5f05e273559c9f87b7d81612",
+        "news:a2dd3a54d75f9e8d80d543b2"
       ]
     },
     "00-0038705": {
@@ -8077,6 +8085,7 @@
         "news:5f05e273559c9f87b7d81612",
         "news:92a3526575adb4427a9a156d",
         "news:98901a4417050a348bfb0d25",
+        "news:a2dd3a54d75f9e8d80d543b2",
         "news:ae3ace98b22da3a1508191e2",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
@@ -8097,6 +8106,7 @@
         "news:5f05e273559c9f87b7d81612",
         "news:92a3526575adb4427a9a156d",
         "news:98901a4417050a348bfb0d25",
+        "news:a2dd3a54d75f9e8d80d543b2",
         "news:ff0b7800a79dd5d2a0d06b84"
       ]
     },
@@ -9302,6 +9312,7 @@
         "news:8a04d508618a5eb5e4a0227d",
         "news:92a3526575adb4427a9a156d",
         "news:98901a4417050a348bfb0d25",
+        "news:a2dd3a54d75f9e8d80d543b2",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
       ],
@@ -9317,6 +9328,7 @@
         "news:52348d293ed1eaf305235013",
         "news:5f05e273559c9f87b7d81612",
         "news:92a3526575adb4427a9a156d",
+        "news:a2dd3a54d75f9e8d80d543b2",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
       ]
