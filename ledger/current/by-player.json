@@ -5374,6 +5374,18 @@
         "news:5a014faee23e680dbc927577"
       ]
     },
+    "00-0038046": {
+      "event_ids": [
+        "news:9d34049fd646a134f432d4c8"
+      ],
+      "name": "Charlie Kolar",
+      "nfl_team": "LAC",
+      "nflverse_id": "00-0038046",
+      "primary_event_ids": [
+        "news:9d34049fd646a134f432d4c8"
+      ],
+      "related_event_ids": []
+    },
     "00-0038097": {
       "event_ids": [
         "news:050a8a38d8d97c3a9e29d2e3",
@@ -7404,6 +7416,7 @@
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
         "news:9c1cf8e782ae51475c047c20",
+        "news:9d34049fd646a134f432d4c8",
         "news:a0868a26c78f7e242d917a01",
         "news:a0e9f67e169976725488bd41",
         "news:a7a069d333d287918be60665",
@@ -7482,6 +7495,7 @@
         "news:97aa607eb16de384c08de908",
         "news:99525e52a7d1dd2754a23228",
         "news:9c1cf8e782ae51475c047c20",
+        "news:9d34049fd646a134f432d4c8",
         "news:a0868a26c78f7e242d917a01",
         "news:a0e9f67e169976725488bd41",
         "news:a7a069d333d287918be60665",
