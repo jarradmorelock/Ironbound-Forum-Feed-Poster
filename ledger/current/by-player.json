@@ -1254,6 +1254,7 @@
     },
     "00-0033505": {
       "event_ids": [
+        "news:035cbe3aff05f2c488cc80e0",
         "news:0d6fdad132811409af099b8a",
         "news:1424e16c6e03bb908413b725",
         "news:22547b2f90419acd100b2898",
@@ -1270,6 +1271,7 @@
       "nflverse_id": "00-0033505",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:035cbe3aff05f2c488cc80e0",
         "news:0d6fdad132811409af099b8a",
         "news:1424e16c6e03bb908413b725",
         "news:22547b2f90419acd100b2898",
@@ -2070,6 +2072,7 @@
     },
     "00-0034855": {
       "event_ids": [
+        "news:035cbe3aff05f2c488cc80e0",
         "news:08780ffd329911166146a8e5",
         "news:106c38a139dadc891e4a5db8",
         "news:280f8e0a3e271987f14f36f1",
@@ -2090,6 +2093,7 @@
       "nfl_team": "TB",
       "nflverse_id": "00-0034855",
       "primary_event_ids": [
+        "news:035cbe3aff05f2c488cc80e0",
         "news:08780ffd329911166146a8e5",
         "news:280f8e0a3e271987f14f36f1",
         "news:3d9ac5280c40accda68cfb27",
