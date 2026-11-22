@@ -3559,12 +3559,15 @@
     },
     "00-0036418": {
       "event_ids": [
-        "news:9e65e49a5297f21db4bc8217"
+        "news:9e65e49a5297f21db4bc8217",
+        "news:a1234b10ee4be6ab342dc5ed"
       ],
       "name": "Zack Baun",
       "nfl_team": "PHI",
       "nflverse_id": "00-0036418",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:a1234b10ee4be6ab342dc5ed"
+      ],
       "related_event_ids": [
         "news:9e65e49a5297f21db4bc8217"
       ]
