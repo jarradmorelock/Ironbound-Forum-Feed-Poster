@@ -1533,6 +1533,7 @@
     "00-0033906": {
       "event_ids": [
         "news:0547b66729af0d9d59a7ec08",
+        "news:12a3ffcb3ac16f5f86bbb624",
         "news:21d672797933ee5b372daed8",
         "news:2242e22878905e40d13738ec",
         "news:29091d427ea5992e62fc43dc",
@@ -1561,6 +1562,7 @@
       ],
       "related_event_ids": [
         "news:0547b66729af0d9d59a7ec08",
+        "news:12a3ffcb3ac16f5f86bbb624",
         "news:29091d427ea5992e62fc43dc",
         "news:5922f4673e0a05c7e72bcd6a"
       ]
@@ -4264,6 +4266,7 @@
     "00-0036973": {
       "event_ids": [
         "news:0d2bbac808bdf0d52cb0f22a",
+        "news:12a3ffcb3ac16f5f86bbb624",
         "news:29091d427ea5992e62fc43dc",
         "news:3877f0b50b40c37501ab26de",
         "news:5922f4673e0a05c7e72bcd6a",
@@ -4281,6 +4284,7 @@
         "news:f1d9483082614076b9023f0a"
       ],
       "related_event_ids": [
+        "news:12a3ffcb3ac16f5f86bbb624",
         "news:5922f4673e0a05c7e72bcd6a"
       ]
     },
@@ -5243,6 +5247,7 @@
         "news:0241d79d697dfc845320b27e",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0be066d0322c1c4e569b2f60",
+        "news:12a3ffcb3ac16f5f86bbb624",
         "news:1375b2c00aa0252b8a83bd10",
         "news:16780842772834a3f328d1fd",
         "news:169a17bb9a2fb0774de2f48d",
@@ -5300,6 +5305,7 @@
         "news:0241d79d697dfc845320b27e",
         "news:03c3a62cab4d3b425f7fe2f4",
         "news:0be066d0322c1c4e569b2f60",
+        "news:12a3ffcb3ac16f5f86bbb624",
         "news:16780842772834a3f328d1fd",
         "news:169a17bb9a2fb0774de2f48d",
         "news:1b4958d2900deb0d24d6ad1e",
@@ -7603,6 +7609,7 @@
     },
     "00-0039373": {
       "event_ids": [
+        "news:12a3ffcb3ac16f5f86bbb624",
         "news:29091d427ea5992e62fc43dc",
         "news:52c4bbe4441aa67811994dfd",
         "news:5922f4673e0a05c7e72bcd6a",
@@ -7613,7 +7620,9 @@
       "name": "Audric Estimé",
       "nfl_team": "MIN",
       "nflverse_id": "00-0039373",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:12a3ffcb3ac16f5f86bbb624"
+      ],
       "related_event_ids": [
         "news:29091d427ea5992e62fc43dc",
         "news:52c4bbe4441aa67811994dfd",
@@ -11599,6 +11608,7 @@
     },
     "00-0041326": {
       "event_ids": [
+        "news:12a3ffcb3ac16f5f86bbb624",
         "news:29091d427ea5992e62fc43dc",
         "news:5922f4673e0a05c7e72bcd6a",
         "news:c054c05a3c01071391612126",
@@ -11609,6 +11619,7 @@
       "nflverse_id": "00-0041326",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:12a3ffcb3ac16f5f86bbb624",
         "news:29091d427ea5992e62fc43dc",
         "news:5922f4673e0a05c7e72bcd6a",
         "news:c054c05a3c01071391612126",
