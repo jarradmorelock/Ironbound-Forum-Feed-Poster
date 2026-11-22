@@ -791,6 +791,7 @@
         "news:4e16ba7d9610528fb7d4b7a1",
         "news:57182cf36c234b5a4a315b47",
         "news:5a382e948d38177f1a19175e",
+        "news:5dbc62ef2a41b97f68d61c94",
         "news:6213a9bafc990d3c21f66ab4",
         "news:8062d95a4c59975437276aca",
         "news:d938bff7db28de7e84279193",
@@ -803,6 +804,7 @@
         "news:08bc4fa7692c9a7c714915b7",
         "news:57182cf36c234b5a4a315b47",
         "news:5a382e948d38177f1a19175e",
+        "news:5dbc62ef2a41b97f68d61c94",
         "news:6213a9bafc990d3c21f66ab4",
         "news:8062d95a4c59975437276aca",
         "news:d938bff7db28de7e84279193",
@@ -2248,7 +2250,8 @@
     },
     "00-0034975": {
       "event_ids": [
-        "news:4e16ba7d9610528fb7d4b7a1"
+        "news:4e16ba7d9610528fb7d4b7a1",
+        "news:5dbc62ef2a41b97f68d61c94"
       ],
       "name": "Justice Hill",
       "nfl_team": "BAL",
@@ -2256,7 +2259,9 @@
       "primary_event_ids": [
         "news:4e16ba7d9610528fb7d4b7a1"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:5dbc62ef2a41b97f68d61c94"
+      ]
     },
     "00-0034982": {
       "event_ids": [
@@ -8177,6 +8182,18 @@
         "news:6f922c4c117109210e14b2cd"
       ]
     },
+    "00-0039796": {
+      "event_ids": [
+        "news:5dbc62ef2a41b97f68d61c94"
+      ],
+      "name": "Rasheen Ali",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0039796",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:5dbc62ef2a41b97f68d61c94"
+      ]
+    },
     "00-0039798": {
       "event_ids": [
         "news:b455c48a909561577f23684b"
@@ -10921,6 +10938,18 @@
         "news:f3dd8c914a34d927bc360636"
       ],
       "related_event_ids": []
+    },
+    "00-0040888": {
+      "event_ids": [
+        "news:5dbc62ef2a41b97f68d61c94"
+      ],
+      "name": "Adam Randall",
+      "nfl_team": "BAL",
+      "nflverse_id": "00-0040888",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:5dbc62ef2a41b97f68d61c94"
+      ]
     },
     "00-0040890": {
       "event_ids": [
