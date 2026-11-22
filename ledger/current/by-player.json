@@ -2040,6 +2040,7 @@
         "news:cf60a0a4c3fd8f564108f112",
         "news:d9298aba647019266bcb6de0",
         "news:ded630e561fbc4a793ada303",
+        "news:fad1b76546c6e6614f4830ae",
         "news:fe91fa887b6bde416902f502"
       ],
       "name": "Saquon Barkley",
@@ -2069,7 +2070,8 @@
         "news:11a993edce3943ec0de56eca",
         "news:169a17bb9a2fb0774de2f48d",
         "news:215a662b508f4ea648a92711",
-        "news:3cee59ea0f35ec0b4ae11eab"
+        "news:3cee59ea0f35ec0b4ae11eab",
+        "news:fad1b76546c6e6614f4830ae"
       ]
     },
     "00-0034855": {
@@ -6078,7 +6080,8 @@
         "news:215a662b508f4ea648a92711",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:d9298aba647019266bcb6de0",
-        "news:ded630e561fbc4a793ada303"
+        "news:ded630e561fbc4a793ada303",
+        "news:fad1b76546c6e6614f4830ae"
       ],
       "name": "Tank Bigsby",
       "nfl_team": "PHI",
@@ -6091,7 +6094,8 @@
         "news:169a17bb9a2fb0774de2f48d",
         "news:64b0b8be152ab1fea5afb0a2",
         "news:d9298aba647019266bcb6de0",
-        "news:ded630e561fbc4a793ada303"
+        "news:ded630e561fbc4a793ada303",
+        "news:fad1b76546c6e6614f4830ae"
       ]
     },
     "00-0038558": {
@@ -7995,14 +7999,16 @@
         "news:64b0b8be152ab1fea5afb0a2",
         "news:d9298aba647019266bcb6de0",
         "news:ded630e561fbc4a793ada303",
-        "news:e5895bf19e27c967de0506e2"
+        "news:e5895bf19e27c967de0506e2",
+        "news:fad1b76546c6e6614f4830ae"
       ],
       "name": "Will Shipley",
       "nfl_team": "PHI",
       "nflverse_id": "00-0039746",
       "primary_event_ids": [
         "news:4f242df15ff3d758675796d5",
-        "news:e5895bf19e27c967de0506e2"
+        "news:e5895bf19e27c967de0506e2",
+        "news:fad1b76546c6e6614f4830ae"
       ],
       "related_event_ids": [
         "news:11a993edce3943ec0de56eca",
@@ -10015,7 +10021,8 @@
         "news:64b0b8be152ab1fea5afb0a2",
         "news:9eb60c05af3cb14438619ddc",
         "news:cf60a0a4c3fd8f564108f112",
-        "news:e64dcb5a5997838f7c452f8b"
+        "news:e64dcb5a5997838f7c452f8b",
+        "news:fad1b76546c6e6614f4830ae"
       ],
       "name": "Jaydon Blue",
       "nfl_team": "PHI",
@@ -10027,7 +10034,8 @@
         "news:64b0b8be152ab1fea5afb0a2",
         "news:9eb60c05af3cb14438619ddc",
         "news:cf60a0a4c3fd8f564108f112",
-        "news:e64dcb5a5997838f7c452f8b"
+        "news:e64dcb5a5997838f7c452f8b",
+        "news:fad1b76546c6e6614f4830ae"
       ]
     },
     "00-0040590": {
