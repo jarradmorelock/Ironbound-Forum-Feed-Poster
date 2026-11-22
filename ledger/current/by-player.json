@@ -5279,6 +5279,7 @@
         "news:504a1ced2f08d075810baa07",
         "news:58ec4b86c43a17895652584e",
         "news:69bde6b7a9fee09008eb5bba",
+        "news:7ffb2d6f761930d6760933bc",
         "news:862ba75bf952e53c4c71f35e",
         "news:86f2098221edc5a2512651a6",
         "news:8c467bcd904f634d171326e0",
@@ -5335,6 +5336,7 @@
         "news:504a1ced2f08d075810baa07",
         "news:58ec4b86c43a17895652584e",
         "news:69bde6b7a9fee09008eb5bba",
+        "news:7ffb2d6f761930d6760933bc",
         "news:862ba75bf952e53c4c71f35e",
         "news:86f2098221edc5a2512651a6",
         "news:8c467bcd904f634d171326e0",
@@ -6211,6 +6213,7 @@
     "00-0038563": {
       "event_ids": [
         "news:4bcbbf5f52b1ff63e09eae51",
+        "news:7ffb2d6f761930d6760933bc",
         "news:e17be22e451e6584c5be8b26",
         "news:e8dae8e974a2f165f1d56e1d"
       ],
@@ -6222,6 +6225,7 @@
         "news:e8dae8e974a2f165f1d56e1d"
       ],
       "related_event_ids": [
+        "news:7ffb2d6f761930d6760933bc",
         "news:e17be22e451e6584c5be8b26"
       ]
     },
@@ -6926,6 +6930,7 @@
       "event_ids": [
         "news:253cfe541bb838400006109b",
         "news:5a04300dd162cdb97d19a817",
+        "news:7ffb2d6f761930d6760933bc",
         "news:a828c941f84db1c8a56bdc03"
       ],
       "name": "Michael Mayer",
@@ -6936,6 +6941,7 @@
       ],
       "related_event_ids": [
         "news:5a04300dd162cdb97d19a817",
+        "news:7ffb2d6f761930d6760933bc",
         "news:a828c941f84db1c8a56bdc03"
       ]
     },
@@ -7360,6 +7366,7 @@
         "news:6949bf30d00a8b2b9272ff7d",
         "news:7a110410b9058fa2e27ed661",
         "news:7d7361d50039cc944bb636d3",
+        "news:7ffb2d6f761930d6760933bc",
         "news:a55118587f3fe963c96df05e",
         "news:ca200e085972368c579ddd84",
         "news:d444611723fe6e6eaf4a7fa0"
@@ -7377,6 +7384,7 @@
         "news:6949bf30d00a8b2b9272ff7d",
         "news:7a110410b9058fa2e27ed661",
         "news:7d7361d50039cc944bb636d3",
+        "news:7ffb2d6f761930d6760933bc",
         "news:a55118587f3fe963c96df05e",
         "news:ca200e085972368c579ddd84",
         "news:d444611723fe6e6eaf4a7fa0"
