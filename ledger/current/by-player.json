@@ -42,6 +42,7 @@
     },
     "00-0026300": {
       "event_ids": [
+        "news:b339fe2f6f1b03e42c4a59b6",
         "news:c9ef0b7feb36ab9d70f92392"
       ],
       "name": "Josh Johnson",
@@ -49,6 +50,7 @@
       "nflverse_id": "00-0026300",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:b339fe2f6f1b03e42c4a59b6",
         "news:c9ef0b7feb36ab9d70f92392"
       ]
     },
@@ -5055,6 +5057,7 @@
         "news:8ffb3f30b97a5d72f2323fe4",
         "news:a6b25ca9919de2eede36fd65",
         "news:aa0ce302217e3d4a05b6faf0",
+        "news:b339fe2f6f1b03e42c4a59b6",
         "news:b457898c706d76d02923def9",
         "news:dd9f111d60978f25ece66441",
         "news:e06da0ba1bf709b77824619c"
@@ -5075,7 +5078,8 @@
       ],
       "related_event_ids": [
         "news:26abdde5171014dfc5159e07",
-        "news:83d617efa24a34fc6e66221d"
+        "news:83d617efa24a34fc6e66221d",
+        "news:b339fe2f6f1b03e42c4a59b6"
       ]
     },
     "00-0037745": {
@@ -7643,6 +7647,7 @@
         "news:6f354d5a9d71cc2842d7a2e8",
         "news:89c839b2bee424de14f9e01a",
         "news:a7cc68606e80733c87f2949d",
+        "news:b339fe2f6f1b03e42c4a59b6",
         "news:ba7d5066dbd7695a7b26b311",
         "news:c4a7d10464dba60d73f99799",
         "news:c9ef0b7feb36ab9d70f92392",
@@ -7663,6 +7668,7 @@
         "news:6f354d5a9d71cc2842d7a2e8",
         "news:89c839b2bee424de14f9e01a",
         "news:a7cc68606e80733c87f2949d",
+        "news:b339fe2f6f1b03e42c4a59b6",
         "news:ba7d5066dbd7695a7b26b311",
         "news:c4a7d10464dba60d73f99799",
         "news:c9ef0b7feb36ab9d70f92392",
@@ -11990,6 +11996,7 @@
         "news:390415f6479a8f070cd9c487",
         "news:412bcf2b0d44e5b3a7a42921",
         "news:589dd6e08b7924e15963456f",
+        "news:b339fe2f6f1b03e42c4a59b6",
         "news:ba7d5066dbd7695a7b26b311",
         "news:c9ef0b7feb36ab9d70f92392",
         "news:ccea94471cd7f7df6f700320",
@@ -12003,6 +12010,7 @@
       "primary_event_ids": [
         "news:412bcf2b0d44e5b3a7a42921",
         "news:589dd6e08b7924e15963456f",
+        "news:b339fe2f6f1b03e42c4a59b6",
         "news:c9ef0b7feb36ab9d70f92392",
         "news:f6bb28c9e3b84eb587e0a47a"
       ],
