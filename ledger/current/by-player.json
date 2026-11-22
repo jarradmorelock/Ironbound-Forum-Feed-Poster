@@ -5295,6 +5295,7 @@
         "news:c8754452636392d432b83335",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:ce3e51627516baf78633b05f",
+        "news:d48bee60f3f60aa88eaff124",
         "news:d62b03ca13773a4f85a99fa3",
         "news:d7ab48d8bdae70a90ff03499",
         "news:d9e943bd280b4c695fce45d7",
@@ -5352,6 +5353,7 @@
         "news:c8754452636392d432b83335",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:ce3e51627516baf78633b05f",
+        "news:d48bee60f3f60aa88eaff124",
         "news:d62b03ca13773a4f85a99fa3",
         "news:d7ab48d8bdae70a90ff03499",
         "news:d9e943bd280b4c695fce45d7",
@@ -7369,7 +7371,8 @@
         "news:7ffb2d6f761930d6760933bc",
         "news:a55118587f3fe963c96df05e",
         "news:ca200e085972368c579ddd84",
-        "news:d444611723fe6e6eaf4a7fa0"
+        "news:d444611723fe6e6eaf4a7fa0",
+        "news:d48bee60f3f60aa88eaff124"
       ],
       "name": "Brock Bowers",
       "nfl_team": "LV",
@@ -7387,7 +7390,8 @@
         "news:7ffb2d6f761930d6760933bc",
         "news:a55118587f3fe963c96df05e",
         "news:ca200e085972368c579ddd84",
-        "news:d444611723fe6e6eaf4a7fa0"
+        "news:d444611723fe6e6eaf4a7fa0",
+        "news:d48bee60f3f60aa88eaff124"
       ],
       "related_event_ids": [
         "news:253cfe541bb838400006109b",
@@ -9892,6 +9896,18 @@
       "related_event_ids": [
         "news:2a359f50bef122df69bffef6",
         "news:c6fcd8282640881e233c2014"
+      ]
+    },
+    "00-0040488": {
+      "event_ids": [
+        "news:d48bee60f3f60aa88eaff124"
+      ],
+      "name": "Carter Runyon",
+      "nfl_team": "LV",
+      "nflverse_id": "00-0040488",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:d48bee60f3f60aa88eaff124"
       ]
     },
     "00-0040494": {
