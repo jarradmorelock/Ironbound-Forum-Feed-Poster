@@ -1,7 +1,7 @@
 {
-  "event_count": 1664,
-  "events_sha256": "3186fa4bd708a6bb828e87358cf45d01cb614aa1baa9f0e85c684441a4164ee0",
-  "generated_at": "2026-11-22T22:15:28.912150+00:00",
+  "event_count": 1665,
+  "events_sha256": "8063de37d023a3209c49af1162065c6f96459e885cb6f6ec58872f760a21e794",
+  "generated_at": "2026-11-22T22:20:32.295077+00:00",
   "ledger_type": "weekly_news_inbox",
   "player_count": 518,
   "schema_version": 2,
