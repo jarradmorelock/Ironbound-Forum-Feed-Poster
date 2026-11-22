@@ -1381,6 +1381,7 @@
         "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
         "news:17905655664514b19ca5674e",
+        "news:cb446cc591878b280f02f166",
         "news:d2330fcad3b0d124ab50a03e",
         "news:ea7d53dcc4ae950825ecd20d"
       ],
@@ -1394,6 +1395,7 @@
         "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
         "news:17905655664514b19ca5674e",
+        "news:cb446cc591878b280f02f166",
         "news:ea7d53dcc4ae950825ecd20d"
       ]
     },
@@ -1584,6 +1586,18 @@
         "news:3d9ac5280c40accda68cfb27",
         "news:b0ad59b6a8ac0734e4de2e51",
         "news:e90a9a6f2630d49747063230"
+      ]
+    },
+    "00-0033947": {
+      "event_ids": [
+        "news:cb446cc591878b280f02f166"
+      ],
+      "name": "Deatrich Wise",
+      "nfl_team": "WAS",
+      "nflverse_id": "00-0033947",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:cb446cc591878b280f02f166"
       ]
     },
     "00-0033955": {
@@ -4698,6 +4712,7 @@
         "news:7f5319f1cf7fce9817aadf26",
         "news:9cbe574fac199bb03a99403b",
         "news:b8737b620023593a43048ea6",
+        "news:cb446cc591878b280f02f166",
         "news:d2d086b0c6c9b0da536f8ed5",
         "news:ea7d53dcc4ae950825ecd20d",
         "news:f3b1c0d20229cc3020c0e3c5"
@@ -4718,6 +4733,7 @@
         "news:094a9fa986a9eeeebee53ea0",
         "news:15436cfd15b2f098cbf4e1e3",
         "news:2f190019b4651bab297f196c",
+        "news:cb446cc591878b280f02f166",
         "news:ea7d53dcc4ae950825ecd20d"
       ]
     },
@@ -9630,6 +9646,7 @@
         "news:a9b8900cf1529e1020e04339",
         "news:b8737b620023593a43048ea6",
         "news:c6fc021fba9de596fe877155",
+        "news:cb446cc591878b280f02f166",
         "news:ea7d53dcc4ae950825ecd20d",
         "news:ebb465783605b9d9ecbd7663"
       ],
@@ -9643,6 +9660,7 @@
         "news:9b3917c1fb5bf8069911ff06",
         "news:a9b8900cf1529e1020e04339",
         "news:c6fc021fba9de596fe877155",
+        "news:cb446cc591878b280f02f166",
         "news:ea7d53dcc4ae950825ecd20d",
         "news:ebb465783605b9d9ecbd7663"
       ],
