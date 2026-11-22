@@ -2387,6 +2387,7 @@
     },
     "00-0035261": {
       "event_ids": [
+        "news:1376c87f73ad15cbe6a9d358",
         "news:265b96a6d5b429b2598e9c2f",
         "news:2895c73454026dda022593e1",
         "news:332e45f574e5b92bde4f99c7",
@@ -2415,6 +2416,7 @@
         "news:f1d41083d5143d00c18f8953"
       ],
       "related_event_ids": [
+        "news:1376c87f73ad15cbe6a9d358",
         "news:265b96a6d5b429b2598e9c2f",
         "news:9f3fcd183911144273d2d857",
         "news:b22f5a905d63a713ecc777fb",
@@ -3670,6 +3672,7 @@
     },
     "00-0036501": {
       "event_ids": [
+        "news:1376c87f73ad15cbe6a9d358",
         "news:9f3fcd183911144273d2d857"
       ],
       "name": "Michael Carter II",
@@ -3677,6 +3680,7 @@
       "nflverse_id": "00-0036501",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:1376c87f73ad15cbe6a9d358",
         "news:9f3fcd183911144273d2d857"
       ]
     },
@@ -4110,6 +4114,7 @@
     },
     "00-0036924": {
       "event_ids": [
+        "news:1376c87f73ad15cbe6a9d358",
         "news:9f3fcd183911144273d2d857"
       ],
       "name": "Michael Carter",
@@ -4117,6 +4122,7 @@
       "nflverse_id": "00-0036924",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:1376c87f73ad15cbe6a9d358",
         "news:9f3fcd183911144273d2d857"
       ]
     },
@@ -6749,6 +6755,7 @@
     "00-0039032": {
       "event_ids": [
         "news:004dc6e9f8c0b3f91ddf3791",
+        "news:1376c87f73ad15cbe6a9d358",
         "news:265b96a6d5b429b2598e9c2f",
         "news:2895c73454026dda022593e1",
         "news:54c67af945eff0eedfa01598",
@@ -6764,6 +6771,7 @@
       "nflverse_id": "00-0039032",
       "primary_event_ids": [
         "news:004dc6e9f8c0b3f91ddf3791",
+        "news:1376c87f73ad15cbe6a9d358",
         "news:265b96a6d5b429b2598e9c2f",
         "news:5c3a9480de4cf85d434eeac3",
         "news:63a0c049f8b5b03cf42fb0a6",
