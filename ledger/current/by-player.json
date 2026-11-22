@@ -8416,6 +8416,7 @@
         "news:f1d9483082614076b9023f0a",
         "news:f1e0cc7737d5182f048e1998",
         "news:f388f79969ad54328f06b040",
+        "news:f4771cf58343f850afc76afb",
         "news:f8e8e3976cdd0847a661fe4e",
         "news:fa487a7c46e9de65537ee304",
         "news:fb5d63b84a43c6a9e2110ab0",
@@ -8584,6 +8585,7 @@
         "news:f1d9483082614076b9023f0a",
         "news:f1e0cc7737d5182f048e1998",
         "news:f388f79969ad54328f06b040",
+        "news:f4771cf58343f850afc76afb",
         "news:f8e8e3976cdd0847a661fe4e",
         "news:fa487a7c46e9de65537ee304",
         "news:fb5d63b84a43c6a9e2110ab0",
@@ -9285,7 +9287,8 @@
         "news:9c3ccaab151d5df3e227380f",
         "news:c07e2b1562a10dd9501d41b2",
         "news:ce99d32d910fd2d50a447306",
-        "news:f0b2b8dfdeaa2ca57c4ceb4c"
+        "news:f0b2b8dfdeaa2ca57c4ceb4c",
+        "news:f4771cf58343f850afc76afb"
       ],
       "name": "Colston Loveland",
       "nfl_team": "CHI",
@@ -9299,7 +9302,8 @@
         "news:7d031077e9b866d0f0387cda",
         "news:9c3ccaab151d5df3e227380f",
         "news:c07e2b1562a10dd9501d41b2",
-        "news:ce99d32d910fd2d50a447306"
+        "news:ce99d32d910fd2d50a447306",
+        "news:f4771cf58343f850afc76afb"
       ],
       "related_event_ids": [
         "news:f0b2b8dfdeaa2ca57c4ceb4c"
