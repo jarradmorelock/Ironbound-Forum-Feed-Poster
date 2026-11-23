@@ -10971,6 +10971,7 @@
     "00-0040737": {
       "event_ids": [
         "news:50eef1803a2c7aa9f656122c",
+        "news:7280cd06c84d5ec8cb7ab46d",
         "news:783727359ecbac555c2eeda9",
         "news:83d1b4ed2d74077ededa50d1",
         "news:9554ed0a5414641b7e77d1d2",
@@ -10983,6 +10984,7 @@
       "nflverse_id": "00-0040737",
       "primary_event_ids": [
         "news:50eef1803a2c7aa9f656122c",
+        "news:7280cd06c84d5ec8cb7ab46d",
         "news:783727359ecbac555c2eeda9",
         "news:9554ed0a5414641b7e77d1d2",
         "news:b888072c6bdf7d93f0e5384a",
@@ -11537,6 +11539,7 @@
         "news:3f916341a0f8954e886dcfbf",
         "news:422095401f0568abd0f833ec",
         "news:6afb8db4391cf69830588672",
+        "news:7280cd06c84d5ec8cb7ab46d",
         "news:ca053056b041c70bb159101d"
       ],
       "name": "Domonique Orange",
@@ -11547,6 +11550,7 @@
         "news:3f916341a0f8954e886dcfbf",
         "news:422095401f0568abd0f833ec",
         "news:6afb8db4391cf69830588672",
+        "news:7280cd06c84d5ec8cb7ab46d",
         "news:ca053056b041c70bb159101d"
       ]
     },
