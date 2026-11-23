@@ -191,6 +191,7 @@
     },
     "00-0029604": {
       "event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:253cfe541bb838400006109b",
         "news:3114b09ec7c4c083372c469d",
         "news:46cde085e445143f0f5a9c74",
@@ -224,6 +225,7 @@
         "news:fab5c7fffc7b3ad3fa1d5b59"
       ],
       "related_event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:253cfe541bb838400006109b",
         "news:46cde085e445143f0f5a9c74",
         "news:5b2695486c350ce35bc1290d",
@@ -849,6 +851,7 @@
     },
     "00-0032950": {
       "event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:538e5db6edbcfabc5d207986",
         "news:601ab7c107ea636b1c972f56",
         "news:6b2566d15ab2b563c0d43ee6",
@@ -863,6 +866,7 @@
         "news:6b2566d15ab2b563c0d43ee6"
       ],
       "related_event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:538e5db6edbcfabc5d207986",
         "news:89c839b2bee424de14f9e01a",
         "news:c4a7d10464dba60d73f99799"
@@ -1859,6 +1863,7 @@
     },
     "00-0034775": {
       "event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:1d1218d36b5a2c564d53cda8",
         "news:253cfe541bb838400006109b",
         "news:46cde085e445143f0f5a9c74",
@@ -1886,6 +1891,7 @@
         "news:b4baed26b531b1ebb43ea175"
       ],
       "related_event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:1d1218d36b5a2c564d53cda8",
         "news:253cfe541bb838400006109b",
         "news:46cde085e445143f0f5a9c74",
@@ -3422,6 +3428,7 @@
     },
     "00-0036322": {
       "event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:1e0a548b9d0c28f826e5c8f1",
         "news:2683d461c2bc57d4335cb663",
         "news:3981e3d5a400199aa4d7aaa9",
@@ -3453,6 +3460,7 @@
         "news:fb9d7fae3c628dc0c54dbad5"
       ],
       "related_event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:1e0a548b9d0c28f826e5c8f1",
         "news:2683d461c2bc57d4335cb663",
         "news:60539261ea94091926cabbce",
@@ -7820,6 +7828,7 @@
     },
     "00-0039387": {
       "event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:390415f6479a8f070cd9c487",
         "news:538e5db6edbcfabc5d207986",
         "news:601ab7c107ea636b1c972f56",
@@ -7841,6 +7850,7 @@
       "nflverse_id": "00-0039387",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:390415f6479a8f070cd9c487",
         "news:538e5db6edbcfabc5d207986",
         "news:601ab7c107ea636b1c972f56",
@@ -9580,6 +9590,7 @@
     },
     "00-0040154": {
       "event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:2683d461c2bc57d4335cb663",
         "news:60539261ea94091926cabbce",
         "news:72b66bcd784a37da472816d8",
@@ -9588,7 +9599,9 @@
       "name": "Tai Felton",
       "nfl_team": "MIN",
       "nflverse_id": "00-0040154",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:0f79d4d82343b5c5109a524b"
+      ],
       "related_event_ids": [
         "news:2683d461c2bc57d4335cb663",
         "news:60539261ea94091926cabbce",
@@ -11540,6 +11553,7 @@
     },
     "00-0041075": {
       "event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:1e0a548b9d0c28f826e5c8f1",
         "news:2683d461c2bc57d4335cb663",
         "news:3981e3d5a400199aa4d7aaa9",
@@ -11561,6 +11575,7 @@
       "nflverse_id": "00-0041075",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:0f79d4d82343b5c5109a524b",
         "news:1e0a548b9d0c28f826e5c8f1",
         "news:2683d461c2bc57d4335cb663",
         "news:3981e3d5a400199aa4d7aaa9",
