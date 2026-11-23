@@ -596,6 +596,7 @@
         "news:8ce981d27a1c2bc44e6c0997",
         "news:94fa663aa3ef96665fdeb7d3",
         "news:98054b2e4f8d13b9c2096ff2",
+        "news:abd57d9c76957b7c47290f1c",
         "news:b1453e7c40fbf67e6ab1fbfb",
         "news:b590708c7d321edff5e01f58",
         "news:e893a1ae6d700781940badb7",
@@ -619,6 +620,7 @@
         "news:8b2c79ca023c65073f8acdd4",
         "news:8ce981d27a1c2bc44e6c0997",
         "news:94fa663aa3ef96665fdeb7d3",
+        "news:abd57d9c76957b7c47290f1c",
         "news:b1453e7c40fbf67e6ab1fbfb",
         "news:b590708c7d321edff5e01f58",
         "news:e893a1ae6d700781940badb7",
@@ -824,7 +826,8 @@
     "00-0032775": {
       "event_ids": [
         "news:1d1218d36b5a2c564d53cda8",
-        "news:94fa663aa3ef96665fdeb7d3"
+        "news:94fa663aa3ef96665fdeb7d3",
+        "news:abd57d9c76957b7c47290f1c"
       ],
       "name": "Demarcus Robinson",
       "nfl_team": "SF",
@@ -833,7 +836,8 @@
         "news:1d1218d36b5a2c564d53cda8"
       ],
       "related_event_ids": [
-        "news:94fa663aa3ef96665fdeb7d3"
+        "news:94fa663aa3ef96665fdeb7d3",
+        "news:abd57d9c76957b7c47290f1c"
       ]
     },
     "00-0032950": {
@@ -6056,6 +6060,7 @@
         "news:4ef6ca358c7611c68ab0371a",
         "news:51259e47c73b594163845cea",
         "news:9430870e9a2c9f307feccdd5",
+        "news:abd57d9c76957b7c47290f1c",
         "news:ae2057021ded098546a66233",
         "news:b163e38af09821837028a2d6",
         "news:cce34793bb88de0f347eb037",
@@ -6075,7 +6080,8 @@
         "news:ec6ddb67de9521bc087d485c"
       ],
       "related_event_ids": [
-        "news:9430870e9a2c9f307feccdd5"
+        "news:9430870e9a2c9f307feccdd5",
+        "news:abd57d9c76957b7c47290f1c"
       ]
     },
     "00-0038544": {
