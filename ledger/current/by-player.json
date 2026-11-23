@@ -12282,6 +12282,7 @@
     "00-0041562": {
       "event_ids": [
         "news:4c46572edef92fa3879a354c",
+        "news:58cf21271977c2bd7576fa08",
         "news:5b2695486c350ce35bc1290d",
         "news:972fa9ca9f6a41b33cb2a324",
         "news:b8f091131c65b6be254ee9b5",
@@ -12292,6 +12293,7 @@
       "nflverse_id": "00-0041562",
       "primary_event_ids": [
         "news:4c46572edef92fa3879a354c",
+        "news:58cf21271977c2bd7576fa08",
         "news:5b2695486c350ce35bc1290d",
         "news:972fa9ca9f6a41b33cb2a324",
         "news:e17be22e451e6584c5be8b26"
