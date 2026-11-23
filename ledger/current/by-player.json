@@ -7465,7 +7465,8 @@
         "news:a55118587f3fe963c96df05e",
         "news:ca200e085972368c579ddd84",
         "news:d444611723fe6e6eaf4a7fa0",
-        "news:d48bee60f3f60aa88eaff124"
+        "news:d48bee60f3f60aa88eaff124",
+        "news:f16a56b714037bee16a38378"
       ],
       "name": "Brock Bowers",
       "nfl_team": "LV",
@@ -7488,7 +7489,8 @@
       ],
       "related_event_ids": [
         "news:253cfe541bb838400006109b",
-        "news:5a04300dd162cdb97d19a817"
+        "news:5a04300dd162cdb97d19a817",
+        "news:f16a56b714037bee16a38378"
       ]
     },
     "00-0039344": {
@@ -8483,6 +8485,7 @@
         "news:eda0d4d2d41bdd1014c41c4d",
         "news:efbc025b69db0ba73653584f",
         "news:f08fe2bb9baba85b1f0f3d19",
+        "news:f16a56b714037bee16a38378",
         "news:f1d41083d5143d00c18f8953",
         "news:f1d9483082614076b9023f0a",
         "news:f1e0cc7737d5182f048e1998",
@@ -8653,6 +8656,7 @@
         "news:eda0d4d2d41bdd1014c41c4d",
         "news:efbc025b69db0ba73653584f",
         "news:f08fe2bb9baba85b1f0f3d19",
+        "news:f16a56b714037bee16a38378",
         "news:f1d41083d5143d00c18f8953",
         "news:f1d9483082614076b9023f0a",
         "news:f1e0cc7737d5182f048e1998",
@@ -10710,12 +10714,15 @@
     },
     "00-0040729": {
       "event_ids": [
-        "news:253cfe541bb838400006109b"
+        "news:253cfe541bb838400006109b",
+        "news:f16a56b714037bee16a38378"
       ],
       "name": "Jack Bech",
       "nfl_team": "LV",
       "nflverse_id": "00-0040729",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:f16a56b714037bee16a38378"
+      ],
       "related_event_ids": [
         "news:253cfe541bb838400006109b"
       ]
