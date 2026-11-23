@@ -11257,6 +11257,7 @@
     "00-0041013": {
       "event_ids": [
         "news:0d07b00fbcc0b4fa55287889",
+        "news:28e18879d1378cb50ad465c0",
         "news:324a2fef4c2d9b6e9dfe64ce",
         "news:390415f6479a8f070cd9c487",
         "news:8356ff64046ba8084c4647ee",
@@ -11269,6 +11270,7 @@
       "nfl_team": "KC",
       "nflverse_id": "00-0041013",
       "primary_event_ids": [
+        "news:28e18879d1378cb50ad465c0",
         "news:324a2fef4c2d9b6e9dfe64ce",
         "news:8356ff64046ba8084c4647ee",
         "news:89b2b89daebe7facace06348",
