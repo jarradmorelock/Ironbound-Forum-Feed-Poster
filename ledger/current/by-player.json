@@ -8863,6 +8863,7 @@
     "00-0039874": {
       "event_ids": [
         "news:1584a2ae09daf786a5443340",
+        "news:6bd1d680376dddbb910484f6",
         "news:801af026e66392258740e0e0",
         "news:c50f1bac7b008b7223c89a18",
         "news:dd6641bd87f31f873c20a3b5",
@@ -8878,6 +8879,7 @@
         "news:e4565d8d56dfc35a70c7c07f"
       ],
       "related_event_ids": [
+        "news:6bd1d680376dddbb910484f6",
         "news:dd6641bd87f31f873c20a3b5"
       ]
     },
@@ -9780,6 +9782,7 @@
         "news:2df5b2859053d798cc9459ee",
         "news:56b946fd49bb132c4a0c63af",
         "news:587112a154a8a9f76f970113",
+        "news:6bd1d680376dddbb910484f6",
         "news:801af026e66392258740e0e0",
         "news:96d43dc0edfd263901ebde0a",
         "news:b0a4a7cfb8f9deaa17b791a0",
@@ -9794,6 +9797,7 @@
         "news:2df5b2859053d798cc9459ee",
         "news:56b946fd49bb132c4a0c63af",
         "news:587112a154a8a9f76f970113",
+        "news:6bd1d680376dddbb910484f6",
         "news:96d43dc0edfd263901ebde0a",
         "news:b0a4a7cfb8f9deaa17b791a0",
         "news:b8d08f51261a0161c5e464e7",
