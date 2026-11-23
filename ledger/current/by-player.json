@@ -7930,12 +7930,14 @@
     "00-0039424": {
       "event_ids": [
         "news:0547b66729af0d9d59a7ec08",
+        "news:30c9c2af901ee2562303e7ac",
         "news:ae5a31606ec9ac1a414ca1f3"
       ],
       "name": "Devaughn Vele",
       "nfl_team": "NO",
       "nflverse_id": "00-0039424",
       "primary_event_ids": [
+        "news:30c9c2af901ee2562303e7ac",
         "news:ae5a31606ec9ac1a414ca1f3"
       ],
       "related_event_ids": [
@@ -8368,6 +8370,7 @@
         "news:29091d427ea5992e62fc43dc",
         "news:2a11b3acf9923cc7e9416b2e",
         "news:2d8616eedc8a1dab5d08dc5e",
+        "news:30c9c2af901ee2562303e7ac",
         "news:331bdb61ab2c20cd8bbf7311",
         "news:3330746cbd0f740ae557f0b8",
         "news:33b14f67af587bf24658a11a",
@@ -8539,6 +8542,7 @@
         "news:29091d427ea5992e62fc43dc",
         "news:2a11b3acf9923cc7e9416b2e",
         "news:2d8616eedc8a1dab5d08dc5e",
+        "news:30c9c2af901ee2562303e7ac",
         "news:331bdb61ab2c20cd8bbf7311",
         "news:3330746cbd0f740ae557f0b8",
         "news:33b14f67af587bf24658a11a",
