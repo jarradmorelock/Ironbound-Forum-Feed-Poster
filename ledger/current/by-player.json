@@ -898,6 +898,7 @@
         "news:5a382e948d38177f1a19175e",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:5ba8ebf69f4bead029eb2f01",
+        "news:66e759e04ed5bf2150c24c98",
         "news:6718c3dc26deb047e7d7030e",
         "news:7d8003a84a0ed91adfb5e24b",
         "news:936a5e56a3b6a237cf0b1992",
@@ -943,6 +944,7 @@
         "news:5a382e948d38177f1a19175e",
         "news:5b3f3588f0ca8f0a33627ddf",
         "news:5ba8ebf69f4bead029eb2f01",
+        "news:66e759e04ed5bf2150c24c98",
         "news:6718c3dc26deb047e7d7030e",
         "news:7d8003a84a0ed91adfb5e24b",
         "news:936a5e56a3b6a237cf0b1992",
@@ -11366,12 +11368,15 @@
     },
     "00-0041048": {
       "event_ids": [
-        "news:168b56f3260a44995e74a30d"
+        "news:168b56f3260a44995e74a30d",
+        "news:66e759e04ed5bf2150c24c98"
       ],
       "name": "Ted Hurst III",
       "nfl_team": "TB",
       "nflverse_id": "00-0041048",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:66e759e04ed5bf2150c24c98"
+      ],
       "related_event_ids": [
         "news:168b56f3260a44995e74a30d"
       ]
