@@ -3813,6 +3813,7 @@
         "news:1a486b2222b1a1ad15c6b811",
         "news:1aa92babf2af0c3446f67e4d",
         "news:25e4a07a034f25adc44a4bfa",
+        "news:af0ddc3d0ff42a157be554c8",
         "news:f6f94f013d7caa9ca63f4a0a"
       ],
       "name": "Rashod Bateman",
@@ -3824,7 +3825,9 @@
         "news:25e4a07a034f25adc44a4bfa",
         "news:f6f94f013d7caa9ca63f4a0a"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:af0ddc3d0ff42a157be554c8"
+      ]
     },
     "00-0036554": {
       "event_ids": [
@@ -6986,6 +6989,7 @@
         "news:883bb1fbd083b00d79745721",
         "news:a07e75b5a85d0035430cf6ad",
         "news:a84f755cc2b65c6a5cedc6ff",
+        "news:af0ddc3d0ff42a157be554c8",
         "news:b6f2bbeacca56635d187ec1a",
         "news:c8ad8aca26ddbc29802e0974",
         "news:c8b861b541bf3aacc7e50414",
@@ -7004,6 +7008,7 @@
         "news:83ff9900f63da7cafd64880a",
         "news:883bb1fbd083b00d79745721",
         "news:a07e75b5a85d0035430cf6ad",
+        "news:af0ddc3d0ff42a157be554c8",
         "news:b6f2bbeacca56635d187ec1a",
         "news:c8ad8aca26ddbc29802e0974",
         "news:c8b861b541bf3aacc7e50414",
