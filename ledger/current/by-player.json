@@ -7213,6 +7213,7 @@
     "00-0039150": {
       "event_ids": [
         "news:64a9db3cf72a661bbe094001",
+        "news:6af843356f24b0845dbd5816",
         "news:9bb61a78855417793d3d3b24",
         "news:9e65e49a5297f21db4bc8217",
         "news:a44cfd831535361b91107e42",
@@ -7233,6 +7234,7 @@
         "news:fe3e864bddd6927fa3be8451"
       ],
       "related_event_ids": [
+        "news:6af843356f24b0845dbd5816",
         "news:9e65e49a5297f21db4bc8217",
         "news:e4937fe20d6150579bcafd69"
       ]
@@ -8431,6 +8433,7 @@
         "news:602be39b2e760488ea053500",
         "news:6694d21e8c9ec5386edb48a5",
         "news:69a5d2f9161632304156d073",
+        "news:6af843356f24b0845dbd5816",
         "news:71e326f9afa3a63c50e679a2",
         "news:7244e21428ec5b98fee2f9b7",
         "news:7337b3ae6e3fd0c4d6a6aff8",
@@ -8604,6 +8607,7 @@
         "news:602be39b2e760488ea053500",
         "news:6694d21e8c9ec5386edb48a5",
         "news:69a5d2f9161632304156d073",
+        "news:6af843356f24b0845dbd5816",
         "news:71e326f9afa3a63c50e679a2",
         "news:7244e21428ec5b98fee2f9b7",
         "news:7337b3ae6e3fd0c4d6a6aff8",
@@ -9705,13 +9709,16 @@
     },
     "00-0040187": {
       "event_ids": [
+        "news:6af843356f24b0845dbd5816",
         "news:90014f38488688f462774c0f",
         "news:e4937fe20d6150579bcafd69"
       ],
       "name": "Mitchell Evans",
       "nfl_team": "CAR",
       "nflverse_id": "00-0040187",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:6af843356f24b0845dbd5816"
+      ],
       "related_event_ids": [
         "news:90014f38488688f462774c0f",
         "news:e4937fe20d6150579bcafd69"
