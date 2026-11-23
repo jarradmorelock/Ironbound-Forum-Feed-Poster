@@ -9099,6 +9099,7 @@
     },
     "00-0040014": {
       "event_ids": [
+        "news:c99efe679c5a936f02ed8c96",
         "news:f850f80b541b98b00e6feffd",
         "news:fc458321a7384c01df69c2ad"
       ],
@@ -9106,6 +9107,7 @@
       "nfl_team": "MIA",
       "nflverse_id": "00-0040014",
       "primary_event_ids": [
+        "news:c99efe679c5a936f02ed8c96",
         "news:f850f80b541b98b00e6feffd",
         "news:fc458321a7384c01df69c2ad"
       ],
