@@ -283,6 +283,7 @@
         "news:1442fdda41eca1c16c06fc3d",
         "news:167e4084e2ee9adca6ab8874",
         "news:28b7361c13bd494daded084d",
+        "news:295835421173cbeb80a5b1d4",
         "news:29ae953892ce9de6f582aaca",
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:2ec4678a58c489157798989a",
@@ -332,6 +333,7 @@
         "news:1442fdda41eca1c16c06fc3d",
         "news:167e4084e2ee9adca6ab8874",
         "news:28b7361c13bd494daded084d",
+        "news:295835421173cbeb80a5b1d4",
         "news:29ae953892ce9de6f582aaca",
         "news:2bacdaaf8e1cbc9208f782d2",
         "news:2ec4678a58c489157798989a",
@@ -596,6 +598,7 @@
       "event_ids": [
         "news:0430ef2770ecde9d487b174a",
         "news:25cf6f8b080b1ffa1dbe8f43",
+        "news:295835421173cbeb80a5b1d4",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54c672d52b0ea565aa5ce8f3",
         "news:57271c233f7079bd228f10a0",
@@ -621,6 +624,7 @@
       "primary_event_ids": [
         "news:0430ef2770ecde9d487b174a",
         "news:25cf6f8b080b1ffa1dbe8f43",
+        "news:295835421173cbeb80a5b1d4",
         "news:514e56ea8fcae8b5d8ed18e9",
         "news:54c672d52b0ea565aa5ce8f3",
         "news:57271c233f7079bd228f10a0",
@@ -5335,6 +5339,7 @@
     "00-0037834": {
       "event_ids": [
         "news:071b381cb7b8b6c6ba2aa0e9",
+        "news:295835421173cbeb80a5b1d4",
         "news:36a659d8077a0ab5b55bf3ac",
         "news:5fe2e7f655d3def86eee62cd",
         "news:6f097fb9b047d582b629a0be",
@@ -5352,6 +5357,7 @@
         "news:b541792e311df20778d464b0"
       ],
       "related_event_ids": [
+        "news:295835421173cbeb80a5b1d4",
         "news:ee2900c04bc3e5753192fe29"
       ]
     },
@@ -7614,6 +7620,7 @@
         "news:250cecf26099b54b0f8a4b83",
         "news:25cf6f8b080b1ffa1dbe8f43",
         "news:278e6b2e26a4c0d99ae0a009",
+        "news:295835421173cbeb80a5b1d4",
         "news:30712850611f1ae1035deb38",
         "news:3219329299073c6b6d83c2c2",
         "news:33b14f67af587bf24658a11a",
@@ -7693,6 +7700,7 @@
         "news:250cecf26099b54b0f8a4b83",
         "news:25cf6f8b080b1ffa1dbe8f43",
         "news:278e6b2e26a4c0d99ae0a009",
+        "news:295835421173cbeb80a5b1d4",
         "news:30712850611f1ae1035deb38",
         "news:3219329299073c6b6d83c2c2",
         "news:33b14f67af587bf24658a11a",
