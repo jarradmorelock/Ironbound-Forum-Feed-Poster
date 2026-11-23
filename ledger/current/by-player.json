@@ -3259,7 +3259,8 @@
         "news:8caaa09c2e67b5443e95b9c5",
         "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
-        "news:c935723d18fc114b33f4716e"
+        "news:c935723d18fc114b33f4716e",
+        "news:d3f0286d1b18bdd6fcadb4c5"
       ],
       "name": "Jonathan Taylor",
       "nfl_team": "IND",
@@ -3277,7 +3278,9 @@
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:c935723d18fc114b33f4716e"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:d3f0286d1b18bdd6fcadb4c5"
+      ]
     },
     "00-0036244": {
       "event_ids": [
@@ -5054,6 +5057,7 @@
         "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:c935723d18fc114b33f4716e",
+        "news:d3f0286d1b18bdd6fcadb4c5",
         "news:e090dd3e374a879595578cf3",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ],
@@ -5069,6 +5073,7 @@
         "news:bc80943a23b2022ff233ded4",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:c935723d18fc114b33f4716e",
+        "news:d3f0286d1b18bdd6fcadb4c5",
         "news:e090dd3e374a879595578cf3",
         "news:e8b20af7ca1f9bd7dc0337f0"
       ]
@@ -5431,6 +5436,7 @@
         "news:c8754452636392d432b83335",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:ce3e51627516baf78633b05f",
+        "news:d3f0286d1b18bdd6fcadb4c5",
         "news:d48bee60f3f60aa88eaff124",
         "news:d62b03ca13773a4f85a99fa3",
         "news:d7ab48d8bdae70a90ff03499",
@@ -5489,6 +5495,7 @@
         "news:c8754452636392d432b83335",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:ce3e51627516baf78633b05f",
+        "news:d3f0286d1b18bdd6fcadb4c5",
         "news:d48bee60f3f60aa88eaff124",
         "news:d62b03ca13773a4f85a99fa3",
         "news:d7ab48d8bdae70a90ff03499",
@@ -9751,7 +9758,8 @@
     "00-0040179": {
       "event_ids": [
         "news:8caaa09c2e67b5443e95b9c5",
-        "news:c935723d18fc114b33f4716e"
+        "news:c935723d18fc114b33f4716e",
+        "news:d3f0286d1b18bdd6fcadb4c5"
       ],
       "name": "DJ Giddens",
       "nfl_team": "IND",
@@ -9759,7 +9767,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:8caaa09c2e67b5443e95b9c5",
-        "news:c935723d18fc114b33f4716e"
+        "news:c935723d18fc114b33f4716e",
+        "news:d3f0286d1b18bdd6fcadb4c5"
       ]
     },
     "00-0040187": {
@@ -11773,13 +11782,15 @@
         "news:57a6f9bb324339bfb3af60d7",
         "news:8caaa09c2e67b5443e95b9c5",
         "news:bc80943a23b2022ff233ded4",
-        "news:c935723d18fc114b33f4716e"
+        "news:c935723d18fc114b33f4716e",
+        "news:d3f0286d1b18bdd6fcadb4c5"
       ],
       "name": "Seth McGowan",
       "nfl_team": "IND",
       "nflverse_id": "00-0041125",
       "primary_event_ids": [
-        "news:57a6f9bb324339bfb3af60d7"
+        "news:57a6f9bb324339bfb3af60d7",
+        "news:d3f0286d1b18bdd6fcadb4c5"
       ],
       "related_event_ids": [
         "news:8caaa09c2e67b5443e95b9c5",
