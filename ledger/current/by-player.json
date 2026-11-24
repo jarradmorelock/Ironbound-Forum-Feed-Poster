@@ -5904,6 +5904,7 @@
     },
     "00-0038134": {
       "event_ids": [
+        "news:16415ffc8e2ed51dbde50c9a",
         "news:18fecc57fa643fded5eb6d50",
         "news:390415f6479a8f070cd9c487",
         "news:6ac20f89a8c58d34f3ebd445",
@@ -5920,6 +5921,7 @@
       "nfl_team": "KC",
       "nflverse_id": "00-0038134",
       "primary_event_ids": [
+        "news:16415ffc8e2ed51dbde50c9a",
         "news:18fecc57fa643fded5eb6d50",
         "news:390415f6479a8f070cd9c487",
         "news:6ac20f89a8c58d34f3ebd445",
