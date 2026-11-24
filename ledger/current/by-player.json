@@ -11544,13 +11544,15 @@
     "00-0041040": {
       "event_ids": [
         "news:197bd25b2e08e22adf5d2f2b",
-        "news:7a27484a8892963f148f3df6"
+        "news:7a27484a8892963f148f3df6",
+        "news:8296154d70081bacc8442b22"
       ],
       "name": "Antonio Williams",
       "nfl_team": "WAS",
       "nflverse_id": "00-0041040",
       "primary_event_ids": [
-        "news:7a27484a8892963f148f3df6"
+        "news:7a27484a8892963f148f3df6",
+        "news:8296154d70081bacc8442b22"
       ],
       "related_event_ids": [
         "news:197bd25b2e08e22adf5d2f2b"
