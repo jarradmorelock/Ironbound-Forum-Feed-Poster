@@ -298,6 +298,7 @@
         "news:72fdce09b9649c7a25cc74f5",
         "news:73368515690ab2b81b85f148",
         "news:7a27484a8892963f148f3df6",
+        "news:7d01e3839a0679dd94b907cc",
         "news:81bf622ddfc7d20d1a2e6b83",
         "news:8ccddc3d55a86dca7e96e461",
         "news:8ed71a1053ce0713f164456e",
@@ -349,6 +350,7 @@
         "news:72fdce09b9649c7a25cc74f5",
         "news:73368515690ab2b81b85f148",
         "news:7a27484a8892963f148f3df6",
+        "news:7d01e3839a0679dd94b907cc",
         "news:81bf622ddfc7d20d1a2e6b83",
         "news:8ccddc3d55a86dca7e96e461",
         "news:8ed71a1053ce0713f164456e",
@@ -8545,6 +8547,7 @@
         "news:7991265e16a17ebc2402eab0",
         "news:7ae52063cfe74450b522d9cd",
         "news:7cc1b7fa7c50749d7d310b4a",
+        "news:7d01e3839a0679dd94b907cc",
         "news:7ec39a2a7880df7475334bb1",
         "news:7fa453d2ef249eed23b9399e",
         "news:7fb1aa0f28a38219c472c28a",
@@ -8722,6 +8725,7 @@
         "news:7991265e16a17ebc2402eab0",
         "news:7ae52063cfe74450b522d9cd",
         "news:7cc1b7fa7c50749d7d310b4a",
+        "news:7d01e3839a0679dd94b907cc",
         "news:7ec39a2a7880df7475334bb1",
         "news:7fa453d2ef249eed23b9399e",
         "news:7fb1aa0f28a38219c472c28a",
@@ -11556,6 +11560,7 @@
       "event_ids": [
         "news:197bd25b2e08e22adf5d2f2b",
         "news:7a27484a8892963f148f3df6",
+        "news:7d01e3839a0679dd94b907cc",
         "news:8296154d70081bacc8442b22"
       ],
       "name": "Antonio Williams",
@@ -11563,6 +11568,7 @@
       "nflverse_id": "00-0041040",
       "primary_event_ids": [
         "news:7a27484a8892963f148f3df6",
+        "news:7d01e3839a0679dd94b907cc",
         "news:8296154d70081bacc8442b22"
       ],
       "related_event_ids": [
