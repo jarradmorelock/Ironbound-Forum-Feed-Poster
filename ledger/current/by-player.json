@@ -308,6 +308,7 @@
         "news:94fa663aa3ef96665fdeb7d3",
         "news:a0a2fbf046e1657bf21ec8d6",
         "news:a7b2398b76216af22a046d50",
+        "news:a951cbea35bc12bca594ac55",
         "news:aa53a7b5683715d09ac647be",
         "news:b6f2bbeacca56635d187ec1a",
         "news:b8737b620023593a43048ea6",
@@ -358,6 +359,7 @@
         "news:94fa663aa3ef96665fdeb7d3",
         "news:a0a2fbf046e1657bf21ec8d6",
         "news:a7b2398b76216af22a046d50",
+        "news:a951cbea35bc12bca594ac55",
         "news:aa53a7b5683715d09ac647be",
         "news:b6f2bbeacca56635d187ec1a",
         "news:b8737b620023593a43048ea6",
@@ -1340,12 +1342,15 @@
     },
     "00-0033526": {
       "event_ids": [
+        "news:a951cbea35bc12bca594ac55",
         "news:b41e96a12017c8b29af9e56d"
       ],
       "name": "Samaje Perine",
       "nfl_team": "CIN",
       "nflverse_id": "00-0033526",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:a951cbea35bc12bca594ac55"
+      ],
       "related_event_ids": [
         "news:b41e96a12017c8b29af9e56d"
       ]
@@ -8576,6 +8581,7 @@
         "news:a59c09a842af497221ba2478",
         "news:a7a069d333d287918be60665",
         "news:a7b1b55a415e283360ad2b5f",
+        "news:a951cbea35bc12bca594ac55",
         "news:aa53a7b5683715d09ac647be",
         "news:b00fe500928b6ba176035c17",
         "news:b0817cdc22f8c12b2e0278e2",
@@ -8752,6 +8758,7 @@
         "news:a59c09a842af497221ba2478",
         "news:a7a069d333d287918be60665",
         "news:a7b1b55a415e283360ad2b5f",
+        "news:a951cbea35bc12bca594ac55",
         "news:aa53a7b5683715d09ac647be",
         "news:b00fe500928b6ba176035c17",
         "news:b0817cdc22f8c12b2e0278e2",
