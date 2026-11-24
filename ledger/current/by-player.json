@@ -2658,6 +2658,7 @@
     "00-0035640": {
       "event_ids": [
         "news:014da0a09cd18c7b1c727590",
+        "news:1acecc34d586b310d1f988a6",
         "news:602be39b2e760488ea053500",
         "news:64355f6f1ee34bf11b527855",
         "news:8dfc30b78c3f9a8f2f6b0c8f",
@@ -2678,6 +2679,7 @@
       ],
       "related_event_ids": [
         "news:014da0a09cd18c7b1c727590",
+        "news:1acecc34d586b310d1f988a6",
         "news:602be39b2e760488ea053500",
         "news:64355f6f1ee34bf11b527855",
         "news:e528f25814b3c5542b10d122",
@@ -3324,6 +3326,7 @@
     },
     "00-0036252": {
       "event_ids": [
+        "news:1acecc34d586b310d1f988a6",
         "news:2662c57c0af85cf154e06062",
         "news:64355f6f1ee34bf11b527855",
         "news:8f375464b2cdac56f4974530",
@@ -3336,6 +3339,7 @@
       "nfl_team": "PIT",
       "nflverse_id": "00-0036252",
       "primary_event_ids": [
+        "news:1acecc34d586b310d1f988a6",
         "news:2662c57c0af85cf154e06062",
         "news:8f375464b2cdac56f4974530",
         "news:8fdc7480656de08d1291dc6e",
@@ -8288,6 +8292,7 @@
     "00-0039739": {
       "event_ids": [
         "news:014da0a09cd18c7b1c727590",
+        "news:1acecc34d586b310d1f988a6",
         "news:64355f6f1ee34bf11b527855",
         "news:880df6ac2b525c3c70d6483d",
         "news:e528f25814b3c5542b10d122",
@@ -8302,6 +8307,7 @@
       ],
       "related_event_ids": [
         "news:014da0a09cd18c7b1c727590",
+        "news:1acecc34d586b310d1f988a6",
         "news:e528f25814b3c5542b10d122",
         "news:f9dc89c7747704f8e7c7ae42"
       ]
@@ -12213,6 +12219,7 @@
     "00-0041489": {
       "event_ids": [
         "news:014da0a09cd18c7b1c727590",
+        "news:1acecc34d586b310d1f988a6",
         "news:64355f6f1ee34bf11b527855",
         "news:963da63bf9f7916a20504017",
         "news:9897b50fcf6e1718e755ff42",
@@ -12226,6 +12233,7 @@
         "news:014da0a09cd18c7b1c727590"
       ],
       "related_event_ids": [
+        "news:1acecc34d586b310d1f988a6",
         "news:64355f6f1ee34bf11b527855",
         "news:963da63bf9f7916a20504017",
         "news:9897b50fcf6e1718e755ff42",
