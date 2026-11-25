@@ -3411,6 +3411,7 @@
         "news:98054b2e4f8d13b9c2096ff2",
         "news:b56a02a300ca5cc2327d4adb",
         "news:d98d0ae223aa9265508d8d02",
+        "news:e6cef634985ed6ea1477469e",
         "news:f675bf2563d04df96fa94565"
       ],
       "name": "Brandon Aiyuk",
@@ -3420,6 +3421,7 @@
         "news:47d9cc7dacbbd2f6a6daa938",
         "news:b56a02a300ca5cc2327d4adb",
         "news:d98d0ae223aa9265508d8d02",
+        "news:e6cef634985ed6ea1477469e",
         "news:f675bf2563d04df96fa94565"
       ],
       "related_event_ids": [
@@ -5548,6 +5550,7 @@
         "news:d9e943bd280b4c695fce45d7",
         "news:db3e642a6c70f2809524a2c0",
         "news:e25fc6fe0048b0523bbcd494",
+        "news:e6cef634985ed6ea1477469e",
         "news:ebd5511d70c6dd1e4c9df5aa",
         "news:ec75139fc434d962c2a915be",
         "news:f155a70f6a8be534de3d5cb6",
@@ -5607,6 +5610,7 @@
         "news:d62b03ca13773a4f85a99fa3",
         "news:d7ab48d8bdae70a90ff03499",
         "news:d9e943bd280b4c695fce45d7",
+        "news:e6cef634985ed6ea1477469e",
         "news:ebd5511d70c6dd1e4c9df5aa",
         "news:ec75139fc434d962c2a915be",
         "news:f155a70f6a8be534de3d5cb6",
@@ -7857,6 +7861,7 @@
         "news:de277db931bca0ec40c8f556",
         "news:e64dcb5a5997838f7c452f8b",
         "news:e697eb7758d94acaec5c2b60",
+        "news:e6cef634985ed6ea1477469e",
         "news:ea51dbc83506a6560b64db48",
         "news:ec70a4001b4a0f57bcf3721d",
         "news:ecedde8756b5e29e431e3615",
@@ -7940,6 +7945,7 @@
         "news:de277db931bca0ec40c8f556",
         "news:e64dcb5a5997838f7c452f8b",
         "news:e697eb7758d94acaec5c2b60",
+        "news:e6cef634985ed6ea1477469e",
         "news:ea51dbc83506a6560b64db48",
         "news:ec70a4001b4a0f57bcf3721d",
         "news:ecedde8756b5e29e431e3615",
@@ -8701,6 +8707,7 @@
         "news:e41309749591b36db148513d",
         "news:e4937fe20d6150579bcafd69",
         "news:e5ee4ff4bc4f3f283ad1a29a",
+        "news:e6cef634985ed6ea1477469e",
         "news:e7826bd17053debee2775935",
         "news:e7b9b06a20c76b591c7d1a07",
         "news:e8b9c46b6f7c20665052ca43",
@@ -8879,6 +8886,7 @@
         "news:e41309749591b36db148513d",
         "news:e4937fe20d6150579bcafd69",
         "news:e5ee4ff4bc4f3f283ad1a29a",
+        "news:e6cef634985ed6ea1477469e",
         "news:e7826bd17053debee2775935",
         "news:e7b9b06a20c76b591c7d1a07",
         "news:e8b9c46b6f7c20665052ca43",
@@ -9200,7 +9208,8 @@
         "news:99525e52a7d1dd2754a23228",
         "news:a7ec14fed8c916fff0c46c24",
         "news:b84f740dcba68b2654e0e4bd",
-        "news:dfb41b953a3886a164ac60f0"
+        "news:dfb41b953a3886a164ac60f0",
+        "news:e6cef634985ed6ea1477469e"
       ],
       "name": "Jayden Daniels",
       "nfl_team": "WAS",
@@ -9218,7 +9227,8 @@
         "news:dfb41b953a3886a164ac60f0"
       ],
       "related_event_ids": [
-        "news:47d9cc7dacbbd2f6a6daa938"
+        "news:47d9cc7dacbbd2f6a6daa938",
+        "news:e6cef634985ed6ea1477469e"
       ]
     },
     "00-0039915": {
