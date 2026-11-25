@@ -5552,6 +5552,7 @@
         "news:a8f49316ff9fdc834e34986c",
         "news:ad284d458665c72e938c213a",
         "news:b22f5a905d63a713ecc777fb",
+        "news:ba56e2a518a4a9eb3a833687",
         "news:bb80700d7240c9391b0b35de",
         "news:c4a7d10464dba60d73f99799",
         "news:c8754452636392d432b83335",
@@ -5614,6 +5615,7 @@
         "news:a8f49316ff9fdc834e34986c",
         "news:ad284d458665c72e938c213a",
         "news:b22f5a905d63a713ecc777fb",
+        "news:ba56e2a518a4a9eb3a833687",
         "news:bb80700d7240c9391b0b35de",
         "news:c4a7d10464dba60d73f99799",
         "news:c8754452636392d432b83335",
@@ -11625,12 +11627,14 @@
     "00-0041035": {
       "event_ids": [
         "news:98054b2e4f8d13b9c2096ff2",
+        "news:ba56e2a518a4a9eb3a833687",
         "news:c45a0b43c4504133f91f61fb"
       ],
       "name": "De'Zhaun Stribling",
       "nfl_team": "SF",
       "nflverse_id": "00-0041035",
       "primary_event_ids": [
+        "news:ba56e2a518a4a9eb3a833687",
         "news:c45a0b43c4504133f91f61fb"
       ],
       "related_event_ids": [
