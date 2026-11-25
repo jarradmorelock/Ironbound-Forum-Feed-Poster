@@ -1313,6 +1313,7 @@
     "00-0033505": {
       "event_ids": [
         "news:035cbe3aff05f2c488cc80e0",
+        "news:0ad5a3e388eac21f678fc467",
         "news:0d6fdad132811409af099b8a",
         "news:1424e16c6e03bb908413b725",
         "news:22547b2f90419acd100b2898",
@@ -1332,6 +1333,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:035cbe3aff05f2c488cc80e0",
+        "news:0ad5a3e388eac21f678fc467",
         "news:0d6fdad132811409af099b8a",
         "news:1424e16c6e03bb908413b725",
         "news:22547b2f90419acd100b2898",
@@ -1908,12 +1910,15 @@
     },
     "00-0034771": {
       "event_ids": [
+        "news:0ad5a3e388eac21f678fc467",
         "news:be665b76ad778ec696756d57"
       ],
       "name": "Mason Rudolph",
       "nfl_team": "PIT",
       "nflverse_id": "00-0034771",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:0ad5a3e388eac21f678fc467"
+      ],
       "related_event_ids": [
         "news:be665b76ad778ec696756d57"
       ]
