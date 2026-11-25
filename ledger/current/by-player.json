@@ -1714,6 +1714,7 @@
     "00-0034177": {
       "event_ids": [
         "news:0429f5d2c32fafb122f7d446",
+        "news:139b9d2f6fd3de567c63c9e4",
         "news:9b6ca5b0c11b34e5e59220db",
         "news:c4cd759c63027cc044bfeb59",
         "news:d5be709c8daf4e6ccea49943",
@@ -1726,6 +1727,7 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:0429f5d2c32fafb122f7d446",
+        "news:139b9d2f6fd3de567c63c9e4",
         "news:9b6ca5b0c11b34e5e59220db",
         "news:c4cd759c63027cc044bfeb59",
         "news:d5be709c8daf4e6ccea49943",
@@ -6302,6 +6304,7 @@
     "00-0038543": {
       "event_ids": [
         "news:04074938589c1af80fa70675",
+        "news:139b9d2f6fd3de567c63c9e4",
         "news:1cc455f8863b09a6e2d086b1",
         "news:4ef6ca358c7611c68ab0371a",
         "news:51259e47c73b594163845cea",
@@ -6317,6 +6320,7 @@
       "nflverse_id": "00-0038543",
       "primary_event_ids": [
         "news:04074938589c1af80fa70675",
+        "news:139b9d2f6fd3de567c63c9e4",
         "news:1cc455f8863b09a6e2d086b1",
         "news:4ef6ca358c7611c68ab0371a",
         "news:51259e47c73b594163845cea",
