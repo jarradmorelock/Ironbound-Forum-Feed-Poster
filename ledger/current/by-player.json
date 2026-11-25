@@ -2952,6 +2952,7 @@
         "news:a494b59eb7aafdf48c752702",
         "news:ac5a6e6fcff183d8b037e1b0",
         "news:b00fe500928b6ba176035c17",
+        "news:e40110b140d8064bb84a2fbd",
         "news:ea51dbc83506a6560b64db48",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
@@ -2972,6 +2973,7 @@
         "news:a494b59eb7aafdf48c752702",
         "news:ac5a6e6fcff183d8b037e1b0",
         "news:b00fe500928b6ba176035c17",
+        "news:e40110b140d8064bb84a2fbd",
         "news:ea51dbc83506a6560b64db48",
         "news:ff0b7800a79dd5d2a0d06b84"
       ],
@@ -6723,7 +6725,8 @@
         "news:52348d293ed1eaf305235013",
         "news:5f05e273559c9f87b7d81612",
         "news:92a3526575adb4427a9a156d",
-        "news:a2dd3a54d75f9e8d80d543b2"
+        "news:a2dd3a54d75f9e8d80d543b2",
+        "news:e40110b140d8064bb84a2fbd"
       ],
       "name": "Chris Brooks",
       "nfl_team": "GB",
@@ -6734,7 +6737,8 @@
       ],
       "related_event_ids": [
         "news:5f05e273559c9f87b7d81612",
-        "news:a2dd3a54d75f9e8d80d543b2"
+        "news:a2dd3a54d75f9e8d80d543b2",
+        "news:e40110b140d8064bb84a2fbd"
       ]
     },
     "00-0038705": {
@@ -8555,6 +8559,7 @@
         "news:98901a4417050a348bfb0d25",
         "news:a2dd3a54d75f9e8d80d543b2",
         "news:ae3ace98b22da3a1508191e2",
+        "news:e40110b140d8064bb84a2fbd",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
       ],
@@ -8575,6 +8580,7 @@
         "news:92a3526575adb4427a9a156d",
         "news:98901a4417050a348bfb0d25",
         "news:a2dd3a54d75f9e8d80d543b2",
+        "news:e40110b140d8064bb84a2fbd",
         "news:ff0b7800a79dd5d2a0d06b84"
       ]
     },
@@ -9840,6 +9846,7 @@
         "news:92a3526575adb4427a9a156d",
         "news:98901a4417050a348bfb0d25",
         "news:a2dd3a54d75f9e8d80d543b2",
+        "news:e40110b140d8064bb84a2fbd",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
       ],
@@ -9856,6 +9863,7 @@
         "news:5f05e273559c9f87b7d81612",
         "news:92a3526575adb4427a9a156d",
         "news:a2dd3a54d75f9e8d80d543b2",
+        "news:e40110b140d8064bb84a2fbd",
         "news:ea67d00c295a1edc55d673d7",
         "news:ff0b7800a79dd5d2a0d06b84"
       ]
