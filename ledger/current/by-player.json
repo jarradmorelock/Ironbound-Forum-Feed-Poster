@@ -19,6 +19,7 @@
         "news:04e7e3ed4d1f5d520e22aee1",
         "news:07bd2e88765ed5335aadd849",
         "news:a86accd335e269532da0f8ea",
+        "news:be665b76ad778ec696756d57",
         "news:cb48c657f478ed8f2a77eb54",
         "news:d2b9e88e657b787089fa6c72"
       ],
@@ -29,6 +30,7 @@
         "news:04e7e3ed4d1f5d520e22aee1",
         "news:07bd2e88765ed5335aadd849",
         "news:a86accd335e269532da0f8ea",
+        "news:be665b76ad778ec696756d57",
         "news:d2b9e88e657b787089fa6c72"
       ],
       "related_event_ids": [
@@ -1318,6 +1320,7 @@
         "news:538e5db6edbcfabc5d207986",
         "news:5a3e244283b9d3ddc18cf0af",
         "news:6620bd9102e6de9db8aa9719",
+        "news:be665b76ad778ec696756d57",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:d041252f381bfa03a546a7fc",
         "news:e90a9a6f2630d49747063230",
@@ -1336,6 +1339,7 @@
         "news:538e5db6edbcfabc5d207986",
         "news:5a3e244283b9d3ddc18cf0af",
         "news:6620bd9102e6de9db8aa9719",
+        "news:be665b76ad778ec696756d57",
         "news:c8c5d4a207b5100fe87b5c1f",
         "news:d041252f381bfa03a546a7fc",
         "news:e90a9a6f2630d49747063230",
@@ -1901,6 +1905,18 @@
         "news:55713672301d48c70118f3ed"
       ],
       "related_event_ids": []
+    },
+    "00-0034771": {
+      "event_ids": [
+        "news:be665b76ad778ec696756d57"
+      ],
+      "name": "Mason Rudolph",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0034771",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:be665b76ad778ec696756d57"
+      ]
     },
     "00-0034775": {
       "event_ids": [
