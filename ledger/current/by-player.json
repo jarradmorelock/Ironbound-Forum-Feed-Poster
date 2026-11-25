@@ -1862,13 +1862,15 @@
     },
     "00-0034431": {
       "event_ids": [
-        "news:0fd3c20b3a49e45fef9fdc1f"
+        "news:0fd3c20b3a49e45fef9fdc1f",
+        "news:7a4b51bc8596f092937af407"
       ],
       "name": "Zaire Franklin",
       "nfl_team": "GB",
       "nflverse_id": "00-0034431",
       "primary_event_ids": [
-        "news:0fd3c20b3a49e45fef9fdc1f"
+        "news:0fd3c20b3a49e45fef9fdc1f",
+        "news:7a4b51bc8596f092937af407"
       ],
       "related_event_ids": []
     },
@@ -4071,14 +4073,16 @@
     },
     "00-0036658": {
       "event_ids": [
-        "news:0fd3c20b3a49e45fef9fdc1f"
+        "news:0fd3c20b3a49e45fef9fdc1f",
+        "news:7a4b51bc8596f092937af407"
       ],
       "name": "Isaiah McDuffie",
       "nfl_team": "GB",
       "nflverse_id": "00-0036658",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:0fd3c20b3a49e45fef9fdc1f"
+        "news:0fd3c20b3a49e45fef9fdc1f",
+        "news:7a4b51bc8596f092937af407"
       ]
     },
     "00-0036775": {
@@ -8586,6 +8590,18 @@
         "news:a2dd3a54d75f9e8d80d543b2",
         "news:e40110b140d8064bb84a2fbd",
         "news:ff0b7800a79dd5d2a0d06b84"
+      ]
+    },
+    "00-0039812": {
+      "event_ids": [
+        "news:7a4b51bc8596f092937af407"
+      ],
+      "name": "Ty'Ron Hopper",
+      "nfl_team": "GB",
+      "nflverse_id": "00-0039812",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:7a4b51bc8596f092937af407"
       ]
     },
     "00-0039814": {
