@@ -909,6 +909,7 @@
         "news:08bc4fa7692c9a7c714915b7",
         "news:09d7b91c595a77da55ec5ef2",
         "news:0ce6ef192700353addbc374b",
+        "news:1afbd49a4c0e4b565d42f345",
         "news:1c3e5acf8a2436d834f6e1c4",
         "news:25cf6f8b080b1ffa1dbe8f43",
         "news:2a359f50bef122df69bffef6",
@@ -958,6 +959,7 @@
         "news:08bc4fa7692c9a7c714915b7",
         "news:09d7b91c595a77da55ec5ef2",
         "news:0ce6ef192700353addbc374b",
+        "news:1afbd49a4c0e4b565d42f345",
         "news:1c3e5acf8a2436d834f6e1c4",
         "news:25cf6f8b080b1ffa1dbe8f43",
         "news:2a359f50bef122df69bffef6",
@@ -4481,6 +4483,18 @@
         "news:b91c05d65cd9e192b57fcd46"
       ]
     },
+    "00-0036972": {
+      "event_ids": [
+        "news:1afbd49a4c0e4b565d42f345"
+      ],
+      "name": "Mac Jones",
+      "nfl_team": "SF",
+      "nflverse_id": "00-0036972",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:1afbd49a4c0e4b565d42f345"
+      ]
+    },
     "00-0036973": {
       "event_ids": [
         "news:0d2bbac808bdf0d52cb0f22a",
@@ -5464,6 +5478,7 @@
     "00-0037834": {
       "event_ids": [
         "news:071b381cb7b8b6c6ba2aa0e9",
+        "news:1afbd49a4c0e4b565d42f345",
         "news:295835421173cbeb80a5b1d4",
         "news:36a659d8077a0ab5b55bf3ac",
         "news:5fe2e7f655d3def86eee62cd",
@@ -5476,6 +5491,7 @@
       "nflverse_id": "00-0037834",
       "primary_event_ids": [
         "news:071b381cb7b8b6c6ba2aa0e9",
+        "news:1afbd49a4c0e4b565d42f345",
         "news:36a659d8077a0ab5b55bf3ac",
         "news:5fe2e7f655d3def86eee62cd",
         "news:6f097fb9b047d582b629a0be",
