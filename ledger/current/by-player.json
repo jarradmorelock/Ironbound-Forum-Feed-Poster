@@ -552,6 +552,7 @@
         "news:50eef1803a2c7aa9f656122c",
         "news:511abae8e8c3ec8722a3a477",
         "news:6ae5270ff8537e3c031e27b9",
+        "news:7ef7384bcf22f435ad66a75f",
         "news:83d1b4ed2d74077ededa50d1",
         "news:98a08e420bde6125b8d7564c",
         "news:9e646fd38e82bfa527734fb6",
@@ -585,6 +586,7 @@
       "related_event_ids": [
         "news:3c5c5ca6dec173b19a326007",
         "news:50eef1803a2c7aa9f656122c",
+        "news:7ef7384bcf22f435ad66a75f",
         "news:83d1b4ed2d74077ededa50d1",
         "news:9e646fd38e82bfa527734fb6",
         "news:a8f49316ff9fdc834e34986c",
@@ -1116,6 +1118,7 @@
       "event_ids": [
         "news:4fd9cf01a31cff8269afbc22",
         "news:783727359ecbac555c2eeda9",
+        "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
         "news:c0a239e118819ba647927f76",
@@ -1125,6 +1128,7 @@
       "nfl_team": "LAR",
       "nflverse_id": "00-0033110",
       "primary_event_ids": [
+        "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576"
       ],
       "related_event_ids": [
@@ -3367,6 +3371,7 @@
         "news:4fd9cf01a31cff8269afbc22",
         "news:5fcf42085be1bbf2be83dbd4",
         "news:783727359ecbac555c2eeda9",
+        "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
         "news:c0a239e118819ba647927f76"
@@ -3381,6 +3386,7 @@
       ],
       "related_event_ids": [
         "news:783727359ecbac555c2eeda9",
+        "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576",
         "news:c0a239e118819ba647927f76"
       ]
@@ -7316,6 +7322,7 @@
     },
     "00-0039074": {
       "event_ids": [
+        "news:7ef7384bcf22f435ad66a75f",
         "news:968988a756c659036e1a5465",
         "news:c0a239e118819ba647927f76"
       ],
@@ -7324,6 +7331,7 @@
       "nflverse_id": "00-0039074",
       "primary_event_ids": [],
       "related_event_ids": [
+        "news:7ef7384bcf22f435ad66a75f",
         "news:968988a756c659036e1a5465",
         "news:c0a239e118819ba647927f76"
       ]
@@ -10209,6 +10217,7 @@
         "news:4fd9cf01a31cff8269afbc22",
         "news:5fcf42085be1bbf2be83dbd4",
         "news:783727359ecbac555c2eeda9",
+        "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
         "news:c0a239e118819ba647927f76"
@@ -10221,6 +10230,7 @@
         "news:4fd9cf01a31cff8269afbc22",
         "news:5fcf42085be1bbf2be83dbd4",
         "news:783727359ecbac555c2eeda9",
+        "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
         "news:c0a239e118819ba647927f76"
@@ -11218,6 +11228,7 @@
         "news:50eef1803a2c7aa9f656122c",
         "news:7280cd06c84d5ec8cb7ab46d",
         "news:783727359ecbac555c2eeda9",
+        "news:7ef7384bcf22f435ad66a75f",
         "news:83d1b4ed2d74077ededa50d1",
         "news:9554ed0a5414641b7e77d1d2",
         "news:b888072c6bdf7d93f0e5384a",
@@ -11237,6 +11248,7 @@
         "news:ebf502507b3637e684b095cb"
       ],
       "related_event_ids": [
+        "news:7ef7384bcf22f435ad66a75f",
         "news:83d1b4ed2d74077ededa50d1"
       ]
     },
@@ -12466,6 +12478,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:8154dd7bb6d1d623d3dbb846"
+      ]
+    },
+    "00-0041510": {
+      "event_ids": [
+        "news:7ef7384bcf22f435ad66a75f"
+      ],
+      "name": "Max Klare",
+      "nfl_team": "LAR",
+      "nflverse_id": "00-0041510",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:7ef7384bcf22f435ad66a75f"
       ]
     },
     "00-0041511": {
