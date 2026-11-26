@@ -6636,6 +6636,7 @@
     },
     "00-0038608": {
       "event_ids": [
+        "news:11e20c1720f5cf08127680d5",
         "news:b1e40788b17357179b647f92",
         "news:f0d890b142950085e33607d3"
       ],
@@ -6643,6 +6644,7 @@
       "nfl_team": "HOU",
       "nflverse_id": "00-0038608",
       "primary_event_ids": [
+        "news:11e20c1720f5cf08127680d5",
         "news:f0d890b142950085e33607d3"
       ],
       "related_event_ids": [
