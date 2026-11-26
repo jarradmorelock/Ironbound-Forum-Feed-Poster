@@ -269,6 +269,7 @@
     },
     "00-0030061": {
       "event_ids": [
+        "news:58c4875754cf2dd132135bc9",
         "news:7dd859216b3bba49d57c92ab"
       ],
       "name": "Zach Ertz",
@@ -277,7 +278,9 @@
       "primary_event_ids": [
         "news:7dd859216b3bba49d57c92ab"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:58c4875754cf2dd132135bc9"
+      ]
     },
     "00-0030140": {
       "event_ids": [
@@ -1816,6 +1819,7 @@
         "news:401cc7245073c2112ca4b891",
         "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
+        "news:58c4875754cf2dd132135bc9",
         "news:60f84ca03fcefdddd2f2f0b0",
         "news:7dd859216b3bba49d57c92ab",
         "news:7f53a50357d9ece821871fb0",
@@ -1833,6 +1837,7 @@
         "news:3cee59ea0f35ec0b4ae11eab",
         "news:401cc7245073c2112ca4b891",
         "news:4ef5c77f9830f2656c79cc32",
+        "news:58c4875754cf2dd132135bc9",
         "news:60f84ca03fcefdddd2f2f0b0",
         "news:7f53a50357d9ece821871fb0",
         "news:8475a4043635d99cbdd0c6f0",
@@ -3812,6 +3817,7 @@
         "news:475c5bba8f8720011bb146ac",
         "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
+        "news:58c4875754cf2dd132135bc9",
         "news:5a35a11f40883efc2deda1c3",
         "news:5a4df72198e643d6fd2b1395",
         "news:60f84ca03fcefdddd2f2f0b0",
@@ -3850,6 +3856,7 @@
         "news:475c5bba8f8720011bb146ac",
         "news:4ef5c77f9830f2656c79cc32",
         "news:536395cc5c2f30b9af7087fd",
+        "news:58c4875754cf2dd132135bc9",
         "news:5a35a11f40883efc2deda1c3",
         "news:5a4df72198e643d6fd2b1395",
         "news:60f84ca03fcefdddd2f2f0b0",
