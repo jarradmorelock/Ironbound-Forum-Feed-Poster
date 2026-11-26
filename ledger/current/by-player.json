@@ -7614,6 +7614,7 @@
         "news:9885d87be456777f0da55d84",
         "news:9c3ccaab151d5df3e227380f",
         "news:a2fa5e03bedd4193180f2463",
+        "news:da6f454fba23ed8ea5a169dd",
         "news:ec75139fc434d962c2a915be",
         "news:f395071e7cb09c106972cb76",
         "news:fa487a7c46e9de65537ee304"
@@ -7636,6 +7637,7 @@
         "news:9885d87be456777f0da55d84",
         "news:9c3ccaab151d5df3e227380f",
         "news:a2fa5e03bedd4193180f2463",
+        "news:da6f454fba23ed8ea5a169dd",
         "news:ec75139fc434d962c2a915be",
         "news:f395071e7cb09c106972cb76",
         "news:fa487a7c46e9de65537ee304"
@@ -9711,6 +9713,7 @@
         "news:9c3ccaab151d5df3e227380f",
         "news:c07e2b1562a10dd9501d41b2",
         "news:ce99d32d910fd2d50a447306",
+        "news:da6f454fba23ed8ea5a169dd",
         "news:f0b2b8dfdeaa2ca57c4ceb4c",
         "news:f4771cf58343f850afc76afb"
       ],
@@ -9727,6 +9730,7 @@
         "news:9c3ccaab151d5df3e227380f",
         "news:c07e2b1562a10dd9501d41b2",
         "news:ce99d32d910fd2d50a447306",
+        "news:da6f454fba23ed8ea5a169dd",
         "news:f4771cf58343f850afc76afb"
       ],
       "related_event_ids": [
@@ -12702,7 +12706,8 @@
     "00-0041558": {
       "event_ids": [
         "news:206b4f9337a4e959df9f3783",
-        "news:9c3ccaab151d5df3e227380f"
+        "news:9c3ccaab151d5df3e227380f",
+        "news:da6f454fba23ed8ea5a169dd"
       ],
       "name": "Sam Roush",
       "nfl_team": "CHI",
@@ -12710,7 +12715,8 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:206b4f9337a4e959df9f3783",
-        "news:9c3ccaab151d5df3e227380f"
+        "news:9c3ccaab151d5df3e227380f",
+        "news:da6f454fba23ed8ea5a169dd"
       ]
     },
     "00-0041561": {
