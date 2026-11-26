@@ -148,6 +148,7 @@
         "news:b1e8a38de049a328620a52be",
         "news:b46d6af38834a32f2177eb23",
         "news:b989b50004c7f2dba5204af2",
+        "news:c1c2742ee556a0c87579ec40",
         "news:c50f1bac7b008b7223c89a18",
         "news:d3a8e6bc3263e656f695bbaf",
         "news:dd369447b47fb1f59904b11f",
@@ -171,6 +172,7 @@
         "news:b1e8a38de049a328620a52be",
         "news:b46d6af38834a32f2177eb23",
         "news:b989b50004c7f2dba5204af2",
+        "news:c1c2742ee556a0c87579ec40",
         "news:c50f1bac7b008b7223c89a18",
         "news:d3a8e6bc3263e656f695bbaf",
         "news:dd369447b47fb1f59904b11f",
@@ -5541,6 +5543,7 @@
         "news:5fe2e7f655d3def86eee62cd",
         "news:6f097fb9b047d582b629a0be",
         "news:b541792e311df20778d464b0",
+        "news:c1c2742ee556a0c87579ec40",
         "news:ee2900c04bc3e5753192fe29"
       ],
       "name": "Brock Purdy",
@@ -5552,7 +5555,8 @@
         "news:36a659d8077a0ab5b55bf3ac",
         "news:5fe2e7f655d3def86eee62cd",
         "news:6f097fb9b047d582b629a0be",
-        "news:b541792e311df20778d464b0"
+        "news:b541792e311df20778d464b0",
+        "news:c1c2742ee556a0c87579ec40"
       ],
       "related_event_ids": [
         "news:295835421173cbeb80a5b1d4",
