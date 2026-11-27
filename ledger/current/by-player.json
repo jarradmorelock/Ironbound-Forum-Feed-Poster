@@ -3651,6 +3651,7 @@
       "event_ids": [
         "news:0c8ddf0e32866bff9ece836d",
         "news:1442fdda41eca1c16c06fc3d",
+        "news:33250f5907faf5ff3ac42eef",
         "news:4ff57d900ad605f100066c50",
         "news:50299468aa0ba0c31e5e489c",
         "news:5ba8ebf69f4bead029eb2f01",
@@ -3678,6 +3679,7 @@
         "news:f49633f65fa4c47e9011119f"
       ],
       "related_event_ids": [
+        "news:33250f5907faf5ff3ac42eef",
         "news:50299468aa0ba0c31e5e489c",
         "news:843ada56f66d94cd18c5ba41"
       ]
@@ -10506,12 +10508,15 @@
     "00-0040464": {
       "event_ids": [
         "news:1442fdda41eca1c16c06fc3d",
+        "news:33250f5907faf5ff3ac42eef",
         "news:af904291e16dfeff1f32a5d2"
       ],
       "name": "DJ Uiagalelei",
       "nfl_team": "LAC",
       "nflverse_id": "00-0040464",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:33250f5907faf5ff3ac42eef"
+      ],
       "related_event_ids": [
         "news:1442fdda41eca1c16c06fc3d",
         "news:af904291e16dfeff1f32a5d2"
