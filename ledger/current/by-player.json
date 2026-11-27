@@ -4503,6 +4503,7 @@
     },
     "00-0036970": {
       "event_ids": [
+        "news:31ce11138b261d4058da93a6",
         "news:71e326f9afa3a63c50e679a2",
         "news:8bfcc5f42e63e50c195b278e",
         "news:db1c231cef034c581c53237e",
@@ -4517,7 +4518,9 @@
         "news:db1c231cef034c581c53237e",
         "news:dc6eadbe5996cabaad6f8279"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:31ce11138b261d4058da93a6"
+      ]
     },
     "00-0036971": {
       "event_ids": [
@@ -4881,6 +4884,7 @@
     "00-0037238": {
       "event_ids": [
         "news:09d7b91c595a77da55ec5ef2",
+        "news:31ce11138b261d4058da93a6",
         "news:3c8976c67f20cc4e5801d235",
         "news:4842cedec233a1ee1c2771bb",
         "news:b7cb0471ff3457d0f1867be8",
@@ -4900,7 +4904,8 @@
         "news:e5ee4ff4bc4f3f283ad1a29a"
       ],
       "related_event_ids": [
-        "news:09d7b91c595a77da55ec5ef2"
+        "news:09d7b91c595a77da55ec5ef2",
+        "news:31ce11138b261d4058da93a6"
       ]
     },
     "00-0037239": {
@@ -5384,13 +5389,15 @@
     },
     "00-0037741": {
       "event_ids": [
-        "news:09d7b91c595a77da55ec5ef2"
+        "news:09d7b91c595a77da55ec5ef2",
+        "news:31ce11138b261d4058da93a6"
       ],
       "name": "Jahan Dotson",
       "nfl_team": "ATL",
       "nflverse_id": "00-0037741",
       "primary_event_ids": [
-        "news:09d7b91c595a77da55ec5ef2"
+        "news:09d7b91c595a77da55ec5ef2",
+        "news:31ce11138b261d4058da93a6"
       ],
       "related_event_ids": []
     },
@@ -6326,6 +6333,7 @@
     "00-0038542": {
       "event_ids": [
         "news:1b4958d2900deb0d24d6ad1e",
+        "news:31ce11138b261d4058da93a6",
         "news:3ee980249f53a8fa31d9247e",
         "news:4c0bbd9c88f4be6ce7f30ead",
         "news:5a382e948d38177f1a19175e",
@@ -6358,6 +6366,7 @@
       ],
       "related_event_ids": [
         "news:1b4958d2900deb0d24d6ad1e",
+        "news:31ce11138b261d4058da93a6",
         "news:4c0bbd9c88f4be6ce7f30ead",
         "news:5a382e948d38177f1a19175e",
         "news:6c146d141dd8e18084e6efa4",
@@ -8740,6 +8749,7 @@
         "news:2a11b3acf9923cc7e9416b2e",
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:30c9c2af901ee2562303e7ac",
+        "news:31ce11138b261d4058da93a6",
         "news:331bdb61ab2c20cd8bbf7311",
         "news:3330746cbd0f740ae557f0b8",
         "news:33b14f67af587bf24658a11a",
@@ -8924,6 +8934,7 @@
         "news:2a11b3acf9923cc7e9416b2e",
         "news:2d8616eedc8a1dab5d08dc5e",
         "news:30c9c2af901ee2562303e7ac",
+        "news:31ce11138b261d4058da93a6",
         "news:331bdb61ab2c20cd8bbf7311",
         "news:3330746cbd0f740ae557f0b8",
         "news:33b14f67af587bf24658a11a",
@@ -11911,6 +11922,7 @@
     },
     "00-0041044": {
       "event_ids": [
+        "news:31ce11138b261d4058da93a6",
         "news:f16e219b9a6ae8de1c3ac64b"
       ],
       "name": "Zachariah Branch",
@@ -11919,7 +11931,9 @@
       "primary_event_ids": [
         "news:f16e219b9a6ae8de1c3ac64b"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:31ce11138b261d4058da93a6"
+      ]
     },
     "00-0041046": {
       "event_ids": [
