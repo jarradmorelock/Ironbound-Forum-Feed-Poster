@@ -2366,7 +2366,8 @@
         "news:9ca2b98548ceb191dd26a579",
         "news:a0ec4ccbe8ef51b4a7e1201f",
         "news:b91c05d65cd9e192b57fcd46",
-        "news:f3db795093092dba0d37ac9d"
+        "news:f3db795093092dba0d37ac9d",
+        "news:f7a7a0560699369fc20355ce"
       ],
       "name": "Jakobi Meyers",
       "nfl_team": "JAX",
@@ -2382,7 +2383,8 @@
       ],
       "related_event_ids": [
         "news:67670716dd18eafea21589c3",
-        "news:b91c05d65cd9e192b57fcd46"
+        "news:b91c05d65cd9e192b57fcd46",
+        "news:f7a7a0560699369fc20355ce"
       ]
     },
     "00-0034967": {
@@ -4520,7 +4522,8 @@
         "news:a7b13977fee7edff1744812f",
         "news:b91c05d65cd9e192b57fcd46",
         "news:bdef85129e4f89e2b0210a2a",
-        "news:f41fbd7e98f23b904a40ddd2"
+        "news:f41fbd7e98f23b904a40ddd2",
+        "news:f7a7a0560699369fc20355ce"
       ],
       "name": "Trevor Lawrence",
       "nfl_team": "JAX",
@@ -4539,7 +4542,8 @@
       "related_event_ids": [
         "news:3776f066e4418ad7f6f6e960",
         "news:5b3f3588f0ca8f0a33627ddf",
-        "news:b91c05d65cd9e192b57fcd46"
+        "news:b91c05d65cd9e192b57fcd46",
+        "news:f7a7a0560699369fc20355ce"
       ]
     },
     "00-0036972": {
@@ -6655,7 +6659,8 @@
         "news:bc971d998e12bacee9b711c3",
         "news:d64f0b2ba86861be37aa3eb7",
         "news:ed41013f24e0e81f981824fb",
-        "news:f41fbd7e98f23b904a40ddd2"
+        "news:f41fbd7e98f23b904a40ddd2",
+        "news:f7a7a0560699369fc20355ce"
       ],
       "name": "Parker Washington",
       "nfl_team": "JAX",
@@ -6670,7 +6675,8 @@
         "news:a91be86b465333c628438998",
         "news:bc971d998e12bacee9b711c3",
         "news:d64f0b2ba86861be37aa3eb7",
-        "news:ed41013f24e0e81f981824fb"
+        "news:ed41013f24e0e81f981824fb",
+        "news:f7a7a0560699369fc20355ce"
       ],
       "related_event_ids": [
         "news:56e60535c16bafe9341dd6de",
@@ -7012,7 +7018,8 @@
     },
     "00-0038935": {
       "event_ids": [
-        "news:01fb3efbe2d716cbdfe959ac"
+        "news:01fb3efbe2d716cbdfe959ac",
+        "news:f7a7a0560699369fc20355ce"
       ],
       "name": "Brenton Strange",
       "nfl_team": "JAX",
@@ -7020,7 +7027,9 @@
       "primary_event_ids": [
         "news:01fb3efbe2d716cbdfe959ac"
       ],
-      "related_event_ids": []
+      "related_event_ids": [
+        "news:f7a7a0560699369fc20355ce"
+      ]
     },
     "00-0038951": {
       "event_ids": [
@@ -8848,6 +8857,7 @@
         "news:f1e0cc7737d5182f048e1998",
         "news:f388f79969ad54328f06b040",
         "news:f4771cf58343f850afc76afb",
+        "news:f7a7a0560699369fc20355ce",
         "news:f8e8e3976cdd0847a661fe4e",
         "news:fa487a7c46e9de65537ee304",
         "news:fb5d63b84a43c6a9e2110ab0",
@@ -9030,6 +9040,7 @@
         "news:f1e0cc7737d5182f048e1998",
         "news:f388f79969ad54328f06b040",
         "news:f4771cf58343f850afc76afb",
+        "news:f7a7a0560699369fc20355ce",
         "news:f8e8e3976cdd0847a661fe4e",
         "news:fa487a7c46e9de65537ee304",
         "news:fb5d63b84a43c6a9e2110ab0",
@@ -9262,7 +9273,8 @@
         "news:6700f949c79ad71512a82285",
         "news:67670716dd18eafea21589c3",
         "news:a0ec4ccbe8ef51b4a7e1201f",
-        "news:b91c05d65cd9e192b57fcd46"
+        "news:b91c05d65cd9e192b57fcd46",
+        "news:f7a7a0560699369fc20355ce"
       ],
       "name": "Brian Thomas Jr.",
       "nfl_team": "JAX",
@@ -9274,7 +9286,8 @@
       ],
       "related_event_ids": [
         "news:67670716dd18eafea21589c3",
-        "news:a0ec4ccbe8ef51b4a7e1201f"
+        "news:a0ec4ccbe8ef51b4a7e1201f",
+        "news:f7a7a0560699369fc20355ce"
       ]
     },
     "00-0039894": {
@@ -11068,14 +11081,16 @@
     },
     "00-0040718": {
       "event_ids": [
-        "news:a0ec4ccbe8ef51b4a7e1201f"
+        "news:a0ec4ccbe8ef51b4a7e1201f",
+        "news:f7a7a0560699369fc20355ce"
       ],
       "name": "Travis Hunter",
       "nfl_team": "JAX",
       "nflverse_id": "00-0040718",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:a0ec4ccbe8ef51b4a7e1201f"
+        "news:a0ec4ccbe8ef51b4a7e1201f",
+        "news:f7a7a0560699369fc20355ce"
       ]
     },
     "00-0040719": {
@@ -12068,6 +12083,7 @@
         "news:67670716dd18eafea21589c3",
         "news:a0ec4ccbe8ef51b4a7e1201f",
         "news:b888072c6bdf7d93f0e5384a",
+        "news:f7a7a0560699369fc20355ce",
         "news:fc458321a7384c01df69c2ad"
       ],
       "name": "Josh Cameron",
@@ -12081,6 +12097,7 @@
         "news:3219329299073c6b6d83c2c2",
         "news:a0ec4ccbe8ef51b4a7e1201f",
         "news:b888072c6bdf7d93f0e5384a",
+        "news:f7a7a0560699369fc20355ce",
         "news:fc458321a7384c01df69c2ad"
       ]
     },
