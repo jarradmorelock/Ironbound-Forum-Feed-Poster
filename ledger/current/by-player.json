@@ -1130,6 +1130,7 @@
         "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
+        "news:9cac0a331c5160bf028e48ee",
         "news:c0a239e118819ba647927f76",
         "news:d96a0f1e456c2d77344a5a96"
       ],
@@ -1138,7 +1139,8 @@
       "nflverse_id": "00-0033110",
       "primary_event_ids": [
         "news:7ef7384bcf22f435ad66a75f",
-        "news:8007eddfe81f7234844aa576"
+        "news:8007eddfe81f7234844aa576",
+        "news:9cac0a331c5160bf028e48ee"
       ],
       "related_event_ids": [
         "news:4fd9cf01a31cff8269afbc22",
@@ -3391,6 +3393,7 @@
         "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
+        "news:9cac0a331c5160bf028e48ee",
         "news:c0a239e118819ba647927f76"
       ],
       "name": "Colby Parkinson",
@@ -3405,6 +3408,7 @@
         "news:783727359ecbac555c2eeda9",
         "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576",
+        "news:9cac0a331c5160bf028e48ee",
         "news:c0a239e118819ba647927f76"
       ]
     },
@@ -7374,6 +7378,7 @@
       "event_ids": [
         "news:7ef7384bcf22f435ad66a75f",
         "news:968988a756c659036e1a5465",
+        "news:9cac0a331c5160bf028e48ee",
         "news:c0a239e118819ba647927f76"
       ],
       "name": "Davis Allen",
@@ -7383,6 +7388,7 @@
       "related_event_ids": [
         "news:7ef7384bcf22f435ad66a75f",
         "news:968988a756c659036e1a5465",
+        "news:9cac0a331c5160bf028e48ee",
         "news:c0a239e118819ba647927f76"
       ]
     },
@@ -10302,6 +10308,7 @@
         "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
+        "news:9cac0a331c5160bf028e48ee",
         "news:c0a239e118819ba647927f76"
       ],
       "name": "Connor Colby",
@@ -10315,6 +10322,7 @@
         "news:7ef7384bcf22f435ad66a75f",
         "news:8007eddfe81f7234844aa576",
         "news:968988a756c659036e1a5465",
+        "news:9cac0a331c5160bf028e48ee",
         "news:c0a239e118819ba647927f76"
       ]
     },
@@ -11323,6 +11331,7 @@
         "news:7ef7384bcf22f435ad66a75f",
         "news:83d1b4ed2d74077ededa50d1",
         "news:9554ed0a5414641b7e77d1d2",
+        "news:9cac0a331c5160bf028e48ee",
         "news:b888072c6bdf7d93f0e5384a",
         "news:d96a0f1e456c2d77344a5a96",
         "news:ebf502507b3637e684b095cb"
@@ -11341,7 +11350,8 @@
       ],
       "related_event_ids": [
         "news:7ef7384bcf22f435ad66a75f",
-        "news:83d1b4ed2d74077ededa50d1"
+        "news:83d1b4ed2d74077ededa50d1",
+        "news:9cac0a331c5160bf028e48ee"
       ]
     },
     "00-0040743": {
