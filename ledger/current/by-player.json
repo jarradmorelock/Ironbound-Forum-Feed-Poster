@@ -8182,6 +8182,7 @@
     },
     "00-0039398": {
       "event_ids": [
+        "news:174885c915348e1b45250470",
         "news:4fa7d058b345bd46d827deb6",
         "news:51adea6fc5a54078c4320956",
         "news:5e09d78c7212d0337938b59f",
@@ -8192,6 +8193,7 @@
       "nfl_team": "PHI",
       "nflverse_id": "00-0039398",
       "primary_event_ids": [
+        "news:174885c915348e1b45250470",
         "news:4fa7d058b345bd46d827deb6",
         "news:51adea6fc5a54078c4320956",
         "news:5e09d78c7212d0337938b59f",
