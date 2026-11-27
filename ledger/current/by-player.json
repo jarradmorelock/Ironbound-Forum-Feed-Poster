@@ -624,6 +624,7 @@
         "news:54c672d52b0ea565aa5ce8f3",
         "news:57271c233f7079bd228f10a0",
         "news:5ce6adeb848e382070bcc043",
+        "news:5e6823a4d3ce7b04748f67da",
         "news:666b08877f86aa3b2aa9cee6",
         "news:832e5dbeef7d0eb2e228f107",
         "news:88d2236120e657d740d949f4",
@@ -651,6 +652,7 @@
         "news:54c672d52b0ea565aa5ce8f3",
         "news:57271c233f7079bd228f10a0",
         "news:5ce6adeb848e382070bcc043",
+        "news:5e6823a4d3ce7b04748f67da",
         "news:666b08877f86aa3b2aa9cee6",
         "news:832e5dbeef7d0eb2e228f107",
         "news:88d2236120e657d740d949f4",
@@ -10133,14 +10135,16 @@
     },
     "00-0040172": {
       "event_ids": [
-        "news:514e56ea8fcae8b5d8ed18e9"
+        "news:514e56ea8fcae8b5d8ed18e9",
+        "news:5e6823a4d3ce7b04748f67da"
       ],
       "name": "Jordan Watkins",
       "nfl_team": "SF",
       "nflverse_id": "00-0040172",
       "primary_event_ids": [],
       "related_event_ids": [
-        "news:514e56ea8fcae8b5d8ed18e9"
+        "news:514e56ea8fcae8b5d8ed18e9",
+        "news:5e6823a4d3ce7b04748f67da"
       ]
     },
     "00-0040179": {
