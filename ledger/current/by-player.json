@@ -2780,6 +2780,7 @@
       "event_ids": [
         "news:45de181b62cc24b72408a05b",
         "news:52128213dbb39a944ce47ede",
+        "news:94caaf3b8e8c333715bd7afe",
         "news:f809c90b8f96700e2f8cffe8"
       ],
       "name": "Noah Fant",
@@ -2789,6 +2790,7 @@
       "related_event_ids": [
         "news:45de181b62cc24b72408a05b",
         "news:52128213dbb39a944ce47ede",
+        "news:94caaf3b8e8c333715bd7afe",
         "news:f809c90b8f96700e2f8cffe8"
       ]
     },
@@ -3178,6 +3180,7 @@
       "event_ids": [
         "news:45de181b62cc24b72408a05b",
         "news:52128213dbb39a944ce47ede",
+        "news:94caaf3b8e8c333715bd7afe",
         "news:94d4047113db8731c43588c0",
         "news:f809c90b8f96700e2f8cffe8"
       ],
@@ -3187,6 +3190,7 @@
       "primary_event_ids": [
         "news:45de181b62cc24b72408a05b",
         "news:52128213dbb39a944ce47ede",
+        "news:94caaf3b8e8c333715bd7afe",
         "news:94d4047113db8731c43588c0",
         "news:f809c90b8f96700e2f8cffe8"
       ],
@@ -11900,6 +11904,7 @@
       "event_ids": [
         "news:45de181b62cc24b72408a05b",
         "news:52128213dbb39a944ce47ede",
+        "news:94caaf3b8e8c333715bd7afe",
         "news:f809c90b8f96700e2f8cffe8"
       ],
       "name": "Oscar Delp",
@@ -11909,6 +11914,7 @@
       "related_event_ids": [
         "news:45de181b62cc24b72408a05b",
         "news:52128213dbb39a944ce47ede",
+        "news:94caaf3b8e8c333715bd7afe",
         "news:f809c90b8f96700e2f8cffe8"
       ]
     },
