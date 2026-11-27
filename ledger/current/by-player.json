@@ -4577,12 +4577,15 @@
     },
     "00-0036972": {
       "event_ids": [
-        "news:1afbd49a4c0e4b565d42f345"
+        "news:1afbd49a4c0e4b565d42f345",
+        "news:fd6a6f77994d994ff34e95bd"
       ],
       "name": "Mac Jones",
       "nfl_team": "SF",
       "nflverse_id": "00-0036972",
-      "primary_event_ids": [],
+      "primary_event_ids": [
+        "news:fd6a6f77994d994ff34e95bd"
+      ],
       "related_event_ids": [
         "news:1afbd49a4c0e4b565d42f345"
       ]
@@ -5593,7 +5596,8 @@
         "news:6f097fb9b047d582b629a0be",
         "news:b541792e311df20778d464b0",
         "news:c1c2742ee556a0c87579ec40",
-        "news:ee2900c04bc3e5753192fe29"
+        "news:ee2900c04bc3e5753192fe29",
+        "news:fd6a6f77994d994ff34e95bd"
       ],
       "name": "Brock Purdy",
       "nfl_team": "SF",
@@ -5609,7 +5613,8 @@
       ],
       "related_event_ids": [
         "news:295835421173cbeb80a5b1d4",
-        "news:ee2900c04bc3e5753192fe29"
+        "news:ee2900c04bc3e5753192fe29",
+        "news:fd6a6f77994d994ff34e95bd"
       ]
     },
     "00-0037838": {
