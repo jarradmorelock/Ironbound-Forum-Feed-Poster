@@ -4680,6 +4680,7 @@
     },
     "00-0036997": {
       "event_ids": [
+        "news:065fd9d57678824a3dca499e",
         "news:21c9791c3c641382710ad632",
         "news:4755ba865f3f37b4029823b7",
         "news:4ccc9a20600682ed42b8f48e",
@@ -4693,6 +4694,7 @@
       "nfl_team": "DAL",
       "nflverse_id": "00-0036997",
       "primary_event_ids": [
+        "news:065fd9d57678824a3dca499e",
         "news:21c9791c3c641382710ad632",
         "news:4755ba865f3f37b4029823b7",
         "news:4ccc9a20600682ed42b8f48e",
