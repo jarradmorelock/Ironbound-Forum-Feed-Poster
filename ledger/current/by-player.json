@@ -7670,6 +7670,7 @@
         "news:a2fa5e03bedd4193180f2463",
         "news:bd3e52586f63f7c9c73f7842",
         "news:da6f454fba23ed8ea5a169dd",
+        "news:e8f397286bf04cf60f8b9fdb",
         "news:ec75139fc434d962c2a915be",
         "news:f395071e7cb09c106972cb76",
         "news:fa487a7c46e9de65537ee304"
@@ -7694,6 +7695,7 @@
         "news:a2fa5e03bedd4193180f2463",
         "news:bd3e52586f63f7c9c73f7842",
         "news:da6f454fba23ed8ea5a169dd",
+        "news:e8f397286bf04cf60f8b9fdb",
         "news:ec75139fc434d962c2a915be",
         "news:f395071e7cb09c106972cb76",
         "news:fa487a7c46e9de65537ee304"
@@ -7978,6 +7980,7 @@
         "news:e64dcb5a5997838f7c452f8b",
         "news:e697eb7758d94acaec5c2b60",
         "news:e6cef634985ed6ea1477469e",
+        "news:e8f397286bf04cf60f8b9fdb",
         "news:ea51dbc83506a6560b64db48",
         "news:ec70a4001b4a0f57bcf3721d",
         "news:ecedde8756b5e29e431e3615",
@@ -8062,6 +8065,7 @@
         "news:e64dcb5a5997838f7c452f8b",
         "news:e697eb7758d94acaec5c2b60",
         "news:e6cef634985ed6ea1477469e",
+        "news:e8f397286bf04cf60f8b9fdb",
         "news:ea51dbc83506a6560b64db48",
         "news:ec70a4001b4a0f57bcf3721d",
         "news:ecedde8756b5e29e431e3615",
@@ -9792,6 +9796,7 @@
         "news:c07e2b1562a10dd9501d41b2",
         "news:ce99d32d910fd2d50a447306",
         "news:da6f454fba23ed8ea5a169dd",
+        "news:e8f397286bf04cf60f8b9fdb",
         "news:f0b2b8dfdeaa2ca57c4ceb4c",
         "news:f4771cf58343f850afc76afb"
       ],
@@ -9809,6 +9814,7 @@
         "news:c07e2b1562a10dd9501d41b2",
         "news:ce99d32d910fd2d50a447306",
         "news:da6f454fba23ed8ea5a169dd",
+        "news:e8f397286bf04cf60f8b9fdb",
         "news:f4771cf58343f850afc76afb"
       ],
       "related_event_ids": [
@@ -12807,7 +12813,8 @@
       "event_ids": [
         "news:206b4f9337a4e959df9f3783",
         "news:9c3ccaab151d5df3e227380f",
-        "news:da6f454fba23ed8ea5a169dd"
+        "news:da6f454fba23ed8ea5a169dd",
+        "news:e8f397286bf04cf60f8b9fdb"
       ],
       "name": "Sam Roush",
       "nfl_team": "CHI",
@@ -12816,7 +12823,8 @@
       "related_event_ids": [
         "news:206b4f9337a4e959df9f3783",
         "news:9c3ccaab151d5df3e227380f",
-        "news:da6f454fba23ed8ea5a169dd"
+        "news:da6f454fba23ed8ea5a169dd",
+        "news:e8f397286bf04cf60f8b9fdb"
       ]
     },
     "00-0041561": {
