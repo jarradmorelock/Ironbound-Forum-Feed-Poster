@@ -1045,6 +1045,18 @@
       ],
       "related_event_ids": []
     },
+    "00-0033055": {
+      "event_ids": [
+        "news:fab91f2dfb4475a6679ea081"
+      ],
+      "name": "Jalen Ramsey",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0033055",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fab91f2dfb4475a6679ea081"
+      ]
+    },
     "00-0033077": {
       "event_ids": [
         "news:08b9880627b7c16838eb0aee",
@@ -1626,6 +1638,18 @@
       "primary_event_ids": [],
       "related_event_ids": [
         "news:b46d6af38834a32f2177eb23"
+      ]
+    },
+    "00-0033886": {
+      "event_ids": [
+        "news:fab91f2dfb4475a6679ea081"
+      ],
+      "name": "T.J. Watt",
+      "nfl_team": "PIT",
+      "nflverse_id": "00-0033886",
+      "primary_event_ids": [],
+      "related_event_ids": [
+        "news:fab91f2dfb4475a6679ea081"
       ]
     },
     "00-0033891": {
@@ -8508,6 +8532,7 @@
         "news:cc56eb04d148e8d33c99fbfc",
         "news:ced7fa6f65d8368ec64a3ee0",
         "news:e163afad5ae2d9cf3654659a",
+        "news:fab91f2dfb4475a6679ea081",
         "news:fc501e4a7afb56f35f736d77",
         "news:fcf1f6a2d779b4d9d581d08d"
       ],
@@ -8522,6 +8547,7 @@
         "news:af16cbcf0b483f34f3c5512b",
         "news:b33528c008cc2068c19c266b",
         "news:bc9625d1d43c2f4181d82cfe",
+        "news:fab91f2dfb4475a6679ea081",
         "news:fcf1f6a2d779b4d9d581d08d"
       ],
       "related_event_ids": [
