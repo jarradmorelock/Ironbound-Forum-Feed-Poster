@@ -8915,6 +8915,7 @@
         "news:de6f4fe0abcaaeb0ae7845ad",
         "news:e0ddb88282fe0865e5d6121d",
         "news:e125a604048ebb63c1481fc8",
+        "news:e1400b84108ea415cddb62d7",
         "news:e14211cc79107fe2eca035da",
         "news:e17be22e451e6584c5be8b26",
         "news:e1ecdc72fed6c505d72218ed",
@@ -9103,6 +9104,7 @@
         "news:de6f4fe0abcaaeb0ae7845ad",
         "news:e0ddb88282fe0865e5d6121d",
         "news:e125a604048ebb63c1481fc8",
+        "news:e1400b84108ea415cddb62d7",
         "news:e14211cc79107fe2eca035da",
         "news:e17be22e451e6584c5be8b26",
         "news:e1ecdc72fed6c505d72218ed",
@@ -10909,7 +10911,8 @@
         "news:7d7dfbf1c3a7cdfffec4187a",
         "news:96d2cda019fc12fc69ab86dc",
         "news:bd3e52586f63f7c9c73f7842",
-        "news:c3a76898753d48a25d69bd8a"
+        "news:c3a76898753d48a25d69bd8a",
+        "news:e1400b84108ea415cddb62d7"
       ],
       "name": "Harold Fannin Jr.",
       "nfl_team": "CLE",
@@ -10925,7 +10928,8 @@
         "news:bd3e52586f63f7c9c73f7842"
       ],
       "related_event_ids": [
-        "news:c3a76898753d48a25d69bd8a"
+        "news:c3a76898753d48a25d69bd8a",
+        "news:e1400b84108ea415cddb62d7"
       ]
     },
     "00-0040666": {
@@ -11914,6 +11918,7 @@
         "news:cc1a72c6858421d72fc48a29",
         "news:cfd42cbb70424138fd682f80",
         "news:d47dbb2dfb6968575fcfe2d4",
+        "news:e1400b84108ea415cddb62d7",
         "news:e82b43c4e10664d3e8db17f1"
       ],
       "name": "Denzel Boston",
@@ -11929,6 +11934,7 @@
         "news:ac906b3db10dd19ef5153bcf",
         "news:cc1a72c6858421d72fc48a29",
         "news:d47dbb2dfb6968575fcfe2d4",
+        "news:e1400b84108ea415cddb62d7",
         "news:e82b43c4e10664d3e8db17f1"
       ],
       "related_event_ids": [
@@ -12872,7 +12878,8 @@
         "news:81bf622ddfc7d20d1a2e6b83",
         "news:81e13d1178ab63529864067a",
         "news:829602e575e3e63f68a16299",
-        "news:adff84919e2d6e7c12cf90a2"
+        "news:adff84919e2d6e7c12cf90a2",
+        "news:e1400b84108ea415cddb62d7"
       ],
       "name": "KC Concepcion",
       "nfl_team": "CLE",
@@ -12887,7 +12894,8 @@
         "news:adff84919e2d6e7c12cf90a2"
       ],
       "related_event_ids": [
-        "news:29baa24e1d8c95b15ec7a90f"
+        "news:29baa24e1d8c95b15ec7a90f",
+        "news:e1400b84108ea415cddb62d7"
       ]
     },
     "00-0041550": {
