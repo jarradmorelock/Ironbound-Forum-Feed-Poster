@@ -1984,7 +1984,8 @@
     "00-0034771": {
       "event_ids": [
         "news:0ad5a3e388eac21f678fc467",
-        "news:be665b76ad778ec696756d57"
+        "news:be665b76ad778ec696756d57",
+        "news:d407a832a099015b1ef20484"
       ],
       "name": "Mason Rudolph",
       "nfl_team": "PIT",
@@ -1993,7 +1994,8 @@
         "news:0ad5a3e388eac21f678fc467"
       ],
       "related_event_ids": [
-        "news:be665b76ad778ec696756d57"
+        "news:be665b76ad778ec696756d57",
+        "news:d407a832a099015b1ef20484"
       ]
     },
     "00-0034775": {
@@ -2784,6 +2786,7 @@
         "news:8dfc30b78c3f9a8f2f6b0c8f",
         "news:8f49e8eda63f0a8637906a2d",
         "news:963da63bf9f7916a20504017",
+        "news:d407a832a099015b1ef20484",
         "news:e528f25814b3c5542b10d122",
         "news:f253b42d803511443079c2d8",
         "news:f9dc89c7747704f8e7c7ae42"
@@ -2795,6 +2798,7 @@
         "news:8dfc30b78c3f9a8f2f6b0c8f",
         "news:8f49e8eda63f0a8637906a2d",
         "news:963da63bf9f7916a20504017",
+        "news:d407a832a099015b1ef20484",
         "news:f253b42d803511443079c2d8"
       ],
       "related_event_ids": [
