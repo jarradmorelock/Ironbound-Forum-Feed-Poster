@@ -2318,6 +2318,7 @@
         "news:8b120565d1e5487d4fc6546d",
         "news:e6e9ca2a81cdbce886ba9b1e",
         "news:ef17e1ec9fce93c1f18c81dd",
+        "news:f30dd3bb063aacfcb2f80841",
         "news:fc4b3703e352b13408a2fdee"
       ],
       "name": "Josh Allen",
@@ -2329,7 +2330,8 @@
         "news:5adbd93d7e0d7fa6ed2bab09",
         "news:8b120565d1e5487d4fc6546d",
         "news:e6e9ca2a81cdbce886ba9b1e",
-        "news:ef17e1ec9fce93c1f18c81dd"
+        "news:ef17e1ec9fce93c1f18c81dd",
+        "news:f30dd3bb063aacfcb2f80841"
       ],
       "related_event_ids": [
         "news:fc4b3703e352b13408a2fdee"
